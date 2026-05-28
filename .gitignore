@@ -1,76 +1,60 @@
-# --- DOSSIERS DE JEU  ---
-saves/
-logs/
-screenshots/
-resourcepacks/
-shaderpacks/
-simplebackups/
-crash-reports/
-journeymap/
-local/
-tmp/
-patchouli_data/
-fancymenu_data/last_world.fmdata
+# ====================================================================
+# ENTROPYZERO : REVOLUTION - GITIGNORE (Méthode Whitelist)
+# ====================================================================
 
-# --- FICHIERS SYSTÈME ET CACHE ---
-.mixin.out/
-downloads/
-usercache.json
-usernamecache.json
-minecraftinstance.json
-options.txt
-optionsof.txt
-servers.dat
-servers.dat_old
-
-# --- CONFIGS LOCALES ET LOGS ---
-*.log
-*.class
-*.pstats
-config/jei/world/
-
-# --- RÈGLES D'EXCLUSION ---
+# 1. ON BLOQUE TOUT PAR DÉFAUT
 /*
 
-# Ensuite on autorise les dossiers vitaux
+# ====================================================================
+# 2. AUTORISATIONS (Ce qui DOIT aller sur GitHub)
+# ====================================================================
 !config/
-!kubejs/
 !defaultconfigs/
+!kubejs/
 !mods/
 !global_packs/
 !patchouli_books/
 !scripts/
 !fancymenu_data/
+!profileimage/
 
-# On ré-ignore les fichiers inutiles 
-config/jei/world/**
+# Autoriser les fichiers de configuration à la racine
+!.gitignore
+!.gitattributes
+!README.md
+
+# ====================================================================
+# 3. FILTRES PRÉCIS (Ce qu'on bloque à l'intérieur des dossiers autorisés)
+# ====================================================================
+
+# --- Intérieur de 'config/' ---
+config/jei/
 config/InventoryHUD/curios.json
-config/InventoryHUD/curios.json
-config/jei/ingredient-list-mod-sort-order.ini
-config/jei/ingredient-list-type-sort-order.ini
-/config/jei
 config/packetfixer.properties
 config/powah.json5
-minecraftinstance.json
-MODLIST.md
 config/cucumber-tags.json
 config/apotheosis/names.cfg
-config/apotheosis/names.cfg
-.curseclient
-config/apotheosis/names.cfg
-config/cucumber-tags.json
-config/InventoryHUD/curios.json
-config/jei/ingredient-list-mod-sort-order.ini
-config/jei/ingredient-list-type-sort-order.ini
-config/jei/recipe-category-sort-order.ini
-config/packetfixer.properties
-config/powah.json5
-minecraftinstance.json
-MODLIST.md
-/config/jei
 config/ftbxmodcompat.snbt
 config/attributefix.json
-config/InventoryHUD/curios.json
-config/jei/ingredient-list-mod-sort-order.ini
-config/jei/ingredient-list-type-sort-order.ini
-config/powah.json5
+
+# --- Intérieur de 'fancymenu_data/' ---
+fancymenu_data/last_world.fmdata
+
+# --- Intérieur de 'kubejs/' ---
+kubejs/exported/
+kubejs/probe/
+
+# ====================================================================
+# 4. SÉCURITÉ EXTRA (Fichiers racine à bloquer absolument s'ils réapparaissent)
+# ====================================================================
+*.log
+*.class
+*.pstats
+.mixin.out/
+.curseclient
+command_history.txt
+observable_announce
+patchouli_data.json
+welcomescreen_cache.json
+minecraftinstance.json
+MODLIST.md
