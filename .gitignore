@@ -1,30 +1,76 @@
-# --- Dossiers générés et temporaires (À NE JAMAIS UPLOADER) ---
-.minecraft/
+# --- DOSSIERS DE JEU  ---
 saves/
 logs/
+screenshots/
+resourcepacks/
+shaderpacks/
+simplebackups/
 crash-reports/
-usernamecache.json
+journeymap/
+local/
+tmp/
+patchouli_data/
+fancymenu_data/last_world.fmdata
+
+# --- FICHIERS SYSTÈME ET CACHE ---
+.mixin.out/
+downloads/
 usercache.json
+usernamecache.json
+minecraftinstance.json
 options.txt
 optionsof.txt
-hotbar.nbt
 servers.dat
 servers.dat_old
-local/
-webcache/
-storage/
 
-# --- Dossiers spécifiques aux launchers ---
-.curseforge/
-.modrinth/
-prismlauncher/
-instances/
+# --- CONFIGS LOCALES ET LOGS ---
+*.log
+*.class
+*.pstats
+config/jei/world/
 
-# --- Fichiers de builds / KubeJS temporaires ---
-kubejs/exported/
-kubejs/probe/
+# --- RÈGLES D'EXCLUSION ---
+/*
 
-# --- Système d'exploitation ---
-.DS_Store
-Thumbs.db
-Nouveau Document texte.txt
+# Ensuite on autorise les dossiers vitaux
+!config/
+!kubejs/
+!defaultconfigs/
+!mods/
+!global_packs/
+!patchouli_books/
+!scripts/
+!fancymenu_data/
+
+# On ré-ignore les fichiers inutiles 
+config/jei/world/**
+config/InventoryHUD/curios.json
+config/InventoryHUD/curios.json
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+/config/jei
+config/packetfixer.properties
+config/powah.json5
+minecraftinstance.json
+MODLIST.md
+config/cucumber-tags.json
+config/apotheosis/names.cfg
+config/apotheosis/names.cfg
+.curseclient
+config/apotheosis/names.cfg
+config/cucumber-tags.json
+config/InventoryHUD/curios.json
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+config/jei/recipe-category-sort-order.ini
+config/packetfixer.properties
+config/powah.json5
+minecraftinstance.json
+MODLIST.md
+/config/jei
+config/ftbxmodcompat.snbt
+config/attributefix.json
+config/InventoryHUD/curios.json
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+config/powah.json5
