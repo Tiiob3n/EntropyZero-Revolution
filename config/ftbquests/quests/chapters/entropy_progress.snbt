@@ -1,0 +1,283 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "entropy_progress"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "kubejs:item/entropy_crystal"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "13047A623F470E1E"
+	images: [{
+		height: 10.0d
+		image: "kubejs:item/entropy_progress"
+		rotation: 0.0d
+		width: 15.0d
+		x: 7.5d
+		y: 2.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "evilcraft:item/blood_pearl_of_teleportation"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4A245CC3606696D2"
+			tasks: [{
+				id: "488D20E40666B0D2"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "pneumaticcraft:item/programming_puzzle"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D1DE5E790DB1C36"
+			tasks: [{
+				id: "6A211B463485B2A4"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "evolvedmekanism:item/quantum_control_circuit"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "65D28D3E9BD965B6"
+			tasks: [{
+				id: "6658A6FA5452D58E"
+				type: "checkmark"
+			}]
+			x: 13.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mysticalagriculture:item/mystical_flower_agglomeratio"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0177387B2510AF95"
+			tasks: [{
+				id: "1456B966EE2CF99B"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "bigreactors:energizerchargingport_fe"
+			}
+			id: "29A4BC51360E6E35"
+			tasks: [{
+				id: "5BBFF65E10341135"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "powah:item/wrench"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1672966B9BD32DEE"
+			tasks: [{
+				id: "52AB6CE54DF2D18A"
+				type: "checkmark"
+			}]
+			x: 11.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ars_nouveau:item/present"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "426A36AD01549D14"
+			tasks: [{
+				id: "47B3ECF9B2E6992E"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "easy_mob_farm:item/card_binder"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "201E512DB6184FFB"
+			tasks: [{
+				id: "5666B0086604464C"
+				type: "checkmark"
+			}]
+			x: 12.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "create:item/precision_mechanism"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3BEB403280D865BB"
+			tasks: [{
+				id: "76DD28F08289646D"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mob_grinding_utils:block/dragon_muffler_boss_bar"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6124B6A226FCE151"
+			tasks: [{
+				id: "5A82606C80E02DE2"
+				type: "checkmark"
+			}]
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "industrialforegoing:item/fortune_addon"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "625818E4F85C71D0"
+			tasks: [{
+				id: "47A554249E4850F1"
+				type: "checkmark"
+			}]
+			x: 9.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "industrialupgrade:textures/mob_effect/radiation.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7AACC33CC2911695"
+			tasks: [{
+				id: "76D6BCF9B8497A48"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "draconicevolution:block/dislocator_receptacle_active"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "11D8F2E8ACF1DC50"
+			tasks: [{
+				id: "4131A04D03CA86BB"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "advanced_ae:item/adv_pattern_provider_capacity_upgrade"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "340B16D6705742CA"
+			tasks: [{
+				id: "1BEA1DC931E551EB"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "avaritia:item/singularity/singularity_layer_0"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "10249309544D880B"
+			tasks: [{
+				id: "499A508D061845FF"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"340B16D6705742CA"
+				"65D28D3E9BD965B6"
+				"1672966B9BD32DEE"
+				"426A36AD01549D14"
+				"0177387B2510AF95"
+				"10249309544D880B"
+				"6124B6A226FCE151"
+				"29A4BC51360E6E35"
+				"625818E4F85C71D0"
+				"201E512DB6184FFB"
+				"11D8F2E8ACF1DC50"
+				"4A245CC3606696D2"
+				"7AACC33CC2911695"
+				"2D1DE5E790DB1C36"
+				"3BEB403280D865BB"
+			]
+			icon: {
+				id: "kubejs:entropy_crystal"
+			}
+			id: "194228888D6CC088"
+			rewards: [{
+				id: "591A81337001C623"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "066D542DA4E73FCD"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+	]
+}

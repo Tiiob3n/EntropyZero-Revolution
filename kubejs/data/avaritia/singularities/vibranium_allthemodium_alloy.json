@@ -1,0 +1,13 @@
+{
+	"id": "vibranium_allthemodium_alloy",
+	"color": [
+		-3372801,
+		-7846742
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

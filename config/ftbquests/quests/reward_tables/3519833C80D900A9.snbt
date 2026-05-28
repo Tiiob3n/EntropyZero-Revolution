@@ -1,0 +1,42 @@
+{
+	id: "3519833C80D900A9"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "silent_gear"
+	}
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{ id: "130A70249631AFAC", item: { count: 1, id: "minecraft:polished_blackstone" } }
+		{ id: "31357672D505D3E5", item: { count: 1, id: "minecraft:blackstone" } }
+		{ id: "5D7902B276392550", item: { count: 1, id: "minecraft:iron_block" } }
+		{ id: "56E340D772E76682", item: { count: 1, id: "silentgear:crimson_steel_ingot" } }
+		{ id: "03FF7D083D871EEA", item: { count: 1, id: "silentgear:azure_electrum_ingot" } }
+		{ id: "6A75F59921E13135", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "230E7C5318037C7B", item: { count: 1, id: "minecraft:diamond" } }
+		{ id: "1B6761D69D757E17", item: { count: 1, id: "minecraft:purpur_block" } }
+		{ id: "3B9A979D318F8807", item: { count: 1, id: "minecraft:gold_block" } }
+		{ id: "40942529D94AAC69", item: { count: 1, id: "minecraft:oak_planks" } }
+		{ id: "0E7A17B60AE4872E", item: { count: 1, id: "silentgear:bort" } }
+		{ id: "27FE2C8D82CF9AB1", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "58A3D04DD81D5901", item: { count: 1, id: "minecraft:quartz" } }
+		{ id: "18DD6C6ABEAFF45F", item: { count: 1, id: "silentgear:tyrian_steel_ingot" } }
+		{ id: "2887403F11A44CC0", item: { count: 1, id: "silentgear:blaze_gold_ingot" } }
+		{ id: "2D4EB450B9B0F250", item: { count: 1, id: "silentgear:blaze_gold_block" } }
+		{ id: "68D06E3621036BB4", item: { count: 1, id: "minecraft:obsidian" } }
+		{ id: "769109E0E96CA6D7", item: { count: 1, id: "alltheores:iron_rod" } }
+		{ id: "118594669D70F3C5", item: { count: 1, id: "minecraft:piston" } }
+		{ id: "6011F5F9E9F1C025", item: { count: 1, id: "silentgear:diamond_shard" } }
+		{ id: "3E335E5BDE41FDDC", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "3E2A6F7E60AD5D45", item: { count: 1, id: "minecraft:blue_dye" } }
+		{ id: "0B02B32A909BFFC4", item: { count: 1, id: "silentgear:upgrade_base" } }
+		{ id: "2892FB99FD18C8E7", item: { count: 1, id: "minecraft:diamond_shovel" } }
+		{ id: "1E0A357668C800D7", item: { count: 1, id: "minecraft:breeze_rod" } }
+		{ id: "51FD3021C90EA145", item: { count: 1, id: "silentgear:crimson_iron_block" } }
+	]
+}

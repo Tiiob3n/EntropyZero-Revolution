@@ -1,0 +1,26 @@
+{
+  "name": "Allthemodium",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "tag": "c:storage_blocks/allthemodium"
+  },
+  "colors": {
+    "flower": "c9c910",
+    "essence": "fcfc3d",
+    "seeds": "8f8f0a"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:obsidian",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

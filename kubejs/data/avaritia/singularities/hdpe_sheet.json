@@ -1,0 +1,13 @@
+{
+	"id": "hdpe_sheet",
+	"color": [
+		-3355444,
+		-7829368
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

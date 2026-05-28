@@ -1,0 +1,13 @@
+{
+	"id": "azure_silver",
+	"color": [
+		-7811841,
+		-12285782
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

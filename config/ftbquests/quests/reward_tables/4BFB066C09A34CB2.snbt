@@ -1,0 +1,30 @@
+{
+	id: "4BFB066C09A34CB2"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_1"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "3E06A58B9050AF63", item: { count: 1, id: "minecraft:coal_ore" } }
+		{ id: "7F7EEC54B4F2DC71", item: { count: 1, id: "minecraft:iron_ore" } }
+		{ id: "0C158AAC788AE62C", item: { count: 1, id: "minecraft:copper_ore" } }
+		{ id: "53E8F61494A83DE0", item: { count: 1, id: "minecraft:gold_ore" } }
+		{ id: "0478C95813E3B651", item: { count: 1, id: "minecraft:redstone_ore" } }
+		{ id: "1494F3023EFB6D2F", item: { count: 1, id: "minecraft:emerald_ore" } }
+		{ id: "0DB4FD40465FDBB4", item: { count: 1, id: "minecraft:diamond_ore" } }
+		{ id: "2620F46937EE1BA5", item: { count: 1, id: "minecraft:nether_quartz_ore" } }
+		{ id: "247B124059FBA9DA", item: { count: 1, id: "minecraft:obsidian" } }
+		{
+			id: "25D5DBD01D1D843B"
+			type: "xp"
+			xp: 100
+		}
+	]
+}

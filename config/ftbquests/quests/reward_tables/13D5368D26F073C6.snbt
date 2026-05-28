@@ -1,0 +1,29 @@
+{
+	icon: {
+		id: "minecraft:chest"
+	}
+	id: "13D5368D26F073C6"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "basic_food_crate"
+	}
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "066DCE591BE7BA8D", item: { count: 1, id: "minecraft:cooked_porkchop" } }
+		{ id: "45352743E957CC8E", item: { count: 1, id: "minecraft:cooked_mutton" } }
+		{ id: "6A6FAAD7C9C092F8", item: { count: 1, id: "minecraft:cooked_chicken" } }
+		{ id: "3E66E91564C05AD8", item: { count: 1, id: "minecraft:cooked_rabbit" } }
+		{ id: "1BF90FE7E2756E54", item: { count: 1, id: "minecraft:cooked_cod" } }
+		{ id: "31A6C2C8EBB24764", item: { count: 1, id: "minecraft:cooked_salmon" } }
+		{ id: "5FE043AA3B1949A8", item: { count: 1, id: "minecraft:baked_potato" } }
+		{ id: "01F5DDAC3175EDB0", item: { count: 1, id: "minecraft:beetroot_soup" } }
+		{ id: "41E4F0386F128DB5", item: { count: 1, id: "minecraft:pumpkin_pie" } }
+		{ id: "78F7BBDA3D840B82", item: { count: 1, id: "minecraft:cookie" } }
+	]
+}

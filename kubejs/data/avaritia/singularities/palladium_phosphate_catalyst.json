@@ -1,0 +1,13 @@
+{
+	"id": "palladium_phosphate_catalyst",
+	"color": [
+		-21948,
+		-5609950
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

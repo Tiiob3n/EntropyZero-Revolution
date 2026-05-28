@@ -1,0 +1,13 @@
+{
+	"id": "vibranium",
+	"color": [
+		-6749953,
+		-11206503
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

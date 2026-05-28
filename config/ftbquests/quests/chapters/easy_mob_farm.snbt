@@ -1,0 +1,1586 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "easy_mob_farm"
+	group: "0D0A62CE78C6B572"
+	icon: {
+		components: {
+			"easy_mob_farm:mob_farm_data": {
+				tierLevel: "tier_0"
+			}
+		}
+		id: "easy_mob_farm:animal_plains_farm"
+	}
+	id: "17106284BC1C6E72"
+	images: [{
+		height: 14.0d
+		image: "jei:textures/jei/atlas/gui/output_slot.png"
+		rotation: 0.0d
+		width: 21.0d
+		x: 4.0d
+		y: 4.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5FFF91F0526CB592"
+			rewards: [
+				{
+					id: "31F7B7A197C4DA62"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67B9C425C2FCEAB6"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "18C9E88C8A1A4647"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "77813F596E71D0E5"
+			rewards: [
+				{
+					id: "4A727D82EA8C3FB9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CB6B9CB3D801E9A"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "428F6EFD7710783B"
+				item: { count: 1, id: "easy_mob_farm:tier0_mob_farm_template" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "7A406A47A1C6C60C"
+			rewards: [
+				{
+					id: "3F060F2B9A87DB06"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "162C8397DF4035A1"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43F059ED69861FE5"
+				item: { count: 1, id: "easy_mob_farm:tier1_mob_farm_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "22D3E1B089E3DBD1"
+			rewards: [
+				{
+					id: "7662CA22417DC323"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35FEB15320AFF768"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "277F547BE6234D44"
+				item: { count: 1, id: "easy_mob_farm:tier2_mob_farm_template" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "0606070358BA6200"
+			rewards: [
+				{
+					id: "147FDB26BE9A77C0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7201E38D7C52B6CE"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2205C748E6374F16"
+				item: { count: 1, id: "easy_mob_farm:tier3_mob_farm_template" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "032C34E68FC79771"
+			rewards: [
+				{
+					id: "0D6EA8123322997F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F391AD371C97636"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2C356E831452BC4F"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:animal_plains_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "640A010D543542C8"
+			rewards: [
+				{
+					id: "716A4004807D227A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CB995F570927595"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "62018B2736B58526"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:animal_plains_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "33C4A23CF820E490"
+			rewards: [
+				{
+					id: "6F52508949D4BCD9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39EAED96E5457FFD"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "20CA053E7ECA1208"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:animal_plains_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "5085FB12A0FD1A4A"
+			rewards: [
+				{
+					id: "0BB8BE107083AFCC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2008061761946AB4"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "128CBA380E579107"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:animal_plains_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "0197DDEED08A16C7"
+			rewards: [
+				{
+					id: "264484D1F022D2D5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71EC5E197554D9F1"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3397970E1B16AD12"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:bee_hive_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "032F65C73EA7DD9B"
+			rewards: [
+				{
+					id: "542ED58D03ADD26E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E11C57F77EBBF9B"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1AA592BE8A23F724"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:bee_hive_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "33D731D151F74474"
+			rewards: [
+				{
+					id: "134C8AACB4F93109"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "77AD9FF71937C6C9"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7AC103BEBD5EA2FF"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:bee_hive_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "1150594117199E74"
+			rewards: [
+				{
+					id: "126641499548C6C8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7108F348C483D47C"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2D357491DA43CD08"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:bee_hive_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "563565399B7A760A"
+			rewards: [
+				{
+					id: "751604CAAFA8C596"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73779E7B8FCE603A"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4421BD5C62A79489"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:desert_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "40C38A0E65A1987C"
+			rewards: [
+				{
+					id: "374B8A24CAAA01A8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F2708A2B82A270D"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0C377E3E9EF9F995"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:desert_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "54196E6A1B7D5460"
+			rewards: [
+				{
+					id: "7B2ADB65D0760CAC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "360285ED099E3B46"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5FD5D6AFC3347A79"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:desert_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "483DB9C35863E404"
+			rewards: [
+				{
+					id: "610968D1D87505D6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0AA83DBB04E2E265"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3E68B5A89C864CD6"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:desert_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "66DDBA3CDE28ED03"
+			rewards: [
+				{
+					id: "441B4E00B14E0115"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7248BFCBEF838EFE"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "74B12140FE63E4DF"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:iron_golem_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "5A3CC22201BB1AFE"
+			rewards: [
+				{
+					id: "01756805CEA35F64"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4515574F6C87B847"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "650DFFE0AA0E3719"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:iron_golem_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "423E1ED4CC0F953A"
+			rewards: [
+				{
+					id: "0F483CB60C3F8C3A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "183C5D30010EB7A6"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6CD8AC49AB28AFE1"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:iron_golem_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "37ECBEFC316580B7"
+			rewards: [
+				{
+					id: "585FB1067C8F626B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "434F114D733238E2"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7D2B4C6FF586DE45"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:iron_golem_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "1FC0F7886D40185F"
+			rewards: [
+				{
+					id: "04B9421572174CD0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04C5CF9CF37D03D2"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "639C194D9776BAA4"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:jungle_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "41A5801C7CF573D1"
+			rewards: [
+				{
+					id: "0F4846E94540D560"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "335F32E3ADC89DDF"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1442A0E6FDCBD095"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:jungle_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "6EB49A1024809AA7"
+			rewards: [
+				{
+					id: "4F6650E93B39BEC0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "313060124A97B6FE"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5C12517D41F6F49E"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:jungle_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "43E9CB52AC1637E6"
+			rewards: [
+				{
+					id: "7FEB2ED1C961AB68"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D8009ACB441B205"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "377BF78A06EAF182"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:jungle_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "0D5D5DAB5A40A70F"
+			rewards: [
+				{
+					id: "7F54ABE0C66FA3E9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3407E45264D14AD3"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "03763EDDF947F59E"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:lucky_drop_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "236EC57E5D711AEF"
+			rewards: [
+				{
+					id: "2E3C407B855ADF22"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D3B5FAA21068F8F"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "793618DBE9F650DB"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:lucky_drop_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "1A8D7B03F40A418D"
+			rewards: [
+				{
+					id: "7C99E098B3FFE065"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BC7FB8F102E58C3"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7C837310E721B5E8"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:lucky_drop_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "256A1941FF32FBC1"
+			rewards: [
+				{
+					id: "7BCE37D2F7654795"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2CAE11944E793EB6"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "20B95BBCBA7DA8C6"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:lucky_drop_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "623046287F1CEE44"
+			rewards: [
+				{
+					id: "41AE5A8C57FD12F4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1893C122A9FA9349"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3471BAF757BDF8A6"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:monster_plains_cave_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "74526D12B3AC9A97"
+			rewards: [
+				{
+					id: "66F4403DDECD48C9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24519F6104B9FD01"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "47A3C00760AC0EB4"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:monster_plains_cave_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "4EEB8144F17D9855"
+			rewards: [
+				{
+					id: "0007B6869DC6A8B6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25A72B076F558D30"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "623A9492D86916E3"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:monster_plains_cave_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "07F7C3138AFB3975"
+			rewards: [
+				{
+					id: "3D866BB54BFE92D6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E14052EA03A3E32"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "48FE9211106390E2"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:monster_plains_cave_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "4A9EE0BEE5F67CAC"
+			rewards: [
+				{
+					id: "30B69D3D6C34BE24"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "207C1181FB594E86"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6CD64ADC2B676C1D"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:nether_fortress_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "7B3243D18A0EC3B8"
+			rewards: [
+				{
+					id: "5F47816DB48F49D3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "384A1647F623C379"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5AEB01D1F1E0FC26"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:nether_fortress_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "379130AD75C5DA9E"
+			rewards: [
+				{
+					id: "124DF0ED3BCCD085"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A196880BB95A103"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2575AB32AC756094"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:nether_fortress_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "4A2721E3C478BB6D"
+			rewards: [
+				{
+					id: "6203CF9A781974E7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C7C98ED670F4134"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7739942C822FFFF2"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:nether_fortress_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "6615A26540C89CC4"
+			rewards: [
+				{
+					id: "0D7516BC6FA0581A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3C38ED30C3D10E23"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "696F1C4597AC5804"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:ocean_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "781211A113EE5D41"
+			rewards: [
+				{
+					id: "4423E8293B16C9F6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "788A116BD1B443BA"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2D974527A850F137"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:ocean_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "69D05E73049D08D6"
+			rewards: [
+				{
+					id: "1541FA613B81D20D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14C18EF7C4EB8490"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3A4157D8DBF1BBFF"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:ocean_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "297B467DAFBA2CC9"
+			rewards: [
+				{
+					id: "5FB0684E501B3578"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6FE379955EB0190F"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3689EC88C6CBF731"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:ocean_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["77813F596E71D0E5"]
+			id: "0A6C85FA35FCEBC7"
+			rewards: [
+				{
+					id: "5850E422544543E7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4756C6C0ECC9CB45"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "02AE7B46D082D947"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_0" } }, count: 1, id: "easy_mob_farm:swamp_farm" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["22D3E1B089E3DBD1"]
+			id: "13C5BA8A6A8D6608"
+			rewards: [
+				{
+					id: "47162E6337331DD1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4385B8861CB9E4E1"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "70CD32B355D35D45"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_2" }, "minecraft:custom_model_data": 2 }, count: 1, id: "easy_mob_farm:swamp_farm" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7A406A47A1C6C60C"]
+			id: "4725F5EF42E86123"
+			rewards: [
+				{
+					id: "35EB8E2493C0EC3E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2ABA7265643AD4EC"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "09B4F5CB971F9D3A"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_1" }, "minecraft:custom_model_data": 1 }, count: 1, id: "easy_mob_farm:swamp_farm" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0606070358BA6200"]
+			id: "126EE5EFA77E1EED"
+			rewards: [
+				{
+					id: "3A1569959D38522F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49FB91F2158B188D"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "054516E8FF98D4EB"
+				item: { components: { "easy_mob_farm:mob_farm_data": { tierLevel: "tier_3" }, "minecraft:custom_model_data": 3 }, count: 1, id: "easy_mob_farm:swamp_farm" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "710FF0DB0AE67AE0"
+			rewards: [
+				{
+					id: "4C5732B506095683"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "167F8AC37BB5A1B6"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "375A49433275EA08"
+				item: { count: 1, id: "easy_mob_farm:big_slot_upgrade" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "03421985E2E7E730"
+			rewards: [
+				{
+					id: "2AFC2E2572EC96DA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "241CFF6B08BBC40F"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2C28936E61D88854"
+				item: { count: 1, id: "easy_mob_farm:egg_collector_enhancement" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "75B11F4086659F90"
+			rewards: [
+				{
+					id: "35E173162612C9C2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0B3F4A2BE19E194A"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2E8944961B09A79A"
+				item: { count: 1, id: "easy_mob_farm:experience_enhancement" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "41E10D01E82E4026"
+			rewards: [
+				{
+					id: "0C76EE77A5C98BE1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A63163E39257070"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "44C106FFAEA83522"
+				item: { count: 1, id: "easy_mob_farm:honey_extractor_enhancement" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "1731171F9E9AE71C"
+			rewards: [
+				{
+					id: "336FAE0F3E8AD5DC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2201942C04F382AC"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "09629F6F8D493A57"
+				item: { count: 1, id: "easy_mob_farm:honey_harvester_frame_enhancement" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0F60B334DA626296"
+			rewards: [
+				{
+					id: "7940DCC82C49FFFB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4693F915A254AB1C"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "72C607FF20D2024D"
+				item: { count: 1, id: "easy_mob_farm:loot_enhancement" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "382C4259A9BC94D4"
+			rewards: [
+				{
+					id: "3472D7889EA9CA10"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "205BEC220613D816"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "413562B50AC0FA09"
+				item: { count: 1, id: "easy_mob_farm:luck_enhancement" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "7051712004FD1B38"
+			rewards: [
+				{
+					id: "0FE11C3EF3C485B2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7800770528AE5255"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5B5768262A973690"
+				item: { count: 1, id: "easy_mob_farm:milk_extractor_enhancement" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "254597ECCD7DA92E"
+			rewards: [
+				{
+					id: "4E7D351E4E3988B3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "388287FC1AA63DF4"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "59E453930C43C3CA"
+				item: { count: 1, id: "easy_mob_farm:no_flowers_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0D534B2C81E6213F"
+			rewards: [
+				{
+					id: "13B23C9C0E0C5610"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5FFC8B5DF32C49BF"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0854B7EC3DA36EA4"
+				item: { count: 1, id: "easy_mob_farm:no_meat_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "2E57EDD0EE5B6AE1"
+			rewards: [
+				{
+					id: "492F8D6FA8304B16"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "548256578393D0B5"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7B716FBFD0ECF5AC"
+				item: { count: 1, id: "easy_mob_farm:pollen_trap_enhancement" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0B5A9B3F63474184"
+			rewards: [
+				{
+					id: "005FECF42F68A027"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4271E49C63ACB015"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "711CF5F9DD735D33"
+				item: { count: 1, id: "easy_mob_farm:sheep_enhancement" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "726891F0EFD531F6"
+			rewards: [
+				{
+					id: "5782BE6A75A27F1B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0E7C7C97D62A2935"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2A2B762F4761DC7C"
+				item: { count: 1, id: "easy_mob_farm:small_slot_upgrade" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "58705147D577AEDC"
+			rewards: [
+				{
+					id: "3736F8B93CA80D21"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "57FCF4283404AF5C"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4553811A6BC973A7"
+				item: { count: 1, id: "easy_mob_farm:speed_enhancement" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0EF36297A2F86F3D"
+			rewards: [
+				{
+					id: "1FCFCF3BBBB1B19B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A230FDE463C3EBA"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0921853E74F808A4"
+				item: { count: 1, id: "easy_mob_farm:sword_enhancement" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0BC9103DF297574D"
+			rewards: [
+				{
+					id: "2AB8B2192B9510C5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "54EAEFD37503BDFF"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "08E8939A555324EC"
+				item: { count: 1, id: "easy_mob_farm:void_binding_chain" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "20A93164CC922E51"
+			rewards: [
+				{
+					id: "026363904C62FE0D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "555DEF139E0DF69B"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5E9E2CEC441FDDB3"
+				item: { count: 1, id: "easy_mob_farm:milk_bottle" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "79170BC25EFFA6B9"
+			rewards: [
+				{
+					id: "2A0A68DE27535CEF"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39A7DA8C70DC52B4"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4F568DECEE335662"
+				item: { count: 1, id: "easy_mob_farm:mystic_binding_crystal" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "0EA890345545F215"
+			rewards: [
+				{
+					id: "74FBA15CC9788243"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3ED8A471615A3890"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "65439DA5ACEA031C"
+				item: { count: 1, id: "easy_mob_farm:ironbound_containment_cage" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5FFF91F0526CB592"]
+			id: "1E32C36F60D488E0"
+			rewards: [
+				{
+					id: "70FF06B25315D167"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "46001BD1F09A7F74"
+					table_id: 1387397269313555596L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4C91A45E33FCE4BE"
+				item: { count: 1, id: "easy_mob_farm:enduring_capture_net" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+	]
+}

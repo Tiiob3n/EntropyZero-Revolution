@@ -1,0 +1,38 @@
+{
+	id: "055C30C3DA6DD62A"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_15"
+	}
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{ id: "57E7CE646B508D4E", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:aqua_affinity": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1E8FC9B9E022DAFC", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:blast_protection": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "468555052F6CE4CD", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:blast_protection": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6E3B3FE9D5714FEE", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:blast_protection": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "255E03E1E3F3AC18", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:depth_strider": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "082FD068707A6F3E", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:depth_strider": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "731E062D65779D96", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:depth_strider": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "3724539DBD85564D", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:feather_falling": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "7DF213B762B7E8DE", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:feather_falling": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "01DA4048FAC77074", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:feather_falling": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "12D065EFF15F547C", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fire_protection": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "670A2B4BD0353EEB", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fire_protection": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "30ED6CA196C5C754", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fire_protection": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "14871D5F7A59C4DC", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:frost_walker": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "11449D43910DCDB8", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:frost_walker": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6AD2C04183E3AA88", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:respiration": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4100F01FA56E4B15", item: { components: { "minecraft:stored_enchantments": { levels: { "apothic_enchanting:stable_footing": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6700595674DE3BB2", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:projectile_protection": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "388E7FA0E1632CA7", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:projectile_protection": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "4DFF9CE07FC9B730", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:projectile_protection": 3 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "3CF859500DF73F50", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:unbreaking": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1A26A6B3A2F1D662", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:unbreaking": 2 } } }, count: 1, id: "minecraft:enchanted_book" } }
+	]
+}

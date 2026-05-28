@@ -1,0 +1,31 @@
+{
+	id: "68D42BC15F669C8E"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ars"
+	}
+	loot_size: 1
+	order_index: 30
+	rewards: [
+		{ id: "389188CFC4AAB450", item: { count: 1, id: "ars_nouveau:magebloom_fiber" } }
+		{ id: "098A995A0F4D2D76", item: { count: 1, id: "ars_nouveau:source_gem" } }
+		{ id: "5FEF2BFF429A1AC1", item: { count: 1, id: "ars_nouveau:abjuration_essence" } }
+		{ id: "55D52A3D09AC7FBB", item: { count: 1, id: "ars_nouveau:conjuration_essence" } }
+		{ id: "1C3F09B277A664F8", item: { count: 1, id: "ars_nouveau:air_essence" } }
+		{ id: "7D902CDC4C27FB2D", item: { count: 1, id: "ars_nouveau:earth_essence" } }
+		{ id: "2B8B33FF394378CA", item: { count: 1, id: "ars_nouveau:fire_essence" } }
+		{ id: "47C5D7919A51794C", item: { count: 1, id: "ars_nouveau:manipulation_essence" } }
+		{ id: "5C8603D55F59F846", item: { count: 1, id: "ars_nouveau:water_essence" } }
+		{ id: "18FBA6AE476CD204", item: { count: 1, id: "ars_nouveau:red_archwood_sapling" } }
+		{ id: "63219C6D767EE8E0", item: { count: 1, id: "ars_nouveau:purple_archwood_sapling" } }
+		{ id: "7CED787C0771FD22", item: { count: 1, id: "ars_nouveau:green_archwood_sapling" } }
+		{ id: "77FA0838CFF785ED", item: { count: 1, id: "ars_nouveau:blue_archwood_sapling" } }
+		{ id: "6F4B02066921B50C", item: { count: 1, id: "minecraft:paper" } }
+		{ id: "3D79020202F5D182", item: { count: 1, id: "minecraft:lapis_lazuli" } }
+	]
+}

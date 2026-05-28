@@ -1,0 +1,13 @@
+{
+	"id": "alloy_atomic",
+	"color": [
+		-16711800,
+		-16733611
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

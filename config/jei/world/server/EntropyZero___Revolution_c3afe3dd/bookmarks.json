@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"industrialupgrade:crafting_elements/crafting_137_element"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialupgrade:crafting_elements/crafting_501_element"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialupgrade:crafting_elements/crafting_504_element"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialupgrade:crafting_elements/crafting_503_element"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"industrialupgrade:crop/crop"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

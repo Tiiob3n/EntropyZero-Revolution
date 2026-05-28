@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:crop",
+  "seed": { "item": "mysticalcustomization:manganese_seeds" },
+  "display": { "block": "mysticalagriculture:tertium_crop" },
+  "growthTicks": 900,
+  "categories": [ "botanypotsmystical:soil/tertium" ],
+  "drops": [
+    { "chance": 1.0, "minRolls": 1, "maxRolls": 1, "item": { "item": "industrialupgrade:itemingots/manganese_ingot" } },
+    { "chance": 0.1, "minRolls": 1, "maxRolls": 1, "item": { "item": "mysticalcustomization:manganese_seeds" } }
+  ]
+}

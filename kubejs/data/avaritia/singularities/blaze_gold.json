@@ -1,0 +1,13 @@
+{
+	"id": "blaze_gold",
+	"color": [
+		-39424,
+		-5623040
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	id: "14F29B6CAFBED646"
+	loot_size: 1
+	order_index: 37
+	rewards: [{ id: "03AD2E30A59591FB", item: { count: 1, id: "ae2:growth_accelerator" } }]
+}

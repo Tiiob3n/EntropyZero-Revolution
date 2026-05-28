@@ -1,0 +1,13 @@
+{
+	"id": "insanite",
+	"color": [
+		-56696,
+		-5636011
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

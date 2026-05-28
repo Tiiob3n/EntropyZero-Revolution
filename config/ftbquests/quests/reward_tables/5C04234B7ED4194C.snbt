@@ -1,0 +1,42 @@
+{
+	id: "5C04234B7ED4194C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "iron_furnaces"
+	}
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{ id: "6ABA427123C9A38F", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "288D0DAEF5D78710", item: { count: 1, id: "minecraft:furnace" } }
+		{ id: "16E633E9B2A3E329", item: { count: 1, id: "minecraft:glass" } }
+		{ id: "27564D5E6E17318B", item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ id: "502C919B16099102", item: { count: 1, id: "minecraft:diamond" } }
+		{ id: "2458EB819ABFF801", item: { count: 1, id: "minecraft:obsidian" } }
+		{ id: "5125840D18A60F94", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "5664ACFE7CD28A4C", item: { count: 1, id: "minecraft:blaze_rod" } }
+		{ id: "6AD32D49A99A2C9D", item: { count: 1, id: "minecraft:ender_eye" } }
+		{ id: "679D43B5F80E9C75", item: { count: 1, id: "minecraft:netherite_ingot" } }
+		{ id: "4A2A0E486B56EDFB", item: { count: 1, id: "minecraft:soul_sand" } }
+		{ id: "699B95108DA4438A", item: { count: 1, id: "minecraft:magma_cream" } }
+		{ id: "319BF5E7BB5F8541", item: { count: 1, id: "minecraft:copper_ingot" } }
+		{ id: "18657274068DAD10", item: { count: 1, id: "alltheores:silver_ingot" } }
+		{ id: "0327CE8F9EE278CE", item: { count: 1, id: "minecraft:cobblestone" } }
+		{ id: "3613199C2D9ADE2B", item: { count: 1, id: "minecraft:stone" } }
+		{ id: "6D22612678E937A1", item: { count: 1, id: "minecraft:redstone" } }
+		{ id: "05D1A3A98D47531C", item: { count: 1, id: "minecraft:paper" } }
+		{ id: "0CE4CC6A837CE3EC", item: { count: 1, id: "minecraft:comparator" } }
+		{ id: "7503973E448FED81", item: { count: 1, id: "minecraft:smoker" } }
+		{ id: "67C19138F728F833", item: { count: 1, id: "minecraft:repeater" } }
+		{ id: "06BFF961A3573E26", item: { count: 1, id: "minecraft:coal" } }
+		{ id: "494521D7994D6BE9", item: { count: 1, id: "minecraft:sugar" } }
+		{ id: "488C554BB3688735", item: { count: 1, id: "minecraft:carved_pumpkin" } }
+		{ id: "127E2D359E32AC68", item: { count: 1, id: "minecraft:yellow_dye" } }
+		{ id: "1A95D0B2DD00CB2C", item: { count: 1, id: "minecraft:red_dye" } }
+	]
+}

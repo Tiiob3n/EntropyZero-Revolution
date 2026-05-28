@@ -1,0 +1,157 @@
+{
+	id: "1341067737C80C8C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "easy_mob_farm"
+	}
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{ id: "55D997A6C6D134A5", item: { count: 1, id: "minecraft:egg" } }
+		{ id: "357B96A7EB3D5BF7", item: { count: 1, id: "minecraft:short_grass" } }
+		{ id: "0182D5A537EBB23A", item: { count: 1, id: "minecraft:wheat" } }
+		{ id: "5D688FD15E950CFB", item: { count: 1, id: "minecraft:wheat_seeds" } }
+		{ id: "77E3060785E64FA8", item: { count: 1, id: "minecraft:feather" } }
+		{
+			count: 8
+			id: "65DD85C8BE5AC16B"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+		{
+			count: 8
+			id: "19194F6D96479D8C"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{ id: "3B61A64B7B7C0EF6", item: { count: 1, id: "minecraft:oxeye_daisy" } }
+		{ id: "32C33A9C0E980939", item: { count: 1, id: "minecraft:short_grass" } }
+		{
+			count: 8
+			id: "564A4688F016C661"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+		{ id: "2E41771D1A31A795", item: { count: 1, id: "minecraft:cactus" } }
+		{
+			count: 8
+			id: "365DC079680BDB8F"
+			item: {
+				count: 1
+				id: "minecraft:sandstone"
+			}
+		}
+		{ id: "154A30C52E10ECF5", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "68410F10E447C8EB", item: { count: 1, id: "minecraft:poppy" } }
+		{ id: "4C0950A4E54C6644", item: { count: 1, id: "minecraft:cauldron" } }
+		{ id: "027F546841BF996F", item: { count: 1, id: "minecraft:iron_block" } }
+		{
+			count: 8
+			id: "346F590B36B878D2"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{ id: "141C6ADBAAA0EB82", item: { count: 1, id: "minecraft:bamboo" } }
+		{
+			count: 16
+			id: "59D666922CEF4B0E"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 8
+			id: "0C557B336B663645"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+		{ id: "74E312E63126CF00", item: { count: 1, id: "minecraft:lava_bucket" } }
+		{ id: "5FADAEFD6AA66FD3", item: { count: 1, id: "minecraft:skeleton_skull" } }
+		{ id: "5E379B9F7CA6002D", item: { count: 1, id: "minecraft:obsidian" } }
+		{ id: "2892EEABC19B352F", item: { count: 1, id: "minecraft:blaze_powder" } }
+		{ id: "523FCFDB9CFB4792", item: { count: 1, id: "minecraft:iron_bars" } }
+		{ id: "18EC37834CA6F804", item: { count: 1, id: "minecraft:soul_sand" } }
+		{ id: "47BC94DF628AFBB7", item: { count: 1, id: "minecraft:nether_brick_fence" } }
+		{ id: "729B03985CCB53DA", item: { count: 1, id: "minecraft:netherrack" } }
+		{ id: "6FF70BDF9744DE69", item: { count: 1, id: "minecraft:lava_bucket" } }
+		{ id: "6F4574451A166E49", item: { count: 1, id: "minecraft:nether_wart" } }
+		{ id: "26F8DD235CC42AF8", item: { count: 1, id: "minecraft:sand" } }
+		{ id: "5DEF544C9678DDD4", item: { count: 1, id: "minecraft:kelp" } }
+		{ id: "491B2287423734D0", item: { count: 1, id: "minecraft:sea_lantern" } }
+		{
+			count: 8
+			id: "6B4EBAEEDCC59805"
+			item: {
+				count: 1
+				id: "minecraft:gravel"
+			}
+		}
+		{ id: "770DBFC88C7C35C9", item: { count: 1, id: "minecraft:seagrass" } }
+		{ id: "7C3A2898B3B96E1F", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "1B6E82ED09C76B87", item: { count: 1, id: "minecraft:brown_mushroom" } }
+		{ id: "140235381DBEFFBA", item: { count: 1, id: "minecraft:water_bucket" } }
+		{ id: "67744ED829EF165A", item: { count: 1, id: "minecraft:oak_log" } }
+		{
+			count: 8
+			id: "5E9A48D9AEACDEF2"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+		}
+		{ id: "76CEC7EBF2CAAA14", item: { count: 1, id: "minecraft:dead_bush" } }
+		{ id: "33927E2DE0BF471E", item: { count: 1, id: "minecraft:blue_orchid" } }
+		{ id: "4406B8C2DEE6604D", item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ id: "72C6F9791E773DA3", item: { count: 1, id: "minecraft:netherite_ingot" } }
+		{ id: "0BA34A58D18F8459", item: { count: 1, id: "minecraft:hopper" } }
+		{ id: "5491E002E700C828", item: { count: 1, id: "minecraft:slime_ball" } }
+		{ id: "233A98482C9460E8", item: { count: 1, id: "minecraft:string" } }
+		{ id: "0F67F18EFBFCC643", item: { count: 1, id: "minecraft:quartz" } }
+		{ id: "2AB0EB3B9571DCB8", item: { count: 1, id: "minecraft:lapis_lazuli" } }
+		{ id: "36760957FEF6F459", item: { count: 1, id: "minecraft:slime_ball" } }
+		{ id: "3AB730CC94C72BB3", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ id: "4136DEFA49E95A5A", item: { count: 1, id: "minecraft:piston" } }
+		{ id: "33B9B3698DF68DA9", item: { count: 1, id: "minecraft:glass_bottle" } }
+		{ id: "1FB918284EA50CB9", item: { count: 1, id: "minecraft:ghast_tear" } }
+		{ id: "0672530DB9995DD9", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "38C5067AAD1312E9", item: { count: 1, id: "minecraft:chain" } }
+		{ id: "49C71BFE8D1AA71C", item: { count: 1, id: "minecraft:netherite_scrap" } }
+		{ id: "25A6A76FC9135482", item: { count: 1, id: "minecraft:honeycomb" } }
+		{ id: "6604FDDDEEA5849C", item: { count: 1, id: "minecraft:beef" } }
+		{ id: "2BCCD6D7C800FB6D", item: { count: 1, id: "minecraft:porkchop" } }
+		{ id: "06E32C9FA222DFCA", item: { count: 1, id: "minecraft:flowering_azalea" } }
+		{
+			count: 8
+			id: "48E4E851391B82F1"
+			item: {
+				count: 1
+				id: "minecraft:oak_planks"
+			}
+		}
+		{
+			count: 8
+			id: "437DE1FA9FF2AEE3"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+		}
+		{ id: "2059F82A5EF79C34", item: { count: 1, id: "minecraft:ender_eye" } }
+	]
+}

@@ -1,0 +1,2754 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chemicalscience_elements"
+	group: "7507BECE02739D45"
+	icon: {
+		id: "chemicalscience:block_element_as"
+	}
+	id: "3FB9A71CAD0B5965"
+	images: [
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ac"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ag"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_al"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_am"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_as"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_at"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_au"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_b"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ba"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_be"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_bh"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_bi"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_bk"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_br"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_c"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ca"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cd"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ce"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cn"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_co"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cs"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_cu"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_db"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ds"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_dy"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_er"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_es"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_eu"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_f"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_fe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_fl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_fm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_fr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ga"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_gd"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_h"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_he"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_hf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_hg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ho"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_hs"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_i"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_in"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ir"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_k"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_kr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_la"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_li"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_lr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_lu"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_lv"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_mc"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_md"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_mg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_mn"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_mo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_mt"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_n"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_na"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_nb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_nd"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ne"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_nh"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ni"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_no"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_np"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_o"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_os"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_p"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pa"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pd"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_po"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pt"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_pu"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ra"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_rb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_re"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_rf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_rg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_rh"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_rn"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ru"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_s"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sc"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_se"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_si"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sn"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_sr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ta"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_tb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_tc"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_te"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_th"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ti"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_tl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_tm"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_ts"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_u"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_v"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_w"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 21.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_xe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_y"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_yb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_zn"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "chemicalscience:block/periodic_table/block_element_zr"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 24.0d
+		}
+		{
+			height: 25.0d
+			image: "chisel:block/noborder/glass"
+			rotation: 0.0d
+			width: 15.0d
+			x: -10.0d
+			y: 12.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "728D0859233925D7"
+			tasks: [{
+				id: "57D207DDB65CA7EC"
+				item: { count: 1, id: "chemicalscience:block_element_ac" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.2d
+		}
+		{
+			id: "7584C805F75B2C18"
+			tasks: [{
+				id: "2D5828FFF62F3492"
+				item: { count: 1, id: "chemicalscience:block_element_ag" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.2d
+		}
+		{
+			id: "107B45E0AFC34E66"
+			tasks: [{
+				id: "730268CBA2A55AE0"
+				item: { count: 1, id: "chemicalscience:block_element_al" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.2d
+		}
+		{
+			id: "45C7091A8F6BAD86"
+			tasks: [{
+				id: "0F9014664732A83D"
+				item: { count: 1, id: "chemicalscience:block_element_am" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.2d
+		}
+		{
+			id: "0B8B6CCADC29F97A"
+			tasks: [{
+				id: "4AE40BEA36DC5F7F"
+				item: { count: 1, id: "chemicalscience:block_element_ar" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.2d
+		}
+		{
+			id: "5B9B1D794A8ECC79"
+			tasks: [{
+				id: "4077DF7B7C373F3B"
+				item: { count: 1, id: "chemicalscience:block_element_as" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.2d
+		}
+		{
+			id: "7088583605B16564"
+			tasks: [{
+				id: "51324D8DD30A2ED7"
+				item: { count: 1, id: "chemicalscience:block_element_at" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.2d
+		}
+		{
+			id: "02993D765AA73A4D"
+			tasks: [{
+				id: "1E2925A183F95E57"
+				item: { count: 1, id: "chemicalscience:block_element_au" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.2d
+		}
+		{
+			id: "1E843358DE0A21BD"
+			tasks: [{
+				id: "49D8137ACF12D047"
+				item: { count: 1, id: "chemicalscience:block_element_b" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.2d
+		}
+		{
+			id: "289352C2F2F21DB2"
+			tasks: [{
+				id: "26ABB66D3C4A4550"
+				item: { count: 1, id: "chemicalscience:block_element_ba" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.2d
+		}
+		{
+			id: "66696F4F143BD108"
+			tasks: [{
+				id: "12CE8F43FE586E47"
+				item: { count: 1, id: "chemicalscience:block_element_be" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.2d
+		}
+		{
+			id: "667F63E9AD25D838"
+			tasks: [{
+				id: "23805FBFFF088A0A"
+				item: { count: 1, id: "chemicalscience:block_element_bh" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.2d
+		}
+		{
+			id: "3DC62AA051836193"
+			tasks: [{
+				id: "48AD616D4E124B92"
+				item: { count: 1, id: "chemicalscience:block_element_bi" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.2d
+		}
+		{
+			id: "02054D661180AE3F"
+			tasks: [{
+				id: "4587E75324A490C7"
+				item: { count: 1, id: "chemicalscience:block_element_bk" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 1.2d
+		}
+		{
+			id: "52FBEADCB84874E2"
+			tasks: [{
+				id: "385F8134B0E1586A"
+				item: { count: 1, id: "chemicalscience:block_element_br" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.2d
+		}
+		{
+			id: "4BDF83DA83DB10FB"
+			tasks: [{
+				id: "45B585439338794C"
+				item: { count: 1, id: "chemicalscience:block_element_c" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.2d
+		}
+		{
+			id: "5C7CA3B066AEB661"
+			tasks: [{
+				id: "182ADF66A16AFA3D"
+				item: { count: 1, id: "chemicalscience:block_element_ca" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.2d
+		}
+		{
+			id: "44B7B600CC7E27EF"
+			tasks: [{
+				id: "1926A6D2F53FC73F"
+				item: { count: 1, id: "chemicalscience:block_element_cd" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.2d
+		}
+		{
+			id: "62B8219D44A35314"
+			tasks: [{
+				id: "2EAB299A0B7F8EC5"
+				item: { count: 1, id: "chemicalscience:block_element_ce" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.2d
+		}
+		{
+			id: "2B0DD2452F538EC3"
+			tasks: [{
+				id: "377B389E4DB7A7E7"
+				item: { count: 1, id: "chemicalscience:block_element_cf" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.2d
+		}
+		{
+			id: "15EAAEA78944C3B7"
+			tasks: [{
+				id: "6F4B1BE793F0E980"
+				item: { count: 1, id: "chemicalscience:block_element_cl" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.2d
+		}
+		{
+			id: "504468333F63D550"
+			tasks: [{
+				id: "55E9AACA70E07F93"
+				item: { count: 1, id: "chemicalscience:block_element_cm" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 4.2d
+		}
+		{
+			id: "2D6AE78EAD13D6AB"
+			tasks: [{
+				id: "679D119FEEB63176"
+				item: { count: 1, id: "chemicalscience:block_element_cn" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.2d
+		}
+		{
+			id: "0F48035361D71B41"
+			tasks: [{
+				id: "5280AE4F33B18FDC"
+				item: { count: 1, id: "chemicalscience:block_element_co" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 4.2d
+		}
+		{
+			id: "4D63C7DA9B4CA1D1"
+			tasks: [{
+				id: "276EC8BBC2123753"
+				item: { count: 1, id: "chemicalscience:block_element_cr" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 4.2d
+		}
+		{
+			id: "78DDAEB73CC5F36C"
+			tasks: [{
+				id: "3E482414766E5970"
+				item: { count: 1, id: "chemicalscience:block_element_cs" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 4.2d
+		}
+		{
+			id: "41716DD1B9F7B660"
+			tasks: [{
+				id: "40070A970531496A"
+				item: { count: 1, id: "chemicalscience:block_element_cu" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 4.2d
+		}
+		{
+			id: "142A14032CD9F47A"
+			tasks: [{
+				id: "5325C1FC5B69453F"
+				item: { count: 1, id: "chemicalscience:block_element_db" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 4.2d
+		}
+		{
+			id: "4DF39E6879EE05B4"
+			tasks: [{
+				id: "4CC3D24BDEB5158F"
+				item: { count: 1, id: "chemicalscience:block_element_ds" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.2d
+		}
+		{
+			id: "5862214C1F2B3190"
+			tasks: [{
+				id: "4379D9346EFC31CF"
+				item: { count: 1, id: "chemicalscience:block_element_dy" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.2d
+		}
+		{
+			id: "319C925952E7A70E"
+			tasks: [{
+				id: "160AF4085B1472D5"
+				item: { count: 1, id: "chemicalscience:block_element_er" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.2d
+		}
+		{
+			id: "785004E89CD4251C"
+			tasks: [{
+				id: "450899C9E48EAC4F"
+				item: { count: 1, id: "chemicalscience:block_element_es" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.2d
+		}
+		{
+			id: "731803CFFED434C3"
+			tasks: [{
+				id: "11780CBBD9EBE2D0"
+				item: { count: 1, id: "chemicalscience:block_element_eu" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.2d
+		}
+		{
+			id: "6AE3CA0CBEC74BD5"
+			tasks: [{
+				id: "77053A9248923B64"
+				item: { count: 1, id: "chemicalscience:block_element_f" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.2d
+		}
+		{
+			id: "6DFBDFEBC3543586"
+			tasks: [{
+				id: "3B229F845C0EDD2F"
+				item: { count: 1, id: "chemicalscience:block_element_fe" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.2d
+		}
+		{
+			id: "204EFF1A85E4B7E6"
+			tasks: [{
+				id: "4485725D128B665A"
+				item: { count: 1, id: "chemicalscience:block_element_fl" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.2d
+		}
+		{
+			id: "131FEB49A36025EC"
+			tasks: [{
+				id: "5082A3F5CB59DA71"
+				item: { count: 1, id: "chemicalscience:block_element_fm" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 7.2d
+		}
+		{
+			id: "2AAC1B13AD766B17"
+			tasks: [{
+				id: "577E5B27A2513FDC"
+				item: { count: 1, id: "chemicalscience:block_element_fr" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 7.2d
+		}
+		{
+			id: "3F6B844D954BC6DB"
+			tasks: [{
+				id: "413BE65B7B32DEA1"
+				item: { count: 1, id: "chemicalscience:block_element_ga" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 7.2d
+		}
+		{
+			id: "188F576A5C4264DA"
+			tasks: [{
+				id: "290779AF94453F24"
+				item: { count: 1, id: "chemicalscience:block_element_gd" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 7.2d
+		}
+		{
+			id: "0CE8174849269BA4"
+			tasks: [{
+				id: "15A98B9EFF23C48D"
+				item: { count: 1, id: "chemicalscience:block_element_ge" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 7.2d
+		}
+		{
+			id: "414C47465DE94D4A"
+			tasks: [{
+				id: "18AAF0EE07FA7144"
+				item: { count: 1, id: "chemicalscience:block_element_h" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 7.2d
+		}
+		{
+			id: "51976C5E37FBCDAE"
+			tasks: [{
+				id: "07EB83F12F3CCFDF"
+				item: { count: 1, id: "chemicalscience:block_element_he" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.2d
+		}
+		{
+			id: "24E80259EDF02EB3"
+			tasks: [{
+				id: "53E0CF26C4271B3C"
+				item: { count: 1, id: "chemicalscience:block_element_hf" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.2d
+		}
+		{
+			id: "5024D289FC1C0EF8"
+			tasks: [{
+				id: "0E3D10E01F935A00"
+				item: { count: 1, id: "chemicalscience:block_element_hg" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.2d
+		}
+		{
+			id: "26EE21E3EDCD7E3F"
+			tasks: [{
+				id: "587903FC88B0B739"
+				item: { count: 1, id: "chemicalscience:block_element_ho" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.2d
+		}
+		{
+			id: "737FD012D1494C06"
+			tasks: [{
+				id: "060C6FAEA38C8DEA"
+				item: { count: 1, id: "chemicalscience:block_element_hs" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.2d
+		}
+		{
+			id: "473595AEC796EA0B"
+			tasks: [{
+				id: "78248E8970412774"
+				item: { count: 1, id: "chemicalscience:block_element_i" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.2d
+		}
+		{
+			id: "0A9A331ABE6CA685"
+			tasks: [{
+				id: "5DCD5E62C3A18F9D"
+				item: { count: 1, id: "chemicalscience:block_element_in" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.2d
+		}
+		{
+			id: "0A62CBEABCE7248A"
+			tasks: [{
+				id: "5D3B5F6F1BBC01B9"
+				item: { count: 1, id: "chemicalscience:block_element_ir" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 10.2d
+		}
+		{
+			id: "042FFD0C5CE15CFE"
+			tasks: [{
+				id: "1F32B21A6E653A84"
+				item: { count: 1, id: "chemicalscience:block_element_k" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 10.2d
+		}
+		{
+			id: "4A997DA7705A6922"
+			tasks: [{
+				id: "26D584E7EDB65A41"
+				item: { count: 1, id: "chemicalscience:block_element_kr" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 10.2d
+		}
+		{
+			id: "41D9899CB1C058E0"
+			tasks: [{
+				id: "52A38E0018BEB212"
+				item: { count: 1, id: "chemicalscience:block_element_la" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 10.2d
+		}
+		{
+			id: "0491A41C3EED317E"
+			tasks: [{
+				id: "12B8B0ED4A8617B8"
+				item: { count: 1, id: "chemicalscience:block_element_li" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 10.2d
+		}
+		{
+			id: "234CA80D2083F537"
+			tasks: [{
+				id: "328120A27C8FAAB0"
+				item: { count: 1, id: "chemicalscience:block_element_lr" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 10.2d
+		}
+		{
+			id: "57032211EC1C5A22"
+			tasks: [{
+				id: "6CE89240F629B241"
+				item: { count: 1, id: "chemicalscience:block_element_lu" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 10.2d
+		}
+		{
+			id: "4D297C7EE6287ADB"
+			tasks: [{
+				id: "7FFD26EE190F4629"
+				item: { count: 1, id: "chemicalscience:block_element_lv" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.2d
+		}
+		{
+			id: "3A7CC90B432E6ED2"
+			tasks: [{
+				id: "0BAD9DA12C839895"
+				item: { count: 1, id: "chemicalscience:block_element_mc" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 13.2d
+		}
+		{
+			id: "21B2447F8D513DA0"
+			tasks: [{
+				id: "0EB05B635C38BF20"
+				item: { count: 1, id: "chemicalscience:block_element_md" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.2d
+		}
+		{
+			id: "32A7B9251DA464CD"
+			tasks: [{
+				id: "2AEDA71620D821C4"
+				item: { count: 1, id: "chemicalscience:block_element_mg" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 13.2d
+		}
+		{
+			id: "35FF0C76A46C8BB2"
+			tasks: [{
+				id: "4394D6CF2D3B0481"
+				item: { count: 1, id: "chemicalscience:block_element_mn" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 13.2d
+		}
+		{
+			id: "5A082EB4B8755A6D"
+			tasks: [{
+				id: "762C29EEBB485647"
+				item: { count: 1, id: "chemicalscience:block_element_mo" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 13.2d
+		}
+		{
+			id: "605688362AB2F378"
+			tasks: [{
+				id: "08C4B2160C629F99"
+				item: { count: 1, id: "chemicalscience:block_element_mt" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 13.2d
+		}
+		{
+			id: "152403D257135844"
+			tasks: [{
+				id: "1FFCDCC7A8816A9B"
+				item: { count: 1, id: "chemicalscience:block_element_n" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 13.2d
+		}
+		{
+			id: "38B8A18F934961DC"
+			tasks: [{
+				id: "72649035FB318E49"
+				item: { count: 1, id: "chemicalscience:block_element_na" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 13.2d
+		}
+		{
+			id: "68FC435C65C8FECD"
+			tasks: [{
+				id: "47579A055CBB9102"
+				item: { count: 1, id: "chemicalscience:block_element_nb" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 13.2d
+		}
+		{
+			id: "1D4BCAC13ED08F45"
+			tasks: [{
+				id: "3F49D4B4362CEF1F"
+				item: { count: 1, id: "chemicalscience:block_element_nd" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 13.2d
+		}
+		{
+			id: "20DB71D70A0B8249"
+			tasks: [{
+				id: "7248075301C1A90A"
+				item: { count: 1, id: "chemicalscience:block_element_ne" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 13.2d
+		}
+		{
+			id: "16A5EE60DABF70A8"
+			tasks: [{
+				id: "6A39643A7E4390DC"
+				item: { count: 1, id: "chemicalscience:block_element_nh" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 13.2d
+		}
+		{
+			id: "07252AA76C587AA3"
+			tasks: [{
+				id: "49FC4EB5738FA471"
+				item: { count: 1, id: "chemicalscience:block_element_ni" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 13.2d
+		}
+		{
+			id: "60003010D00E5459"
+			tasks: [{
+				id: "58149C8A37D5E409"
+				item: { count: 1, id: "chemicalscience:block_element_no" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.2d
+		}
+		{
+			id: "4F779F888B062CF4"
+			tasks: [{
+				id: "3DB2F23E4A98540E"
+				item: { count: 1, id: "chemicalscience:block_element_np" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 16.2d
+		}
+		{
+			id: "74EC2C72A513A36B"
+			tasks: [{
+				id: "76C9B396DA51151B"
+				item: { count: 1, id: "chemicalscience:block_element_o" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.2d
+		}
+		{
+			id: "00AD8815E4438501"
+			tasks: [{
+				id: "414F9556DAE21EDB"
+				item: { count: 1, id: "chemicalscience:block_element_os" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 16.2d
+		}
+		{
+			id: "13E45BD3CBAA6EF8"
+			tasks: [{
+				id: "0BAE812BAE57505A"
+				item: { count: 1, id: "chemicalscience:block_element_p" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 16.2d
+		}
+		{
+			id: "0FA17EBA14724147"
+			tasks: [{
+				id: "0C08E10BA457F681"
+				item: { count: 1, id: "chemicalscience:block_element_pa" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 16.2d
+		}
+		{
+			id: "2535339E55365FB9"
+			tasks: [{
+				id: "3C962B1B34E38FD4"
+				item: { count: 1, id: "chemicalscience:block_element_pb" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 16.2d
+		}
+		{
+			id: "373BDCE941A1BFB9"
+			tasks: [{
+				id: "7099B2B76E5F7BC8"
+				item: { count: 1, id: "chemicalscience:block_element_pd" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 16.2d
+		}
+		{
+			id: "07771D3FCB895155"
+			tasks: [{
+				id: "58BEA877FD0F610D"
+				item: { count: 1, id: "chemicalscience:block_element_pm" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 16.2d
+		}
+		{
+			id: "5367E12D40AF20CA"
+			tasks: [{
+				id: "14829DE8411A2C9F"
+				item: { count: 1, id: "chemicalscience:block_element_po" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 16.2d
+		}
+		{
+			id: "728B3A103B7F5AE0"
+			tasks: [{
+				id: "697B09030994758C"
+				item: { count: 1, id: "chemicalscience:block_element_pr" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 16.2d
+		}
+		{
+			id: "73A5781CA152E760"
+			tasks: [{
+				id: "780E036CD649D182"
+				item: { count: 1, id: "chemicalscience:block_element_pt" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 16.2d
+		}
+		{
+			id: "4D617B3B45C3A802"
+			tasks: [{
+				id: "0CFE4174888B6620"
+				item: { count: 1, id: "chemicalscience:block_element_pu" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 16.2d
+		}
+		{
+			id: "5C01B0E1386010E6"
+			tasks: [{
+				id: "6C520331EA1D3D07"
+				item: { count: 1, id: "chemicalscience:block_element_ra" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 16.2d
+		}
+		{
+			id: "73DD0F056043F343"
+			tasks: [{
+				id: "4203B0F92D132F99"
+				item: { count: 1, id: "chemicalscience:block_element_rb" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 19.2d
+		}
+		{
+			id: "35C2998D55C4FCB9"
+			tasks: [{
+				id: "0023C831766EA0EA"
+				item: { count: 1, id: "chemicalscience:block_element_re" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 19.2d
+		}
+		{
+			id: "1D128831D1DB216D"
+			tasks: [{
+				id: "3A03B514AEF75BB4"
+				item: { count: 1, id: "chemicalscience:block_element_rf" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.2d
+		}
+		{
+			id: "71A3EF47BFAF57A3"
+			tasks: [{
+				id: "5BC9C1F2A068AEF9"
+				item: { count: 1, id: "chemicalscience:block_element_rg" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 19.2d
+		}
+		{
+			id: "7E0C483177D46193"
+			tasks: [{
+				id: "3A76923145765E7E"
+				item: { count: 1, id: "chemicalscience:block_element_rh" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 19.2d
+		}
+		{
+			id: "70BF6268F5EA9582"
+			tasks: [{
+				id: "5D133C0AB34FC3B3"
+				item: { count: 1, id: "chemicalscience:block_element_rn" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 19.2d
+		}
+		{
+			id: "1A9B966587CEA54B"
+			tasks: [{
+				id: "4ACEFCA0DAA4FAF4"
+				item: { count: 1, id: "chemicalscience:block_element_ru" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.2d
+		}
+		{
+			id: "6DE41159D0EADE06"
+			tasks: [{
+				id: "2AC5D2B17178E936"
+				item: { count: 1, id: "chemicalscience:block_element_s" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 19.2d
+		}
+		{
+			id: "104053C175B245B3"
+			tasks: [{
+				id: "71FB4DC22B8666B7"
+				item: { count: 1, id: "chemicalscience:block_element_sb" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 19.2d
+		}
+		{
+			id: "5B293BC24C4D351C"
+			tasks: [{
+				id: "3E66B04B212DF64D"
+				item: { count: 1, id: "chemicalscience:block_element_sc" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 19.2d
+		}
+		{
+			id: "16601433600B432C"
+			tasks: [{
+				id: "4FCD591A1CDFC69C"
+				item: { count: 1, id: "chemicalscience:block_element_se" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 19.2d
+		}
+		{
+			id: "7C692DDE7AC49BB9"
+			tasks: [{
+				id: "1A209566D954FEA8"
+				item: { count: 1, id: "chemicalscience:block_element_sg" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 19.2d
+		}
+		{
+			id: "45C045C652FAA406"
+			tasks: [{
+				id: "341E40F949EA355F"
+				item: { count: 1, id: "chemicalscience:block_element_si" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 19.2d
+		}
+		{
+			id: "024171F0F925AB01"
+			tasks: [{
+				id: "336126A70047A093"
+				item: { count: 1, id: "chemicalscience:block_element_sm" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 19.2d
+		}
+		{
+			id: "48FB27DC075F3A06"
+			tasks: [{
+				id: "51465A22337C2BF7"
+				item: { count: 1, id: "chemicalscience:block_element_sn" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.2d
+		}
+		{
+			id: "73A359F03D088213"
+			tasks: [{
+				id: "1AE80148670D064D"
+				item: { count: 1, id: "chemicalscience:block_element_sr" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 22.2d
+		}
+		{
+			id: "508C540EA6F05FB0"
+			tasks: [{
+				id: "110CE983CAA6549B"
+				item: { count: 1, id: "chemicalscience:block_element_ta" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.2d
+		}
+		{
+			id: "678ECF40F302482A"
+			tasks: [{
+				id: "716657DF42B93D08"
+				item: { count: 1, id: "chemicalscience:block_element_tb" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 22.2d
+		}
+		{
+			id: "18189D1812AFCDC8"
+			tasks: [{
+				id: "379CA43EA2A82CD7"
+				item: { count: 1, id: "chemicalscience:block_element_tc" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 22.2d
+		}
+		{
+			id: "091425619C54211D"
+			tasks: [{
+				id: "53E0BB6CD94901EC"
+				item: { count: 1, id: "chemicalscience:block_element_te" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 22.2d
+		}
+		{
+			id: "1B1639D594CE956E"
+			tasks: [{
+				id: "4852BCE1479318C0"
+				item: { count: 1, id: "chemicalscience:block_element_th" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 22.2d
+		}
+		{
+			id: "487AADACE98CEF73"
+			tasks: [{
+				id: "7D1AB73AA7F5CBAC"
+				item: { count: 1, id: "chemicalscience:block_element_ti" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 22.2d
+		}
+		{
+			id: "1612BEED7780B329"
+			tasks: [{
+				id: "205FD4F6528525B7"
+				item: { count: 1, id: "chemicalscience:block_element_tl" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 22.2d
+		}
+		{
+			id: "0167E927AF760226"
+			tasks: [{
+				id: "50483C8EBCAA4E28"
+				item: { count: 1, id: "chemicalscience:block_element_tm" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 22.2d
+		}
+		{
+			id: "5FCAE565F797F551"
+			tasks: [{
+				id: "11906084946067EB"
+				item: { count: 1, id: "chemicalscience:block_element_ts" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 22.2d
+		}
+		{
+			id: "0CE43C74CB5358AF"
+			tasks: [{
+				id: "54E72ACB6CC35E3C"
+				item: { count: 1, id: "chemicalscience:block_element_u" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 22.2d
+		}
+		{
+			id: "61B57063B316CACF"
+			tasks: [{
+				id: "5292066F81FF782C"
+				item: { count: 1, id: "chemicalscience:block_element_v" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 22.2d
+		}
+		{
+			id: "4B676670BD99D77A"
+			tasks: [{
+				id: "6A6E47675929747B"
+				item: { count: 1, id: "chemicalscience:block_element_w" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 22.2d
+		}
+		{
+			id: "1712ECD378C79F4F"
+			tasks: [{
+				id: "38E7A396C5847FB7"
+				item: { count: 1, id: "chemicalscience:block_element_xe" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 25.2d
+		}
+		{
+			id: "249F076A4EA32990"
+			tasks: [{
+				id: "142EC29813F5E90F"
+				item: { count: 1, id: "chemicalscience:block_element_y" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 25.2d
+		}
+		{
+			id: "270C9AC678887E13"
+			tasks: [{
+				id: "586EFF1365028926"
+				item: { count: 1, id: "chemicalscience:block_element_yb" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 25.2d
+		}
+		{
+			id: "3344920AE5FD9FF2"
+			tasks: [{
+				id: "3F02857E502EBA3B"
+				item: { count: 1, id: "chemicalscience:block_element_zn" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 25.2d
+		}
+		{
+			id: "02B5F93DE466A6B0"
+			tasks: [{
+				id: "54386CFD03BC3A7F"
+				item: { count: 1, id: "chemicalscience:block_element_zr" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 25.2d
+		}
+		{
+			icon: {
+				id: "chemicalscience:ore_arsenopyrite"
+			}
+			id: "2D840427666690DE"
+			rewards: [{
+				id: "710DD141499F5AFD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5646908EEC896010"
+				item: { count: 1, id: "chemicalscience:rawore_arsenopyrite" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 4.0d
+		}
+		{
+			id: "6EBFED47D8CB0107"
+			rewards: [{
+				id: "4E8CBD55BDF61B83"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "36A52E4906F94A29"
+					item: { count: 1, id: "chemicalscience:rawore_arsenopyrite" }
+					type: "item"
+				}
+				{
+					id: "75E46D52746B34CC"
+					item: { count: 1, id: "chemicalscience:dust_arsenic" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: 4.0d
+		}
+		{
+			id: "537F99C3ACB98407"
+			rewards: [{
+				id: "308B7AB47F15ADA0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "69576C01920826FF"
+					item: { count: 1, id: "chemicalscience:rawore_silicon" }
+					type: "item"
+				}
+				{
+					id: "59BEB062DD2E8AB2"
+					item: { count: 1, id: "chemicalscience:dust_silicon" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["537F99C3ACB98407"]
+			id: "420F1D55A324D0A5"
+			rewards: [{
+				id: "6A6192453A1C77CE"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "1E8915CB1ED29C44"
+					item: { count: 1, id: "chemicalscience:ingot_silicon" }
+					type: "item"
+				}
+				{
+					id: "38835A3A36EB6EFD"
+					item: { count: 1, id: "chemicalscience:plate_silicon" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 4.0d
+		}
+		{
+			id: "278AC3B38FD46C3A"
+			rewards: [{
+				id: "2F1984470F76FB3B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "6B1CB2F9E07DFB54"
+					item: { count: 1, id: "chemicalscience:rawore_magnesium" }
+					type: "item"
+				}
+				{
+					id: "469F374CB22DE870"
+					item: { count: 1, id: "chemicalscience:dust_magnesium" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["278AC3B38FD46C3A"]
+			id: "73E2813A33955266"
+			rewards: [{
+				id: "6C4B24A4A8F74D4D"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "155B337E084039BC"
+				item: { count: 1, id: "chemicalscience:ingot_magnesium" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["73E2813A33955266"]
+			id: "5AD8F358758F9271"
+			rewards: [{
+				id: "0E2E8429F2A9BD3D"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "5A7B0DD0E69C6B38"
+				item: { count: 1, id: "chemicalscience:ingot_magnesiumaluminum" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["60776F840FE7827D"]
+			id: "32322C3898AF4549"
+			rewards: [{
+				id: "1C0E0240CBF44532"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "6B265957169216AC"
+				item: { count: 1, id: "chemicalscience:ingot_tungstencarbide" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["55C0F3D89AC130B5"]
+			id: "60776F840FE7827D"
+			rewards: [{
+				id: "44699E76DC82A831"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "17EECE269E6FFB50"
+				item: { count: 1, id: "chemicalscience:ingot_tungsten" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			id: "55C0F3D89AC130B5"
+			rewards: [{
+				id: "0009965556838BB2"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "56A1FF8765B6E56F"
+					item: { count: 1, id: "chemicalscience:rawore_wolframite" }
+					type: "item"
+				}
+				{
+					id: "06623605D1FFC19F"
+					item: { count: 1, id: "chemicalscience:dust_tungsten" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 7.0d
+		}
+		{
+			id: "6D0238CB11134E93"
+			rewards: [{
+				id: "00B7440105B0BB86"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "418B34E6D5D02AA9"
+					item: { count: 1, id: "chemicalscience:rawore_cooperite" }
+					type: "item"
+				}
+				{
+					id: "2B1CE05BCE2EDBC4"
+					item: { count: 1, id: "chemicalscience:dust_platinum" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6D0238CB11134E93"]
+			id: "20DA546B525A81CD"
+			rewards: [{
+				id: "5E68B65F38FBFA16"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "270397D0BFDF7C70"
+					item: { count: 1, id: "chemicalscience:ingot_platinum" }
+					type: "item"
+				}
+				{
+					id: "6A7E6F488497E174"
+					item: { count: 1, id: "chemicalscience:ingot_palladium" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["32322C3898AF4549"]
+			id: "41551E05B76330D8"
+			rewards: [{
+				id: "27075E83BE9CD140"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [
+				{
+					id: "14AB30EE6FF51562"
+					item: { count: 1, id: "chemicalscience:pickaxe_tungstencarbide" }
+					type: "item"
+				}
+				{
+					id: "4F90807CB3783666"
+					item: { count: 1, id: "chemicalscience:axe_tungstencarbide" }
+					type: "item"
+				}
+				{
+					id: "4E20D7142505AEB1"
+					item: { count: 1, id: "chemicalscience:sword_tungstencarbide" }
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["06080F1C5C90AEA1"]
+			id: "4F73698DCD641803"
+			rewards: [{
+				id: "664466AC8328A023"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "123CF067BD955759"
+				item: { count: 1, id: "chemicalscience:ingot_manganese" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 10.0d
+		}
+		{
+			id: "06080F1C5C90AEA1"
+			rewards: [{
+				id: "77CA4538647A4745"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "10546A46B9097A11"
+					item: { count: 1, id: "chemicalscience:rawore_pyrolusite" }
+					type: "item"
+				}
+				{
+					id: "72AAA0C4339FE36F"
+					item: { count: 1, id: "chemicalscience:dust_manganese" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 10.0d
+		}
+		{
+			id: "7DD737A3D410068E"
+			rewards: [{
+				id: "44AB48BD484CFB73"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "46C578BB015B8FA2"
+				item: { count: 1, id: "chemicalscience:flamethrower" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 11.5d
+		}
+		{
+			id: "03D750924AA6AD4B"
+			rewards: [{
+				id: "40F5D3C7616EBD11"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "05E595A956BBC752"
+					item: { count: 1, id: "chemicalscience:laboratory_bench" }
+					type: "item"
+				}
+				{
+					id: "44CE4F8FB723A2A1"
+					item: { count: 1, id: "chemicalscience:laboratory_sink" }
+					type: "item"
+				}
+				{
+					id: "620A7C7B144DF998"
+					item: { count: 1, id: "chemicalscience:laboratory_storage" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: 13.5d
+		}
+		{
+			id: "51FD640E27CF45E2"
+			rewards: [{
+				id: "39B81440DB83F799"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "062A00B4DDFA7A87"
+				item: { count: 1, id: "chemicalscience:fractionating_column" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: 14.5d
+		}
+		{
+			id: "5004E34D18C39F48"
+			rewards: [{
+				id: "4ACAAA5349D6361A"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "231D09A67BFB39E9"
+					item: { count: 1, id: "chemicalscience:radiationshielding_glass" }
+					type: "item"
+				}
+				{
+					id: "60F062ABACA4016D"
+					item: { count: 1, id: "chemicalscience:radiationshielding_concrete" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: 13.5d
+		}
+		{
+			id: "7ADF6BF61F2FDE18"
+			rewards: [{
+				id: "63C7F5930E412F04"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "32F600C528CA6B9C"
+				item: { count: 1, id: "chemicalscience:redox_furnace_controller" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 14.5d
+		}
+		{
+			id: "2C639588EAAEBDED"
+			rewards: [{
+				id: "7832FCE376326142"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "5348CF746B657DB9"
+					item: { count: 1, id: "chemicalscience:iron_chloride_catalyst" }
+					type: "item"
+				}
+				{
+					id: "28BB6CC1D091D3A3"
+					item: { count: 1, id: "chemicalscience:iron_carbon_catalyst" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 13.5d
+		}
+		{
+			id: "72D15C4FE866B550"
+			rewards: [{
+				id: "47630304138E8BC8"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0DFAB34923451F05"
+				item: { count: 1, id: "chemicalscience:catalytic_reformer" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 14.5d
+		}
+		{
+			id: "1DC86C8EC2E4A411"
+			rewards: [{
+				id: "34BA189A0CC33B6B"
+				type: "xp"
+				xp: 700
+			}]
+			tasks: [{
+				id: "17F03B27B17D9DB1"
+				item: { count: 1, id: "chemicalscience:circuitorganic" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 18.0d
+		}
+		{
+			id: "40885AC1B6588E60"
+			rewards: [{
+				id: "162F53A55B0AACF6"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "62316B8717ABFFD5"
+				item: { count: 1, id: "chemicalscience:bulletproofvest" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 16.5d
+		}
+		{
+			id: "6834A93F6A29F72C"
+			rewards: [{
+				id: "755AB2FA7D7D2B52"
+				type: "xp"
+				xp: 800
+			}]
+			tasks: [{
+				id: "556A39AC9348DD5F"
+				item: { count: 1, id: "chemicalscience:organicsolarpanelplate" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 18.0d
+		}
+		{
+			id: "6229D8F3D0048705"
+			rewards: [{
+				id: "6AF4D2D7C5B8498D"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "143C114473F8D3C8"
+				item: { count: 1, id: "chemicalscience:organicnightvisiongoggles" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 19.5d
+		}
+		{
+			id: "4A5AA87DAA514E24"
+			rewards: [
+				{
+					id: "51E868B6D76D3ED4"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "5A0985F0E1D47CA5"
+					item: {
+						count: 1
+						id: "chemicalscience:organicsolarpanel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "22FC6AE1B23EF1A1"
+				item: { count: 1, id: "chemicalscience:organicsolarpanel" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 18.0d
+		}
+		{
+			id: "055DB4BAACB038A7"
+			rewards: [{
+				id: "0F6D59AE20CFB8BA"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					id: "727F35C526CA573D"
+					item: { count: 1, id: "chemicalscience:palladium_carbon_catalyst" }
+					type: "item"
+				}
+				{
+					id: "394A3006AC67A92D"
+					item: { count: 1, id: "chemicalscience:palladium_chloride_catalyst" }
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 13.5d
+		}
+		{
+			id: "28E09B5595C6F216"
+			rewards: [{
+				id: "363FEEF604B54D80"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "36DEB51F859E70C3"
+				item: { count: 1, id: "chemicalscience:hds_unit" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 14.5d
+		}
+		{
+			id: "3ED53A21D5E8D105"
+			rewards: [{
+				id: "3B5D5BE40E845CAB"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "0F3758F2D70A8818"
+					item: { count: 1, id: "chemicalscience:platinum_silica_catalyst" }
+					type: "item"
+				}
+				{
+					id: "21231DCA77722954"
+					item: { count: 1, id: "chemicalscience:platinum_thorium_catalyst" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 13.5d
+		}
+		{
+			id: "681C69F13176580A"
+			rewards: [{
+				id: "4F7945B2935F9A1A"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "3FCCBFAC8789DAE1"
+				item: { count: 1, id: "chemicalscience:steam_cracker" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 14.5d
+		}
+		{
+			id: "5FC93ADBB0CB2410"
+			rewards: [{
+				id: "0E76DDDB65635E9D"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				id: "17D3C62D8DC8A4C8"
+				item: { count: 1, id: "chemicalscience:niobiumtitaniumcoil" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 13.5d
+		}
+		{
+			id: "41A425BA1CDD1D8D"
+			rewards: [{
+				id: "03B57D9C27BEE18F"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3F9E772BA4BC53E6"
+				item: { count: 1, id: "chemicalscience:spincoater" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 14.5d
+		}
+	]
+}

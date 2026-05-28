@@ -1,0 +1,13 @@
+{
+	"id": "silica_alumina_catalyst",
+	"color": [
+		-4404,
+		-5592440
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	id: "6DC00F4ED49E1D26"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_5"
+	}
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "38BA55555F4499F7", item: { count: 1, id: "minecraft:rotten_flesh" } }
+		{ id: "1C1AE3BE3AA19977", item: { count: 1, id: "minecraft:spider_eye" } }
+		{ id: "523BCF6BB1DDFAFD", item: { count: 1, id: "minecraft:string" } }
+		{ id: "428BE24076E8DFDF", item: { count: 1, id: "minecraft:carrot" } }
+		{ id: "62A91F78FD67983D", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ id: "3B266FD651E8DA39", item: { count: 1, id: "reliquary:slime_pearl" } }
+		{ id: "3CC72C8484D3F712", item: { count: 1, id: "minecraft:ghast_tear" } }
+		{ id: "1CEB8B4E68A8E1BF", item: { count: 1, id: "minecraft:nether_star" } }
+		{ id: "74B56A3451203FD4", item: { count: 1, id: "minecraft:gunpowder" } }
+		{ id: "7635EDB127A022AC", item: { count: 1, id: "minecraft:rabbit" } }
+		{ id: "705E9BB6371D87B2", item: { count: 1, id: "minecraft:rabbit_foot" } }
+		{
+			id: "203E3B6E007E026E"
+			type: "xp"
+			xp: 100
+		}
+		{ id: "695CA445788F8E35", item: { count: 1, id: "minecraft:turtle_egg" } }
+		{ id: "7B39AFA991780C06", item: { count: 1, id: "mysticalagradditions:dragon_scale" } }
+		{ id: "441251BC0A9DD1A0", item: { count: 1, id: "ars_nouveau:whirlisprig_shards" } }
+		{ id: "4F2FD47359B271ED", item: { count: 1, id: "minecraft:dragon_head" } }
+		{ id: "41F5D807824D29C9", item: { count: 1, id: "minecraft:dragon_egg" } }
+		{ id: "0464604373AE03E4", item: { count: 1, id: "minecraft:dragon_breath" } }
+		{ id: "5E9E8C26E4CE2AE4", item: { count: 1, id: "minecraft:blaze_rod" } }
+		{ id: "7FD8729CD8B0BFE4", item: { count: 1, id: "minecraft:fire_charge" } }
+		{ id: "58DEE57A807D7147", item: { count: 1, id: "minecraft:slime_ball" } }
+		{ id: "2360431AA75652E9", item: { count: 1, id: "reliquary:slime_pearl" } }
+		{ id: "4CF0BEB5905EE25F", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "7D0D07A9B3F7E535", item: { count: 1, id: "minecraft:iron_pickaxe" } }
+		{ id: "7F7DB1B2B09D3DF8", item: { count: 1, id: "minecraft:potato" } }
+		{ id: "0ED1BF4A7214A85F", item: { count: 1, id: "allthemodium:piglich_heart" } }
+		{ id: "47B0DC82859AFFBA", item: { count: 1, id: "draconicevolution:dragon_heart" } }
+		{ id: "4C4FDDD6DC892242", item: { count: 1, id: "minecraft:glass_bottle" } }
+		{ id: "5DF763C5367154F6", item: { count: 1, id: "minecraft:redstone" } }
+		{ id: "6370206ABB5F1C22", item: { count: 1, id: "minecraft:glow_ink_sac" } }
+		{ id: "0669B9C6F9BDD55E", item: { count: 1, id: "minecraft:glowstone_dust" } }
+		{ id: "690785AE42CFEDC9", item: { count: 1, id: "minecraft:feather" } }
+		{ id: "756EAA68C571685E", item: { count: 1, id: "minecraft:skeleton_skull" } }
+		{ id: "48146FC304FAD357", item: { count: 1, id: "minecraft:wither_skeleton_skull" } }
+		{ id: "18C8689D58132749", item: { count: 1, id: "minecraft:tropical_fish" } }
+		{ id: "5A532C7C45081B9C", item: { count: 1, id: "minecraft:zombie_head" } }
+		{ id: "51ED1A6617BFC81E", item: { count: 1, id: "minecraft:creeper_head" } }
+		{ id: "41C688F63DAC8269", item: { count: 1, id: "minecraft:piglin_head" } }
+		{ id: "68BB54FE2D869D1E", item: { count: 1, id: "minecraft:dragon_head" } }
+		{ id: "1954F30516BED7F8", item: { count: 1, id: "minecraft:arrow" } }
+		{ id: "3F4ED54250AF5DD1", item: { count: 1, id: "minecraft:cod" } }
+		{ id: "24CDC7699657E5A9", item: { count: 1, id: "minecraft:breeze_rod" } }
+		{ id: "27A3ADD33AAF9028", item: { count: 1, id: "draconicevolution:small_chaos_frag" } }
+		{ id: "76F7B980924ED077", item: { count: 1, id: "minecraft:poppy" } }
+		{ id: "5DE7DF8CEC4769E7", item: { count: 1, id: "minecraft:nether_star" } }
+		{ id: "64D7D90D41E953D8", item: { count: 1, id: "mysticalagradditions:dragon_scale" } }
+		{ id: "33ABF0CAD43E0613", item: { count: 1, id: "minecraft:ink_sac" } }
+		{ id: "6EA0407F8C867431", item: { count: 1, id: "minecraft:emerald" } }
+	]
+}

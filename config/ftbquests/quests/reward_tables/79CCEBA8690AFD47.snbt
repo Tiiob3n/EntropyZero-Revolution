@@ -1,0 +1,47 @@
+{
+	id: "79CCEBA8690AFD47"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_6"
+	}
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ id: "31C1E203D226BA79", item: { count: 1, id: "powah:capacitor_basic_tiny" } }
+		{ id: "2A93BDCF7DE615C1", item: { count: 1, id: "powah:battery_starter" } }
+		{ id: "0ECFD2AA879EA145", item: { count: 1, id: "powah:blank_card" } }
+		{ id: "4CBBBA3189992B17", item: { count: 1, id: "powah:dielectric_paste" } }
+		{ id: "2DBB191987027895", item: { count: 1, id: "powah:steel_energized" } }
+		{ id: "79C6EA4E95EA1C6D", item: { count: 1, id: "powah:crystal_blazing" } }
+		{ id: "61E5AD901CC252EE", item: { count: 1, id: "powah:crystal_niotic" } }
+		{ id: "4502ACDA7D9C45AE", item: { count: 1, id: "powah:crystal_spirited" } }
+		{ id: "728104FC7A1B1BF8", item: { count: 1, id: "powah:crystal_nitro" } }
+		{ id: "574B2C3ECE58EE55", item: { count: 1, id: "powah:uraninite_raw" } }
+		{ id: "22031E77C847ED1A", item: { count: 1, id: "powah:uraninite" } }
+		{ id: "526E19AB46150501", item: { count: 1, id: "powah:energy_cell_starter" } }
+		{ id: "4EF79690B1E55D19", item: { count: 1, id: "powah:ender_cell_starter" } }
+		{ id: "3C50A39E4A960101", item: { count: 1, id: "powah:energy_cable_starter" } }
+		{ id: "7EE435A5DB3076D2", item: { count: 1, id: "powah:ender_gate_starter" } }
+		{ id: "050C2EF5C33459E0", item: { count: 1, id: "powah:energizing_orb" } }
+		{ id: "159883CF95677018", item: { count: 1, id: "powah:energizing_rod_starter" } }
+		{ id: "60BCB09A725DAE67", item: { count: 1, id: "powah:furnator_starter" } }
+		{ id: "0EA5DBDDADA4625D", item: { count: 1, id: "powah:magmator_starter" } }
+		{ id: "380370471862933B", item: { count: 1, id: "powah:thermo_generator_starter" } }
+		{ id: "749ADFCF2B65CDB9", item: { count: 1, id: "powah:solar_panel_starter" } }
+		{ id: "17494B2142E3F7AC", item: { count: 1, id: "powah:reactor_starter" } }
+		{ id: "1326E7D58A053D68", item: { count: 1, id: "powah:player_transmitter_starter" } }
+		{ id: "6C16E745F4F071F3", item: { count: 1, id: "powah:energy_hopper_starter" } }
+		{ id: "33C30931FE599CAD", item: { count: 1, id: "powah:energized_steel_block" } }
+		{ id: "4636EEC3F71842C6", item: { count: 1, id: "powah:blazing_crystal_block" } }
+		{ id: "11231B0D9E4A2B0D", item: { count: 1, id: "powah:niotic_crystal_block" } }
+		{ id: "2F3A4707A8813F99", item: { count: 1, id: "powah:spirited_crystal_block" } }
+		{ id: "6A6E1D2CC7FEF97C", item: { count: 1, id: "powah:nitro_crystal_block" } }
+		{ id: "4693EB396155A101", item: { count: 1, id: "powah:uraninite_block" } }
+		{ id: "72BC1597A7AF8F78", item: { count: 1, id: "powah:dry_ice" } }
+	]
+}

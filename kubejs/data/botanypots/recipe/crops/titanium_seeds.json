@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:crop",
+  "seed": { "item": "mysticalcustomization:titanium_seeds" },
+  "display": { "block": "mysticalagriculture:imperium_crop" },
+  "growthTicks": 1200,
+  "categories": [ "botanypotsmystical:soil/imperium" ],
+  "drops": [
+    { "chance": 1.0, "minRolls": 1, "maxRolls": 1, "item": { "item": "industrialupgrade:itemingots/titanium_ingot" } },
+    { "chance": 0.1, "minRolls": 1, "maxRolls": 1, "item": { "item": "mysticalcustomization:titanium_seeds" } }
+  ]
+}

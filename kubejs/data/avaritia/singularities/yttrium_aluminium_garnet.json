@@ -1,0 +1,13 @@
+{
+	"id": "yttrium_aluminium_garnet",
+	"color": [
+		-30550,
+		-5618586
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

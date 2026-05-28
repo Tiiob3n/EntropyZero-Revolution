@@ -1,0 +1,13 @@
+{
+	"id": "unobtainium_allthemodium_alloy",
+	"color": [
+		-7798785,
+		-12281447
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

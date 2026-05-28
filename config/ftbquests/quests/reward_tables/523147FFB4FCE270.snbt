@@ -1,0 +1,50 @@
+{
+	id: "523147FFB4FCE270"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_8"
+	}
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "7D2F896BCE5BF27A", item: { count: 1, id: "mekanism:osmium_ore" } }
+		{ id: "123394C97A28EC9F", item: { count: 1, id: "mekanism:enriched_redstone" } }
+		{ id: "2BF390C6A119A775", item: { count: 1, id: "mekanism:enriched_diamond" } }
+		{ id: "724CD236D82FDB50", item: { count: 1, id: "mekanism:enriched_carbon" } }
+		{ id: "0ADEA8D0C143CF78", item: { count: 1, id: "mekanism:dust_lithium" } }
+		{ id: "538FCF2186847E6A", item: { count: 1, id: "mekanism:dust_diamond" } }
+		{ id: "5D63B6F8F03CDB1C", item: { count: 1, id: "mekanism:fluorite_gem" } }
+		{ id: "74EDF20C9442307B", item: { count: 1, id: "mekanism:dust_obsidian" } }
+		{ id: "6FC6AF65C77A2962", item: { count: 1, id: "mekanism:dirty_dust_iron" } }
+		{ id: "1925DE00AA12D07D", item: { count: 1, id: "mekanism:dirty_dust_gold" } }
+		{ id: "736BB4E42571180E", item: { count: 1, id: "mekanism:dirty_dust_osmium" } }
+		{ id: "4AB08EDDA89E969D", item: { count: 1, id: "mekanism:salt" } }
+		{ id: "50F5770077366A47", item: { count: 1, id: "mekanism:dirty_dust_copper" } }
+		{ id: "7D9DAAE19EE5DCFC", item: { count: 1, id: "mekanism:dirty_dust_tin" } }
+		{ id: "44BA1DD4C82948F4", item: { count: 1, id: "mekanism:dirty_dust_lead" } }
+		{ id: "219F8933988D6647", item: { count: 1, id: "mekanism:dirty_dust_uranium" } }
+		{ id: "7680CF2FBB6754D6", item: { count: 1, id: "mekanism:geiger_counter" } }
+		{ id: "001176192C98E2B0", item: { count: 1, id: "mekanism:bio_fuel" } }
+		{ id: "04BB2A5735FF1AA1", item: { count: 1, id: "mekanism:substrate" } }
+		{ id: "2BF6BB97C1ACACD1", item: { count: 1, id: "mekanism:dust_sulfur" } }
+		{ id: "0C69D4F5614210EE", item: { count: 1, id: "mekanism:block_bio_fuel" } }
+		{ id: "0CCD90F7968F2A61", item: { count: 1, id: "mekanismgenerators:turbine_blade" } }
+		{ id: "07A6A8C3C9BB2998", item: { count: 1, id: "mekanism:gauge_dropper" } }
+		{ id: "0B9C216AFEC37804", item: { count: 1, id: "mekanism:basic_tier_installer" } }
+		{ id: "7A8A3DA8C8006808", item: { count: 1, id: "mekanism:hdpe_pellet" } }
+		{ id: "1FE464146A9DE30D", item: { count: 1, id: "mekanism:upgrade_muffling" } }
+		{ id: "2DBC57C6967FA19D", item: { count: 1, id: "mekanism:crystal_iron" } }
+		{ id: "2681705429F39FB9", item: { count: 1, id: "mekanism:dust_steel" } }
+		{ id: "6882F199283E07F8", item: { count: 1, id: "mekanismgenerators:reactor_glass" } }
+		{ id: "3F1D10173FA14906", item: { count: 1, id: "mekanism:dosimeter" } }
+		{ id: "494C7794B0B40FC0", item: { count: 1, id: "mekanism:dust_refined_obsidian" } }
+		{ id: "6DAAEA0755423C5E", item: { count: 1, id: "mekanismgenerators:turbine_casing" } }
+		{ id: "4E59400BA87D04F7", item: { count: 1, id: "mekanism:basic_fluid_tank" } }
+		{ id: "1A192BE56544CABA", item: { count: 1, id: "mekanism:dirty_netherite_scrap" } }
+	]
+}

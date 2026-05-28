@@ -1,0 +1,13 @@
+{
+	"id": "benitoite_crystal",
+	"color": [
+		-12303105,
+		-14540118
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

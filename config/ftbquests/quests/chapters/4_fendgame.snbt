@@ -1,0 +1,175 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4_fendgame"
+	group: "63FBCA78FA1E799C"
+	icon: {
+		id: "kubejs:entropy_crystal"
+	}
+	id: "4A494BBCC82AA216"
+	images: [
+		{
+			height: 1.0d
+			image: "draconicevolution:block/generator/generator_flame"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ars_nouveau:block/fire_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "mahoutsukai:block/black_fire_layer_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_fire_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7AA1FCFDF1A412C7"
+			tasks: [{
+				id: "6D4BA448EF560994"
+				item: { count: 1, id: "kubejs:shard_of_fire" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "56939958285A9FF6"
+			tasks: [{
+				id: "03A7C3F61C20B1AF"
+				item: { count: 1, id: "kubejs:shard_of_water" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "5D17A3A08B733C24"
+			tasks: [{
+				id: "51E89ECBB8FA91E8"
+				item: { count: 1, id: "kubejs:shard_of_earth" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "5E0D8FB366903B2E"
+			tasks: [{
+				id: "612E70460CACBF72"
+				item: { count: 1, id: "kubejs:shard_of_air" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "798792F8E7E0A019"
+			tasks: [{
+				id: "266CCABB4F080B18"
+				item: { count: 1, id: "kubejs:shard_of_light" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "73E11AFDEE594FA4"
+			tasks: [{
+				id: "0BD08E0F50ECF1E1"
+				item: { count: 1, id: "kubejs:shard_of_shadow" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"56939958285A9FF6"
+				"7AA1FCFDF1A412C7"
+			]
+			id: "29848F9A3304CC73"
+			tasks: [{
+				id: "4E8702EE87033559"
+				item: { count: 1, id: "kubejs:primal_ember" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5E0D8FB366903B2E"
+				"5D17A3A08B733C24"
+			]
+			id: "3C65B08CA2DDB143"
+			tasks: [{
+				id: "2171DC07230B22DE"
+				item: { count: 1, id: "kubejs:celestial_vortex" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"73E11AFDEE594FA4"
+				"798792F8E7E0A019"
+			]
+			id: "1C4F2472C3B71FBD"
+			tasks: [{
+				id: "089D01160240F6FC"
+				item: { count: 1, id: "kubejs:dual_essence" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"1C4F2472C3B71FBD"
+				"3C65B08CA2DDB143"
+				"29848F9A3304CC73"
+			]
+			id: "59A5CF1BD490B3A2"
+			rewards: [{
+				id: "792CDEA50F75AB04"
+				item: {
+					count: 1
+					id: "kubejs:entropy_crystal"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "7F98800990EBB46B"
+				item: { count: 1, id: "kubejs:entropy_crystal" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+	]
+}

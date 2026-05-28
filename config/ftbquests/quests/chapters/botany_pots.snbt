@@ -1,0 +1,245 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "botany_pots"
+	group: "6E725A1E15EE7F3C"
+	icon: {
+		id: "botanypotstiers:mega_terracotta_botany_pot"
+	}
+	id: "36AB922B97C31E06"
+	images: [{
+		height: 10.0d
+		image: "minecraft:textures/particle/sonic_boom_13.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: -2.0d
+		y: 0.5d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1D66DB11ECA77736"
+			rewards: [
+				{
+					id: "69DED648A3346A11"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B0C544F4BE788CC"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6E65F11370A76D71"
+				item: { count: 1, id: "botanypots:terracotta_botany_pot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1D66DB11ECA77736"]
+			id: "7CE3E2AABD84E374"
+			rewards: [
+				{
+					id: "603D61510B2D12A8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A3A890E1B303DE3"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "61DCA1F2E246558B"
+				item: { count: 1, id: "botanypots:terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1D66DB11ECA77736"]
+			id: "37B06CF6D2E5863F"
+			rewards: [
+				{
+					id: "4F8EDD97DB0232C8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40D7E9B4DC3FDF67"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7497DA27AB5001EB"
+				item: { count: 1, id: "botanypots:terracotta_waxed_botany_pot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"1D66DB11ECA77736"
+				"61093F4C6056C573"
+			]
+			id: "0634EAA2EC265AB1"
+			rewards: [
+				{
+					id: "5B50BCF605144B07"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DF6E9B92B7E24E2"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0C3028ED161A1033"
+				item: { count: 1, id: "botanypotstiers:elite_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"0634EAA2EC265AB1"
+				"40A65BF64F6A05D1"
+			]
+			id: "1376C34702FBBBDA"
+			rewards: [
+				{
+					id: "7F337093743CE4DB"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7590D26679A66D4F"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "743E598D989CF0C3"
+				item: { count: 1, id: "botanypotstiers:ultra_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"1376C34702FBBBDA"
+				"6E7D2916F7900EB1"
+			]
+			id: "01B771CBB576706D"
+			rewards: [
+				{
+					id: "612FBB339C2744F5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D6687E6FB838350"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "557B7A4E89A31409"
+				item: { count: 1, id: "botanypotstiers:mega_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "61093F4C6056C573"
+			rewards: [
+				{
+					id: "2007488B8F65E87C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08DA2F97683B9AD3"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "34084D0F390221BC"
+				item: { count: 1, id: "botanypotstiers:elite_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["61093F4C6056C573"]
+			id: "40A65BF64F6A05D1"
+			rewards: [
+				{
+					id: "0FF022D9D6A9C626"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "420451DAA3C56457"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "341A0956CE3611DA"
+				item: { count: 1, id: "botanypotstiers:ultra_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["40A65BF64F6A05D1"]
+			id: "6E7D2916F7900EB1"
+			rewards: [
+				{
+					id: "725CF04C77C9323D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2003CAC21117F9C5"
+					table_id: 6850613564429605674L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "797B8EAFA2E24C78"
+				item: { count: 1, id: "botanypotstiers:mega_upgrade" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+	]
+}

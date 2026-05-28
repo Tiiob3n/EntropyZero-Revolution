@@ -1,0 +1,36 @@
+{
+	id: "19D6892F3391728A"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "enderio"
+	}
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{ id: "6A1B8E1BDDAB7C52", item: { count: 1, id: "minecraft:diamond" } }
+		{ id: "45FC64614ACD8F94", item: { count: 1, id: "enderio:grains_of_infinity" } }
+		{ id: "62255B0BCEAC12D1", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "7A382D4E5D41D2A4", item: { count: 1, id: "minecraft:iron_bars" } }
+		{ id: "27F3FD95783ADCB4", item: { count: 1, id: "enderio:powdered_coal" } }
+		{ id: "36C973431E555BAA", item: { count: 1, id: "enderio:energetic_alloy_ingot" } }
+		{ id: "5DBE1CC9460FA2A1", item: { count: 1, id: "enderio:dark_steel_nugget" } }
+		{ id: "3F22256E85606D20", item: { count: 1, id: "enderio:dark_steel_ingot" } }
+		{ id: "09B1E76D264AD52A", item: { count: 1, id: "enderio:conduit_binder" } }
+		{ id: "12943EF411002A89", item: { count: 1, id: "enderio:soularium_ingot" } }
+		{ id: "1AC0D6F87BE1B714", item: { count: 1, id: "enderio:vibrant_crystal" } }
+		{ id: "26E028F210CD559C", item: { count: 1, id: "enderio:weather_crystal" } }
+		{ id: "1E0DA19F8C04EDDA", item: { count: 1, id: "enderio:conductive_alloy_ingot" } }
+		{ id: "765424304D27A47D", item: { count: 1, id: "enderio:vibrant_alloy_ingot" } }
+		{ id: "7D10286B2CD15D2A", item: { count: 1, id: "enderio:dark_steel_bars" } }
+		{ id: "6F64F292E8C2CE82", item: { count: 1, id: "enderio:prescient_crystal" } }
+		{ id: "3CEC88B6F64ACD68", item: { count: 1, id: "enderio:enderman_head" } }
+		{ id: "6E9E11E6C2AF9034", item: { count: 1, id: "minecraft:zombie_head" } }
+		{ id: "5B0E3B231DC69A78", item: { count: 1, id: "minecraft:furnace" } }
+		{ id: "5B67904FF64CDE70", item: { count: 1, id: "minecraft:gold_nugget" } }
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dark Gem",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "item": "evilcraft:dark_gem"
+  },
+  "colors": {
+    "flower": "3a3a3a",
+    "essence": "616161",
+    "seeds": "1f1f1f"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": false,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:stone",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

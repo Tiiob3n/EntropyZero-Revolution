@@ -1,0 +1,73 @@
+{
+	id: "0C605A5FF7784C80"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "relic_redemption"
+	}
+	loot_size: 1
+	order_index: 36
+	rewards: [
+		{
+			count: 4
+			id: "461225264E9BDDEE"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 8
+			id: "124F1E7DA7D1FC81"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "6D366F91D3EFC7C8"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "05D176313CEA2313"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "1AE176B5DE2EDC63"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{ id: "3FD988CC6A038FF8", item: { count: 1, id: "minecraft:diamond_pickaxe" } }
+		{
+			count: 8
+			id: "4B907EB6CAB6AEA7"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+		}
+		{
+			count: 8
+			id: "00B1BBFA37B1D1A7"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+		}
+	]
+}

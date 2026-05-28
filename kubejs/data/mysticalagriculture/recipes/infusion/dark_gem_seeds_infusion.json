@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "evilcraft:dark_gem",
+    "evilcraft:dark_gem",
+    "minecraft:coal",
+    "minecraft:coal"
+  ],
+  "result": {
+    "id": "mysticalcustomization:dark_gem_seeds"
+  }
+}

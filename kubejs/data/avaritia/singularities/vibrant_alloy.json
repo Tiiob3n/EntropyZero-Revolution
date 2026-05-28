@@ -1,0 +1,13 @@
+{
+	"id": "vibrant_alloy",
+	"color": [
+		-7799040,
+		-12277248
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

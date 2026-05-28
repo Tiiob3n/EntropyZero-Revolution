@@ -1,0 +1,134 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7F84C45E2C98C8CA"
+	group: "399349ADD896812C"
+	id: "7F84C45E2C98C8CA"
+	images: [
+		{
+			height: 2.0d
+			image: "ae2:block/molecular_assembler_lights"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ae2:block/molecular_assembler_lights"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ae2:block/molecular_assembler_lights"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "ae2:block/molecular_assembler_lights"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: 1.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4D3EB89FC00BE074"
+			rewards: [{
+				id: "78E35D5E020D0CD7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "draconicevolution:module/wyvern_night_vision"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "744D8F678336E532"
+				observe_type: 0
+				timer: 0L
+				to_observe: "tombstone:abandoned_grave"
+				type: "observation"
+			}]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "draconicevolution:module/wyvern_night_vision"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "08B9713E6DFAD9AD"
+			rewards: [{
+				id: "03461579DC8C8412"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				id: "70CB838956295F40"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:budding_amethyst"
+				type: "observation"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			id: "3EBDF9D475C09EBB"
+			rewards: [{
+				id: "55F8896C51005D45"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				entity: "draconicevolution:draconic_guardian"
+				id: "2F904B0FDA6FF334"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "draconicevolution:module/wyvern_night_vision"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3BF1A6FC51FF5C68"
+			rewards: [{
+				id: "6AEE4EAF6EFE517F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				id: "4785267BD1DAB2FB"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:end_portal_frame"
+				type: "observation"
+			}]
+			x: 11.5d
+			y: -1.0d
+		}
+	]
+}

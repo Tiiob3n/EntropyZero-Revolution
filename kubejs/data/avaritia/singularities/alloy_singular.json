@@ -1,0 +1,13 @@
+{
+	"id": "alloy_singular",
+	"color": [
+		-1,
+		-5592406
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

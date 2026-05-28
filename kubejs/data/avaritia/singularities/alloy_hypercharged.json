@@ -1,0 +1,13 @@
+{
+	"id": "alloy_hypercharged",
+	"color": [
+		-256,
+		-5592576
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

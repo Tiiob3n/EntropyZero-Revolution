@@ -1,0 +1,59 @@
+{
+	id: "71C092D85C2A9A12"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "reliquary"
+	}
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{ id: "5E668A51DA27845C", item: { count: 1, id: "minecraft:nether_star" } }
+		{ id: "396B6EC7DF03C3E7", item: { count: 1, id: "reliquary:fertile_essence" } }
+		{ id: "270E78E789649265", item: { count: 1, id: "minecraft:diamond" } }
+		{ id: "2BD9F168C2C3E7F6", item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ id: "0CBE94F1C7DA1961", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "323CEC63459F943F", item: { count: 1, id: "minecraft:quartz_block" } }
+		{ id: "4AFA667604C90F4B", item: { count: 1, id: "minecraft:white_carpet" } }
+		{ id: "4F68EC9013F7260F", item: { count: 1, id: "reliquary:void_tear" } }
+		{ id: "54C13116CE1AA373", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "04708423D6F640B5", item: { count: 1, id: "minecraft:bucket" } }
+		{ id: "2247792F1B8730A1", item: { count: 1, id: "reliquary:eye_of_the_storm" } }
+		{ id: "43F74FBB88517460", item: { count: 1, id: "reliquary:bat_wing" } }
+		{ id: "543B4069736353F7", item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ id: "775E6E8DED7FD6D2", item: { count: 1, id: "minecraft:glowstone_dust" } }
+		{ id: "5726F41ECECDB58B", item: { count: 1, id: "minecraft:gunpowder" } }
+		{ id: "71C4E68DE638C943", item: { count: 1, id: "minecraft:bread" } }
+		{ id: "11414636FDBE6AF4", item: { count: 1, id: "minecraft:glass" } }
+		{ id: "482E0248A2D8B0B4", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "4BF9D2F2B0B10042", item: { count: 1, id: "reliquary:molten_core" } }
+		{ id: "69ADA3AAF94D4FC7", item: { count: 1, id: "reliquary:slime_pearl" } }
+		{ id: "6B19CBFCED23A4F6", item: { count: 1, id: "reliquary:nebulous_heart" } }
+		{ id: "62F75B7CEE800503", item: { count: 1, id: "reliquary:frozen_core" } }
+		{ id: "1F7AF3E84397466E", item: { count: 1, id: "reliquary:empty_potion_vial" } }
+		{ id: "147DFD3ACA6FCA2F", item: { count: 1, id: "minecraft:feather" } }
+		{ id: "06E83ECB3D8A127A", item: { count: 1, id: "reliquary:shears_of_winter" } }
+		{ id: "5AA421726A614C0F", item: { count: 1, id: "minecraft:ender_eye" } }
+		{ id: "1431731F6CD0EC35", item: { count: 1, id: "reliquary:fertile_essence" } }
+		{ id: "10C6596C8C41C471", item: { count: 1, id: "reliquary:rib_bone" } }
+		{ id: "2C08F2DFF63BA91A", item: { count: 1, id: "reliquary:withered_rib" } }
+		{ id: "0838839EB5C66CBE", item: { count: 1, id: "minecraft:wither_skeleton_skull" } }
+		{ id: "70E453E747AA3CE9", item: { count: 1, id: "reliquary:witch_hat" } }
+		{ id: "49FF8AF0838996B8", item: { count: 1, id: "minecraft:book" } }
+		{ id: "00C6925419F09518", item: { count: 1, id: "reliquary:chelicerae" } }
+		{ id: "2606120B4B600335", item: { count: 1, id: "minecraft:lily_pad" } }
+		{ id: "73C86E18B85AEA75", item: { count: 1, id: "minecraft:magma_cream" } }
+		{
+			count: 8
+			id: "2AA59301CC012258"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+		}
+	]
+}

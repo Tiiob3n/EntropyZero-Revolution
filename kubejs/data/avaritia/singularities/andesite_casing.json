@@ -1,0 +1,13 @@
+{
+	"id": "andesite_casing",
+	"color": [
+		-6710887,
+		-11184811
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

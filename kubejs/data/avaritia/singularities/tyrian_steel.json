@@ -1,0 +1,13 @@
+{
+	"id": "tyrian_steel",
+	"color": [
+		-7864116,
+		-11206520
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

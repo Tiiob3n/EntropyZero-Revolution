@@ -1,0 +1,13 @@
+{
+	"id": "neutronium",
+	"color": [
+		-13421756,
+		-15658718
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

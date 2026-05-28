@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "allthemodium:vibranium_ingot",
+    "allthemodium:vibranium_ingot",
+    "minecraft:crying_obsidian",
+    "minecraft:crying_obsidian"
+  ],
+  "result": {
+    "id": "mysticalcustomization:vibranium_seeds"
+  }
+}

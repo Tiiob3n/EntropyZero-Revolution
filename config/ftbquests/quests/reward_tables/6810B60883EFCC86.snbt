@@ -1,0 +1,59 @@
+{
+	icon: {
+		components: {
+			"ftbquests:icon": "ftbteams:textures/accept.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "6810B60883EFCC86"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "artefacts"
+	}
+	loot_size: 1
+	order_index: 42
+	rewards: [
+		{ id: "183F2FFDE6854DEA", item: { count: 1, id: "artifacts:everlasting_beef" } }
+		{ id: "30AE1C28EC6D487B", item: { count: 1, id: "artifacts:plastic_drinking_hat" } }
+		{ id: "177039787E624C71", item: { count: 1, id: "artifacts:novelty_drinking_hat" } }
+		{ id: "362E60EA4A1C6F73", item: { count: 1, id: "artifacts:night_vision_goggles" } }
+		{ id: "178A93EB2A16ACB8", item: { count: 1, id: "artifacts:villager_hat" } }
+		{ id: "22C9713332289843", item: { count: 1, id: "artifacts:crystal_heart" } }
+		{ id: "590B36565311A43E", item: { count: 1, id: "artifacts:universal_attractor" } }
+		{ id: "1917CDF656699FD4", item: { count: 1, id: "artifacts:antidote_vessel" } }
+		{ id: "1A12A4ADCFB8ACED", item: { count: 1, id: "artifacts:obsidian_skull" } }
+		{ id: "0F722AA32FECE4DC", item: { count: 1, id: "artifacts:cloud_in_a_bottle" } }
+		{ id: "658D21FCCEFF3406", item: { count: 1, id: "artifacts:charm_of_shrinking" } }
+		{ id: "7A01848FD285FDE5", item: { count: 1, id: "artifacts:charm_of_sinking" } }
+		{ id: "6B6792D7FC6D702F", item: { count: 1, id: "artifacts:thorn_pendant" } }
+		{ id: "6FBDB2480E10F3E4", item: { count: 1, id: "artifacts:helium_flamingo" } }
+		{ id: "3362EB2FB1DEE55E", item: { count: 1, id: "artifacts:chorus_totem" } }
+		{ id: "4108BBB1BA8FB2A6", item: { count: 1, id: "artifacts:warp_drive" } }
+		{ id: "6D90D82349EA4A98", item: { count: 1, id: "artifacts:digging_claws" } }
+		{ id: "1BAD08471AA14560", item: { count: 1, id: "artifacts:feral_claws" } }
+		{ id: "11DCC5399BCB18A1", item: { count: 1, id: "artifacts:power_glove" } }
+		{ id: "57B59CB41812D741", item: { count: 1, id: "artifacts:fire_gauntlet" } }
+		{ id: "1A720B255A99D469", item: { count: 1, id: "artifacts:pocket_piston" } }
+		{ id: "02F43C1C3DA35347", item: { count: 1, id: "artifacts:vampiric_glove" } }
+		{ id: "364DE78764B81392", item: { count: 1, id: "artifacts:golden_hook" } }
+		{ id: "6A063F8984C8E0A1", item: { count: 1, id: "artifacts:onion_ring" } }
+		{ id: "6555D3F63935B312", item: { count: 1, id: "artifacts:pickaxe_heater" } }
+		{ id: "33BD6CFF60F6141D", item: { count: 1, id: "artifacts:withered_bracelet" } }
+		{ id: "2595120319CA900E", item: { count: 1, id: "artifacts:aqua_dashers" } }
+		{ id: "1455601AB6DD8418", item: { count: 1, id: "artifacts:bunny_hoppers" } }
+		{ id: "103AE74D4FA07445", item: { count: 1, id: "artifacts:eternal_steak" } }
+		{ id: "29C1F06E2CECC3C6", item: { count: 1, id: "artifacts:kitty_slippers" } }
+		{ id: "27281B086F4A368F", item: { count: 1, id: "artifacts:running_shoes" } }
+		{ id: "4FD03470E939CBDA", item: { count: 1, id: "artifacts:snowshoes" } }
+		{ id: "1398C601DF8A3A41", item: { count: 1, id: "artifacts:steadfast_spikes" } }
+		{ id: "3E30EED1BAC745F7", item: { count: 1, id: "artifacts:flippers" } }
+		{ id: "72E07DF56933E18D", item: { count: 1, id: "artifacts:rooted_boots" } }
+		{ id: "36ED89F24B3DC3D5", item: { count: 1, id: "artifacts:strider_shoes" } }
+		{ id: "1E02A0842EB1E2D5", item: { count: 1, id: "artifacts:whoopee_cushion" } }
+	]
+}

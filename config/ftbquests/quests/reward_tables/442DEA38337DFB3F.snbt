@@ -1,0 +1,142 @@
+{
+	id: "442DEA38337DFB3F"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "productive_bees"
+	}
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{ id: "432A70C22FB18431", item: { count: 1, id: "minecraft:echo_shard" } }
+		{ id: "5DCB1C5C2F7BE690", item: { count: 1, id: "alltheores:cinnabar_dust" } }
+		{ id: "72B4F6E8D1CF5F09", item: { count: 1, id: "minecraft:blaze_powder" } }
+		{ id: "5162645C5F6BA765", item: { count: 1, id: "productivebees:wax" } }
+		{ id: "0724887F7A80F6A7", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 4
+			id: "0191217D41A6DDB3"
+			item: {
+				count: 1
+				id: "minecraft:snowball"
+			}
+		}
+		{ id: "4994F7DC87CDEF7F", item: { count: 1, id: "minecraft:ice" } }
+		{ id: "0618250A9AC82BA1", item: { count: 1, id: "enderio:withering_powder" } }
+		{ id: "630F3ECD8647C88A", item: { count: 1, id: "fluxnetworks:flux_dust" } }
+		{ id: "220BCFF003AFAAD6", item: { count: 1, id: "mysticalagriculture:imperium_essence" } }
+		{ id: "0CD864F5287F4404", item: { count: 1, id: "allthemodium:allthemodium_nugget" } }
+		{ id: "12602AF1F5A5BEA5", item: { count: 1, id: "minecraft:wind_charge" } }
+		{ id: "31C9D831D5F6EB5E", item: { count: 1, id: "minecraft:glowstone_dust" } }
+		{ id: "5E353AD451152BC5", item: { count: 1, id: "minecraft:ghast_tear" } }
+		{ id: "37A13ECA7581754F", item: { count: 1, id: "draconicevolution:awakened_draconium_nugget" } }
+		{ id: "6BA91A897CF2EF8E", item: { count: 1, id: "bigreactors:inanite_ingot" } }
+		{ id: "6E2BFEEB9CE42197", item: { count: 1, id: "alltheores:iridium_nugget" } }
+		{ id: "343B10D77CB803F4", item: { count: 1, id: "enderio:energetic_alloy_nugget" } }
+		{ id: "309E0129F836FCAD", item: { count: 1, id: "bigreactors:magentite_ingot" } }
+		{ id: "451564621055AC41", item: { count: 1, id: "mysticalagradditions:insanium_essence" } }
+		{ id: "479ED13E553525D8", item: { count: 1, id: "minecraft:milk_bucket" } }
+		{ id: "075A0482611BB9C2", item: { count: 1, id: "productivebees:wither_skull_chip" } }
+		{ id: "1DDF9A2992924B96", item: { count: 1, id: "alltheores:raw_zinc" } }
+		{ id: "0035040EF8A2F65B", item: { count: 1, id: "bigreactors:ridiculite_ingot" } }
+		{ id: "34E967FF964ED9A6", item: { count: 1, id: "minecraft:prismarine_shard" } }
+		{ id: "764A7C1A58E13180", item: { count: 1, id: "minecraft:prismarine_crystals" } }
+		{ id: "1BDEDFCB1F862698", item: { count: 1, id: "minecraft:gunpowder" } }
+		{ id: "041F637FCE3210E9", item: { count: 1, id: "alltheores:fluorite" } }
+		{ id: "5AA81982CF2C6D47", item: { count: 1, id: "minecraft:red_mushroom" } }
+		{ id: "4E2DD510A3AFAE3D", item: { count: 1, id: "draconicevolution:small_chaos_frag" } }
+		{ id: "5721F39470320F0A", item: { count: 1, id: "draconicevolution:draconium_nugget" } }
+		{ id: "727EB5E113E37D8C", item: { count: 1, id: "ars_nouveau:water_essence" } }
+		{ id: "398F67833CE5C545", item: { count: 1, id: "ars_nouveau:source_gem" } }
+		{ id: "14118F4A0C323BB1", item: { count: 1, id: "minecraft:amethyst_shard" } }
+		{ id: "3BCF702054EA3736", item: { count: 1, id: "minecraft:raw_iron" } }
+		{ id: "2C05EE0279A8CF14", item: { count: 1, id: "alltheores:sapphire" } }
+		{ id: "5E3CF5F5433E65CC", item: { count: 1, id: "mysticalagriculture:inferium_essence" } }
+		{ id: "2C680A08CB003519", item: { count: 1, id: "mekanism:dust_refined_obsidian" } }
+		{ id: "1B04592BB72B70FF", item: { count: 1, id: "alltheores:raw_tin" } }
+		{ id: "5FB6B88531FEB177", item: { count: 1, id: "enderio:redstone_alloy_nugget" } }
+		{ id: "0C6E1254C425FA28", item: { count: 1, id: "mysticalagriculture:awakened_supremium_essence" } }
+		{ id: "11BE5CB084C2C6C1", item: { count: 1, id: "alltheores:sulfur" } }
+		{ id: "3715E1E351FDEF7A", item: { count: 1, id: "alltheores:ruby" } }
+		{ id: "06D535DA2BC613A8", item: { count: 1, id: "minecraft:lapis_lazuli" } }
+		{ id: "33A31243EAD3F012", item: { count: 1, id: "allthemodium:unobtainium_nugget" } }
+		{ id: "22382863E2780742", item: { count: 1, id: "minecraft:warped_fungus" } }
+		{ id: "7E83A9A6035B52F7", item: { count: 1, id: "minecraft:brown_mushroom" } }
+		{ id: "7A3CCEBD5183BEE4", item: { count: 1, id: "megacells:sky_bronze_ingot" } }
+		{ id: "2753060A9E97C758", item: { count: 1, id: "mysticalagriculture:prudentium_essence" } }
+		{ id: "4C8707807EA88406", item: { count: 1, id: "alltheores:raw_platinum" } }
+		{ id: "379CC522C4DF3FBE", item: { count: 1, id: "ars_nouveau:air_essence" } }
+		{ id: "07DF33957BFF8082", item: { count: 1, id: "ars_nouveau:earth_essence" } }
+		{ id: "4860E34BD65E7137", item: { count: 1, id: "rftoolsbase:dimensionalshard" } }
+		{ id: "6BC0724DE6E0BE46", item: { count: 1, id: "alltheores:constantan_nugget" } }
+		{ id: "43D19EA47A86E868", item: { count: 1, id: "enderio:end_steel_nugget" } }
+		{ id: "40CA1C73759BC5D7", item: { count: 1, id: "minecraft:redstone" } }
+		{ id: "03870FC3C59A7605", item: { count: 1, id: "powah:crystal_spirited" } }
+		{ id: "070D862B2D36CEB2", item: { count: 1, id: "minecraft:rotten_flesh" } }
+		{ id: "11835EADB3592ECD", item: { count: 1, id: "alltheores:steel_nugget" } }
+		{ id: "21FA9359AC0D4505", item: { count: 1, id: "minecraft:bone_meal" } }
+		{ id: "22A395B42C64BE63", item: { count: 1, id: "minecraft:string" } }
+		{ id: "062E0FF95A700E76", item: { count: 1, id: "minecraft:raw_copper" } }
+		{ id: "6608D89C5A3C3276", item: { count: 1, id: "mysticalagriculture:soulium_dust" } }
+		{ id: "0D85A83C1EB5832C", item: { count: 1, id: "enderio:dark_steel_nugget" } }
+		{ id: "0541CC701D3D368C", item: { count: 1, id: "alltheores:raw_aluminum" } }
+		{ id: "6147C5BD204162D2", item: { count: 1, id: "productivebees:draconic_dust" } }
+		{ id: "7058A0C1ED496716", item: { count: 1, id: "powah:steel_energized" } }
+		{ id: "7E0C7ADFC20EE756", item: { count: 1, id: "alltheores:enderium_nugget" } }
+		{ id: "48E6FFB95E62789B", item: { count: 1, id: "alltheores:signalum_nugget" } }
+		{ id: "7F0ADD65E3A5CD6C", item: { count: 1, id: "enderio:conductive_alloy_nugget" } }
+		{ id: "3D730FD0AE560024", item: { count: 1, id: "minecraft:slime_ball" } }
+		{ id: "381DB7B7F0D33883", item: { count: 1, id: "alltheores:bronze_nugget" } }
+		{ id: "4D35F73C9F9ABB9E", item: { count: 1, id: "minecraft:coal" } }
+		{ id: "6CFCAF00A37F49BF", item: { count: 1, id: "alltheores:raw_silver" } }
+		{ id: "0B8CAD4B2AE2FED9", item: { count: 1, id: "alltheores:salt" } }
+		{ id: "20B3C668663B7011", item: { count: 1, id: "alltheores:peridot" } }
+		{ id: "5D781CDD5684CA3E", item: { count: 1, id: "minecraft:crimson_fungus" } }
+		{ id: "45AA4DFA171FBE99", item: { count: 1, id: "tombstone:grave_dust" } }
+		{ id: "54B7ACBBF343811A", item: { count: 1, id: "enderio:grains_of_infinity" } }
+		{ id: "1B13180C6886A2CB", item: { count: 1, id: "alltheores:raw_uranium" } }
+		{ id: "1F3551C3E116E85D", item: { count: 1, id: "alltheores:electrum_nugget" } }
+		{ id: "5F1530850B6F0E2A", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "47F2AA176C2A44D7", item: { count: 1, id: "bigreactors:graphite_ingot" } }
+		{ id: "74088651BB1459F4", item: { count: 1, id: "ae2:certus_quartz_crystal" } }
+		{ id: "1C75BDDA9275459B", item: { count: 1, id: "enderio:conductive_alloy_nugget" } }
+		{ id: "265E4F86E5C7C1EA", item: { count: 1, id: "powah:uraninite_raw" } }
+		{ id: "6A7C90A781E7AC08", item: { count: 1, id: "megacells:sky_steel_ingot" } }
+		{ id: "56D2D33F4FD274B1", item: { count: 1, id: "enderio:vibrant_alloy_nugget" } }
+		{ id: "2FC39D0DD7CE8DCB", item: { count: 1, id: "minecraft:netherite_scrap" } }
+		{ id: "1B57BFB3012E49F8", item: { count: 1, id: "allthemodium:vibranium_nugget" } }
+		{ id: "5F56BC7CB841E260", item: { count: 1, id: "enderio:pulsating_alloy_nugget" } }
+		{ id: "113E475D02CCC99C", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ id: "00B44FA35C2C0CC5", item: { count: 1, id: "minecraft:magma_cream" } }
+		{ id: "56495FA6068C1DB0", item: { count: 1, id: "alltheores:raw_nickel" } }
+		{ id: "0D7332767B85E6EE", item: { count: 1, id: "ae2:fluix_crystal" } }
+		{ id: "3348C1E3A2F3F5E0", item: { count: 1, id: "alltheores:raw_osmium" } }
+		{ id: "3C99DAFE731A3347", item: { count: 1, id: "bigreactors:blutonium_ingot" } }
+		{ id: "72FA61E8C3EFD095", item: { count: 1, id: "bigreactors:insanite_ingot" } }
+		{ id: "3AEDC1B626E95E39", item: { count: 1, id: "alltheores:raw_lead" } }
+		{ id: "35A86B3D20D59E75", item: { count: 1, id: "mysticalagriculture:prosperity_shard" } }
+		{ id: "7830E1AF24857675", item: { count: 1, id: "powah:crystal_nitro" } }
+		{ id: "604F3EB305B1E2BE", item: { count: 1, id: "ars_nouveau:fire_essence" } }
+		{ id: "09840F9D5D1B364D", item: { count: 1, id: "mekanism:nugget_refined_glowstone" } }
+		{ id: "32C1F62734E7FB31", item: { count: 1, id: "alltheores:invar_nugget" } }
+		{ id: "4CD781905DE99B7E", item: { count: 1, id: "mysticalagriculture:supremium_essence" } }
+		{ id: "1190599A47EB0D08", item: { count: 1, id: "minecraft:quartz" } }
+		{ id: "3F99C8CD2E16A537", item: { count: 1, id: "bigreactors:cyanite_ingot" } }
+		{ id: "1BA235B6744C2F78", item: { count: 1, id: "alltheores:brass_nugget" } }
+		{ id: "325A06EDD87C780B", item: { count: 1, id: "minecraft:raw_gold" } }
+		{ id: "2A75D4357AAD864A", item: { count: 1, id: "bigreactors:benitoite_crystal" } }
+		{ id: "3764C91B0C16F364", item: { count: 1, id: "productivebees:obsidian_shard" } }
+		{ id: "322316831933F1AA", item: { count: 1, id: "bigreactors:anglesite_crystal" } }
+		{ id: "395B7DBFFBE26A6B", item: { count: 1, id: "powah:crystal_niotic" } }
+		{ id: "675CE95E663C98C2", item: { count: 1, id: "mysticalagriculture:tertium_essence" } }
+		{ id: "4FAB26ADA389D0DD", item: { count: 1, id: "alltheores:lumium_nugget" } }
+		{ id: "3976724D447F487A", item: { count: 1, id: "bigreactors:ludicrite_ingot" } }
+		{ id: "6176AFC0ECCEB808", item: { count: 1, id: "powah:crystal_blazing" } }
+		{ id: "056888F53BD74411", item: { count: 1, id: "enderio:soularium_nugget" } }
+		{ id: "205EEF8A20713E90", item: { count: 1, id: "minecraft:item_frame" } }
+	]
+}

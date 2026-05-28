@@ -1,0 +1,13 @@
+{
+	"id": "palladium_carbon_catalyst",
+	"color": [
+		-7829351,
+		-12303275
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

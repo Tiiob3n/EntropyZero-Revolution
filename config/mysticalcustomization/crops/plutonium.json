@@ -1,0 +1,26 @@
+{
+  "name": "Plutonium",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "mekanism:pellet_plutonium"
+  },
+  "colors": {
+    "flower": "1a3300",
+    "essence": "4ccc00",
+    "seeds": "2a5500"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:obsidian",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

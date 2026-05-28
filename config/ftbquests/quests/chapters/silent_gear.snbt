@@ -1,0 +1,297 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "silent_gear"
+	group: "2470E23D9A007D0B"
+	id: "746ADB2CC27DB4AE"
+	images: [{
+		height: 7.0d
+		image: "silentgems:block/aquamarine_glass"
+		rotation: 0.0d
+		width: 7.0d
+		x: 2.5d
+		y: 2.0d
+	}]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["54D85BE1F6D603B3"]
+			id: "72383B0D07B3A8D1"
+			rewards: [
+				{
+					id: "3B8AC42CA5E718A7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4F5643F2BD9DDE88"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4A4D5AC65ADFB505"
+				item: { count: 1, id: "silentgear:material_grader" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["22A3272B79729DBF"]
+			id: "24D5AE34100A9F4F"
+			rewards: [
+				{
+					id: "6FDC35083BE87874"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "381BF1B8319A0504"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5F4F994F7364E9DA"
+				item: { count: 1, id: "silentgear:salvager" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38CBB34F035D8B8E"]
+			id: "529285EBB598C14E"
+			rewards: [
+				{
+					id: "17FE168A729F5C06"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4619819A7EC82CE7"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "75443FB712B43C4F"
+				item: { count: 1, id: "silentgear:starlight_charger" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5C0B2D976675F194"]
+			id: "0251B78F54AA0065"
+			rewards: [
+				{
+					id: "040E7AA94AD48221"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51CB48FD7426ACED"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4C5D4E0191AADEE8"
+				item: { count: 1, id: "silentgear:alloy_forge" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["069D1618140F9821"]
+			id: "16F81BC774E68517"
+			rewards: [
+				{
+					id: "1888AA7BF885D1F3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FE365683FE3E0F6"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "72D21D81A4FCE8BD"
+				item: { count: 1, id: "silentgear:recrystallizer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "2AD90D0CD1AB26F9"
+			rewards: [
+				{
+					id: "7476E774D7E94077"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6778DDB86BA7D372"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "06CB3D9BFA00F767"
+				item: { count: 1, id: "silentgear:refabricator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "02767476055C3881"
+			rewards: [
+				{
+					id: "57D75F246A094202"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34A9D22E4587F047"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7BC7534A63DD380D"
+				item: { count: 1, id: "silentgear:metal_press" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "54D85BE1F6D603B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "413E9D56C3137B97"
+				table_id: 3826233654310928553L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7A65090E1D9B047B"
+				item: { count: 1, id: "silentgear:advanced_upgrade_base" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["54D85BE1F6D603B3"]
+			id: "1BFA2006D2EF603E"
+			rewards: [
+				{
+					id: "2BD848BB0A28A3BE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "228869969D23B7B5"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6FB5D307E3EBAA95"
+				item: { count: 1, id: "silentgear:magnetic_upgrade" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["54D85BE1F6D603B3"]
+			id: "213B804634A6940B"
+			rewards: [
+				{
+					id: "51B9F2EB982F3B68"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EA46318F9A6428B"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "24EFBC3ECE7308D9"
+				item: { count: 1, id: "silentgear:spoon_upgrade" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["54D85BE1F6D603B3"]
+			id: "476281A43922A6C4"
+			rewards: [
+				{
+					id: "121C3D6836C97917"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "594BBB0A9E20BBBB"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0A32D41EE7854FF2"
+				item: { count: 1, id: "silentgear:road_maker_upgrade" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["54D85BE1F6D603B3"]
+			id: "449D8AE964030703"
+			rewards: [
+				{
+					id: "02444DAAC51404E0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A9F8CD78D201ED4"
+					table_id: 3826233654310928553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "51610B2252AD34B0"
+				item: { count: 1, id: "silentgear:wide_plate_upgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+	]
+}

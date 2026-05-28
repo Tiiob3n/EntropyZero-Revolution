@@ -1,0 +1,2605 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "industrial_upgrade"
+	group: "2470E23D9A007D0B"
+	icon: {
+		components: {
+			"industrialupgrade:data": { }
+		}
+		id: "industrialupgrade:molecular/molecular"
+	}
+	id: "62324C44DAD61809"
+	images: [
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/plains_bee"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 21.0d
+			x: 10.5d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 5.0d
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 6.0d
+			x: -6.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 6.0d
+			x: -2.0d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 4.0d
+			x: -5.0d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 7.0d
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "industrialupgrade:item/gold_cable_0"
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.5d
+			y: 3.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2825DC10B617395B"]
+			id: "7BB7D0291076C3C1"
+			rewards: [{
+				id: "3390E1C2DFA52E97"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "03DCB99E951D7BC7"
+				item: { count: 1, id: "industrialupgrade:sapling/rubber_sapling" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "29C31B6AA26AEC26"
+			rewards: [{
+				id: "3738CEB2120DC160"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "70A6DC2E6E45A2F8"
+				item: { count: 1, id: "industrialupgrade:block_anvil/block_anvil" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "0FB791BB60251B17"
+			rewards: [{
+				id: "781AFD0D3AE5A5D3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "76CC96BB6A6D0000"
+				item: { count: 1, id: "industrialupgrade:block_strong_anvil/block_strong_anvil" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["29C31B6AA26AEC26"]
+			id: "053BEBB292F7C066"
+			rewards: [{
+				id: "642C93EBEA7F5C7A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B78B93DBA59F3D6"
+				item: { count: 1, id: "industrialupgrade:basemachine3/rolling_machine" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5B38DEFD886FE5C8"]
+			id: "13239F0FC388452D"
+			rewards: [{
+				id: "42C99A15627F18C6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "71B6B5B52FEC293B"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_rolling" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B141BACF509A221"]
+			id: "6A71CD20CD033B1F"
+			rewards: [{
+				id: "2F082BFB2417EE88"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6F3C4E7FE77D0C8A"
+				item: { count: 1, id: "industrialupgrade:basemachine3/bio_rolling" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"053BEBB292F7C066"
+				"601A2E301BBB49D0"
+			]
+			id: "6B9266978E68B7CD"
+			rewards: [{
+				id: "72C732DBE2652EFD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2397E9666AC18AA2"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine2/rolling" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6B9266978E68B7CD"]
+			id: "1F8FD34669B2AA89"
+			rewards: [{
+				id: "04A9F1F0FCEA3C9E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0BC7FC285019FF65"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine2/double_rolling" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1F8FD34669B2AA89"]
+			id: "1C4ACEF102823FAB"
+			rewards: [{
+				id: "38CA73706CCC7CE6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "24A0AE804D5C7738"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine2/triple_rolling" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1C4ACEF102823FAB"]
+			id: "2896B6983990DC18"
+			rewards: [{
+				id: "03B7A502484683B6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "57982FF6FDA7A43F"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine2/quad_rolling" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2896B6983990DC18"]
+			id: "490629E925787853"
+			rewards: [{
+				id: "5C00693EFF06AC92"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "00CF48B4BA6F6A9F"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:photonic_machine/photonic_rolling" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3386D99F10A99444"]
+			id: "6632A469FD50DBAD"
+			rewards: [{
+				id: "7DB256731976C4C6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5742429C592927B9"
+				item: { count: 1, id: "industrialupgrade:adv_se_gen/adv_se_gen" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1B5938C0874EC2E3"]
+			id: "7204B4989F41CB66"
+			rewards: [{
+				id: "1C93F49EC99B97ED"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1E7C453C0FFFFF70"
+				item: { count: 1, id: "industrialupgrade:basemachine3/solar_iu" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7204B4989F41CB66"]
+			id: "49835BEEB9371D68"
+			rewards: [{
+				id: "5321D751B2581386"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "104EF11A5F130BE4"
+				item: { count: 1, id: "industrialupgrade:machines/advanced_solar_paneliu" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["49835BEEB9371D68"]
+			id: "0259AD3CAE62DE3F"
+			rewards: [{
+				id: "6E82CCD8F6FB0CFF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "001C1BFA9AC85C65"
+				item: { count: 1, id: "industrialupgrade:machines/hybrid_solar_paneliu" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0259AD3CAE62DE3F"]
+			id: "1DBBA280BAEA4C81"
+			rewards: [{
+				id: "37B262BFD445DDEC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "562D3987F15835E2"
+				item: { count: 1, id: "industrialupgrade:machines/ultimate_solar_paneliu" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1DBBA280BAEA4C81"]
+			id: "703FC7A7402BF104"
+			rewards: [{
+				id: "64A8045EA929CC8C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "60B61DAF4A8E0092"
+				item: { count: 1, id: "industrialupgrade:machines/quantum_solar_paneliu" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["703FC7A7402BF104"]
+			id: "671682818CDD95AA"
+			rewards: [{
+				id: "425A31561B55107A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E2375F10AFC16DB"
+				item: { count: 1, id: "industrialupgrade:machines/spectral_solar_panel" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["671682818CDD95AA"]
+			id: "7F6E42F7D146ECED"
+			rewards: [{
+				id: "0016B66D98006130"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D743F3BF953E9DB"
+				item: { count: 1, id: "industrialupgrade:machines/proton_solar_panel" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7F6E42F7D146ECED"]
+			id: "2F9D740992E3B259"
+			rewards: [{
+				id: "26633950688B072A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6976B3D84EFDB535"
+				item: { count: 1, id: "industrialupgrade:machines/singular_solar_panel" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2F9D740992E3B259"]
+			id: "7D2603666410E724"
+			rewards: [{
+				id: "00A69AF8BF59D567"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "53DEC4D6D430DBB5"
+				item: { count: 1, id: "industrialupgrade:machines/admin_solar_panel" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7D2603666410E724"]
+			id: "6170FF13642D4C49"
+			rewards: [{
+				id: "06AD988B40B3F1FA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E49233BD45A2D05"
+				item: { count: 1, id: "industrialupgrade:machines/photonic_solar_panel" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6170FF13642D4C49"]
+			id: "526E88E5BF2E0991"
+			rewards: [{
+				id: "0DD63731FF92161F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4A3A0D599DA037CD"
+				item: { count: 1, id: "industrialupgrade:machines/neutronium_solar_panel" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["526E88E5BF2E0991"]
+			id: "7B5CA2F4364944E2"
+			rewards: [{
+				id: "1D7859A18C95A592"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5B61C1873666F593"
+				item: { count: 1, id: "industrialupgrade:machines/barion_solar_panel" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7B5CA2F4364944E2"]
+			id: "487771B2D46CCC55"
+			rewards: [{
+				id: "7A993BA3D25F1791"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7EB4B8214F228574"
+				item: { count: 1, id: "industrialupgrade:machines/hadron_solar_panel" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["487771B2D46CCC55"]
+			id: "064D70F227CDB15A"
+			rewards: [{
+				id: "1D883EC6CA09E303"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "37BBC8439E480AC3"
+				item: { count: 1, id: "industrialupgrade:machines/graviton_solar_panel" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["064D70F227CDB15A"]
+			id: "2DB7B67CA046AE9D"
+			rewards: [{
+				id: "6DC3F1A23D6BC36F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E1EFF35FBE1C4F5"
+				item: { count: 1, id: "industrialupgrade:machines/quark_solar_panel" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "1B5938C0874EC2E3"
+			rewards: [{
+				id: "65AFF7ACC4F16A63"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6AD1674EEAE0FC99"
+				item: { count: 1, id: "industrialupgrade:basemachine3/generator_iu" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "22DF3E0E6AA8BD3A"
+			rewards: [{
+				id: "690FB20770F999CF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "092CF93AC74063E4"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:simplemachine/macerator_iu" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"2F5ABCCB75E9B671"
+				"5B38DEFD886FE5C8"
+			]
+			id: "50B769FE35EFCA2E"
+			rewards: [{
+				id: "0C5289B6E67829D3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "410647F2C198F81F"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_macerator" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["29C31B6AA26AEC26"]
+			id: "2F5ABCCB75E9B671"
+			rewards: [{
+				id: "21F1D6908028606E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "184B8D234CC29CB1"
+				item: { count: 1, id: "industrialupgrade:macerator/macerator" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "0E9B5A4B913ED51C"
+			rewards: [{
+				id: "4EF1041F81132FDF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65D0B154B6EE8A5A"
+				item: { count: 1, id: "industrialupgrade:compressor/compressor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"015AD2AB01E56AD8"
+				"601A2E301BBB49D0"
+			]
+			id: "63374595AF154A6E"
+			rewards: [{
+				id: "0456504F17B2CF4A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0F2CCA97D21B7D5F"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:simplemachine/compressor_iu" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["63374595AF154A6E"]
+			id: "4816FFD985993F2D"
+			rewards: [{
+				id: "06E0E640D7541339"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1059B4BB98310C20"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine/double_commpressor" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4816FFD985993F2D"]
+			id: "314F0A1351D32F1B"
+			rewards: [{
+				id: "2A3C2E597F4B9C64"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "29763BE139475238"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine/triple_commpressor" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["314F0A1351D32F1B"]
+			id: "0B170F2E6829D4D5"
+			rewards: [{
+				id: "6C1C124C63BFE603"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "455E75D6E96BA1DA"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine/quad_commpressor" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0B170F2E6829D4D5"]
+			id: "3AE390D36117CF04"
+			rewards: [{
+				id: "132DA0E5D85CCD46"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "52333CAD9C10552E"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:photonic_machine/photonic_compressor" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0B141BACF509A221"]
+			id: "741F091636C95F83"
+			rewards: [{
+				id: "0BEBC79D013BFE06"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0BD4AC4A3B228E7F"
+				item: { count: 1, id: "industrialupgrade:basemachine3/bio_compressor" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0E9B5A4B913ED51C"]
+			id: "015AD2AB01E56AD8"
+			rewards: [{
+				id: "1DE368182435BB67"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "284B8DDB1850C165"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_compressor" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "193BE7DC7EB791BF"
+			rewards: [{
+				id: "6D3C70369934B474"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "26462032763EB7EC"
+				item: { count: 1, id: "industrialupgrade:basemachine3/ender_assembler" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "66B7AA9B17CE17FF"
+			rewards: [{
+				id: "405BE9DCD5C59222"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7963FAA2B470D246"
+				item: { count: 1, id: "industrialupgrade:basemachine3/aer_assembler" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "60E00DB0E6DB29F9"
+			rewards: [{
+				id: "5847D951B59D2DBA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "77924D9FC2A21445"
+				item: { count: 1, id: "industrialupgrade:basemachine3/aqua_assembler" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "360B6F4FEF3B1C1F"
+			rewards: [{
+				id: "751DCF1E4555AC81"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4CB9521BB789DED5"
+				item: { count: 1, id: "industrialupgrade:basemachine3/earth_assembler" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "2F1E4F55F8CABC68"
+			rewards: [{
+				id: "3CAACE305F625604"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B1F4449BCEFA4F2"
+				item: { count: 1, id: "industrialupgrade:basemachine3/nether_assembler" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["12708AA45F4971C7"]
+			id: "080EC35DC40BC769"
+			rewards: [{
+				id: "22E1BF55EE92A431"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4DA473C64DEC008D"
+				item: { count: 1, id: "industrialupgrade:basemachine3/neutronseparator" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["33B1EB8C983CCEDF"]
+			id: "17565C11EC897090"
+			rewards: [{
+				id: "15E35B875BA01653"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3D2A31A149A79D13"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steampressureconverter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["33B1EB8C983CCEDF"]
+			id: "0898ED1559F4E604"
+			rewards: [{
+				id: "63C58126A029D5FA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2F732BAB8CC5D086"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_converter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5B38DEFD886FE5C8"]
+			id: "1B98ED7DE24BF755"
+			rewards: [{
+				id: "1E60CF870939D188"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5EFA403A6057A52C"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_ampere_generator" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E05F9F528FD7D36"]
+			id: "30583CA5CDA2803F"
+			rewards: [{
+				id: "4C734FAC00DA1FD4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10D34819EB3DC10B"
+				item: { count: 1, id: "industrialupgrade:basemachine3/quantum_transformer" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "15000396C80A4BE0"
+			rewards: [{
+				id: "7AE9ECDDD0903655"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6223C51820866E39"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/ampere_generator" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "3B258C9BC7E9BC2F"
+			rewards: [{
+				id: "11D40FB120B6B0E9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "495F7C80EEA99E27"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:molecular/molecular" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["3B258C9BC7E9BC2F"]
+			id: "1E05F9F528FD7D36"
+			rewards: [{
+				id: "34BECEAB1A4F2347"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7108A5A8F140AB2B"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:double_transformer/double_transformer" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: [
+				"6B9266978E68B7CD"
+				"1F8FD34669B2AA89"
+				"1C4ACEF102823FAB"
+				"490629E925787853"
+				"2896B6983990DC18"
+			]
+			id: "20D2C540DAF1E520"
+			rewards: [{
+				id: "6E76EF110673ACB3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "090D856CB01EF7DF"
+				item: { count: 1, id: "industrialupgrade:medium_current_converter_to_low" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["20D2C540DAF1E520"]
+			id: "17B3DE69DFDD886A"
+			rewards: [{
+				id: "108E56E32ED4E8CA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4DEB998A8BC8BA26"
+				item: { count: 1, id: "industrialupgrade:high_current_converter_to_low" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["17B3DE69DFDD886A"]
+			id: "5B72BE3F2CE493B0"
+			rewards: [{
+				id: "6546666424D6ACD9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01277EB3AD4C76FB"
+				item: { count: 1, id: "industrialupgrade:extreme_current_converter_to_low" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["40FFC34462C82ADE"]
+			id: "7133E81549698A9F"
+			rewards: [{
+				id: "2C3270FF81F67062"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E90304D96FE9086"
+				item: { count: 1, id: "industrialupgrade:energy_tools/nanoshovel" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["40FFC34462C82ADE"]
+			id: "7AFEC697020AFD6A"
+			rewards: [{
+				id: "76B9381AC7297904"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F3AD2D9E4447DB4"
+				item: { count: 1, id: "industrialupgrade:energy_tools/nanopickaxe" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"7133E81549698A9F"
+				"7AFEC697020AFD6A"
+			]
+			id: "28BD0D60472EDBE2"
+			rewards: [{
+				id: "5CD6BFEC30B21B4B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "02AD3AAE99188ABA"
+				item: { count: 1, id: "industrialupgrade:energy_tools/nanodrill" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["40FFC34462C82ADE"]
+			id: "5B123D2405A244E2"
+			rewards: [{
+				id: "2CE79A03CC2AB2DB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3EF71ED78463F834"
+				item: { count: 1, id: "industrialupgrade:energy_tools/nanoaxe" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			id: "41C21E55FC64B06A"
+			rewards: [{
+				id: "75DDDF25F3C20BD4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "51D8139A9D01C52C"
+				item: { count: 1, id: "industrialupgrade:energy_tools/nano_bow" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["062DE39210178F74"]
+			id: "4874899C00B60B4E"
+			rewards: [{
+				id: "6A0DFF2EF96A8547"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "369C2817369DAEB0"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_helmet" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["062DE39210178F74"]
+			id: "33423C15CC745511"
+			rewards: [{
+				id: "410516AB35165090"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2B4EE39CD435084F"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_leggings" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["062DE39210178F74"]
+			id: "1AFAF319C1AF4482"
+			rewards: [{
+				id: "2E562491D5908AA8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "521046931EB58F78"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_chestplate" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["062DE39210178F74"]
+			id: "0D635B7EBE95A9F5"
+			rewards: [{
+				id: "57D8A372B0367316"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "33AC6C716B65BB0F"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_boots" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["22EBD70175E193D2"]
+			id: "405C006EE30B978C"
+			rewards: [{
+				id: "0C891979510C1144"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "267226C1409A4940"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_boots" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["71072A63587910D5"]
+			id: "7D782C7F0FBBB649"
+			rewards: [{
+				id: "2739C262177CEFF3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4BF0F5E954773C45"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_helmet" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["11140C6163B99469"]
+			id: "324AA20711F393FD"
+			rewards: [{
+				id: "1C51A1F85EE5FC5D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "76464F83026738DF"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_chestplate" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5B5F0BCA637068BD"]
+			id: "48A90BA35FA2D5FB"
+			rewards: [{
+				id: "13E0B0F6BE253734"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "457166DA35F03B4C"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_leggings" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["405C006EE30B978C"]
+			id: "5C18CE1FF2F1BCAD"
+			rewards: [{
+				id: "618E73B62AD80985"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "50D3B758ED992DEB"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_boots" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["324AA20711F393FD"]
+			id: "4F168581C2B4AC14"
+			rewards: [{
+				id: "30F05309CAE87CF4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3E0E6486DD1C7144"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_chestplate" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["48A90BA35FA2D5FB"]
+			id: "692518B1B6E3D3C9"
+			rewards: [{
+				id: "09149BEDC56B1684"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D082B7614692F82"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_leggings" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7D782C7F0FBBB649"]
+			id: "26F7F43FC01E98B5"
+			rewards: [{
+				id: "53C388FCA93A7762"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "259D4219C00CEF13"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_helmet" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "772172FA261E497A"
+			rewards: [{
+				id: "11C411DC5E264D10"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "630AE81A0F5954E1"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine/generator_microchip" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "231E492A75E4C609"
+			rewards: [{
+				id: "7FACD535B477BD48"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "700C91DF7C3928D2"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine1/gen_wither" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "753CE02246EB73E7"
+			rewards: [{
+				id: "7475DD7FDA9D3366"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "201EEE10DF642CDF"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/reactor_rod_factory" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "3A711C8A5E6C50FC"
+			rewards: [{
+				id: "31330DFF34900E36"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "056A8830FCE19570"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/upgrade_machine" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "000FBDE2E739BECD"
+			rewards: [{
+				id: "2887C43BD88092C6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "471A00DF0A5F0324"
+				item: { count: 1, id: "industrialupgrade:basemachine1/enrichment" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "5F10ECE908E87B98"
+			rewards: [{
+				id: "2CCFDFD5A9FED237"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "26FCE33821B6A51D"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine2/plastic_creator" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["24DAB8D76534A0F5"]
+			id: "080D759DAAB5BA7C"
+			rewards: [{
+				id: "3B241E8ECE6BFF32"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65EC7877F396C759"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine/adv_matter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["080D759DAAB5BA7C"]
+			id: "7F73D4437321249F"
+			rewards: [{
+				id: "2DAC5CDB708E2C21"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65D5F5DDBDFD0CF4"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine/imp_matter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7F73D4437321249F"]
+			id: "213218C8D8D5EBBC"
+			rewards: [{
+				id: "72D1F05BC9AB22F0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F324629E9056E41"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine/per_matter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["24DAB8D76534A0F5"]
+			id: "0B39D28A9D8B3713"
+			rewards: [{
+				id: "70FAB25C5DD6933F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "366C3E48B1B6D1AE"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine2/combiner_matter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "13A07642B130D183"
+			rewards: [{
+				id: "2759949C0F8DAD9E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "23BEA6CB4B57E956"
+				item: { count: 1, id: "industrialupgrade:basemachine3/matter_collector" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "24DAB8D76534A0F5"
+			rewards: [{
+				id: "0A3A696AF91B6B0A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3C48C76F5CA0EAC0"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:simplemachine/generator_matter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "15043D3EB59FE68E"
+			rewards: [{
+				id: "04ECB3B00554194C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5F99C8FDD9B603E5"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:photonic_machine/photonic_gen_matter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "31E07CEB32E7B3D6"
+			rewards: [{
+				id: "0FDD69C5AA968E89"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D94506FAA2FB05A"
+				item: { count: 1, id: "industrialupgrade:solid/aer_solidmatter" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "152633C4AC51D5DA"
+			rewards: [{
+				id: "4BDAE91947BE01BB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "32522763F621A40B"
+				item: { count: 1, id: "industrialupgrade:solid/aqua_solidmatter" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "0E13114DC3D842BD"
+			rewards: [{
+				id: "475668784759E67F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "418DDA11709B60E5"
+				item: { count: 1, id: "industrialupgrade:solid/earth_solidmatter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "0B60BD31493EBF2C"
+			rewards: [{
+				id: "5817A63F5B979EFD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0EE892D9FD13DC81"
+				item: { count: 1, id: "industrialupgrade:solid/end_solidmatter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "61B64A0BB8C77FD7"
+			rewards: [{
+				id: "2B71878AFD412076"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2CA63E6D48AC6859"
+				item: { count: 1, id: "industrialupgrade:solid/solidmatter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "42AEB0B1A3308B8A"
+			rewards: [{
+				id: "7F80C2AE69BFE6B6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1FBC8481A10158EA"
+				item: { count: 1, id: "industrialupgrade:solid/nether_solidmatter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "4709493A82159AE1"
+			rewards: [{
+				id: "3F2DF3A13DAC90EC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "201F64C7E64861BA"
+				item: { count: 1, id: "industrialupgrade:solid/night_solidmatter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["213218C8D8D5EBBC"]
+			id: "20B18033D32EAE40"
+			rewards: [{
+				id: "1D50451BEC99F902"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6C1160D300FA19C2"
+				item: { count: 1, id: "industrialupgrade:solid/sun_solidmatter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "12708AA45F4971C7"
+			rewards: [{
+				id: "35D0A9A1D093EBBE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2A90AA167D948C91"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:converter_matter/converter_matter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"213218C8D8D5EBBC"
+				"080D759DAAB5BA7C"
+				"15043D3EB59FE68E"
+				"24DAB8D76534A0F5"
+				"7F73D4437321249F"
+			]
+			id: "7E33ACD6C671CADD"
+			rewards: [{
+				id: "7EC28A7DB9F21BE4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "543B09FC4D809D7C"
+				item: { count: 1, id: "industrialupgrade:bucket/uu_matter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7204B4989F41CB66"]
+			id: "3386D99F10A99444"
+			rewards: [{
+				id: "5AA5FCD7B6772E2D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2C14DDE6C65AEA3F"
+				item: { count: 1, id: "industrialupgrade:se_gen/se_gen" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7A43DEA898661C62"]
+			id: "7B8044CBB3A0D010"
+			rewards: [{
+				id: "2255B5E81A942CBC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5C2823A7D8BEEED9"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:gen_sunnarium/gen_sunnarium" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "7A43DEA898661C62"
+			rewards: [{
+				id: "7D7E4CA7BC456E92"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0DC5F01C32A55CD0"
+				item: { count: 1, id: "industrialupgrade:gen_sunnarium_plate/gen_sunnarium_plate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "6143788629C50DB2"
+			rewards: [{
+				id: "34F359C67A084D50"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "58300A2BAE36015B"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/solarium_storage" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6143788629C50DB2"]
+			id: "740C1E7DAD6B0309"
+			rewards: [{
+				id: "2843E6CB0C258B59"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "45E16F05CADA6981"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/adv_solarium_storage" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "436EB5ACF7389179"
+			rewards: [{
+				id: "7F98B73BDC5FB655"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "460439EEF83A4D7F"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/farmer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["436EB5ACF7389179"]
+			id: "1C41E20FD9646F21"
+			rewards: [{
+				id: "19DA12D74780C5FA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3FB1B4A9F4C518E6"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/double_farmer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["1C41E20FD9646F21"]
+			id: "0B778647082BB7DD"
+			rewards: [{
+				id: "726BE440401CD0D1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0DB93198DF3EEC4F"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/triple_farmer" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0B778647082BB7DD"]
+			id: "7E692721A9D35B2C"
+			rewards: [{
+				id: "29DB95E68DD728E3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "54D1EBAB59568C04"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/quad_farmer" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["7E692721A9D35B2C"]
+			id: "6DFC57A9EFF76A8F"
+			rewards: [{
+				id: "1B17566654EAFEA6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7814DBFC53501018"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:photonic_machine/photonic_fermer" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["29C31B6AA26AEC26"]
+			id: "601A2E301BBB49D0"
+			rewards: [{
+				id: "76FAACFF4FB7EB41"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "62CE95EFB22A5C38"
+				item: { count: 1, id: "industrialupgrade:blockresource/machine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "40AFA920CAE85B9E"
+			rewards: [{
+				id: "70C286CC865DE6E3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "24E52CF2424813F7"
+				item: { count: 1, id: "industrialupgrade:blockresource/advanced_machine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["740C1E7DAD6B0309"]
+			id: "4C407BA9BA30BB02"
+			rewards: [{
+				id: "4109A0925EECFB14"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0503F6200F8966E0"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/imp_solarium_storage" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["4C407BA9BA30BB02"]
+			id: "7DEC90E6B2E7518A"
+			rewards: [{
+				id: "05AA95780FB9A857"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "77C6782F300FD058"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/per_solarium_storage" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7D88FD658DC04138"]
+			id: "734CC798603B9A6D"
+			rewards: [{
+				id: "0D22F1C3C15D156A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68ECA381607E6209"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:wiring_storage/adv_mfsu" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["734CC798603B9A6D"]
+			id: "38DF92850FAE4844"
+			rewards: [{
+				id: "676F49FC58981EB4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "488612D048899F43"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:wiring_storage/ult_mfsu" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["5B1AD4918CE4AEC7"]
+			id: "7D88FD658DC04138"
+			rewards: [{
+				id: "749D8C126D3D7C1A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "56CF8403FE653C5A"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:wiring_storage/mfsu_iu" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["4AB61B5417BC755C"]
+			id: "5B1AD4918CE4AEC7"
+			rewards: [{
+				id: "37BCA1B1B3EC9B0E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "50E429C86C9AAA90"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:wiring_storage/mfe_iu" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["0F2F1E92B91AC828"]
+			id: "4AB61B5417BC755C"
+			rewards: [{
+				id: "28C650BB5EF4D150"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3C1AC3493923FDCD"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:wiring_storage/cesu_iu" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.5d
+		}
+		{
+			id: "0F2F1E92B91AC828"
+			rewards: [{
+				id: "57F267E52FBF4AB4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5841C2B702187C7F"
+				item: { components: { "industrialupgrade:data": { energy: 40000.0d } }, count: 1, id: "industrialupgrade:wiring_storage/batbox_iu" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "4230E7DE0E17D209"
+			rewards: [{
+				id: "389D674D3E072C09"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "71B403C0B4F700E0"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/crystal_charge" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "5D589FF5ECD91153"
+			rewards: [{
+				id: "08D6565F77D47B8A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "242C0BD2744F49F6"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine/generator_microchip" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["66D580E1431C8B70"]
+			id: "3A77BE6DD15F95EE"
+			rewards: [{
+				id: "0CF3F7DE4EF4398A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4724B5ECC9BF5C52"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/laser_polisher" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["2628A2FF5ECE4CC2"]
+			id: "66D580E1431C8B70"
+			rewards: [{
+				id: "5B8FA38407BCED54"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5CEC7581E5080060"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steam_sharpener" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.5d
+		}
+		{
+			id: "2628A2FF5ECE4CC2"
+			rewards: [{
+				id: "3EFC846BEB382E94"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "043E93510EF1A523"
+				item: { count: 1, id: "industrialupgrade:primal_laser_polisher/primal_laser_polisher" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.5d
+		}
+		{
+			id: "63EDB4EA2F68EB08"
+			rewards: [{
+				id: "727323675AA2190A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "70A89D1C59E81904"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/batpack" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 18.5d
+		}
+		{
+			id: "1F72C68B466D8263"
+			rewards: [{
+				id: "0A43BEE5BFCA1688"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "750924376AE595A3"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/advanced_batpack" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 17.5d
+		}
+		{
+			id: "649D03CD81C8A578"
+			rewards: [{
+				id: "720F1DFE561B2229"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "508D79678147AF2C"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/lappack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["649D03CD81C8A578"]
+			id: "7C1653D036AA28DA"
+			rewards: [{
+				id: "39B3D1B42CB9C47A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5DE07C8AB09BEBFD"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_lappack" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7C1653D036AA28DA"]
+			id: "3B07AEBC04B88873"
+			rewards: [{
+				id: "438869411DCC3E71"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "18A2B2A6B7F499BD"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/imp_lappack" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["3B07AEBC04B88873"]
+			id: "738D11E97D701D7D"
+			rewards: [{
+				id: "02636981392C3E37"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "113808C9A7AA7277"
+				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/per_lappack" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["0F2F1E92B91AC828"]
+			id: "181C54F135B195DD"
+			rewards: [{
+				id: "5878EC87D671628D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "708FE31CEF0B5799"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/jetpack" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["2797D01B829854F1"]
+			id: "724440F52A6EA2B5"
+			rewards: [{
+				id: "455567CA133E9C01"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1A41F1355ECBC056"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/perjetpack" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["1A462B07A34DD15F"]
+			id: "2797D01B829854F1"
+			rewards: [{
+				id: "1F0060EC3D6B5D38"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69E1498013A848EB"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/impjetpack" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["181C54F135B195DD"]
+			id: "1A462B07A34DD15F"
+			rewards: [{
+				id: "579CAEFE049CD986"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10C3A2A3264821B7"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/advjetpack" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 17.5d
+		}
+		{
+			id: "2B1C12EEF388D76D"
+			rewards: [{
+				id: "3F1A9DB579D04503"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E243EABB7F6F6D7"
+				item: { count: 1, id: "industrialupgrade:crop/crop" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["601A2E301BBB49D0"]
+			id: "7E6329731E5C627D"
+			rewards: [{
+				id: "25E44BC4467A6586"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "54A64DDC286C7C31"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/assamplerscrap" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7E6329731E5C627D"]
+			id: "259969FD59EE4D21"
+			rewards: [{
+				id: "499DB4B3BA66236E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E2DD1969A2E809D"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/double_assamplerscrap" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["259969FD59EE4D21"]
+			id: "1A6D4A3052D47029"
+			rewards: [{
+				id: "66AF17A5312F2A88"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "714BFFA5F4837C54"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/triple_assamplerscrap" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1A6D4A3052D47029"]
+			id: "371DABC29D06CD8C"
+			rewards: [{
+				id: "6BAD36A3E9889CF4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "50C2DDBC2592E080"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:moremachine3/quad_assamplerscrap" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["371DABC29D06CD8C"]
+			id: "2F763988F753D0C6"
+			rewards: [{
+				id: "004825569D7B17F7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10A0110DFE593717"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:photonic_machine/photonic_assembler" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5B38DEFD886FE5C8"]
+			id: "33B1EB8C983CCEDF"
+			rewards: [{
+				id: "1B315758BAEABB2D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "723D7ED18875D4B1"
+				item: { count: 1, id: "industrialupgrade:basemachine3/steamboiler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "5B38DEFD886FE5C8"
+			rewards: [{
+				id: "647D4BD5749F65F5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B61FBBB16C5DE9E"
+				item: { count: 1, id: "industrialupgrade:blockresource/steam_machine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "58CF284EE106C01C"
+			rewards: [{
+				id: "5940144417900FC6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1C4890D3A989A5D2"
+				item: { components: { "industrialupgrade:data": { } }, count: 1, id: "industrialupgrade:basemachine3/rocket_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["40AFA920CAE85B9E"]
+			id: "2C728685D5DA7318"
+			rewards: [{
+				id: "0EF5927738E944AE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "02F3D6320494997E"
+				item: { count: 1, id: "industrialupgrade:basemachine3/rocket_launch_pad" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["58CF284EE106C01C"]
+			id: "05E6DD2D0E0E036F"
+			rewards: [{
+				id: "7DBB7F4F1B316FB9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "038956B50311C959"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:rover/rocket" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["58CF284EE106C01C"]
+			id: "2C50F8513CF8D08A"
+			rewards: [{
+				id: "1F15288560378EA3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "56169E3FD3822712"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:rover/adv_rocket" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["58CF284EE106C01C"]
+			id: "06F4F240187D6947"
+			rewards: [{
+				id: "58DD5DC7F1C8CBAD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3ABBC0DA185ADE6D"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:rover/imp_rocket" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["58CF284EE106C01C"]
+			id: "73BD091BC7D12C95"
+			rewards: [{
+				id: "052AA3AC0E10BD08"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A7FD47BEC23DCA4"
+				item: { components: { "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:rover/per_rocket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			id: "062DE39210178F74"
+			rewards: [{
+				id: "2F88C1CB5B2A8F7F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "451A0B648610B4B4"
+				item: { count: 1, id: "industrialupgrade:battery/energy_crystal" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["062DE39210178F74"]
+			id: "40FFC34462C82ADE"
+			rewards: [{
+				id: "5D442C1FAD5BD121"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6025960BB92069F8"
+				item: { count: 1, id: "industrialupgrade:crafting_elements/crafting_524_element" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4874899C00B60B4E"]
+			id: "71072A63587910D5"
+			rewards: [{
+				id: "3F50F2A187D7FCE7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "75AFD05EA86344D2"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_helmet" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1AFAF319C1AF4482"]
+			id: "11140C6163B99469"
+			rewards: [{
+				id: "4ABB88E1BD0F60BD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6DE7114A72FDBAD8"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_chestplate" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33423C15CC745511"]
+			id: "5B5F0BCA637068BD"
+			rewards: [{
+				id: "66EB6C1AB8E3072B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "642C1CF7312B4283"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_leggings" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0D635B7EBE95A9F5"]
+			id: "22EBD70175E193D2"
+			rewards: [{
+				id: "246A9406FBA6F4B8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "110C09467A445AB2"
+				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_boots" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["46F0D169929AFA1F"]
+			id: "0B141BACF509A221"
+			rewards: [{
+				id: "5DA69AFA6748A947"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "09F0C71B3C055A26"
+				item: { count: 1, id: "industrialupgrade:blockresource/bio_machine" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			id: "46F0D169929AFA1F"
+			rewards: [{
+				id: "799E2B7014B3D15C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "382F92743226401C"
+				item: { count: 1, id: "industrialupgrade:crafting_elements/crafting_295_element" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			id: "6123936B3A5119A0"
+			rewards: [{
+				id: "22FB387483216681"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1EC955FE386FC31E"
+				item: { count: 1, id: "industrialupgrade:tank_iu/tank_iu" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6123936B3A5119A0"]
+			id: "702D58DD97E7CF8C"
+			rewards: [{
+				id: "58ECA83FBF3AB8D5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "04D1EBCC70738162"
+				item: { count: 1, id: "industrialupgrade:tank_iu/adv_tank" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["702D58DD97E7CF8C"]
+			id: "42DCAB98480BF6B7"
+			rewards: [{
+				id: "05BCA419A852B275"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "20A47EB8117D298E"
+				item: { count: 1, id: "industrialupgrade:tank_iu/imp_tank" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["42DCAB98480BF6B7"]
+			id: "3A5B9ED49932AC15"
+			rewards: [{
+				id: "35A5F0AE8E721AAD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1E8AB55AC45F19F4"
+				item: { count: 1, id: "industrialupgrade:tank_iu/per_tank" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+	]
+}

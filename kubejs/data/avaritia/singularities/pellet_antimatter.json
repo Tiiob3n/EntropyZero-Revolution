@@ -1,0 +1,13 @@
+{
+	"id": "pellet_antimatter",
+	"color": [
+		-14540254,
+		-15658735
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

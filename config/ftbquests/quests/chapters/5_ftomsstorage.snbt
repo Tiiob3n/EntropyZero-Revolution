@@ -1,0 +1,114 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5_ftomsstorage"
+	group: "5F1F490178F3BCCD"
+	icon: {
+		id: "toms_storage:inventory_connector"
+	}
+	id: "0E5F93F8EE1EED26"
+	images: [{
+		height: 9.0d
+		image: "toms_storage:item/wireless_terminal"
+		rotation: 0.0d
+		width: 9.0d
+		x: -2.5d
+		y: -3.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "02EA5F44D1A26051"
+			tasks: [{
+				id: "2F4248610B7A63BF"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "4D9CAC8CA58A9EE4"
+			tasks: [{
+				id: "1F4D494F75CDD83E"
+				item: { count: 1, id: "toms_storage:storage_terminal" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "4276C63E8F768417"
+			tasks: [{
+				id: "06684895D5F030B0"
+				item: { count: 1, id: "toms_storage:crafting_terminal" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "02F3A93A4E18501D"
+			tasks: [{
+				id: "499E0E901C94F88A"
+				item: { count: 1, id: "toms_storage:inventory_cable" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "25B032E313CA7C16"
+			tasks: [{
+				id: "02608A84BCF9850A"
+				item: { count: 1, id: "toms_storage:inventory_configurator" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			id: "7E49974BE4B11334"
+			tasks: [{
+				id: "5F98ED7A9108F2EE"
+				item: { count: 1, id: "toms_storage:inventory_interface" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			id: "238DA88D0BF6C947"
+			tasks: [{
+				id: "2A762E2D4082567C"
+				item: { count: 1, id: "toms_storage:inventory_configurator" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4276C63E8F768417"]
+			id: "217C04E12BFD8EFD"
+			tasks: [{
+				id: "5C7C22BA305D4508"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["217C04E12BFD8EFD"]
+			id: "4D305EFE72F20912"
+			tasks: [{
+				id: "47AEF960630882A3"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"id": "quantum_alloy",
+	"color": [
+		-16750849,
+		-16764007
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

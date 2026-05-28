@@ -1,0 +1,13 @@
+{
+	"id": "unobtainium",
+	"color": [
+		-16711681,
+		-16742264
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"id": "end_steel_grinding_ball",
+	"color": [
+		-3342456,
+		-7820732
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

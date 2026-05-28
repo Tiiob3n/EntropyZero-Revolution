@@ -1,0 +1,13 @@
+{
+	"id": "allthemodium",
+	"color": [
+		-30720,
+		-5614336
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

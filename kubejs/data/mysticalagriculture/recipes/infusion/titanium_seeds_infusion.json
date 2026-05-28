@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "industrialupgrade:itemingots/titanium_ingot",
+    "industrialupgrade:itemingots/titanium_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "mysticalcustomization:titanium_seeds"
+  }
+}

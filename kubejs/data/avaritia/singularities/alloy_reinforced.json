@@ -1,0 +1,13 @@
+{
+	"id": "alloy_reinforced",
+	"color": [
+		-12276993,
+		-14522710
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

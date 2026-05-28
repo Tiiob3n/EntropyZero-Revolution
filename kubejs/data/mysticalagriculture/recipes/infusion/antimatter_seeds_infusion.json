@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:soulium_dust",
+    "mysticalagriculture:soulium_dust",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mekanism:pellet_antimatter",
+    "mekanism:pellet_antimatter",
+    "minecraft:crying_obsidian",
+    "minecraft:crying_obsidian"
+  ],
+  "result": {
+    "id": "mysticalcustomization:antimatter_seeds"
+  }
+}

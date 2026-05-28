@@ -1,0 +1,13 @@
+{
+	"id": "withering_powder",
+	"color": [
+		-13421773,
+		-15658735
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

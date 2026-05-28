@@ -1,0 +1,40 @@
+{
+	id: "5F1244BDA14C9B2A"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "botani_pot"
+	}
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{ id: "1A5D8AEB98E28263", item: { count: 1, id: "mysticalagriculture:air_seeds" } }
+		{ id: "53AA6AAE3D17AD8E", item: { count: 1, id: "mysticalagriculture:earth_seeds" } }
+		{ id: "3818CD5A5A7E1BC4", item: { count: 1, id: "mysticalagriculture:water_seeds" } }
+		{ id: "59AEEE91CA17898A", item: { count: 1, id: "mysticalagriculture:fire_seeds" } }
+		{ id: "004A94C5B504247D", item: { count: 1, id: "mysticalagriculture:inferium_seeds" } }
+		{ id: "75EFEF4921AB1920", item: { count: 1, id: "mysticalagriculture:stone_seeds" } }
+		{ id: "6943C752389B6BE0", item: { count: 1, id: "mysticalagriculture:dirt_seeds" } }
+		{ id: "7AF7DD8198AD6508", item: { count: 1, id: "mysticalagriculture:wood_seeds" } }
+		{ id: "11F35CE5AF20C08E", item: { count: 1, id: "mysticalagriculture:ice_seeds" } }
+		{ id: "40D7768DD2A08A33", item: { count: 1, id: "mysticalagriculture:prosperity_seed_base" } }
+		{ id: "27EA5D787A8B52E1", item: { count: 1, id: "mysticalagriculture:inferium_farmland" } }
+		{ id: "7903E86496D80CA7", item: { count: 1, id: "mysticalagriculture:inferium_block" } }
+		{ id: "6DF70D7E17164CCC", item: { count: 1, id: "mysticalagriculture:inferium_essence" } }
+		{ id: "2B6ED590EA9C53FC", item: { count: 1, id: "mysticalagriculture:inferium_hoe" } }
+		{ id: "6D8C1728B7AFC6BD", item: { count: 1, id: "botanypots:yellow_concrete_botany_pot" } }
+		{ id: "58FF26E880B626B3", item: { count: 1, id: "botanypots:orange_concrete_botany_pot" } }
+		{ id: "24F10D9ACDDE2F6A", item: { count: 1, id: "botanypots:light_gray_terracotta_botany_pot" } }
+		{ id: "748AF2C484760F07", item: { count: 1, id: "botanypots:light_blue_terracotta_botany_pot" } }
+		{ id: "74039341357DE187", item: { count: 1, id: "botanypots:orange_terracotta_waxed_botany_pot" } }
+		{ id: "39B40BC0E755DE9D", item: { count: 1, id: "botanypots:white_terracotta_botany_pot" } }
+		{ id: "25AAF67AC4A50A12", item: { count: 1, id: "botanypots:white_concrete_botany_pot" } }
+		{ id: "67AB291BF81BCC29", item: { count: 1, id: "botanypots:gray_terracotta_botany_pot" } }
+		{ id: "607E1B4283070365", item: { count: 1, id: "botanypots:pink_concrete_botany_pot" } }
+		{ id: "4461E0052452806A", item: { count: 1, id: "mysticalagriculture:deepslate_seeds" } }
+	]
+}

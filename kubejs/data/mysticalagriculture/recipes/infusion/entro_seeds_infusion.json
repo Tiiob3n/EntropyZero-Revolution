@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "allthecompressed:entro_block_1x",
+    "allthecompressed:entro_block_1x",
+    "minecraft:crying_obsidian",
+    "minecraft:crying_obsidian"
+  ],
+  "result": {
+    "id": "mysticalcustomization:entro_seeds"
+  }
+}

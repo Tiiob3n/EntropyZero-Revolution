@@ -1,0 +1,13 @@
+{
+	"id": "charged_redstone",
+	"color": [
+		-61167,
+		-5636096
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

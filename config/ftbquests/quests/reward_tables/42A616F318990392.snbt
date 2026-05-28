@@ -1,0 +1,40 @@
+{
+	id: "42A616F318990392"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "solar"
+	}
+	loot_size: 1
+	order_index: 32
+	rewards: [
+		{ id: "7F1C6C330F9189A7", item: { count: 1, id: "alltheores:steel_nugget" } }
+		{ id: "0F90BA6F57991F46", item: { count: 1, id: "minecraft:redstone" } }
+		{ id: "1C3F974BF4794F9E", item: { count: 1, id: "alltheores:electrum_nugget" } }
+		{ id: "02CBAED627DA1E65", item: { count: 1, id: "alltheores:signalum_nugget" } }
+		{ id: "7CF4521DAC9788CB", item: { count: 1, id: "alltheores:enderium_nugget" } }
+		{ id: "6AEB32FD2CAC1A00", item: { count: 1, id: "alltheores:lumium_nugget" } }
+		{ id: "11FF8E92EFC786DC", item: { count: 1, id: "alltheores:platinum_nugget" } }
+		{ id: "3D55FC1B9349748F", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{
+			count: 16
+			id: "455E076E63E92AF5"
+			item: {
+				count: 1
+				id: "minecraft:glass_pane"
+			}
+		}
+		{
+			count: 8
+			id: "2A28E9916ABF067A"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+	]
+}

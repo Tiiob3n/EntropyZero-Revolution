@@ -1,0 +1,13 @@
+{
+	"id": "gallium_arsenic",
+	"color": [
+		-5583736,
+		-10057660
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

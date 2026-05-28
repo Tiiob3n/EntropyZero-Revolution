@@ -1,0 +1,318 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reliquary_reincarnations"
+	group: "399349ADD896812C"
+	id: "73BAB567E6D2544C"
+	images: [{
+		height: 7.0d
+		image: "minecraft:textures/environment/end_sky.png"
+		rotation: 0.0d
+		width: 7.0d
+		x: 3.0d
+		y: -4.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2B2ABDA6EFE04451"
+			rewards: [
+				{
+					id: "6CDBD594C43C3E85"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D90451BAE19A63F"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2CFC11169E6892F6"
+				item: { count: 1, id: "reliquary:pedestals/white_pedestal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			id: "16A8F395E8F08482"
+			rewards: [
+				{
+					id: "0198D184B1427D8C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "196BCDB7E9911FFD"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "762B2C84158F9734"
+				item: { count: 1, id: "reliquary:alkahestry_tome" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			id: "7F089BF0F5F836C1"
+			rewards: [
+				{
+					id: "5B991BCACAA381F0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2D09B768BE14247E"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "471D7FE296A74A14"
+				item: { count: 1, id: "reliquary:rending_gale" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			id: "405C697CE14BB9D1"
+			rewards: [
+				{
+					id: "64667C9BF614B802"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B4AAC90F4527AE1"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2A90C352FC696521"
+				item: { count: 1, id: "reliquary:handgun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "58848280A63A229D"
+			rewards: [
+				{
+					id: "5E5A49B916C40A0C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "63EDA28409DBC81D"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4D8E8D776BCD67C3"
+				item: { count: 1, id: "reliquary:fertile_lily_pad" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			id: "72E77D515AEFE031"
+			rewards: [
+				{
+					id: "0DCB6F73419AAB0C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BB54BEBE87EF52E"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2B486CCEB3088575"
+				item: { count: 1, id: "reliquary:witherless_rose" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			id: "1CBB9FD77EFBABE8"
+			rewards: [
+				{
+					id: "3AFC0001FA5A7880"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62E03BF6B0BE27CA"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "79582859E9C4EE76"
+				item: { count: 1, id: "reliquary:emperor_chalice" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			id: "7A61D1C05F7CF308"
+			rewards: [
+				{
+					id: "4BB5A8049BA04B61"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7485961006B5D8A1"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "72EB4A485FB8531C"
+				item: { count: 1, id: "reliquary:lantern_of_paranoia" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			id: "2F7C151F93FE5981"
+			rewards: [
+				{
+					id: "65C8FF146156EA09"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25AD8756B122FF90"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "099B82D683E6EAD1"
+				item: { count: 1, id: "reliquary:ender_staff" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			id: "6C0971C0155E9454"
+			rewards: [
+				{
+					id: "10709CCC39337196"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C447C9E4366E2E6"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "40DC8FC3E35C3B82"
+				item: { count: 1, id: "reliquary:mercy_cross" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			id: "25D488D17AF4ED68"
+			rewards: [
+				{
+					id: "5B9D29B471F0FC36"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "599FA345D7103DA1"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7CD4827715BAE8C4"
+				item: { count: 1, id: "reliquary:glacial_staff" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			id: "16D62BD7A39340BB"
+			rewards: [
+				{
+					id: "45A839CA4FFD4BD7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22C143C3F1973F15"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3EF0E80143F1C44B"
+				item: { count: 1, id: "reliquary:angelic_feather" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			id: "739888E7E65F0717"
+			rewards: [
+				{
+					id: "45B11DA908C83118"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "126AF6688E6FDFF4"
+					table_id: 8196712779771189778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "128DB6265E523086"
+				item: { count: 1, id: "reliquary:glowing_bread" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+	]
+}

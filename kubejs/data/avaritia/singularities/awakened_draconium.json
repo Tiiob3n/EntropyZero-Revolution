@@ -1,0 +1,13 @@
+{
+	"id": "awakened_draconium",
+	"color": [
+		-39424,
+		-3394816
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

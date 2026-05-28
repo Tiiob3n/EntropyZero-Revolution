@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "mysticalagriculture:supremium_essence",
+    "draconicevolution:small_chaos_frag",
+    "draconicevolution:small_chaos_frag",
+    "minecraft:crying_obsidian",
+    "minecraft:crying_obsidian"
+  ],
+  "result": {
+    "id": "mysticalcustomization:chaotic_seeds"
+  }
+}

@@ -1,0 +1,45 @@
+{
+	id: "4B31F1B618D21A81"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "ae"
+	}
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{ id: "75672BB7846BB900", item: { count: 1, id: "ae2:singularity" } }
+		{ id: "06687D0FDB79AB0E", item: { count: 1, id: "ae2:nether_quartz_pickaxe" } }
+		{ id: "6AD54AAA5934B793", item: { count: 1, id: "ae2:fluix_pickaxe" } }
+		{ id: "358CA0AEE58C75B8", item: { count: 1, id: "ae2:network_tool" } }
+		{
+			count: 8
+			id: "28F418E1B158D9ED"
+			item: {
+				count: 1
+				id: "ae2:cable_anchor"
+			}
+		}
+		{
+			count: 32
+			id: "1514919D77239C57"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+		}
+		{ id: "62A8321B2685FB9A", item: { count: 1, id: "ae2:fluix_pearl" } }
+		{ id: "7D2CBDC537FAEF68", item: { count: 1, id: "ae2:inverted_toggle_bus" } }
+		{ id: "693CB3D28F40C646", item: { count: 1, id: "ae2:toggle_bus" } }
+		{ id: "7F33B4C3FF2CCCC8", item: { count: 1, id: "ae2:portable_fluid_cell_1k" } }
+		{ id: "2D1A9BA427171183", item: { count: 1, id: "ae2:portable_item_cell_1k" } }
+		{ id: "4E60124CD701813F", item: { count: 1, id: "minecraft:gold_ingot" } }
+		{ id: "6C9F56A2B3C893DD", item: { count: 1, id: "minecraft:diamond" } }
+		{ id: "299EF38BE71A22F0", item: { count: 1, id: "ae2:nether_quartz_wrench" } }
+		{ id: "3B955E852A2A3F66", item: { count: 1, id: "ae2:certus_quartz_sword" } }
+	]
+}

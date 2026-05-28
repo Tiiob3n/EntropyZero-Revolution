@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "input": "mysticalagriculture:inferium_seeds",
+  "ingredients": [
+    "mysticalagriculture:inferium_essence",
+    "mysticalagriculture:inferium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "mysticalagriculture:prudentium_essence",
+    "industrialupgrade:itemingots/manganese_ingot",
+    "industrialupgrade:itemingots/manganese_ingot",
+    "minecraft:stone",
+    "minecraft:stone"
+  ],
+  "result": {
+    "id": "mysticalcustomization:manganese_seeds"
+  }
+}

@@ -1,0 +1,121 @@
+{
+	icon: {
+		id: "enderio:vibrant_alloy_ingot"
+	}
+	id: "1E93D7BE23481E28"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_9"
+	}
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 16
+			id: "770B00DAC4C59F11"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 16
+			id: "2E523C27071FEC9A"
+			item: {
+				count: 1
+				id: "constructionstick:wooden_stick"
+			}
+		}
+		{
+			count: 16
+			id: "0F47CDB01CFC03CA"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 8
+			id: "2E9B6293DB9A7A9B"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "420CAB78A929ABD0"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "1F338B1FC32F4000"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 8
+			id: "153D0758B709E684"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+		}
+		{
+			count: 16
+			id: "7829BE31031AA384"
+			item: {
+				count: 1
+				id: "minecraft:oak_planks"
+			}
+		}
+		{ id: "5620BB8113324D74", item: { count: 1, id: "minecraft:furnace" } }
+		{
+			count: 8
+			id: "1608E8F27FCBC883"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 8
+			id: "6F494BE965C442D2"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 16
+			id: "0C8A4AF06C26F1FC"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+		}
+		{
+			count: 8
+			id: "17BD6EB24E351C8E"
+			item: {
+				count: 1
+				id: "minecraft:flint"
+			}
+		}
+		{ id: "3BC2447D3902E39F", item: { count: 1, id: "minecraft:blaze_rod" } }
+		{ id: "43723E8B80424E15", item: { count: 1, id: "minecraft:glowstone_dust" } }
+		{ id: "380627B6AEE4BE0F", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ id: "1F65E1855F231DF1", item: { count: 1, id: "minecraft:emerald" } }
+		{ id: "76A19C5BE4966376", item: { count: 1, id: "minecraft:ghast_tear" } }
+	]
+}

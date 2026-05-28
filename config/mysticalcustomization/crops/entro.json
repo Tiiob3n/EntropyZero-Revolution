@@ -1,0 +1,26 @@
+{
+  "name": "Entro",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "allthecompressed:entro_block_1x"
+  },
+  "colors": {
+    "flower": "1a0033",
+    "essence": "4b0082",
+    "seeds": "2d0059"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:obsidian",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"id": "chaotic_core",
+	"color": [
+		-65536,
+		-7864320
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

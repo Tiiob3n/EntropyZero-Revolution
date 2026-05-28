@@ -1,0 +1,13 @@
+{
+	"id": "draconium",
+	"color": [
+		-6736897,
+		-10092340
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

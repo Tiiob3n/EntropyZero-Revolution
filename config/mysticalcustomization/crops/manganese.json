@@ -1,0 +1,26 @@
+{
+  "name": "Manganese",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "item": "industrialupgrade:itemingots/manganese_ingot"
+  },
+  "colors": {
+    "flower": "7a6a5a",
+    "essence": "a08870",
+    "seeds": "5a4a3a"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": false,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:stone",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

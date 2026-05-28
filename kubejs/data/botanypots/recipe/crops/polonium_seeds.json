@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:crop",
+  "seed": { "item": "mysticalcustomization:polonium_seeds" },
+  "display": { "block": "mysticalagriculture:supremium_crop" },
+  "growthTicks": 1500,
+  "categories": [ "botanypotsmystical:soil/supremium" ],
+  "drops": [
+    { "chance": 1.0, "minRolls": 1, "maxRolls": 1, "item": { "item": "mekanism:pellet_polonium" } },
+    { "chance": 0.1, "minRolls": 1, "maxRolls": 1, "item": { "item": "mysticalcustomization:polonium_seeds" } }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"id": "anglesite_crystal",
+	"color": [
+		-86,
+		-5592474
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

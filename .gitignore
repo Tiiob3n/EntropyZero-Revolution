@@ -1,0 +1,30 @@
+# --- Dossiers générés et temporaires (À NE JAMAIS UPLOADER) ---
+.minecraft/
+saves/
+logs/
+crash-reports/
+usernamecache.json
+usercache.json
+options.txt
+optionsof.txt
+hotbar.nbt
+servers.dat
+servers.dat_old
+local/
+webcache/
+storage/
+
+# --- Dossiers spécifiques aux launchers ---
+.curseforge/
+.modrinth/
+prismlauncher/
+instances/
+
+# --- Fichiers de builds / KubeJS temporaires ---
+kubejs/exported/
+kubejs/probe/
+
+# --- Système d'exploitation ---
+.DS_Store
+Thumbs.db
+Nouveau Document texte.txt

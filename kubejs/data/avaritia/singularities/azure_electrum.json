@@ -1,0 +1,13 @@
+{
+	"id": "azure_electrum",
+	"color": [
+		-16742145,
+		-16759655
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

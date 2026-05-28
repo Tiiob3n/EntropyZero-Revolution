@@ -1,0 +1,26 @@
+{
+  "name": "Titanium",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "industrialupgrade:itemingots/titanium_ingot"
+  },
+  "colors": {
+    "flower": "b0c4de",
+    "essence": "d0e8ff",
+    "seeds": "7a9ab5"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": false,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:iron_block",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

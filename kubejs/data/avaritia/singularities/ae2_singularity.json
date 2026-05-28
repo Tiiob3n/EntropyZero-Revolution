@@ -1,0 +1,13 @@
+{
+	"id": "ae2_singularity",
+	"color": [
+		-16742196,
+		-16759706
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

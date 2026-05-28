@@ -1,0 +1,26 @@
+{
+  "name": "Sky Steel",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "allthecompressed:sky_steel_block_1x"
+  },
+  "colors": {
+    "flower": "1e201e",
+    "essence": "2c2e2c",
+    "seeds": "404040"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": false,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:iron_block",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

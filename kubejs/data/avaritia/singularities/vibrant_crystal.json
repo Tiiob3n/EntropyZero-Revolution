@@ -1,0 +1,13 @@
+{
+	"id": "vibrant_crystal",
+	"color": [
+		-5570782,
+		-10049024
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

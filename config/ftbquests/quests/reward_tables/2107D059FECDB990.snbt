@@ -1,0 +1,128 @@
+{
+	id: "2107D059FECDB990"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "iron_jetpacks"
+	}
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{
+			count: 16
+			id: "4F86153458839DD3"
+			item: {
+				count: 1
+				id: "minecraft:oak_planks"
+			}
+		}
+		{
+			count: 8
+			id: "37E3D40BA0FB209A"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 8
+			id: "160732D9579F05E0"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "7F80DE8DAA85A4ED"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "0F8E27464B9BCA4F"
+			item: {
+				count: 1
+				id: "minecraft:stick"
+			}
+		}
+		{
+			count: 3
+			id: "53FC684A82DC8FFB"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 8
+			id: "30E5155B01E98830"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 8
+			id: "74C663D988180CE4"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 8
+			id: "5490913A5488887A"
+			item: {
+				count: 1
+				id: "alltheores:platinum_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "65C96D4DF8BDF719"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "0731D2E1CFA2E14A"
+			item: {
+				count: 1
+				id: "alltheores:steel_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "583F13338B0C53C4"
+			item: {
+				count: 1
+				id: "alltheores:bronze_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "25FAEEEE37957A45"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "7FE9A1790FEEF3E0"
+			item: {
+				count: 1
+				id: "alltheores:electrum_ingot"
+			}
+		}
+	]
+}

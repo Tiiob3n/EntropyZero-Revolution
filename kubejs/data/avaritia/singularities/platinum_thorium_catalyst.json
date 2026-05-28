@@ -1,0 +1,13 @@
+{
+	"id": "platinum_thorium_catalyst",
+	"color": [
+		-2236929,
+		-6710870
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

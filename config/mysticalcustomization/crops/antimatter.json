@@ -1,0 +1,26 @@
+{
+  "name": "Antimatter",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "mekanism:pellet_antimatter"
+  },
+  "colors": {
+    "flower": "1a0033",
+    "essence": "6600cc",
+    "seeds": "3d0066"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:obsidian",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

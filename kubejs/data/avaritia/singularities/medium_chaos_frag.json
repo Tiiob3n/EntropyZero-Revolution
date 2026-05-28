@@ -1,0 +1,13 @@
+{
+	"id": "medium_chaos_frag",
+	"color": [
+		-65434,
+		-5636028
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

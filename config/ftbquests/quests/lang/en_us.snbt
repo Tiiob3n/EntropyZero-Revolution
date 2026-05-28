@@ -1,0 +1,765 @@
+{
+	chapter.0644AB97E8D8839B.title: "&e▶ &fCreate"
+	chapter.09943FB0B6C28181.title: "Entropy Progress"
+	chapter.099964C904510A1C.title: "&5▶ &fEvilCraft"
+	chapter.0A52D0932DA3F809.title: "&5▶ &fHNN"
+	chapter.0AB4F9AED808DE48.title: "&5▶ &fModular Routers"
+	chapter.0E5F93F8EE1EED26.title: "&5▶ &fTom's Storage"
+	chapter.11B8B8A43F10631A.title: "&e▶ &fMystical Agriculture"
+	chapter.13047A623F470E1E.title: "&7&l* &f&lEntropy Progression"
+	chapter.155833CF77B0ED88.title: "&6▶ &fIron Furnaces"
+	chapter.15AAF17B6665223D.title: "&5▶ &fRefined Storage"
+	chapter.17106284BC1C6E72.title: "&a▶ &fEasyMobFarm"
+	chapter.177E4BFBF69459CD.title: "&b▶ &fFlux"
+	chapter.182FECD571B89A12.title: "&e▶ &fPowah"
+	chapter.238406F81294FBFC.title: "&a▶ &fIndustrial Foregoing"
+	chapter.270B07391F44E639.title: "&c▶ &fApotheosis"
+	chapter.2D335ED4CB0662BA.title: "&7&l* &f&lThe Beginning"
+	chapter.321ECDC66B8D7516.title: "&7&l* &f&lProgess Entropy"
+	chapter.3226670CE00C39E8.title: "&7&l* &f&lMiscellaneous"
+	chapter.32D76CC30357A65F.title: "&b▶ &fArmors"
+	chapter.36AB922B97C31E06.title: "&2▶ &fBotany Pots"
+	chapter.37D7FA3DAE36E099.title: "&e▶ &fJustDireThings"
+	chapter.3C78926E5D301BA0.title: "&5▶ &fExtremeReactors"
+	chapter.3EB1EA59A850E9DC.title: "&d▶ &fArtifacts"
+	chapter.3FB9A71CAD0B5965.title: "&3▶ &fChemical Science"
+	chapter.4007096BD9403DFF.title: "&d▶ &fArs"
+	chapter.4278F8B1BB13DC78.title: "&c▶ &fMobGrinding"
+	chapter.4298F73114F6EFEB.title: "&7▶ &fIngots"
+	chapter.42B18E1663267BBA.title: "Electrodynamics"
+	chapter.43BB00A7A7E1042C.title: "&5▶ &fMahouTsukai"
+	chapter.4755D39D8437ABCB.title: "&a▶ &fSophisticated"
+	chapter.4995829082715827.title: "&3▶ &fElectrodynamics"
+	chapter.49AA18CB899552B8.title: "&e▶ &fBee"
+	chapter.4A494BBCC82AA216.title: "&4▶ &fEndGame"
+	chapter.51A2FE60D8B76FC6.title: "&6▶ &fAE2 +"
+	chapter.52735F2260E3763E.title: "&c▶ &fDraconic Evolution"
+	chapter.554A043975B5FBD8.title: "&7&l* &f&lMarket"
+	chapter.5650BBB5DFC366D8.title: "&a▶ &fAllthemodium"
+	chapter.588C35B648197AF2.title: "&a▶ &fFood"
+	chapter.5D5196AEB5D9348B.title: "&9▶ &fEnder"
+	chapter.5E31DF282998B992.title: "&5▶ &fPneumaticcraft"
+	chapter.60B09968DC0D9C79.title: "&c▶ &fEnderIO"
+	chapter.61D5CA2BD6CBD85A.title: "&6▶ &fAE2"
+	chapter.62324C44DAD61809.title: "&3▶ &fIndustrial Upgrade"
+	chapter.64EA4A73A6E4F4DB.title: "&b▶ &fMekanism"
+	chapter.6599818A547959E7.title: "&4▶ &fAvaritia"
+	chapter.65DFF41E26D56104.title: "Test"
+	chapter.7269FD2B5B0F0424.title: "&e▶ &fOccultism"
+	chapter.73BAB567E6D2544C.title: "&d▶ &fReliquary"
+	chapter.746ADB2CC27DB4AE.title: "&a▶ &fSilent Gear"
+	chapter.7982CCD63D257BDE.title: "Chemical Science"
+	chapter.7F84C45E2C98C8CA.title: "&b▶ &fVisit"
+	chapter_group.0517EA5C1FCABF8C.title: "&8&l* &7&lSteam Age"
+	chapter_group.0D0A62CE78C6B572.title: "&4&l* &c&lSlaughter Age"
+	chapter_group.1A02E557250FDFCE.title: "&8&l* &7&lIron Age"
+	chapter_group.2470E23D9A007D0B.title: "&2&l* &a&lIndustrial Age"
+	chapter_group.2D30E5D8A8D9A991.title: "&1&l* &9&lDigital Age"
+	chapter_group.399349ADD896812C.title: "&2&l* &a&lExploration Age"
+	chapter_group.3F5C6DA4A7F8370F.title: "&4&l* &c&lBlood Age"
+	chapter_group.4785DBB07CBBB176.title: "&3&l* &b&lQuantum Age"
+	chapter_group.5F1F490178F3BCCD.title: "&1&l* &9&lStorage Age"
+	chapter_group.63FBCA78FA1E799C.title: "&0&l* &8&lEntropy Age"
+	chapter_group.6E725A1E15EE7F3C.title: "&6&l* &e&lHarvest Age"
+	chapter_group.7507BECE02739D45.title: "&9&l* &b&lElectric Age"
+	chapter_group.76946B8C573FE822.title: "&5&l* &d&lArcane Age"
+	file.0000000000000001.title: "&4&l⚡ &c&lEntropy&4Zero &6&l: &e&lRevolution &4&l⚡"
+	quest.00000000000ED001.quest_desc: [
+		"Electrodynamics is a technology mod based on realistic electricity."
+		"You'll need to mine ores, craft machines, and build electrical networks."
+		"Start by crafting the Multimeter — your best friend for diagnosing your network."
+	]
+	quest.00000000000ED001.title: "Welcome to Electrodynamics!"
+	quest.00000000000ED002.quest_desc: [
+		"Copper, Aluminum and Tin are the most basic ores of Electrodynamics."
+		"Mine plenty — you'll need them for wires, plates and machine parts throughout the entire mod."
+	]
+	quest.00000000000ED002.title: "Copper, Aluminum and Tin"
+	quest.00000000000ED003.quest_desc: [
+		"Steel is made by smelting Iron with Coal Coke in a furnace."
+		"It is a core crafting material for almost every machine in the mod."
+		"Make sure to always keep a good stock of it!"
+	]
+	quest.00000000000ED003.title: "Steel Production"
+	quest.00000000000ED004.quest_desc: [
+		"Copper Wire is the backbone of your electrical network."
+		"Connect your generators and machines with wire to transfer power."
+		"Warning: wire has resistance — keep your runs short to avoid energy loss!"
+	]
+	quest.00000000000ED004.title: "Copper Wire"
+	quest.00000000000ED005.quest_desc: [
+		"Metal plates are required to craft most machines."
+		"Use a Hammer on ingots to craft them, or craft them on a crafting table."
+		"Steel plates are the most commonly used."
+	]
+	quest.00000000000ED005.title: "Metal Plates"
+	quest.00000000000ED010.quest_desc: [
+		"The Coal Generator is your very first source of electricity."
+		"Place it down, connect it with copper wire, and fuel it with coal."
+		"Energy in Electrodynamics is measured in Joules (J) and Watts (W)."
+	]
+	quest.00000000000ED010.title: "First Power: Coal Generator"
+	quest.00000000000ED011.quest_desc: [
+		"Batteries store energy produced by your generators."
+		"They are essential to buffer power when consumption peaks."
+		"Place them in your network to prevent machines from shutting down."
+	]
+	quest.00000000000ED011.title: "Energy Storage: Battery"
+	quest.00000000000ED012.quest_desc: [
+		"The Battery Box holds multiple batteries and acts as a large energy buffer."
+		"It automatically charges and discharges as needed by your network."
+	]
+	quest.00000000000ED012.title: "Battery Box"
+	quest.00000000000ED013.quest_desc: [
+		"The Upgrade Transformer increases the voltage of your electrical network."
+		"Some advanced machines require higher voltage to operate."
+		"Without a transformer, you risk burning out your machines — or they simply won't work!"
+	]
+	quest.00000000000ED013.title: "Voltage Control: Transformer"
+	quest.00000000000ED014.quest_desc: [
+		"The Solar Panel generates free electricity from sunlight."
+		"It is weaker than a coal generator but requires no fuel."
+		"Great as a supplement during the day!"
+	]
+	quest.00000000000ED014.title: "Solar Power"
+	quest.00000000000ED015.quest_desc: [
+		"The Windmill generates power from wind — build it high up for best results!"
+		"Works day and night, unlike solar panels."
+	]
+	quest.00000000000ED015.title: "Wind Power"
+	quest.00000000000ED016.quest_desc: [
+		"The Thermoelectric Generator produces power from temperature differences."
+		"Place it between a heat source (lava) and a cold source (water or ice) for passive, continuous power."
+		"One of the best early-game passive generators!"
+	]
+	quest.00000000000ED016.title: "Thermoelectric Generator"
+	quest.00000000000ED020.quest_desc: [
+		"The Electric Furnace is faster and more efficient than a vanilla furnace."
+		"Connect it to your power network and start smelting with electricity!"
+	]
+	quest.00000000000ED020.title: "Electric Furnace"
+	quest.00000000000ED021.quest_desc: [
+		"The Mineral Crusher grinds ores into two dust piles, doubling your ore output!"
+		"Crush ore → smelt dust = 2 ingots per ore instead of 1."
+		"This is one of the most important early machines!"
+	]
+	quest.00000000000ED021.title: "Mineral Crusher: Ore Doubling"
+	quest.00000000000ED022.quest_desc: [
+		"Now that you have a Crusher, set up the full ore processing pipeline."
+		"Mine ore → Crush into impure dust → Smelt = 2 ingots per ore."
+		"This doubles your resource efficiency!"
+	]
+	quest.00000000000ED022.title: "First Ore Processing"
+	quest.00000000000ED023.quest_desc: [
+		"The Mineral Washer processes impure dusts into clean dusts, tripling ore output!"
+		"Crush ore → Wash impure dust → Smelt = 3 ingots per ore."
+		"This is the most important upgrade to your ore processing line!"
+	]
+	quest.00000000000ED023.title: "Mineral Washer: Ore Tripling"
+	quest.00000000000ED024.quest_desc: [
+		"The Oxidation Furnace creates metal oxides from ingots and dusts."
+		"These oxides are required for advanced chemical processing and alloy creation."
+	]
+	quest.00000000000ED024.title: "Oxidation Furnace"
+	quest.00000000000ED025.quest_desc: [
+		"The Wire Mill automates wire crafting from ingots."
+		"Much faster than crafting by hand — essential for large network builds."
+	]
+	quest.00000000000ED025.title: "Wire Mill"
+	quest.00000000000ED030.quest_desc: [
+		"Basic Circuits are the foundation of every advanced machine."
+		"Craft them from copper, silicon and other processed materials."
+		"You will need a lot of them — start automating production early!"
+	]
+	quest.00000000000ED030.title: "Basic Circuits"
+	quest.00000000000ED031.quest_desc: [
+		"The Electric Motor converts electrical energy into mechanical energy."
+		"It is a key component in many mid-game machines."
+	]
+	quest.00000000000ED031.title: "Electric Motor"
+	quest.00000000000ED032.quest_desc: [
+		"Advanced Circuits unlock the most powerful machines in Electrodynamics."
+		"They require Basic Circuits and additional rare materials."
+	]
+	quest.00000000000ED032.title: "Advanced Circuits"
+	quest.00000000000ED033.quest_desc: [
+		"Elite Circuits are the highest tier of circuitry in Electrodynamics."
+		"Required for end-game machines and power generation."
+	]
+	quest.00000000000ED033.title: "Elite Circuits"
+	quest.00000000000ED040.quest_desc: [
+		"The Chemical Reactor processes chemical compounds into new materials."
+		"This is the gateway to Chemical Science integration."
+		"Make sure you have a stable high-voltage power supply!"
+	]
+	quest.00000000000ED040.title: "Chemical Reactor"
+	quest.00000000000ED041.quest_desc: [
+		"The Energized Alloyer combines two metals under electrical power to create advanced alloys."
+		"HSL-A Steel, Stainless Steel, Titanium Carbide — all made here."
+		"These alloys are required for the most powerful machines."
+	]
+	quest.00000000000ED041.title: "Energized Alloyer"
+	quest.00000000000ED042.quest_desc: [
+		"HSL-A Steel is a high-performance alloy made in the Energized Alloyer."
+		"It is significantly stronger than regular steel and required for end-game machines."
+	]
+	quest.00000000000ED042.title: "HSL-A Steel"
+	quest.00000000000ED043.quest_desc: [
+		"The Electrolytic Separator splits fluids like water into their component gases."
+		"Water splits into Hydrogen and Oxygen. Essential for fuel cells and chemical science."
+	]
+	quest.00000000000ED043.title: "Electrolytic Separator"
+	quest.00000000000ED044.quest_desc: [
+		"The Combustion Chamber burns liquid fuel for massive power output."
+		"Far more powerful than a coal generator — great for high-demand networks."
+		"You need a stable fuel supply to keep it running."
+	]
+	quest.00000000000ED044.title: "Combustion Chamber"
+	quest.00000000000ED045.quest_desc: [
+		"The Electric Arc Furnace runs at extremely high temperatures using electricity."
+		"It can process materials that a normal furnace cannot, like advanced alloys and special metals."
+	]
+	quest.00000000000ED045.title: "Electric Arc Furnace"
+	quest.00000000000ED050.quest_desc: [
+		"The Advanced Solar Panel is far more efficient than the basic version."
+		"Requires elite circuits and advanced materials, but worth it for passive power generation."
+	]
+	quest.00000000000ED050.title: "Advanced Solar Panel"
+	quest.00000000000ED051.quest_desc: [
+		"Ultimate Circuits are the pinnacle of Electrodynamics electronics."
+		"Required for the most powerful machines and power systems in the mod."
+	]
+	quest.00000000000ED051.title: "Ultimate Circuits"
+	quest.00000000000ED052.quest_desc: [
+		"Superconductive Wire transfers energy with zero resistance!"
+		"No more power loss over long distances — the ultimate wire for large networks."
+	]
+	quest.00000000000ED052.title: "Superconductive Wire"
+	quest.00000000000ED053.quest_desc: [
+		"The Lithium Battery stores far more energy than a basic battery."
+		"Pair it with a Lithium Battery Box to buffer your most power-hungry machines."
+	]
+	quest.00000000000ED053.title: "Lithium Battery"
+	quest.00000000000ED054.quest_desc: [
+		"The Carbyne Battery is the highest-tier energy storage in Electrodynamics."
+		"It holds an enormous amount of power — the backbone of any end-game power network."
+	]
+	quest.00000000000ED054.title: "Carbyne Battery"
+	quest.00000000000ED060.quest_desc: [
+		"The Electric Drill is a powerful mining tool powered by your battery."
+		"Charge it in a Charger and take it mining — significantly faster than a pickaxe."
+	]
+	quest.00000000000ED060.title: "Electric Drill"
+	quest.00000000000ED061.quest_desc: [
+		"The Jetpack lets you fly using electrical power!"
+		"Charge it with a Charger and soar through your base. Make sure the battery does not run out mid-flight!"
+	]
+	quest.00000000000ED061.title: "Jetpack"
+	quest.00000000000ED062.quest_desc: [
+		"The Quarry automatically mines a large area for you."
+		"It requires a lot of power but will fill your storage with ores without lifting a finger."
+		"The ultimate end-game resource gathering machine!"
+	]
+	quest.00000000000ED062.title: "Quarry"
+	quest.00000000000ED063.quest_desc: [
+		"Composite Armor is the strongest armor set in Electrodynamics."
+		"Crafted from advanced composite materials — provides excellent protection."
+	]
+	quest.00000000000ED063.title: "Composite Armor"
+	quest.0177387B2510AF95.quest_desc: ["Check this once you have automated your custom high-tier resource seeds."]
+	quest.0177387B2510AF95.title: "Grow Mystical Agriculture"
+	quest.020822314BE70765.quest_desc: [
+		"Les circuits fabriqués avec des matériaux chimiques sont bien plus puissants que les circuits classiques."
+		"Ils permettent de construire des machines de génération d'énergie de très haute technologie."
+	]
+	quest.020822314BE70765.title: "Circuits chimiques"
+	quest.030B81825CF6B361.title: "30 Hours"
+	quest.03D750924AA6AD4B.quest_desc: [
+		"Chemical Science has dedicated lab furniture made from Manganese-Aluminum."
+		"Lab Bench, Lab Sink, Lab Storage, Lab Support — these form the infrastructure of your chemical lab."
+		"Build a proper lab to work efficiently with your chemical machines."
+	]
+	quest.03D750924AA6AD4B.title: "Build Your Lab"
+	quest.054335C2ABBE2B47.quest_desc: [
+		"Les alliages de magnésium combinent légèreté et résistance."
+		"Utilisez les machines d'Electrodynamics pour les créer à partir de poudres métalliques."
+		"Ces alliages sont essentiels pour les composants avancés de Chemical Science."
+	]
+	quest.054335C2ABBE2B47.title: "Alliages de magnésium"
+	quest.055DB4BAACB038A7.quest_desc: [
+		"Palladium catalysts are mid-tier catalysts enabling advanced organic chemistry."
+		"Required for synthesizing complex molecules and organic semiconductors."
+		"Expensive but essential for the organic solar panel."
+	]
+	quest.055DB4BAACB038A7.title: "Palladium Catalysts"
+	quest.06080F1C5C90AEA1.quest_desc: [
+		"Pyrolusite is the ore source for Manganese."
+		"Manganese is used in structural alloys and lab equipment."
+		"The Manganese-Aluminum alloy is the main building material for Chemical Science structures."
+	]
+	quest.06080F1C5C90AEA1.title: "Mining: Pyrolusite"
+	quest.07E5ABCA49CE3F44.quest_desc: [
+		"Le panneau solaire produit de l'énergie gratuitement grâce au soleil."
+		"Il est moins puissant qu'un générateur à charbon mais ne consomme aucun carburant."
+		"Idéal pour alimenter de petites machines en complément."
+	]
+	quest.07E5ABCA49CE3F44.title: "Énergie solaire"
+	quest.0ABD8D3F567DE0DB.quest_desc: [
+		"Les fils permettent de transporter l'énergie entre les machines."
+		"Faites attention à la résistance des fils : plus un fil est long, plus il perd de l'énergie."
+		"Utilisez des fils de cuivre pour commencer, ou des fils d'aluminium plus tard."
+	]
+	quest.0ABD8D3F567DE0DB.title: "Réseau électrique"
+	quest.0C2DEAB1927A879A.quest_desc: [
+		"Les circuits électroniques sont au coeur des machines avancées d'Electrodynamics."
+		"Vous aurez besoin de cuivre, de silicium et de diverses ressources pour les fabriquer."
+	]
+	quest.0C2DEAB1927A879A.title: "Circuits électroniques"
+	quest.0E16ECFA4AE8DD5C.quest_desc: [
+		"Chemical Science est un addon pour Electrodynamics qui ajoute de la chimie avancée."
+		"Vous allez devoir extraire de nouveaux minerais et les traiter pour obtenir des matériaux spéciaux."
+		"Ce mod nécessite d'avoir une bonne base dans Electrodynamics avant de commencer."
+	]
+	quest.0E16ECFA4AE8DD5C.title: "Bienvenue dans Chemical Science !"
+	quest.10249309544D880B.quest_desc: ["Check this once you have crafted your first singularity or infinity components."]
+	quest.10249309544D880B.title: "Reach Avaritia"
+	quest.11D8F2E8ACF1DC50.quest_desc: ["Check this once you have awakened the ultimate power of the dragons."]
+	quest.11D8F2E8ACF1DC50.title: "Awaken Draconic Evolution"
+	quest.15A586A07D8EE569.quest_desc: [
+		"Le transformer permet de changer la tension du courant électrique."
+		"Certaines machines nécessitent une haute tension : le transformer est donc essentiel pour les alimenter sans les griller !"
+	]
+	quest.15A586A07D8EE569.title: "Transformer"
+	quest.1672966B9BD32DEE.quest_desc: ["Check this once you have reached the highest tier of Powah wireless energy."]
+	quest.1672966B9BD32DEE.title: "Saturate Powah"
+	quest.1770486A2C632058.title: "Kill Skeleton"
+	quest.194228888D6CC088.quest_desc: [
+		"Congratulations, you have reached the absolute peak of Entropy!"
+		"This final quest requires you to have completed ALL paths in the progression tree."
+	]
+	quest.194228888D6CC088.title: "The Ultimate Endgame: Entropy Crystal"
+	quest.1A9FEB3776BE0A83.quest_desc: [
+		"Congratulations, you have reached the absolute peak of Entropy!"
+		"To complete this final ultimate quest, you must have mastered and completed every single major mod in this pack."
+		"Check every box once you have successfully automated and achieved your goals for each mod."
+	]
+	quest.1A9FEB3776BE0A83.title: "The Ultimate Endgame: Entropy Crystal"
+	quest.1B11757212F62F5B.title: "Villager Spawn Egg"
+	quest.1B188742D044F5D6.title: "Red fertilizer"
+	quest.1CA23383B2112001.title: "Lilypad"
+	quest.1DC86C8EC2E4A411.quest_desc: [
+		"The Organic Circuit is the unique circuit type of Chemical Science."
+		"Made from organic polymers and Silicon plates in the Spin Coater."
+		"It enables the construction of the Organic Solar Panel — the ultimate power source."
+	]
+	quest.1DC86C8EC2E4A411.title: "Organic Circuit"
+	quest.201E512DB6184FFB.quest_desc: ["Check this once you have captured and automated your mob drops."]
+	quest.201E512DB6184FFB.title: "Easy Mob Farm"
+	quest.206D83E6F8449415.quest_desc: [
+		"Le Chemical Reactor est la machine centrale de Chemical Science."
+		"Il permet de combiner des produits chimiques pour créer de nouvelles substances."
+		"Assurez-vous qu'il est bien alimenté en électricité via votre réseau Electrodynamics."
+	]
+	quest.206D83E6F8449415.title: "Réacteur chimique"
+	quest.20DA546B525A81CD.quest_desc: [
+		"Process Cooperite ore to extract Platinum and Palladium."
+		"These precious metals are used to craft powerful chemical catalysts."
+		"Catalysts speed up and enable advanced chemical reactions."
+	]
+	quest.20DA546B525A81CD.title: "Platinum and Palladium"
+	quest.21671B9AEE13A873.quest_desc: [
+		"L'Electric Motor est un composant clé pour de nombreuses machines."
+		"Il convertit l'énergie électrique en énergie mécanique."
+	]
+	quest.21671B9AEE13A873.title: "Moteur électrique"
+	quest.21F646D3F90697BB.title: "Cave Creeper"
+	quest.2539324D3B3AE3A9.title: "Cell Creative"
+	quest.278AC3B38FD46C3A.quest_desc: [
+		"Magnesium is a lightweight metal used in high-performance alloys."
+		"Mine Magnesium ore and process it into ingots."
+		"Magnesium-Aluminum alloy is one of the most used materials in this mod."
+	]
+	quest.278AC3B38FD46C3A.title: "Mining: Magnesium"
+	quest.28E09B5595C6F216.quest_desc: [
+		"The HDS (Hydrodesulfurization) Unit removes sulfur from fuels."
+		"This is required to produce clean, high-grade fuel for advanced combustion engines."
+		"Part of the complete oil refining chain."
+	]
+	quest.28E09B5595C6F216.title: "HDS Unit"
+	quest.29A4BC51360E6E35.quest_desc: ["Check this once your massive multi-block reactor is generating power."]
+	quest.29A4BC51360E6E35.title: "Stabilize Extreme Reactors"
+	quest.29EF64B94FC5859A.title: "Creative Blaze Cake"
+	quest.2A99C6F086983963.quest_desc: [
+		"Les fils de cuivre et les plaques métalliques sont nécessaires pour fabriquer tous les composants électroniques."
+		"Utilisez une table de craft pour les fabriquer."
+	]
+	quest.2A99C6F086983963.title: "Composants de base"
+	quest.2B593DFC65E87EE7.quest_desc: [
+		"L'acide sulfurique permet de traiter les minerais pour en extraire des éléments rares."
+		"C'est une méthode de raffinage bien plus efficace que les méthodes classiques."
+		"Combinez l'Ore Washer d'Electrodynamics avec les produits chimiques pour maximiser vos rendements."
+	]
+	quest.2B593DFC65E87EE7.title: "Traitement acide des minerais"
+	quest.2BFC58E8DA2C5B46.quest_desc: [
+		"Le Multimeter est un outil indispensable pour diagnostiquer votre réseau électrique."
+		"Utilisez-le pour mesurer la tension, l'intensité et la puissance dans vos fils et machines."
+		"Si une machine ne fonctionne pas, commencez toujours par vérifier avec le multimètre !"
+	]
+	quest.2BFC58E8DA2C5B46.title: "Multimètre"
+	quest.2C232484344303B5.quest_desc: [
+		"L'Electric Furnace est plus rapide et plus efficace qu'un four classique."
+		"Il utilise de l'électricité au lieu du charbon, parfait pour votre réseau électrique."
+	]
+	quest.2C232484344303B5.title: "Four électrique"
+	quest.2C639588EAAEBDED.quest_desc: [
+		"Iron-based catalysts are the simplest catalysts in Chemical Science."
+		"They are required by many basic chemical reactions in the Catalytic Reformer."
+		"Craft Iron Chloride, Iron Bromide, Iron Carbon and Iron Fluoride catalysts."
+	]
+	quest.2C639588EAAEBDED.title: "Iron Catalysts"
+	quest.2D1DE5E790DB1C36.quest_desc: ["Check this once you have mastered pressure and advanced plastics."]
+	quest.2D1DE5E790DB1C36.title: "Tame PneumaticCraft"
+	quest.2D840427666690DE.quest_desc: [
+		"Chemical Science is an addon for Electrodynamics that adds advanced chemistry."
+		"New ores, machines and materials await you!"
+		"You need a solid Electrodynamics setup before diving into this mod."
+	]
+	quest.2D840427666690DE.title: "Welcome to Chemical Science!"
+	quest.2F4DEE54A93D3021.quest_desc: [
+		"Chemical Science ajoute aussi des armures et outils fabriqués à partir d'alliages chimiques."
+		"Ils offrent de meilleures statistiques que les équipements classiques."
+	]
+	quest.2F4DEE54A93D3021.title: "Équipement chimique"
+	quest.32322C3898AF4549.quest_desc: [
+		"Tungsten Carbide is made by combining Tungsten and Carbon in the Energized Alloyer."
+		"It is the hardest material in Chemical Science and the base for the best tools."
+	]
+	quest.32322C3898AF4549.title: "Tungsten Carbide"
+	quest.335DFA5438877902.title: "Honey Bottle"
+	quest.3379C838A77CD3AA.title: "Kill Cow"
+	quest.340B16D6705742CA.quest_desc: ["Check this once your ME system is managing your massive item logistics."]
+	quest.340B16D6705742CA.title: "Optimize Advanced AE2"
+	quest.38791B4F2D25B7C8.title: "Yellow Fertilizer"
+	quest.3B21BF1F2B308C1C.title: "Energy Cube"
+	quest.3BEB403280D865BB.quest_desc: ["Check this once your rotational power factory is fully operational."]
+	quest.3BEB403280D865BB.title: "Harness Create"
+	quest.3ED53A21D5E8D105.quest_desc: [
+		"Platinum catalysts are the highest-tier catalysts in Chemical Science."
+		"They enable the most advanced reactions, including organic photovoltaic synthesis."
+		"Craft the Platinum-Silica and Platinum-Thorium catalysts."
+	]
+	quest.3ED53A21D5E8D105.title: "Platinum Catalysts"
+	quest.3F2D65D8B892B721.quest_desc: [
+		"Les circuits avancés permettent de fabriquer des machines de niveau supérieur."
+		"Ils nécessitent des circuits basiques et des matériaux plus rares."
+	]
+	quest.3F2D65D8B892B721.title: "Circuits avancés"
+	quest.40885AC1B6588E60.quest_desc: [
+		"The Bulletproof Vest is a unique piece of armor that provides strong physical protection."
+		"Crafted from advanced polymer fibers produced through organic chemistry."
+	]
+	quest.40885AC1B6588E60.title: "Bulletproof Vest"
+	quest.41551E05B76330D8.quest_desc: [
+		"Tungsten Carbide tools are the best tools available in Chemical Science."
+		"Pickaxe, Axe, Shovel, Hoe and Sword — all made from Tungsten Carbide."
+		"They outperform any vanilla tool by a wide margin."
+	]
+	quest.41551E05B76330D8.title: "Tungsten Carbide Tools"
+	quest.4179FE50DBE2ECEA.quest_desc: [
+		"La Chemical Reduction Chamber permet de réduire des oxydes pour obtenir des métaux purs."
+		"Combinée à l'Oxidation Furnace, elle forme la base du traitement chimique avancé."
+	]
+	quest.4179FE50DBE2ECEA.title: "Réduction chimique"
+	quest.41A425BA1CDD1D8D.quest_desc: [
+		"The Spin Coater applies thin uniform layers of chemical compounds onto surfaces."
+		"Used in semiconductor fabrication to create the Chemical Science organic circuit."
+		"A precision machine for high-tech electronics."
+	]
+	quest.41A425BA1CDD1D8D.title: "Spin Coater"
+	quest.41FA7BB39E06D364.quest_desc: [
+		"L'Electric Crusher est une des machines les plus importantes du mod."
+		"Il permet de doubler votre production de minerais en les transformant en poudre avant de les fondre."
+		"Connectez-le à votre réseau électrique pour le faire fonctionner."
+	]
+	quest.41FA7BB39E06D364.title: "Concasseur"
+	quest.420F1D55A324D0A5.quest_desc: [
+		"Smelt Silicon dust into Silicon ingots, then press them into Silicon plates."
+		"Silicon plates are the key ingredient for all Chemical Science circuits and semiconductors."
+	]
+	quest.420F1D55A324D0A5.title: "Silicon Ingot"
+	quest.426A36AD01549D14.quest_desc: ["Check this once you have unlocked high-tier spells and source automation."]
+	quest.426A36AD01549D14.title: "Master Ars Nouveau"
+	quest.42A2B28B0596B284.quest_desc: [
+		"Les lunettes de vision nocturne organiques vous permettent de voir dans le noir sans potion."
+		"Elles sont fabriquées à partir de matériaux chimiques organiques avancés."
+	]
+	quest.42A2B28B0596B284.title: "Lunettes de vision nocturne"
+	quest.439AA47E17E71F92.title: "Cosmic Meatballs"
+	quest.43C00B51DAC88FDA.title: "Seed"
+	quest.43EAB8C24B611B16.quest_desc: [
+		"La Silicon Plate (ou Silicon Wafer) est un composant essentiel pour l'électronique avancée."
+		"Le silicium est obtenu en traitant du sable ou de la roche avec les machines chimiques."
+		"Il est au coeur des circuits électroniques les plus performants."
+	]
+	quest.43EAB8C24B611B16.title: "Plaquette de silicium"
+	quest.4572FBE7D0E9EE8B.title: "Water"
+	quest.45C284E17E75C6E6.title: "Kill Sheep"
+	quest.4A245CC3606696D2.quest_desc: ["Check this once you have started your dark magic journey with EvilCraft."]
+	quest.4A245CC3606696D2.title: "Master EvilCraft"
+	quest.4A5AA87DAA514E24.quest_desc: [
+		"The Organic Solar Panel is the most powerful solar generator in the game!"
+		"It generates far more power than a regular Advanced Solar Panel."
+		"This is the ultimate goal of Chemical Science — congratulations!"
+	]
+	quest.4A5AA87DAA514E24.title: "Organic Solar Panel"
+	quest.4A9AE3057362AEB6.quest_desc: [
+		"Les plaques fabriquées à partir d'alliages chimiques sont plus résistantes que l'acier ordinaire."
+		"Elles sont utilisées dans la construction des machines chimiques avancées."
+	]
+	quest.4A9AE3057362AEB6.title: "Plaques chimiques"
+	quest.4ACABF3302BFB163.title: "Infusion "
+	quest.4B39C51359404FB8.quest_desc: [
+		"L'Ore Washer permet de tripler votre production de minerais !"
+		"En combinant le concasseur et l'ore washer, vous obtenez 3 ingots par minerai au lieu d'un seul."
+		"C'est l'une des étapes les plus importantes de la progression."
+	]
+	quest.4B39C51359404FB8.title: "Décomposeur de minerais"
+	quest.4CCA34202DDD18B6.title: "Green Fertilizer"
+	quest.4F73698DCD641803.quest_desc: [
+		"Smelt Manganese dust to get Manganese ingots."
+		"Used in lab grating, racks, ladders and other structural lab components."
+	]
+	quest.4F73698DCD641803.title: "Manganese Ingot"
+	quest.4FC62D54F83123E0.quest_desc: [
+		"Le magnésium est un métal léger aux propriétés chimiques intéressantes."
+		"Il est utilisé dans de nombreux alliages et réactions chimiques avancées."
+	]
+	quest.4FC62D54F83123E0.title: "Magnésium"
+	quest.5004E34D18C39F48.quest_desc: [
+		"Chemical Science introduces radioactive materials that need proper shielding."
+		"Craft Radiation Shielding Glass and Concrete to protect yourself and others."
+		"Always shield radioactive machines properly!"
+	]
+	quest.5004E34D18C39F48.title: "Radiation Shielding"
+	quest.51FD640E27CF45E2.quest_desc: [
+		"The Fractionating Column separates liquid mixtures into their components."
+		"It is used to distill crude oil into usable fuel, and to separate chemical compounds."
+		"Essential for fuel production and advanced chemistry."
+	]
+	quest.51FD640E27CF45E2.title: "Fractionating Column"
+	quest.537F99C3ACB98407.quest_desc: [
+		"Silicon is critical for electronics and semiconductors."
+		"Mine Silicon ore and crush it into Silicon dust, then smelt it into Silicon ingots."
+		"You will need a lot of it — Silicon is the backbone of Chemical Science circuits."
+	]
+	quest.537F99C3ACB98407.title: "Mining: Silicon"
+	quest.55C0F3D89AC130B5.quest_desc: [
+		"Wolframite is the ore source for Tungsten, an extremely hard metal."
+		"Tungsten is used for the toughest tools and highest-tier machine parts."
+	]
+	quest.55C0F3D89AC130B5.title: "Mining: Wolframite"
+	quest.58418D97FF2842E9.title: "Kill Creeper"
+	quest.587C2E433584BC4B.title: "Kill Pig"
+	quest.59B7EC7E9AF53596.title: "Kill Enderman"
+	quest.5AD8F358758F9271.quest_desc: [
+		"The Magnesium-Aluminum alloy is the main structural material of Chemical Science."
+		"Craft it in an Energized Alloyer using Magnesium and Aluminum."
+		"Used for scaffolding, doors, fences, lab structures and more."
+	]
+	quest.5AD8F358758F9271.title: "Magnesium-Aluminum Alloy"
+	quest.5B92957B2F43B117.quest_desc: [
+		"Le Combustion Chamber est un générateur puissant qui brûle du combustible liquide."
+		"Il produit bien plus d'énergie qu'un simple générateur à charbon."
+	]
+	quest.5B92957B2F43B117.title: "Moteur à combustion"
+	quest.5FC93ADBB0CB2410.quest_desc: [
+		"The Niobium-Titanium Coil is a superconducting coil used in advanced machinery."
+		"Made from Niobium-Titanium alloy ingots processed through multiple stages."
+		"Required for the most powerful electrical components in the mod."
+	]
+	quest.5FC93ADBB0CB2410.title: "Niobium-Titanium Coil"
+	quest.60776F840FE7827D.quest_desc: [
+		"Smelt Tungsten dust into Tungsten ingots."
+		"One of the hardest metals in the mod, used for Tungsten Carbide — the toughest tools available."
+	]
+	quest.60776F840FE7827D.title: "Tungsten Ingot"
+	quest.6082774F1E5DC817.quest_desc: [
+		"L'acide sulfurique est l'un des produits chimiques les plus utiles du mod."
+		"Il est produit à partir de soufre dans le réacteur chimique."
+		"Attention : manipulez-le avec précaution, c'est un produit corrosif !"
+	]
+	quest.6082774F1E5DC817.title: "Acide sulfurique"
+	quest.608F4DD5B23D39A6.quest_desc: [
+		"Le cuivre et l'aluminium sont les ressources fondamentales d'Electrodynamics."
+		"Minez-en un bon stock, vous en aurez besoin en grande quantité !"
+	]
+	quest.608F4DD5B23D39A6.title: "Cuivre & Aluminium"
+	quest.6124B6A226FCE151.quest_desc: ["Check this once your automatic mob grinder is killing entities efficiently."]
+	quest.6124B6A226FCE151.title: "Mob Grinding Utilities"
+	quest.612986395731330E.quest_desc: [
+		"Electrodynamics est un mod de technologie avancée basé sur l'électricité réelle."
+		"Vous allez devoir extraire des minerais, fabriquer des machines et construire des réseaux électriques."
+		"Commencez par récupérer les minerais de base du mod."
+	]
+	quest.612986395731330E.quest_subtitle: "Un monde alimenté par l'électricité"
+	quest.612986395731330E.title: "Bienvenue dans Electrodynamics !"
+	quest.622481DD649EDDAF.title: "Kill Chicken"
+	quest.6229D8F3D0048705.quest_desc: [
+		"The Organic Night Vision Goggles let you see in complete darkness without any potion."
+		"Made from organic chemistry compounds — a must-have for deep mining operations."
+	]
+	quest.6229D8F3D0048705.title: "Organic Night Vision Goggles"
+	quest.625818E4F85C71D0.quest_desc: ["Check this once you have advanced through the industrial tech tree."]
+	quest.625818E4F85C71D0.title: "Exhaust Industrial Foregoing"
+	quest.62FEEA4A8B242875.quest_desc: [
+		"Le panneau solaire organique utilise des matériaux chimiques pour produire de l'énergie solaire bien plus efficacement."
+		"Il est fabriqué à partir de composants chimiques avancés."
+		"C'est l'une des meilleures sources d'énergie passive du mod."
+	]
+	quest.62FEEA4A8B242875.title: "Panneau solaire organique"
+	quest.654F57CBCAFD0EFA.title: "Kill Zombie"
+	quest.65D28D3E9BD965B6.quest_desc: ["Check this once your 5x ore processing or fusion reactor is running."]
+	quest.65D28D3E9BD965B6.title: "Automate Mekanism"
+	quest.66D9F2CAC1DFEFC9.title: "Artifacts"
+	quest.681C69F13176580A.quest_desc: [
+		"The Steam Cracker breaks down heavy hydrocarbons into lighter, more useful compounds."
+		"It produces the base chemicals needed for polymer synthesis."
+		"Essential for the plastics and organic chemistry chain."
+	]
+	quest.681C69F13176580A.title: "Steam Cracker"
+	quest.6834A93F6A29F72C.quest_desc: [
+		"The Organic Solar Panel Plate is the core component of the Organic Solar Panel."
+		"It is made from complex organic photovoltaic polymers synthesized through many chemical steps."
+		"The reward for mastering the entire Chemical Science chain!"
+	]
+	quest.6834A93F6A29F72C.title: "Organic Solar Panel Plate"
+	quest.68BC22F8880913CD.title: "Lava"
+	quest.68CB8127DF37A85A.quest_desc: [
+		"Le Thermal Generator produit de l'énergie en utilisant des différences de température."
+		"Placez-le entre de la lave et de l'eau pour une production d'énergie passive et continue."
+	]
+	quest.68CB8127DF37A85A.title: "Générateur thermique"
+	quest.6A18FEBB14595633.title: "Vending Upgrade"
+	quest.6C30B8ECA5E90C6D.title: "Kill Wither Boss"
+	quest.6D0238CB11134E93.quest_desc: [
+		"Cooperite is the source of Platinum and Palladium, two precious metals."
+		"They are essential for high-end catalysts used in chemical reactions."
+		"These ores are rare — the Mineral Washer helps maximize your yield!"
+	]
+	quest.6D0238CB11134E93.title: "Mining: Cooperite"
+	quest.6D94BC309CA933B5.quest_desc: [
+		"Les batteries permettent de stocker l'énergie produite par vos générateurs."
+		"Elles sont indispensables pour éviter les coupures lors des pics de consommation."
+	]
+	quest.6D94BC309CA933B5.title: "Batterie"
+	quest.6E7E09616D9328FF.title: "Infinity Singularity"
+	quest.6EBFED47D8CB0107.quest_desc: [
+		"Arsenopyrite is the main source of Arsenic in Chemical Science."
+		"Mine it and process it through a Mineral Crusher to get Arsenic dust."
+		"Arsenic is used in many semiconductor and chemical recipes."
+	]
+	quest.6EBFED47D8CB0107.title: "Mining: Arsenopyrite"
+	quest.6FE3C16BE3AF597C.title: "Ultimate Stew"
+	quest.6FF75D84715C4D8D.quest_desc: [
+		"L'acier est obtenu en faisant fondre du fer dans un four ordinaire avec du charbon."
+		"Il est indispensable pour les machines avancées."
+	]
+	quest.6FF75D84715C4D8D.title: "Acier"
+	quest.72D15C4FE866B550.quest_desc: [
+		"The Catalytic Reformer uses catalysts to transform chemical compounds."
+		"It is used for producing polymers, advanced organic compounds and fuel processing."
+		"Requires catalysts made from Platinum, Palladium, and other precious metals."
+	]
+	quest.72D15C4FE866B550.title: "Catalytic Reformer"
+	quest.73E2813A33955266.quest_desc: [
+		"Smelt Magnesium dust in an Electric Furnace to get Magnesium ingots."
+		"This is the first step toward making the lightweight Magnesium-Aluminum alloy."
+	]
+	quest.73E2813A33955266.title: "Magnesium Ingot"
+	quest.744AFBF3D01A7889.quest_desc: [
+		"Le Coal Generator est votre première source d'énergie."
+		"Placez-le, connectez-le avec des fils et alimentez-le en charbon pour produire de l'électricité."
+		"Attention : l'énergie dans Electrodynamics s'exprime en Joules (J)."
+	]
+	quest.744AFBF3D01A7889.title: "Premier générateur"
+	quest.75F1D24185092EF3.quest_desc: [
+		"L'Oxidation Furnace permet de créer des oxydes métalliques."
+		"Ces composants sont nécessaires pour fabriquer des machines plus avancées et des composants électroniques."
+	]
+	quest.75F1D24185092EF3.title: "Oxydeur"
+	quest.786205924DE690FC.title: "Bee Spawn Egg"
+	quest.797525BFAB7F575E.title: "Kill Blaze"
+	quest.7AACC33CC2911695.quest_desc: ["Check this once you have reached the endgame components of Industrial Upgrade."]
+	quest.7AACC33CC2911695.title: "Complete Industrial Upgrade"
+	quest.7ADF6BF61F2FDE18.quest_desc: [
+		"The Redox Furnace performs oxidation and reduction reactions."
+		"It is used to process metal oxides and create chemical compounds that other machines cannot."
+		"A cornerstone machine for mid-game chemical processing."
+	]
+	quest.7ADF6BF61F2FDE18.title: "Redox Furnace"
+	quest.7B710A27E44403DA.quest_desc: [
+		"Chemical Science ajoute plusieurs nouveaux minerais dans le monde."
+		"L'arsenic, le soufre et d'autres éléments sont la base de toute la chimie avancée."
+		"Minez-en un bon stock pour commencer vos expériences !"
+	]
+	quest.7B710A27E44403DA.title: "Minerais chimiques"
+	quest.7DD737A3D410068E.quest_desc: [
+		"The Flamethrower is a powerful weapon that uses liquid fuel to shoot fire."
+		"Fueled by combustible liquids produced through your oil refining chain."
+		"Handle with care — it ignites everything in its path!"
+	]
+	quest.7DD737A3D410068E.title: "Flamethrower"
+	reward.21C8B5848C1F4889.title: "Cosmic Meatballs"
+	reward.285922850A5C2850.title: "Red fertilizer"
+	reward.2AABCD6806D65C33.title: "Cobblestone"
+	reward.2DA785F8011F9B91.title: "Villager Spawn Egg"
+	reward.35ACFF4C9C91E9C9.title: "Yellow Fertilizer"
+	reward.35DF80D760C1C8E4.title: "Lava"
+	reward.3A5E6EF8E0911A3A.title: "Lilypad"
+	reward.415F2A717D808A5A.title: "Green Fertilizer"
+	reward.4610E1E6DF36AEDE.title: "Water"
+	reward.4C8EDD41A8035FD9.title: "Energy Cube"
+	reward.4D118DD64BC1D6CD.title: "Ultimate Stew"
+	reward.553338A18D0D4C6E.title: "Creative Blaze Cake"
+	reward.5E73567774CAE7E7.title: "Vending Upgrade"
+	reward.64248425F766A80C.title: "Infinity Singularity"
+	reward_table.13D5368D26F073C6.title: "ok"
+	reward_table.1E93D7BE23481E28.title: "Reward_randoms"
+	reward_table.6810B60883EFCC86.title: "Artefacts"
+	task.0387479AD921BABC.title: "Blaze"
+	task.066D542DA4E73FCD.title: "Claim the Entropy Crystal"
+	task.0831CEA69C96FBB1.title: "Skeleton"
+	task.084200CDC6C3373F.title: "Exhaust Industrial Foregoing"
+	task.0A79958446E04631.title: "Sheep"
+	task.0B031A52622D6AC5.title: "Master Ars Nouveau"
+	task.17F1E60CE1200C0B.title: "Tame PneumaticCraft's Pressure"
+	task.1848DD18A53CE748.title: "Stabilize Extreme Reactors"
+	task.19E35FB0A58D391C.title: "30 hours"
+	task.1B8DCC642CCC4567.title: "Pig"
+	task.1EEEE932B1F4FA6B.title: "50 Hours"
+	task.2B8B9738BF450340.title: "Insanium Essence"
+	task.2FE013B785D5988B.title: "Insanium Essence"
+	task.30222C58AF2A1550.title: "Shop"
+	task.30563391668D656C.title: "Kill Chaos Dragon"
+	task.3114871FFAF96639.title: "Chicken"
+	task.3812BCE7F5F367B8.title: "20 Hours"
+	task.38F81548C7FAE483.title: "Cobblestone"
+	task.3BFA5F919D4690F3.title: "Cell Creative"
+	task.3D183EA51E7D3FB9.title: "Kill Ender Dragon"
+	task.3DA787FBBA03F09E.title: "Plutonium"
+	task.40CD10C24B2FD402.title: "Awaken Draconic Evolution"
+	task.422601A3B83DE14B.title: "Cow"
+	task.42377850F447652D.title: "Polonium"
+	task.4885C5573CC907A6.title: "Polonium"
+	task.4CE289035E42B456.title: "Complete Industrial Upgrade"
+	task.4D586E387F7E8D09.title: "Optimize Advanced AE2"
+	task.4DD38E2F74BD413A.title: "Creeper"
+	task.51C40F2250B4F444.title: "Harness Create's Kinetic Energy"
+	task.5218CA02CB7139EC.title: "Reach Avaritia"
+	task.523559FFE8A07120.title: "Kill Wither Skeleton"
+	task.6DAD0D372B1D5B8E.title: "Automate Mekanism"
+	task.6E1E7F18E60B1FB2.title: "Saturate Powah"
+	task.71D62B5F31EBBF5E.title: "10 hours"
+	task.7BD237701974067C.title: "Enderman"
+	task.7FE3FC34DACF5257.title: "Zombie"
+}

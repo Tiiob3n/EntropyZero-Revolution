@@ -1,0 +1,180 @@
+{
+	id: "0BAE6A3CD1D4A9E0"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			count: 6
+			id: "09ADB3564B0B7860"
+			item: {
+				count: 1
+				id: "minecraft:white_dye"
+			}
+		}
+		{
+			count: 6
+			id: "0D1DF863988C7943"
+			item: {
+				count: 1
+				id: "minecraft:light_gray_dye"
+			}
+		}
+		{
+			count: 6
+			id: "23F01D43B8D07E76"
+			item: {
+				count: 1
+				id: "minecraft:gray_dye"
+			}
+		}
+		{
+			count: 6
+			id: "66AC1908A8E42850"
+			item: {
+				count: 1
+				id: "minecraft:black_dye"
+			}
+		}
+		{
+			count: 6
+			id: "1621283E5D3924DD"
+			item: {
+				count: 1
+				id: "minecraft:brown_dye"
+			}
+		}
+		{
+			count: 6
+			id: "7C2D4076543AA3BF"
+			item: {
+				count: 1
+				id: "minecraft:red_dye"
+			}
+		}
+		{
+			count: 6
+			id: "4A399CFA8A821EEB"
+			item: {
+				count: 1
+				id: "minecraft:orange_dye"
+			}
+		}
+		{
+			count: 6
+			id: "4BBB992B0D6C87C0"
+			item: {
+				count: 1
+				id: "minecraft:yellow_dye"
+			}
+		}
+		{
+			count: 6
+			id: "63A433899B619AD4"
+			item: {
+				count: 1
+				id: "minecraft:lime_dye"
+			}
+		}
+		{
+			count: 6
+			id: "0F79820991D1F10A"
+			item: {
+				count: 1
+				id: "minecraft:green_dye"
+			}
+		}
+		{
+			count: 6
+			id: "4943AD61901085D7"
+			item: {
+				count: 1
+				id: "minecraft:cyan_dye"
+			}
+		}
+		{
+			count: 6
+			id: "0A38FF4DF7EFBD26"
+			item: {
+				count: 1
+				id: "minecraft:light_blue_dye"
+			}
+		}
+		{
+			count: 6
+			id: "7538FD83CBB8F7D4"
+			item: {
+				count: 1
+				id: "minecraft:blue_dye"
+			}
+		}
+		{
+			count: 6
+			id: "165CD641BD329B2B"
+			item: {
+				count: 1
+				id: "minecraft:purple_dye"
+			}
+		}
+		{
+			count: 6
+			id: "5FCA1F36F0F83710"
+			item: {
+				count: 1
+				id: "minecraft:magenta_dye"
+			}
+		}
+		{
+			count: 6
+			id: "28F8D55AE5C9A953"
+			item: {
+				count: 1
+				id: "minecraft:pink_dye"
+			}
+		}
+		{
+			count: 2
+			id: "5EAA1C7A484E5420"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 4
+			id: "5EC213ADB45C0A40"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+		}
+		{ id: "66C58EFA182E0B89", item: { count: 1, id: "minecraft:chest" } }
+		{ id: "07346CE41C328534", item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ id: "6184CC73C519A52A", item: { count: 1, id: "minecraft:white_wool" } }
+		{
+			count: 2
+			id: "43A1A25E987B0C32"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+		}
+		{ id: "3995A95FEA4D0CD5", item: { count: 1, id: "minecraft:enchanted_golden_apple" } }
+		{
+			count: 2
+			id: "287200A3712B6BCB"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+		}
+		{
+			count: 2
+			id: "4FA3789BC9051BD7"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+		}
+		{ id: "7A8131E0097B2031", item: { count: 1, id: "minecraft:nether_star" } }
+	]
+}

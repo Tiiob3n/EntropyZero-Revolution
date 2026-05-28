@@ -1,0 +1,13 @@
+{
+	"id": "copper_casing",
+	"color": [
+		-35021,
+		-5618688
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

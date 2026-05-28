@@ -1,0 +1,13 @@
+{
+	"id": "refined_redstone",
+	"color": [
+		-56832,
+		-5631744
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

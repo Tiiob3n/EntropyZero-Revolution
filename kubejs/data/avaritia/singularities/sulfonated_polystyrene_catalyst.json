@@ -1,0 +1,13 @@
+{
+	"id": "sulfonated_polystyrene_catalyst",
+	"color": [
+		-13176,
+		-5601212
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

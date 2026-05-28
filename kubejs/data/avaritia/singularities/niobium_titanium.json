@@ -1,0 +1,13 @@
+{
+	"id": "niobium_titanium",
+	"color": [
+		-7820596,
+		-12294520
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

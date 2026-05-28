@@ -1,0 +1,13 @@
+{
+	"id": "alloy_exoversal",
+	"color": [
+		-65281,
+		-7864184
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

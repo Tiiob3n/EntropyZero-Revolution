@@ -1,0 +1,64 @@
+{
+	id: "395A64B42C59AD61"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_13"
+	}
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ id: "7495C9302829D2CD", item: { count: 1, id: "minecraft:book" } }
+		{
+			count: 16
+			id: "53B598F21FF596AD"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{ id: "528B90DF884005DC", item: { count: 1, id: "minecraft:melon_slice" } }
+		{ id: "68562C23E93BBB0B", item: { count: 1, id: "minecraft:prismarine_shard" } }
+		{ id: "76A4C3E8D9FC9399", item: { count: 1, id: "minecraft:blaze_rod" } }
+		{ id: "065CF42F75179FDB", item: { count: 1, id: "minecraft:end_rod" } }
+		{ id: "43DE0827CD1E3A8C", item: { count: 1, id: "minecraft:ender_chest" } }
+		{
+			count: 8
+			id: "0D5835EAB3859807"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{ id: "56131D2BF30A94C9", item: { count: 1, id: "minecraft:diamond_block" } }
+		{ id: "1BB4BBCB3300EE69", item: { count: 1, id: "minecraft:enchanting_table" } }
+		{
+			count: 8
+			id: "62361ECBBEAE5F40"
+			item: {
+				count: 1
+				id: "minecraft:nether_bricks"
+			}
+		}
+		{ id: "540B870F8E04E143", item: { count: 1, id: "minecraft:gold_block" } }
+		{ id: "158BE4563FDF929C", item: { count: 1, id: "minecraft:dragon_breath" } }
+		{ id: "507B06892F4E6107", item: { count: 1, id: "minecraft:sculk" } }
+		{ id: "564CF85E80B9116C", item: { count: 1, id: "apothic_enchanting:warden_tendril" } }
+		{
+			count: 8
+			id: "7360CC5A4E128B21"
+			item: {
+				count: 1
+				id: "minecraft:end_stone"
+			}
+		}
+		{ id: "5DC1957A7A1E8B80", item: { count: 1, id: "minecraft:honeycomb" } }
+		{ id: "6F0BC2986B77C265", item: { count: 1, id: "minecraft:nether_star" } }
+		{ id: "08C1B58CF0244F52", item: { count: 1, id: "minecraft:soul_sand" } }
+		{ id: "43E96788CF9D076B", item: { count: 1, id: "minecraft:fire_charge" } }
+	]
+}

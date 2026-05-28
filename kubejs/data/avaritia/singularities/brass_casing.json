@@ -1,0 +1,13 @@
+{
+	"id": "brass_casing",
+	"color": [
+		-17596,
+		-5605615
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

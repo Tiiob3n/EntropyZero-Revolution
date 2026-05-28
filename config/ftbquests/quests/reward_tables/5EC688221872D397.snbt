@@ -1,0 +1,68 @@
+{
+	id: "5EC688221872D397"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_"
+	}
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{ id: "68485679429818D6", item: { count: 1, id: "minecraft:iron_nugget" } }
+		{ id: "4C4994E6316FE1D4", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "4BBE1F84C0830D6E", item: { count: 1, id: "enderio:conductive_alloy_nugget" } }
+		{ id: "3BF00F400970171A", item: { count: 1, id: "enderio:energetic_alloy_nugget" } }
+		{ id: "41D5ACDC3E9B9B02", item: { count: 1, id: "enderio:vibrant_alloy_nugget" } }
+		{ id: "7A06640C275F2A30", item: { count: 1, id: "enderio:redstone_alloy_nugget" } }
+		{ id: "0AFEAD4005435B8E", item: { count: 1, id: "enderio:pulsating_alloy_nugget" } }
+		{ id: "50CD451D88114DD4", item: { count: 1, id: "enderio:dark_steel_nugget" } }
+		{ id: "4D6A39347C3453E9", item: { count: 1, id: "enderio:soularium_nugget" } }
+		{ id: "45FF93552D99F3FB", item: { count: 1, id: "enderio:end_steel_nugget" } }
+		{ id: "43259EDEFB665E43", item: { count: 1, id: "silentgear:crimson_iron_nugget" } }
+		{ id: "7A572DDAE3B69B49", item: { count: 1, id: "silentgear:crimson_steel_nugget" } }
+		{ id: "3EBA105BF7882003", item: { count: 1, id: "silentgear:blaze_gold_nugget" } }
+		{ id: "2FA33447EDAB063D", item: { count: 1, id: "silentgear:azure_silver_nugget" } }
+		{ id: "5760E21DDC6A4C83", item: { count: 1, id: "silentgear:azure_electrum_nugget" } }
+		{ id: "279F0A96752B5DD7", item: { count: 1, id: "mekanism:nugget_refined_obsidian" } }
+		{ id: "7AC6D93A29570DEE", item: { count: 1, id: "mekanism:nugget_bronze" } }
+		{ id: "7E5773E6DC8D5851", item: { count: 1, id: "mekanism:nugget_refined_glowstone" } }
+		{ id: "087DE61E574F8DDF", item: { count: 1, id: "mekanism:nugget_steel" } }
+		{ id: "19E145448508F3F1", item: { count: 1, id: "mekanism:nugget_osmium" } }
+		{ id: "3E3BE21DD3FE179A", item: { count: 1, id: "mekanism:nugget_tin" } }
+		{ id: "0F5311298E28A8E2", item: { count: 1, id: "mekanism:nugget_lead" } }
+		{ id: "57A07F0E02C064BA", item: { count: 1, id: "mekanism:nugget_uranium" } }
+		{ id: "1501AA59D584631C", item: { count: 1, id: "mysticalagriculture:prudentium_nugget" } }
+		{ id: "7E126F60B7038F73", item: { count: 1, id: "mysticalagriculture:tertium_nugget" } }
+		{ id: "41E8B24BF55D5377", item: { count: 1, id: "mysticalagriculture:imperium_nugget" } }
+		{ id: "4B0CAD43D6A0888B", item: { count: 1, id: "mysticalagriculture:supremium_nugget" } }
+		{ id: "6D2A6405ED883FD6", item: { count: 1, id: "mysticalagriculture:awakened_supremium_nugget" } }
+		{ id: "3611D73839006EFC", item: { count: 1, id: "mysticalagriculture:soulium_nugget" } }
+		{ id: "157C8CC004B33424", item: { count: 1, id: "mysticalagradditions:insanium_nugget" } }
+		{ id: "0373BFE03CBF71BF", item: { count: 1, id: "alltheores:aluminum_nugget" } }
+		{ id: "711FC158E2211B09", item: { count: 1, id: "alltheores:lead_nugget" } }
+		{ id: "3835AFB0B967800C", item: { count: 1, id: "alltheores:nickel_nugget" } }
+		{ id: "77FEEB2CE351C289", item: { count: 1, id: "alltheores:osmium_nugget" } }
+		{ id: "6D7B31C4DD8058AE", item: { count: 1, id: "alltheores:platinum_nugget" } }
+		{ id: "7F9469A1E03D6A81", item: { count: 1, id: "alltheores:silver_nugget" } }
+		{ id: "14C6203B8B5F235E", item: { count: 1, id: "alltheores:tin_nugget" } }
+		{ id: "00ED9B6FDA109337", item: { count: 1, id: "alltheores:uranium_nugget" } }
+		{ id: "72EFD4BCCE4DAD9D", item: { count: 1, id: "alltheores:zinc_nugget" } }
+		{ id: "1E46578454B56E16", item: { count: 1, id: "alltheores:iridium_nugget" } }
+		{ id: "6380C0EE91424127", item: { count: 1, id: "alltheores:steel_nugget" } }
+		{ id: "21B2AE343B7CCF60", item: { count: 1, id: "alltheores:invar_nugget" } }
+		{ id: "218490100859A9D6", item: { count: 1, id: "alltheores:electrum_nugget" } }
+		{ id: "4843BC333588AAC6", item: { count: 1, id: "alltheores:bronze_nugget" } }
+		{ id: "4FA85F9950E15A3F", item: { count: 1, id: "alltheores:brass_nugget" } }
+		{ id: "58339426D89C9F46", item: { count: 1, id: "alltheores:lumium_nugget" } }
+		{ id: "3290228EBE3A1A2C", item: { count: 1, id: "alltheores:signalum_nugget" } }
+		{ id: "73450F3C099E8E9F", item: { count: 1, id: "alltheores:constantan_nugget" } }
+		{ id: "26FE3FDB6858245B", item: { count: 1, id: "alltheores:copper_nugget" } }
+		{ id: "6B48E8EF8FCC3CDB", item: { count: 1, id: "allthemodium:allthemodium_nugget" } }
+		{ id: "2B73F938A8DBB264", item: { count: 1, id: "allthemodium:vibranium_nugget" } }
+		{ id: "3322F8B6867FECF6", item: { count: 1, id: "allthemodium:unobtainium_nugget" } }
+	]
+}

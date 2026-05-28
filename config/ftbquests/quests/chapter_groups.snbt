@@ -1,0 +1,17 @@
+{
+	chapter_groups: [
+		{ id: "0517EA5C1FCABF8C" }
+		{ id: "7507BECE02739D45" }
+		{ id: "1A02E557250FDFCE" }
+		{ id: "5F1F490178F3BCCD" }
+		{ id: "2D30E5D8A8D9A991" }
+		{ id: "0D0A62CE78C6B572" }
+		{ id: "76946B8C573FE822" }
+		{ id: "6E725A1E15EE7F3C" }
+		{ id: "399349ADD896812C" }
+		{ id: "3F5C6DA4A7F8370F" }
+		{ id: "2470E23D9A007D0B" }
+		{ id: "4785DBB07CBBB176" }
+		{ id: "63FBCA78FA1E799C" }
+	]
+}

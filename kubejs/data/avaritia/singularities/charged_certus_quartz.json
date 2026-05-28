@@ -1,0 +1,13 @@
+{
+	"id": "charged_certus_quartz",
+	"color": [
+		-7803137,
+		-12277044
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Chaotic",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "draconicevolution:small_chaos_frag"
+  },
+  "colors": {
+    "flower": "0d0000",
+    "essence": "110f0f",
+    "seeds": "1a0000"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:item/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true,
+  "baseSecondaryChance": 0.1,
+  "crux": "minecraft:obsidian",
+  "recipes": {
+    "crafting": true,
+    "infusion": true,
+    "reprocessor": true
+  }
+}

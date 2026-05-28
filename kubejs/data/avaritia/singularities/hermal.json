@@ -1,0 +1,13 @@
+{
+	"id": "hermal",
+	"color": [
+		-48128,
+		-5627392
+	],
+	"neoforge:conditions": [
+		{
+			"type": "neoforge:mod_loaded",
+			"modid": "avaritia"
+		}
+	]
+}
