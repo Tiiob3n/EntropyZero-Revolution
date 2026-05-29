@@ -28,22 +28,14 @@
 			dependencies: ["5987B24E89D6FFAB"]
 			id: "61B9A1276F7CAC5B"
 			ignore_reward_blocking: true
-			rewards: [
-				{
-					count: 16
-					id: "6988926D7C3165C3"
-					item: {
-						count: 1
-						id: "minecraft:coal"
-					}
-					type: "item"
+			rewards: [{
+				id: "4B1847A8DCD75F41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7BB77263679C6E83"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4E6583C0A2636290"
 				item: { count: 1, id: "minecraft:oak_log" }
@@ -58,22 +50,14 @@
 			id: "2825DC10B617395B"
 			progression_mode: "linear"
 			require_sequential_tasks: true
-			rewards: [
-				{
-					count: 8
-					id: "5F2AE476A54E9FFC"
-					item: {
-						count: 1
-						id: "minecraft:cooked_beef"
-					}
-					type: "item"
+			rewards: [{
+				id: "14F741CDE7AC45FE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3009D02FD95637FC"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7DC9A31A42A2BF8D"
 				item: { count: 1, id: "minecraft:wooden_pickaxe" }
@@ -85,22 +69,14 @@
 		{
 			dependencies: ["2825DC10B617395B"]
 			id: "69968442DE109567"
-			rewards: [
-				{
-					count: 32
-					id: "56EBE528275AC428"
-					item: {
-						count: 1
-						id: "minecraft:oak_planks"
-					}
-					type: "item"
+			rewards: [{
+				id: "22CD472AF633A203"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6C53DC714FBDD43B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "4E0607B12ED64BE1"
@@ -113,27 +89,14 @@
 		{
 			dependencies: ["69968442DE109567"]
 			id: "6EF753B1C1E54A92"
-			rewards: [
-				{
-					id: "14230F07975B3FBE"
-					item: {
-						count: 1
-						id: "minecraft:iron_ingot"
-					}
-					type: "item"
+			rewards: [{
+				id: "59E578471D010AF1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4A8CA0C2ED14C0C1"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "364269FF51081D58"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "1E9E78D228F93332"
@@ -164,28 +127,14 @@
 			hide_details_until_startable: false
 			id: "3204E9509CDB65AF"
 			require_sequential_tasks: false
-			rewards: [
-				{
-					count: 4
-					id: "5E1F29F9E11413B5"
-					item: {
-						count: 1
-						id: "minecraft:chest"
-					}
-					type: "item"
+			rewards: [{
+				id: "68A50B842B91A6FC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "64C7ED6282D7D0A2"
-					table_id: 5474976833086901426L
-					type: "random"
-				}
-				{
-					id: "073CD3B3D8E41210"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4201D0635DDA9082"
 				item: { count: 1, id: "minecraft:furnace" }
@@ -198,9 +147,12 @@
 			dependencies: ["3204E9509CDB65AF"]
 			id: "0065CA4AD2EA1FDA"
 			rewards: [{
-				id: "0D3A112558DFA3A4"
-				type: "xp"
-				xp: 100
+				id: "3F43FB2768B6F641"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -223,19 +175,14 @@
 				id: "minecraft:sculk_shrieker"
 			}
 			id: "53205DBFE3C16DD5"
-			rewards: [
-				{
-					id: "0B78F94FC9DAFBD7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "46493925CDCDD48B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "726DFFF6B44217C2"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "59716AD1F189C148"
 				structure: "minecraft:ancient_city"
@@ -248,19 +195,14 @@
 			dependencies: ["53205DBFE3C16DD5"]
 			dependency_requirement: "one_started"
 			id: "0767D253580F4632"
-			rewards: [
-				{
-					id: "0CF37B9FC39F8BA3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4B6C272A5D5B0AD0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4C8BE5CF3B409C69"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				dimension: "deeperdarker:otherside"
 				id: "16F0100BB4B7ECAF"
@@ -272,19 +214,14 @@
 		{
 			dependencies: ["0767D253580F4632"]
 			id: "12B6EF8545D5A63F"
-			rewards: [
-				{
-					id: "5D1D10B2A76226C9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6FE447C0F9369C32"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2854267C1CF46B0F"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "deeperdarker:sculk_stone"
@@ -301,33 +238,14 @@
 		{
 			dependencies: ["12B6EF8545D5A63F"]
 			id: "49F8BFF9A60A2181"
-			rewards: [
-				{
-					count: 16
-					id: "246A4489C690601F"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "deeperdarker:long_sculk_affinity"
-							}
-						}
-						count: 1
-						id: "minecraft:tipped_arrow"
-					}
-					type: "item"
+			rewards: [{
+				id: "135FFAF83FD57A75"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6A875331119D55DF"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "53014B26556DCA11"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "deeperdarker:sculk_stone_iron_ore"
@@ -344,19 +262,14 @@
 		{
 			dependencies: ["0767D253580F4632"]
 			id: "5822156779023BB0"
-			rewards: [
-				{
-					id: "6AFF59036F6ACD7E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2D6A766BB0845337"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2D59AF3B3F08D129"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "deeperdarker:sculk_gleam"
@@ -373,27 +286,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "3DDF2E7F0AB2ECAD"
-			rewards: [
-				{
-					id: "6D84D726B340AAEE"
-					item: {
-						count: 1
-						id: "minecraft:raw_iron_block"
-					}
-					type: "item"
+			rewards: [{
+				id: "6916EC3B19326439"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "557748DE7F406697"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "57951112B3166451"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "227F76BB664AD4D4"
@@ -406,21 +306,14 @@
 		{
 			dependencies: ["3DDF2E7F0AB2ECAD"]
 			id: "23C670AE5D6853FE"
-			rewards: [
-				{
-					id: "75D07CD30AFAC94C"
-					item: {
-						count: 1
-						id: "sophisticatedstorage:basic_tier_upgrade"
-					}
-					type: "item"
+			rewards: [{
+				id: "56B135CD9A331956"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7D6381192B94B6F0"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "679FF2EECAE81358"
@@ -433,27 +326,14 @@
 		{
 			dependencies: ["23C670AE5D6853FE"]
 			id: "6754BB5F786B5094"
-			rewards: [
-				{
-					count: 16
-					id: "417F149C83BBBFD1"
-					item: {
-						components: {
-							"minecraft:potion_contents": {
-								potion: "minecraft:night_vision"
-							}
-						}
-						count: 1
-						id: "minecraft:potion"
-					}
-					type: "item"
+			rewards: [{
+				id: "619A209BA5209EEF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2CCB53C1A4A5C83D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7BF1CBC572A0E064"
@@ -478,21 +358,14 @@
 			dependencies: ["6754BB5F786B5094"]
 			id: "33962BD9329FF609"
 			require_sequential_tasks: true
-			rewards: [
-				{
-					id: "293E553855D9FCCB"
-					item: {
-						count: 1
-						id: "minecraft:raw_gold_block"
-					}
-					type: "item"
+			rewards: [{
+				id: "7704D3303591E502"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "31E1CD7D8BE08F4B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "095A2E1187E3A395"
@@ -505,21 +378,14 @@
 		{
 			dependencies: ["33962BD9329FF609"]
 			id: "42B30C70F831584B"
-			rewards: [
-				{
-					id: "4729CD33702713EF"
-					item: {
-						count: 1
-						id: "sophisticatedbackpacks:gold_backpack"
-					}
-					type: "item"
+			rewards: [{
+				id: "602F9BB8AEE22B02"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "224D34A956D89353"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "37B62074E174ABDD"
@@ -532,31 +398,14 @@
 		{
 			dependencies: ["6754BB5F786B5094"]
 			id: "01DB6DEA87FC3AE5"
-			rewards: [
-				{
-					id: "30D901582F6151A6"
-					item: {
-						count: 1
-						id: "minecraft:diamond_block"
-					}
-					type: "item"
+			rewards: [{
+				id: "6F945956BDB7CB9A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "080DCF4824344B2A"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:fortune": 3
-								}
-							}
-						}
-						count: 1
-						id: "minecraft:enchanted_book"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 16L
 				id: "3D67E1D4BBDF33A7"
@@ -570,13 +419,10 @@
 			dependencies: ["01DB6DEA87FC3AE5"]
 			id: "3731A03D3F835555"
 			rewards: [{
-				id: "6D328628B7D8C85D"
+				id: "7F250AC281BEC093"
 				item: {
-					components: {
-						"sophisticatedstorage:wood_type": "oak"
-					}
 					count: 1
-					id: "sophisticatedstorage:diamond_chest"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -608,28 +454,14 @@
 		{
 			dependencies: ["01DB6DEA87FC3AE5"]
 			id: "1D8D0C74E1662D41"
-			rewards: [
-				{
-					id: "3B0021006F773ACE"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:unbreaking": 3
-								}
-							}
-						}
-						count: 1
-						id: "minecraft:enchanted_book"
-					}
-					type: "item"
+			rewards: [{
+				id: "28F8465E83568B3F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4C13BB44E231F5FA"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4C269315F415101C"
@@ -654,9 +486,12 @@
 			dependencies: ["23C670AE5D6853FE"]
 			id: "268206E2F5769444"
 			rewards: [{
-				id: "2D61BAF00B11A1B6"
-				type: "xp_levels"
-				xp_levels: 30
+				id: "34D7DC9A4FF153FD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "76DCF0FC7E23F9EC"
@@ -669,28 +504,14 @@
 		{
 			dependencies: ["1752EDC1CB14D614"]
 			id: "273422EA9F00B60D"
-			rewards: [
-				{
-					count: 64
-					id: "5B0634AAC5781FE2"
-					item: {
-						count: 1
-						id: "minecraft:torch"
-					}
-					type: "item"
+			rewards: [{
+				id: "2635E26CA9C2EA41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "578D483FB4F58AD0"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6103CAE994C8C837"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				biome: "minecraft:deep_dark"
 				icon: {
@@ -705,28 +526,14 @@
 		{
 			dependencies: ["1E2C72CD74F5B04B"]
 			id: "6A6EFC0DCA86D166"
-			rewards: [
-				{
-					id: "2DF9C7785FC4EA00"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6CB85B40706DB308"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0C745EC3F99E1D09"
-					item: {
-						components: {
-							"minecraft:stored_enchantments": {
-								levels: {
-									"minecraft:blast_protection": 1
-								}
-							}
-						}
-						count: 1
-						id: "minecraft:enchanted_book"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "minecraft:tnt"
@@ -744,9 +551,12 @@
 			dependencies: ["1752EDC1CB14D614"]
 			id: "5987B24E89D6FFAB"
 			rewards: [{
-				id: "22B70B22995FF61A"
-				type: "xp"
-				xp: 100
+				id: "49E61F31602992C1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3A4215F22517C0F3"
@@ -759,25 +569,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "244EA10EB0450E67"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "372C1FD4ED2A9A02"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "7F90268447453CC9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "207CB2C740A8BEBE"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "29E0DBE5182F9FC4"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:zombie"
 				entityTypeTag: "artifacts:creepers"
@@ -797,25 +596,14 @@
 				id: "minecraft:zombie_head"
 			}
 			id: "4A2A65599BD70CED"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "47EB00FF9BFA03E9"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "65C2B76F71AA5348"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6030331E2D6B07A6"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "7C6A05D934FF9B8E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:zombie"
 				icon: {
@@ -831,25 +619,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "5A9CE89242F52C69"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5AD19EBEE782E602"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "368E42086A696058"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7E60881B1B51CF25"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "69B370F78854A584"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:zombie"
 				entityTypeTag: "minecraft:skeletons"
@@ -872,25 +649,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "13FA9A9E8318BD7A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "77299F9ED9AB91AB"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "68D2ABBD587007BE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "63F22092593D2A35"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5E48F12DC8EF278C"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:enderman"
 				icon: {
@@ -909,19 +675,14 @@
 		{
 			dependencies: ["244EA10EB0450E67"]
 			id: "1E2C72CD74F5B04B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "438241DBC469F1A8"
-					table_id: 8540177430504079234L
-					type: "random"
+			rewards: [{
+				id: "40D5126AF0FE49FE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3BE97B3057BB70F2"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 64L
 				id: "392F5AF26C9449C8"
@@ -934,19 +695,14 @@
 		{
 			dependencies: ["4A2A65599BD70CED"]
 			id: "0D4AA3440278BE58"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6FBAB2FFDF6F0D00"
-					table_id: 8540177430504079234L
-					type: "random"
+			rewards: [{
+				id: "50B3569713346E98"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5547C562EBEBF015"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 64L
 				id: "4F580AE96625220D"
@@ -959,19 +715,14 @@
 		{
 			dependencies: ["5A9CE89242F52C69"]
 			id: "563774DB676722DB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1E029F402F4D8E29"
-					table_id: 8540177430504079234L
-					type: "random"
+			rewards: [{
+				id: "19F34BA5C4526785"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "192500478A2ECD48"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 64L
 				id: "38EB286B19E4C6AC"
@@ -984,19 +735,14 @@
 		{
 			dependencies: ["13FA9A9E8318BD7A"]
 			id: "6D204F2E9A173AB7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5356671936B1DBB8"
-					table_id: 8540177430504079234L
-					type: "random"
+			rewards: [{
+				id: "456E09BCA6F0E519"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7B0F55CCDC152D03"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 64L
 				id: "1C9F6502F8A4FA38"
@@ -1009,25 +755,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "1F4C7F1BA46139D0"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0306EDE36743CB3E"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "16894DE47BF05868"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1F4B0612184AD66E"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4DCFBB2073D03AEC"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:witch"
 				id: "14FA2F16B75526F6"
@@ -1040,25 +775,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "71623F71D3B47693"
-			rewards: [
-				{
-					id: "08CEEAE0D72D63A7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "699768069846979D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "09E68F9D78C3CDB6"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "30509538D5379A63"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:chicken"
 				id: "5554BFD650C33CB5"
@@ -1071,19 +795,14 @@
 		{
 			dependencies: ["7BF75E3C768AC3B6"]
 			id: "54AE75A28FA3EAD3"
-			rewards: [
-				{
-					id: "68D47EFB42B0FC06"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1D6E5C4F9BC7FD3D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "27818EB2EB1C5272"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:ender_dragon"
 				icon: {
@@ -1099,25 +818,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "0FC6D7BA5031A94B"
-			rewards: [
-				{
-					id: "27E21B17A5379BDF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4BBF5C53D2E361B4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "197B0F43347CF1F9"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "627FC9B03AA4CCBD"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:phantom"
 				id: "671A10FFC83C1F26"
@@ -1134,9 +842,12 @@
 			}
 			id: "2ED893067860EF11"
 			rewards: [{
-				id: "6C517CD8ABFEA1F3"
-				type: "xp"
-				xp: 100
+				id: "5C0BDD3C226456A5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7FDACD2E233AEC11"
@@ -1152,9 +863,12 @@
 			dependencies: ["2D75A9109D410230"]
 			id: "555591EA319D6589"
 			rewards: [{
-				id: "33E564C7CD9CDD97"
-				type: "xp"
-				xp: 100
+				id: "791F02B80B4B25DA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "48D982D9EFB5D00A"
@@ -1168,9 +882,12 @@
 			dependencies: ["434618FF72173A02"]
 			id: "0F8C001921E7B1CA"
 			rewards: [{
-				id: "71681B9B262720D2"
-				type: "xp"
-				xp: 100
+				id: "2955F63EA27D0B42"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "54A7549D3507FC81"
@@ -1184,9 +901,12 @@
 			dependencies: ["1752EDC1CB14D614"]
 			id: "26275D18CC7A7764"
 			rewards: [{
-				id: "19AE4C9038255A13"
-				type: "xp"
-				xp: 100
+				id: "29DD2DABB548CEE9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				icon: {
@@ -1204,19 +924,14 @@
 		{
 			dependencies: ["687424250EBB9F2C"]
 			id: "381387B73FBDF676"
-			rewards: [
-				{
-					id: "55A52B55B25BF69B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2CF34E0DF947C68D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7C301B0DAA1464D7"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B030175028D00F5"
 				item: { count: 1, id: "minecraft:nether_star" }
@@ -1231,28 +946,14 @@
 				"6EF753B1C1E54A92"
 			]
 			id: "3DA5B6AFA62BD18D"
-			rewards: [
-				{
-					id: "3940368E4CDF81F6"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "57392CC6F7916E8C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					count: 16
-					id: "39ADA3D7A2D7C407"
-					item: {
-						count: 1
-						id: "minecraft:white_wool"
-					}
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "399B35931CA305A0"
-					table_id: 2380100013034158480L
-					type: "loot"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5686763E57E84DF0"
@@ -1336,25 +1037,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "19CFC0FCAF77F865"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2F87971277E4CE56"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "13BADCD3B76A7C41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "362669B63E2CEAD4"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "28BB9EDA30A526BD"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:sheep"
 				id: "44420C79A22FAD86"
@@ -1367,19 +1057,14 @@
 		{
 			dependencies: ["526B03B23E25181C"]
 			id: "3BCFDA3178D1DDF1"
-			rewards: [
-				{
-					id: "52DFAA9B365573E7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0C5DC8A3E2C4530A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7B12AFDB3BC0FDE9"
-					table_id: 2427872771413920777L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 36L
 				id: "74A1905D97B70F5C"
@@ -1392,19 +1077,14 @@
 		{
 			dependencies: ["023CB0031A68B9E0"]
 			id: "515E642E261ED3EA"
-			rewards: [
-				{
-					id: "67EEFD037D109DB0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "144629A0842E3555"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4062B4A008FF6C66"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				dimension: "minecraft:the_nether"
 				id: "668984EC6316393D"
@@ -1417,9 +1097,12 @@
 			dependencies: ["1D8D0C74E1662D41"]
 			id: "023CB0031A68B9E0"
 			rewards: [{
-				id: "114177FC56ECB9ED"
-				type: "xp"
-				xp: 100
+				id: "6B53634D1F8DBC97"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -1441,9 +1124,12 @@
 			dependencies: ["515E642E261ED3EA"]
 			id: "0591B542E7D0031D"
 			rewards: [{
-				id: "4F7D4E71371800B5"
-				type: "xp"
-				xp: 100
+				id: "17669568450968B7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "20CCDBF5EC8F9033"
@@ -1456,19 +1142,14 @@
 		{
 			dependencies: ["0591B542E7D0031D"]
 			id: "139D68BFE656AD25"
-			rewards: [
-				{
-					id: "14A9B840425DFE1E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "079E3FB187B42F9D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2DE022DA14FE155E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5000AF6866AC0DC6"
 				item: { count: 1, id: "minecraft:netherite_scrap" }
@@ -1480,25 +1161,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "207A7678901302E6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "02C9F71F7B89B324"
-					table_id: 1429108436631581638L
-					type: "random"
+			rewards: [{
+				id: "0478ABBECB51D94C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "789070239FEC45AF"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "74C3CEAEB3282E17"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:blaze"
 				id: "231EABD4A017B44E"
@@ -1512,9 +1182,12 @@
 			dependencies: ["207A7678901302E6"]
 			id: "2D75A9109D410230"
 			rewards: [{
-				id: "3EA1D4787A19AF08"
-				type: "xp"
-				xp: 100
+				id: "569EF123240E9055"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "02C186D5A472E44E"
@@ -1527,19 +1200,14 @@
 		{
 			dependencies: ["09FFA6DB7C174BE5"]
 			id: "014A7EBF2D85853B"
-			rewards: [
-				{
-					id: "5CA0735538E35305"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "380F4F4A7E782349"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "67039B311D69010A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7585CBB7CEA9248C"
@@ -1624,9 +1292,12 @@
 			dependencies: ["515E642E261ED3EA"]
 			id: "687424250EBB9F2C"
 			rewards: [{
-				id: "10FFE64C8397F467"
-				type: "xp"
-				xp: 100
+				id: "734D166DD089A1B0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0E5FF4A5255F194A"
@@ -1643,9 +1314,12 @@
 			]
 			id: "6283E2AE42D14866"
 			rewards: [{
-				id: "2BCF72FCBA78C028"
-				type: "xp"
-				xp: 100
+				id: "5AF6CCDF0AE8A3A7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "60A1606C562523A6"
@@ -1663,9 +1337,12 @@
 			]
 			id: "29B7E8F0EE6C7438"
 			rewards: [{
-				id: "489DFFC307AA3C6C"
-				type: "xp"
-				xp: 100
+				id: "5E345B8A67523FE2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0F854E3FBC2D66BA"
@@ -1679,9 +1356,12 @@
 			dependencies: ["515E642E261ED3EA"]
 			id: "4C803771036CCEA2"
 			rewards: [{
-				id: "04526B90A44DA75D"
-				type: "xp"
-				xp: 100
+				id: "4457D8AB094CC1B1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5305F5E671577886"
@@ -1695,9 +1375,12 @@
 			dependencies: ["139D68BFE656AD25"]
 			id: "526B03B23E25181C"
 			rewards: [{
-				id: "243213C5204296F1"
-				type: "xp"
-				xp: 100
+				id: "75D1D3A006551190"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0CC150E2AADAA8EE"
@@ -1711,9 +1394,12 @@
 			dependencies: ["07E21A79091F85D4"]
 			id: "09FFA6DB7C174BE5"
 			rewards: [{
-				id: "474BC3DAC2CEE595"
-				type: "xp"
-				xp: 100
+				id: "3942C81F9D4B44A1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -1795,9 +1481,12 @@
 			id: "3E613315BFB1AE88"
 			ignore_reward_blocking: true
 			rewards: [{
-				id: "6E51C4A402B7269E"
-				type: "xp"
-				xp: 100
+				id: "70F3B1A1C8D5567F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "14676DAD5CCD49F0"
@@ -1810,19 +1499,14 @@
 		{
 			dependencies: ["0FC6D7BA5031A94B"]
 			id: "48EB58A684EDF43A"
-			rewards: [
-				{
-					id: "7C8686CA241B0D07"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "60965A2E2EB73222"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6ACD890425DA3CA4"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D44206422F0EC06"
 				item: { count: 1, id: "minecraft:phantom_membrane" }
@@ -1835,9 +1519,12 @@
 			dependencies: ["71623F71D3B47693"]
 			id: "0CB5BC9BCA841CF0"
 			rewards: [{
-				id: "1DAB8BF560515C81"
-				type: "xp"
-				xp: 100
+				id: "03505F97784546FF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5FA39F5858F3B111"
@@ -1850,19 +1537,14 @@
 		{
 			dependencies: ["023CB0031A68B9E0"]
 			id: "778C1B76C946AC5D"
-			rewards: [
-				{
-					id: "45F630C8599AB43C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3E1C5744991942F5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3BC3E9743CEE9CF4"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A02B51273703251"
 				item: { count: 1, id: "minecraft:enchanting_table" }
@@ -1875,9 +1557,12 @@
 			dependencies: ["23C670AE5D6853FE"]
 			id: "0ADD80F4C81A1E70"
 			rewards: [{
-				id: "2349B1CA378D4ECB"
-				type: "xp"
-				xp: 100
+				id: "41ADC1766C7D3CB0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6264DD7034DAD3C2"
@@ -1891,9 +1576,12 @@
 			dependencies: ["4BECCAFF9BA4294F"]
 			id: "7BF75E3C768AC3B6"
 			rewards: [{
-				id: "70CFB471D0C0617D"
-				type: "xp"
-				xp: 100
+				id: "426BD9BA2E23AA1B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "182A934CEC58CD4F"
@@ -1907,9 +1595,12 @@
 			dependencies: ["2D75A9109D410230"]
 			id: "222375FB52853278"
 			rewards: [{
-				id: "7D7D850D6D7602EC"
-				type: "xp"
-				xp: 100
+				id: "21F8E2866248E844"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "19212776F1E512D4"
@@ -1926,9 +1617,12 @@
 			]
 			id: "6D410AF1BA0D18B4"
 			rewards: [{
-				id: "67CC6A404539760A"
-				type: "xp"
-				xp: 100
+				id: "21FB036B31D0ED2E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7070784FCF57237E"
@@ -1942,9 +1636,12 @@
 			dependencies: ["6D410AF1BA0D18B4"]
 			id: "23AB2E0F76F87CA4"
 			rewards: [{
-				id: "2952C35010DA76BB"
-				type: "xp"
-				xp: 100
+				id: "4756EC51C7BA5661"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				icon: {
@@ -1962,19 +1659,14 @@
 		{
 			dependencies: ["23AB2E0F76F87CA4"]
 			id: "4BECCAFF9BA4294F"
-			rewards: [
-				{
-					id: "453B1D5128AA8715"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7E45DEE33A17EB31"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0B61A4FE228B3167"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				dimension: "minecraft:the_end"
 				id: "61A5A156E90EFF0F"
@@ -1987,9 +1679,12 @@
 			dependencies: ["6754BB5F786B5094"]
 			id: "1E6C02630727A118"
 			rewards: [{
-				id: "697BB9706B737CE7"
-				type: "xp"
-				xp: 100
+				id: "7A1BFDDD86CE74BD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3BC394B8D46D87EC"
@@ -2003,9 +1698,12 @@
 			dependencies: ["4BECCAFF9BA4294F"]
 			id: "3517B7C9D8C4D8F9"
 			rewards: [{
-				id: "563B26667AEA40BB"
-				type: "xp"
-				xp: 100
+				id: "27B8947AB352FCAF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "74A7C1A3AC623262"
@@ -2019,9 +1717,12 @@
 			dependencies: ["1F4C7F1BA46139D0"]
 			id: "406E033CB1F7A1C0"
 			rewards: [{
-				id: "16819D1D35026523"
-				type: "xp"
-				xp: 100
+				id: "7A313277F7F240AB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "078E8704B768E356"
@@ -2035,9 +1736,12 @@
 			dependencies: ["23C670AE5D6853FE"]
 			id: "434618FF72173A02"
 			rewards: [{
-				id: "3F575F717C9A59E1"
-				type: "xp"
-				xp: 100
+				id: "03395ACB9DEE95FA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "26238941E38650CB"
@@ -2051,9 +1755,12 @@
 			dependencies: ["61B9A1276F7CAC5B"]
 			id: "4DB3077C6811E312"
 			rewards: [{
-				id: "0ACFC06EA3A8DE2E"
-				type: "xp"
-				xp: 100
+				id: "79C7B24C13D8CD70"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "45C312BC733C3271"
@@ -2067,60 +1774,14 @@
 			dependencies: ["0FBDE7223B6BFDB5"]
 			id: "1752EDC1CB14D614"
 			require_sequential_tasks: false
-			rewards: [
-				{
-					count: 8
-					id: "629C85C66190D0C7"
-					item: {
-						count: 1
-						id: "minecraft:bread"
-					}
-					type: "item"
+			rewards: [{
+				id: "30F4EEC485E37D4B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "532C0F24C4BF3368"
-					item: {
-						count: 1
-						id: "minecraft:leather_helmet"
-					}
-					type: "item"
-				}
-				{
-					id: "6632A6F4DDC111FB"
-					item: {
-						count: 1
-						id: "minecraft:leather_chestplate"
-					}
-					type: "item"
-				}
-				{
-					id: "0C290AF9BE5C2834"
-					item: {
-						count: 1
-						id: "minecraft:leather_leggings"
-					}
-					type: "item"
-				}
-				{
-					id: "615BA74EB0453C7A"
-					item: {
-						count: 1
-						id: "minecraft:leather_boots"
-					}
-					type: "item"
-				}
-				{
-					id: "51E54FD1E914048A"
-					type: "xp"
-					xp: 100
-				}
-				{
-					exclude_from_claim_all: true
-					id: "20071C9E4D5D3DA3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				dimension: "minecraft:overworld"
@@ -2134,9 +1795,12 @@
 			dependencies: ["69968442DE109567"]
 			id: "5F658D2643BD6319"
 			rewards: [{
-				id: "469CEB433337DE28"
-				type: "xp"
-				xp: 100
+				id: "150E0EDED01FC1EC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "78FA9610A6922602"
@@ -2150,10 +1814,12 @@
 			dependencies: ["0767D253580F4632"]
 			id: "244B4846F5E336BB"
 			rewards: [{
-				exclude_from_claim_all: true
-				id: "54BFF63F9E393BDE"
-				table_id: 2203341854349991464L
-				type: "random"
+				id: "6BB6A606BB4840AC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				entity: "deeperdarker:sculk_leech"
@@ -2167,9 +1833,12 @@
 		{
 			id: "0FBDE7223B6BFDB5"
 			rewards: [{
-				id: "0EA38F21F6661B84"
-				type: "xp"
-				xp: 100
+				id: "3FE2CA370897294D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			shape: "octagon"
 			size: 2.0d
@@ -2184,9 +1853,12 @@
 			dependencies: ["1752EDC1CB14D614"]
 			id: "07E21A79091F85D4"
 			rewards: [{
-				id: "4138992F5961B738"
-				type: "xp"
-				xp: 100
+				id: "4E02990F36D10489"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				icon: {
@@ -2205,9 +1877,12 @@
 			dependencies: ["57BCC44741DF61C2"]
 			id: "10BD7B85A3E907B8"
 			rewards: [{
-				id: "022A283ADE74F824"
-				type: "xp"
-				xp: 100
+				id: "27C5A9B8F04E652E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "52DF408572A6F61B"
@@ -2220,19 +1895,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "5BF60AC4FE699448"
-			rewards: [
-				{
-					id: "2D614EF5BE3523F3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "09B1147421B3CD2F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "65B49C5AD8679662"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:cow"
 				icon: {
@@ -2253,9 +1923,12 @@
 			dependencies: ["5BF60AC4FE699448"]
 			id: "57BCC44741DF61C2"
 			rewards: [{
-				id: "483402EA723B8C7E"
-				type: "xp"
-				xp: 100
+				id: "229892FF460C0AA0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "16D444ABEB2D6AB1"
@@ -2268,22 +1941,14 @@
 		{
 			dependencies: ["10BD7B85A3E907B8"]
 			id: "15346D7E364BD52C"
-			rewards: [
-				{
-					id: "005669457F6D276F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "22A6CD33F22B4349"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					count: 8
-					id: "32973B703F6598B3"
-					item: {
-						count: 1
-						id: "minecraft:book"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "351B9B9CB109D0A9"
 				item: { count: 1, id: "minecraft:bookshelf" }
@@ -2296,9 +1961,12 @@
 			dependencies: ["563774DB676722DB"]
 			id: "53E73872C5B39D76"
 			rewards: [{
-				id: "00F911957F9E3EEB"
-				type: "xp"
-				xp: 100
+				id: "2928B208C08D41BE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0FF5FB821E77CB36"
@@ -2311,6 +1979,14 @@
 		{
 			dependencies: ["6754BB5F786B5094"]
 			id: "4F559CC771C09403"
+			rewards: [{
+				id: "7ABE9360CD88FB86"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5FC99B5998F6680D"
 				item: { count: 1, id: "minecraft:emerald" }
@@ -2321,19 +1997,14 @@
 		}
 		{
 			id: "0CCDDE33E25852C7"
-			rewards: [
-				{
-					id: "12EA44AAF227803F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2146FB299F13CBA2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "118B01A7CD3B5306"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "allthemodium:suspicious_clay"
@@ -2352,9 +2023,12 @@
 			hide_details_until_startable: true
 			id: "63D8BB9BE074122E"
 			rewards: [{
-				id: "1F22E3F9C7CB1912"
-				type: "xp"
-				xp: 100
+				id: "6B6E9E75E9634AA5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6519C17D6B77EA1B"
@@ -2367,19 +2041,14 @@
 		{
 			dependencies: ["3204E9509CDB65AF"]
 			id: "65A5EF2646466C0E"
-			rewards: [
-				{
-					id: "3A7A3FA7BF469FC1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3B809B7EEE300218"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4515A0C4E81CBD58"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "23C380261BDBE4A5"
 				item: { count: 1, id: "minecraft:copper_ingot" }
@@ -2391,19 +2060,14 @@
 		{
 			dependencies: ["65A5EF2646466C0E"]
 			id: "37AFA772C2B0168D"
-			rewards: [
-				{
-					id: "11B9ED8FEF69CB80"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "618C5459D2B88DEC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0C3DDED853B9A7BD"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57F04FA0B02B92FD"
 				item: { count: 1, id: "minecraft:brush" }
@@ -2415,19 +2079,14 @@
 		{
 			dependencies: ["6EF753B1C1E54A92"]
 			id: "74BF618AAD0301B2"
-			rewards: [
-				{
-					id: "6D4BD6DE73462768"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "20D5EA9FCCE1940D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "35ACBAAB42861D37"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:ghast"
 				id: "61A9D40F7FEAF8BC"
@@ -2440,19 +2099,14 @@
 		{
 			dependencies: ["74BF618AAD0301B2"]
 			id: "73FDCDE5C5A2DB2B"
-			rewards: [
-				{
-					id: "1763F25229DA4372"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7B069661E5395AC4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0AD5D5AE1483AD6E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "543E208BA2ED74F4"
 				item: { count: 1, id: "minecraft:ghast_tear" }

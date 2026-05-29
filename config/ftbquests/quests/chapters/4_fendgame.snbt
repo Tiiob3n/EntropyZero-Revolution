@@ -46,6 +46,14 @@
 	quests: [
 		{
 			id: "7AA1FCFDF1A412C7"
+			rewards: [{
+				id: "38B960EA2FB04E1A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D4BA448EF560994"
 				item: { count: 1, id: "kubejs:shard_of_fire" }
@@ -56,6 +64,14 @@
 		}
 		{
 			id: "56939958285A9FF6"
+			rewards: [{
+				id: "0D4FCD001475ABE7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "03A7C3F61C20B1AF"
 				item: { count: 1, id: "kubejs:shard_of_water" }
@@ -66,6 +82,14 @@
 		}
 		{
 			id: "5D17A3A08B733C24"
+			rewards: [{
+				id: "4309EB43C37BDAC5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "51E89ECBB8FA91E8"
 				item: { count: 1, id: "kubejs:shard_of_earth" }
@@ -76,6 +100,14 @@
 		}
 		{
 			id: "5E0D8FB366903B2E"
+			rewards: [{
+				id: "0F459C411CF27DA6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "612E70460CACBF72"
 				item: { count: 1, id: "kubejs:shard_of_air" }
@@ -86,6 +118,14 @@
 		}
 		{
 			id: "798792F8E7E0A019"
+			rewards: [{
+				id: "796897285A158156"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "266CCABB4F080B18"
 				item: { count: 1, id: "kubejs:shard_of_light" }
@@ -96,6 +136,14 @@
 		}
 		{
 			id: "73E11AFDEE594FA4"
+			rewards: [{
+				id: "334D35CCBE0584A5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0BD08E0F50ECF1E1"
 				item: { count: 1, id: "kubejs:shard_of_shadow" }
@@ -110,6 +158,14 @@
 				"7AA1FCFDF1A412C7"
 			]
 			id: "29848F9A3304CC73"
+			rewards: [{
+				id: "43CD64B4403F82DA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4E8702EE87033559"
 				item: { count: 1, id: "kubejs:primal_ember" }
@@ -124,6 +180,14 @@
 				"5D17A3A08B733C24"
 			]
 			id: "3C65B08CA2DDB143"
+			rewards: [{
+				id: "2FD22B5D252240AF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2171DC07230B22DE"
 				item: { count: 1, id: "kubejs:celestial_vortex" }
@@ -138,6 +202,14 @@
 				"798792F8E7E0A019"
 			]
 			id: "1C4F2472C3B71FBD"
+			rewards: [{
+				id: "2FB9E29887685795"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "089D01160240F6FC"
 				item: { count: 1, id: "kubejs:dual_essence" }
@@ -154,10 +226,11 @@
 			]
 			id: "59A5CF1BD490B3A2"
 			rewards: [{
-				id: "792CDEA50F75AB04"
+				count: 666
+				id: "6392D677806615C2"
 				item: {
 					count: 1
-					id: "kubejs:entropy_crystal"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]

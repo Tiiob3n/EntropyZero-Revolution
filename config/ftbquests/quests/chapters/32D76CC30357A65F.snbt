@@ -17,19 +17,14 @@
 	quests: [
 		{
 			id: "05D2A2383982BF37"
-			rewards: [
-				{
-					id: "01091F64999CDEB7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2746CF67030F4736"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1A21B477FCBF67CC"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7341E0E7743D0D23"
 				item: { count: 1, id: "minecraft:leather_helmet" }
@@ -40,19 +35,14 @@
 		}
 		{
 			id: "479BDE972B4CA959"
-			rewards: [
-				{
-					id: "060DD4BAC3854D48"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2E6004DB41018A45"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "20560CC19E5B815B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "751CECB0C2867DC4"
 				item: { count: 1, id: "minecraft:iron_helmet" }
@@ -63,19 +53,14 @@
 		}
 		{
 			id: "4874F8BC401A13BE"
-			rewards: [
-				{
-					id: "4824890AA8CEC727"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "06283330A8455EF7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5DE94DFADA166D04"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E82A4EEE3B74FF8"
 				item: { count: 1, id: "minecraft:golden_helmet" }
@@ -86,19 +71,14 @@
 		}
 		{
 			id: "3FE3BCD64A6B517D"
-			rewards: [
-				{
-					id: "41880A9167DA0524"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4B5DE458CCF34D9D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0852A00DDC08C101"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E9178990388E018"
 				item: { count: 1, id: "minecraft:diamond_helmet" }
@@ -109,19 +89,14 @@
 		}
 		{
 			id: "1060677B7BA522A7"
-			rewards: [
-				{
-					id: "1ADAD94A1E5BA552"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "747C9D836D8DA6E4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "542382683411C298"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F9ECC282612C25A"
 				item: { count: 1, id: "minecraft:netherite_helmet" }
@@ -132,19 +107,14 @@
 		}
 		{
 			id: "5D60DE0BB64ADEB2"
-			rewards: [
-				{
-					id: "431527D168F37724"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2DA40E1BA63FDA81"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6E950F2224C07279"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "06BA19ECA6E48565"
 				item: { count: 1, id: "mekanism:mekasuit_helmet" }
@@ -155,19 +125,14 @@
 		}
 		{
 			id: "37E592DA25AD83AB"
-			rewards: [
-				{
-					id: "12D4D574D0AC1F22"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6BCA293CBFBEF831"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "48891A1ED48ABE9D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BF1D6FAFDA119B3"
 				item: { count: 1, id: "allthemodium:allthemodium_helmet" }
@@ -178,19 +143,14 @@
 		}
 		{
 			id: "57BB79481BD679A4"
-			rewards: [
-				{
-					id: "3BD778EA21230232"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3EBC3A399FBD4C6C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "412A0F4CDB21203E"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A815367F83635B3"
 				item: { count: 1, id: "allthemodium:vibranium_helmet" }
@@ -201,19 +161,14 @@
 		}
 		{
 			id: "6EF9FD05F59BA636"
-			rewards: [
-				{
-					id: "420325BB5DB8AF7E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0C5778C17BC9710C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "07DC96BE8C047E1A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "39528FDC279F2B23"
 				item: { count: 1, id: "industrialupgrade:armour/ruby_helmet" }
@@ -224,19 +179,14 @@
 		}
 		{
 			id: "0F90AF13C15AB248"
-			rewards: [
-				{
-					id: "0BFB7C0BB7E3706A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "03BA22A40A8BBCC7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "28C19D470B4A1144"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0BFAEBA5B5A6156B"
 				item: { count: 1, id: "industrialupgrade:armour/topaz_helmet" }
@@ -247,19 +197,14 @@
 		}
 		{
 			id: "63590DE849266492"
-			rewards: [
-				{
-					id: "48AF0992FD1FEECD"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "01B50F9F1BB59863"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5AD8ECF08FA9390B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1AF8574D840DA3FE"
 				item: { count: 1, id: "industrialupgrade:armour/sapphire_helmet" }
@@ -270,19 +215,14 @@
 		}
 		{
 			id: "2F4842F09B2556BE"
-			rewards: [
-				{
-					id: "361502E95EC717D9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "400AC252EFD30EC2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2710C80415E0EC46"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A0E860EA316906C"
 				item: { count: 1, id: "industrialupgrade:armour/bronze_helmet" }
@@ -293,19 +233,14 @@
 		}
 		{
 			id: "0BB48997BA94B62D"
-			rewards: [
-				{
-					id: "1A947600AFA66DBA"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "294532011C52EBA0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7BF6C1686E8E725F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "149037C94E118B17"
 				item: { count: 1, id: "industrialupgrade:armour/hazmat_helmet" }
@@ -316,19 +251,14 @@
 		}
 		{
 			id: "1680BDE647D52B73"
-			rewards: [
-				{
-					id: "22DC86FDFA88BE16"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "24D91E76BFFD873C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17B9A254651F9979"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6CFCDED034DF4542"
 				item: { count: 1, id: "industrialupgrade:armour/volcano_hazmat_helmet" }
@@ -339,19 +269,14 @@
 		}
 		{
 			id: "70D5D7F14A364532"
-			rewards: [
-				{
-					id: "700C59815CA5838E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "36C12A711311A6A9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "73FE73FF2E2C157A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B31C9283AB9BAC1"
 				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_solar_helmet" }
@@ -362,19 +287,14 @@
 		}
 		{
 			id: "34C3BCC013F2ADB8"
-			rewards: [
-				{
-					id: "1721EBBC2783FCB7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2AF8C0A13498B132"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6B7A652102CA35F9"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B3599D548ABF162"
 				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/singular_solar_helmet" }
@@ -385,19 +305,14 @@
 		}
 		{
 			id: "1D7A301B993FCD48"
-			rewards: [
-				{
-					id: "7932EEF845238CA4"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "620271FD76976F03"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "12F1C2CE583C46A3"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "40F80AE8BDE8E773"
 				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/advanced_solar_helmet" }
@@ -408,19 +323,14 @@
 		}
 		{
 			id: "10A019524F94CB59"
-			rewards: [
-				{
-					id: "14A7C9C194740C34"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "796BDDA0DE5EACFF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "39318F88581346B3"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E1D05AC2F83A446"
 				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/hybrid_solar_helmet" }
@@ -431,19 +341,14 @@
 		}
 		{
 			id: "0F7700FD7D0B77C0"
-			rewards: [
-				{
-					id: "22401E796C6B17CD"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "30EB44477987BF3F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3C2B5B8123FA661B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "515C3C3D1DD4F938"
 				item: { components: { "industrialupgrade:data": { }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/ultimate_solar_helmet" }
@@ -454,19 +359,14 @@
 		}
 		{
 			id: "391C8ACA6FDE19EE"
-			rewards: [
-				{
-					id: "7D02C8290EC7CF3A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "16B9D2AD54AB1A40"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7E617BFA136937F3"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4CB8AEBDEE4EA637"
 				item: { count: 1, id: "industrialupgrade:armour/hazmathelmet" }
@@ -477,19 +377,14 @@
 		}
 		{
 			id: "090D60F84736593A"
-			rewards: [
-				{
-					id: "1E709F71DCB26A8A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3E55B41DDD957C34"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "00BC850022DA0D8B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CFCB29ED138C7EA"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_helmet" }
@@ -500,19 +395,14 @@
 		}
 		{
 			id: "45980D6DAFC3DDA4"
-			rewards: [
-				{
-					id: "66A5F01A161C3454"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4FE41A256CE4EF60"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6D37165DDEF92A0D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "187F7EC097E22868"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_helmet" }
@@ -523,19 +413,14 @@
 		}
 		{
 			id: "6942D05CEF8A7A2A"
-			rewards: [
-				{
-					id: "62ADF09B99E2C5E3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "04243005A1962382"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "543B8DEB95C01D27"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C6A3C8625168F2D"
 				item: { count: 1, id: "deeperdarker:warden_helmet" }
@@ -546,19 +431,14 @@
 		}
 		{
 			id: "417B4DBD78BD0771"
-			rewards: [
-				{
-					id: "6E20A1DA0F60B774"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6F6470795C0E7321"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "42A3FA234D71312A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F553E10325F0E13"
 				item: { count: 1, id: "mysticalagriculture:inferium_helmet" }
@@ -569,19 +449,14 @@
 		}
 		{
 			id: "680E74C9B272B01C"
-			rewards: [
-				{
-					id: "2D45D99E4F25E905"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5E186EA197A9905E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6A43E21EB4376322"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6609D9905DD02EF0"
 				item: { count: 1, id: "mysticalagriculture:prudentium_helmet" }
@@ -592,19 +467,14 @@
 		}
 		{
 			id: "093580757327636F"
-			rewards: [
-				{
-					id: "55A2D1514FBAFA4C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "671A928BA8AC14F0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "75D39FC9F6911633"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "47C9730197C51E2D"
 				item: { count: 1, id: "mysticalagriculture:tertium_helmet" }
@@ -615,19 +485,14 @@
 		}
 		{
 			id: "3D3D9AFEFCE0FC76"
-			rewards: [
-				{
-					id: "0033B21A3A96B1F0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1E030DBF827F113E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5E638274712283DE"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E64D7C137A179B2"
 				item: { count: 1, id: "mysticalagriculture:imperium_helmet" }
@@ -638,19 +503,14 @@
 		}
 		{
 			id: "02F3057D25D51AA6"
-			rewards: [
-				{
-					id: "5E32432B5F740E46"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "438C9A7155D2D836"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "15963F106D689995"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "621A99DCCDC0C261"
 				item: { count: 1, id: "mysticalagriculture:supremium_helmet" }
@@ -661,19 +521,14 @@
 		}
 		{
 			id: "2B29103E2CE4B6CA"
-			rewards: [
-				{
-					id: "763B10D098038FAC"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "56BEED651A97DA7F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5CA1A32DA9A551B5"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B800457496A7998"
 				item: { count: 1, id: "mysticalagriculture:awakened_supremium_helmet" }
@@ -684,19 +539,14 @@
 		}
 		{
 			id: "510B91B0690DAD59"
-			rewards: [
-				{
-					id: "4B6370CC3E2844EE"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3071BFDAB5159212"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7B7DC0F03ACD30DF"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "37786E034CCA5903"
 				item: { count: 1, id: "advanced_ae:quantum_helmet" }
@@ -708,9 +558,12 @@
 		{
 			id: "7A6057981AA808E9"
 			rewards: [{
-				id: "22502C22DC56EB81"
-				type: "xp"
-				xp: 100
+				id: "40B49B2FEEDBFF67"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0641A4D9496CD82A"
@@ -722,19 +575,14 @@
 		}
 		{
 			id: "23BA71EFF0BA20BB"
-			rewards: [
-				{
-					id: "14A771FBAFC99DB8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "25CDA5F4BF27D068"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0170A1000CB8B06D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7AB57F7ABF1D02DB"
 				item: { count: 1, id: "minecraft:iron_chestplate" }
@@ -745,19 +593,14 @@
 		}
 		{
 			id: "4C2464E427E77C2F"
-			rewards: [
-				{
-					id: "322B076DDE4699DB"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "19E964AABB94678B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "71E0288C8C125350"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "41EBCB7EB0DCA178"
 				item: { count: 1, id: "minecraft:golden_chestplate" }
@@ -768,19 +611,14 @@
 		}
 		{
 			id: "43ED1E5970D69E4C"
-			rewards: [
-				{
-					id: "080F8783B26CE4B3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "71EF79B2B4970FA3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "18F7F4955060E12B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "50CBB78E6F9E5BA2"
 				item: { count: 1, id: "minecraft:diamond_chestplate" }
@@ -791,19 +629,14 @@
 		}
 		{
 			id: "2899EE0F1B96420F"
-			rewards: [
-				{
-					id: "331258427AB4F6A4"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3A3551F9D83D894B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0F3CD652D4EEDEB5"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F284CF50BC3A8CA"
 				item: { count: 1, id: "minecraft:netherite_chestplate" }
@@ -814,19 +647,14 @@
 		}
 		{
 			id: "0F222B9C369093E3"
-			rewards: [
-				{
-					id: "5325F8D912012A1C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6A558AE2B3B20311"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5D1EC7E11AE8B9C3"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4060A2F4E0976AF9"
 				item: { count: 1, id: "mekanism:hazmat_gown" }
@@ -837,19 +665,14 @@
 		}
 		{
 			id: "289A8EDA4D889BCC"
-			rewards: [
-				{
-					id: "1C63A28E1B6E47A8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5D38BAA20F5BBB12"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "70CCAA73A40BACFC"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "78A5C49595805BA4"
 				item: { count: 1, id: "allthemodium:allthemodium_chestplate" }
@@ -860,19 +683,14 @@
 		}
 		{
 			id: "65D44BEFF8096EF8"
-			rewards: [
-				{
-					id: "6068F1A2CFE84A2A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1C6F35BF99F99332"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "176BCA31DC66FB12"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B88B8C9930A41E8"
 				item: { count: 1, id: "allthemodium:vibranium_chestplate" }
@@ -883,19 +701,14 @@
 		}
 		{
 			id: "4B7C0457B1A2CD04"
-			rewards: [
-				{
-					id: "5EA5C4619658EBC9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7F39F284E6AEF65A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "13D185661EFBA0C0"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "06216828A9159AA7"
 				item: { count: 1, id: "allthemodium:unobtainium_chestplate" }
@@ -906,19 +719,14 @@
 		}
 		{
 			id: "4D272DC4000709C9"
-			rewards: [
-				{
-					id: "664DACD8C8D5D52F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "11F24E9F3643608C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7881DBBADF3F197D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AE25D3B9601C37D"
 				item: { count: 1, id: "industrialupgrade:armour/bronze_chestplate" }
@@ -929,19 +737,14 @@
 		}
 		{
 			id: "4F38EC4341E95FCC"
-			rewards: [
-				{
-					id: "685E3B5481596207"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6270161EAB46E513"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "62252828BA5BBD6C"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A5EEFCE5BAC69C1"
 				item: { count: 1, id: "deeperdarker:warden_chestplate" }
@@ -953,9 +756,12 @@
 		{
 			id: "5D015F30D990E5B3"
 			rewards: [{
-				id: "0A95DBAD32CB0F0B"
-				type: "xp"
-				xp: 100
+				id: "5388E230DAAFDB22"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2A8B27BDF792AA5F"
@@ -968,9 +774,12 @@
 		{
 			id: "16E8E04EF560F6E1"
 			rewards: [{
-				id: "70B2B7B74FBCBDF7"
-				type: "xp"
-				xp: 100
+				id: "6D79365176073129"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "542F335D836A596E"
@@ -983,9 +792,12 @@
 		{
 			id: "0EE56E40E139F930"
 			rewards: [{
-				id: "29AAA51278AC538E"
-				type: "xp"
-				xp: 100
+				id: "265BF46B7415315E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3F3F0CCDFC451C66"
@@ -997,19 +809,14 @@
 		}
 		{
 			id: "55E225A97DF6E69D"
-			rewards: [
-				{
-					id: "50D09D756BC17220"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "00223439556639E9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "33AE5F06B6334E39"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1DC5135E4B37DE0B"
 				item: { count: 1, id: "mysticalagriculture:inferium_chestplate" }
@@ -1020,19 +827,14 @@
 		}
 		{
 			id: "38E1A71168D0AE45"
-			rewards: [
-				{
-					id: "2661EA9E6F2A0AE9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "46E5E514C4806157"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "01027EFF70DD4EB7"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "311DEC5045A02B4A"
 				item: { count: 1, id: "mysticalagriculture:prudentium_chestplate" }
@@ -1043,19 +845,14 @@
 		}
 		{
 			id: "544FFF32543F2C3D"
-			rewards: [
-				{
-					id: "02A1956214379B7B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1E99A49F0D2CD94C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0E40ECBE20E41363"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A64DD14797DBCF3"
 				item: { count: 1, id: "mysticalagriculture:tertium_chestplate" }
@@ -1066,19 +863,14 @@
 		}
 		{
 			id: "6A4436AD813C2DC6"
-			rewards: [
-				{
-					id: "35FEEEDE7E6C5AD2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1AA2B5E4940F34E3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7E3BC93E97236388"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "103D4E315FB23B4A"
 				item: { count: 1, id: "mysticalagriculture:imperium_chestplate" }
@@ -1089,19 +881,14 @@
 		}
 		{
 			id: "78389D3625D27D22"
-			rewards: [
-				{
-					id: "2866A28E2233AFA9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "21F55171AADB8B81"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3DB5E3CE8208D3DD"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4254B250D2441D7C"
 				item: { count: 1, id: "mysticalagriculture:supremium_chestplate" }
@@ -1112,19 +899,14 @@
 		}
 		{
 			id: "7C8CF502885DFC1E"
-			rewards: [
-				{
-					id: "51179B652439DB2E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5003D5496DF4D436"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0042950AD9A03734"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B1F072A9F524C8A"
 				item: { count: 1, id: "mysticalagriculture:awakened_supremium_chestplate" }
@@ -1135,19 +917,14 @@
 		}
 		{
 			id: "493CBD071D4F3F24"
-			rewards: [
-				{
-					id: "3AA63FA9D2ECCAE2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "637AB00714869284"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "35D5065FB74643A1"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "250CA08C50C6F880"
 				item: { count: 1, id: "advanced_ae:quantum_chestplate" }
@@ -1158,19 +935,14 @@
 		}
 		{
 			id: "047034BBD2E8464B"
-			rewards: [
-				{
-					id: "3D4611B5BB0D1CA6"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "55EC0AC2E3C1A8A9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "78BA6947074004FA"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C1A2C358921A684"
 				item: { count: 1, id: "minecraft:chainmail_leggings" }
@@ -1181,19 +953,14 @@
 		}
 		{
 			id: "75E2A745CDB8E1E0"
-			rewards: [
-				{
-					id: "2702DC6BDEF32F20"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5A68FDC82FBF1608"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "51C14156FEC05932"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "138A93DFAB48FD79"
 				item: { count: 1, id: "minecraft:iron_leggings" }
@@ -1204,19 +971,14 @@
 		}
 		{
 			id: "476AE9230B448F5C"
-			rewards: [
-				{
-					id: "48644A2FF58B8E2A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "572A6B391D6A31FA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3C17DE1FBF971381"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "68090A1468F648C1"
 				item: { count: 1, id: "minecraft:golden_leggings" }
@@ -1227,19 +989,14 @@
 		}
 		{
 			id: "1D39754B62A0DC14"
-			rewards: [
-				{
-					id: "25ABB180E009EEA3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "104FE2AB7BE285E6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3F773414C4A2AF86"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "29D0A62C7E33F6F6"
 				item: { count: 1, id: "minecraft:netherite_leggings" }
@@ -1250,19 +1007,14 @@
 		}
 		{
 			id: "1DBB09911D506671"
-			rewards: [
-				{
-					id: "3A1E84FF8E7BA979"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1C0E2FACF261E74A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2929E4D331FAD82E"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5DA05F75B2B29990"
 				item: { count: 1, id: "minecraft:diamond_leggings" }
@@ -1273,19 +1025,14 @@
 		}
 		{
 			id: "551B520D283C9446"
-			rewards: [
-				{
-					id: "41DEEE5C683911A9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "10D7DACE16C3ECA4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "59A08A25D312F997"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2DAFD5A4A7DF5AAA"
 				item: { count: 1, id: "allthemodium:allthemodium_leggings" }
@@ -1296,19 +1043,14 @@
 		}
 		{
 			id: "6CFB04FF42BF6566"
-			rewards: [
-				{
-					id: "44232D166D270D7C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "460758F2DDB05235"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17EA4D16F2CB59FA"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "106EE659D4B31D88"
 				item: { count: 1, id: "allthemodium:vibranium_leggings" }
@@ -1319,19 +1061,14 @@
 		}
 		{
 			id: "05FCDCAFE5392878"
-			rewards: [
-				{
-					id: "5C850666992B70E3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4D40607D87A4F09E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7C664AAFC417967E"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EC48960E9C5CF18"
 				item: { count: 1, id: "industrialupgrade:armour/ruby_leggings" }
@@ -1342,19 +1079,14 @@
 		}
 		{
 			id: "7D7C29E6667B64AB"
-			rewards: [
-				{
-					id: "607220938913FCC7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5F4DC20DD15AB48C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "15175B50E801C181"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7792A9B150570819"
 				item: { count: 1, id: "industrialupgrade:armour/sapphire_leggings" }
@@ -1365,19 +1097,14 @@
 		}
 		{
 			id: "4143A51482BEC412"
-			rewards: [
-				{
-					id: "1A1A996B469007DF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2D0FEDC0CF098939"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "51F59BF1F9233F69"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "41928A9DB32FC189"
 				item: { count: 1, id: "industrialupgrade:armour/bronze_leggings" }
@@ -1388,19 +1115,14 @@
 		}
 		{
 			id: "1C234E5B6962800D"
-			rewards: [
-				{
-					id: "252DB5F7DBCA6F33"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "547144D920814291"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "322DA021CEA0D3E6"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A758240223950E4"
 				item: { count: 1, id: "industrialupgrade:armour/volcano_hazmat_leggings" }
@@ -1411,19 +1133,14 @@
 		}
 		{
 			id: "7062D3A3BB474703"
-			rewards: [
-				{
-					id: "61F820BCA6E481AF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2548F22D579504B2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "705694A893EDC503"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35FBBA5E8F866535"
 				item: { count: 1, id: "industrialupgrade:armour/hazmatleggins" }
@@ -1434,19 +1151,14 @@
 		}
 		{
 			id: "14D5CB780BA08B38"
-			rewards: [
-				{
-					id: "3C5A8D490F88D3F2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "73EA927C70D8D926"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "59E7EF3DEEF088A2"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E93993CD604C8A4"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_leggings" }
@@ -1457,19 +1169,14 @@
 		}
 		{
 			id: "669F1B7185CE0B53"
-			rewards: [
-				{
-					id: "7AD97392749895BF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0AD5D8943DF9B587"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7B453F08CD7505AA"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "139FE337D9894B58"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_leggings" }
@@ -1480,19 +1187,14 @@
 		}
 		{
 			id: "7DA5CBDAE403052C"
-			rewards: [
-				{
-					id: "451F2AA9E1FD163E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5E398AF89000843B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "764A939496834921"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F1138E092689583"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_leggings" }
@@ -1503,19 +1205,14 @@
 		}
 		{
 			id: "00C9FCEF497FC53E"
-			rewards: [
-				{
-					id: "61C90A0C712B733B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4FFFC69ECEEE4882"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "22BA7DEAD6F7F546"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "32C444EAD5D453B9"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_leggings" }
@@ -1526,19 +1223,14 @@
 		}
 		{
 			id: "0CF7C590B02DD00F"
-			rewards: [
-				{
-					id: "0BCE6FBDF91D000A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6A7C94B2E6373150"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0C5C3433AAF06F1A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2AA8A1E531565B54"
 				item: { count: 1, id: "deeperdarker:warden_leggings" }
@@ -1549,19 +1241,14 @@
 		}
 		{
 			id: "38A481C4F55B3566"
-			rewards: [
-				{
-					id: "66C3C85A74FC5FC8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "23694439F530FF79"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "397E2EE3CA4F6930"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35B3357AB356B202"
 				item: { count: 1, id: "mysticalagriculture:inferium_leggings" }
@@ -1572,19 +1259,14 @@
 		}
 		{
 			id: "392E1990B2549387"
-			rewards: [
-				{
-					id: "37298BD4560CA9D2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2ED2F3B10B4D45CB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "246F7199502F8513"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5FD2748B9B35D0B3"
 				item: { count: 1, id: "mysticalagriculture:prudentium_leggings" }
@@ -1595,19 +1277,14 @@
 		}
 		{
 			id: "3F8107401F7CB5ED"
-			rewards: [
-				{
-					id: "232179559863DA38"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3B67899CD0D3C36E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6A55C7020880ED3F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57708BAF1845FEBD"
 				item: { count: 1, id: "mysticalagriculture:tertium_leggings" }
@@ -1618,19 +1295,14 @@
 		}
 		{
 			id: "5180DD9F22F29C48"
-			rewards: [
-				{
-					id: "2B5A277927AC8696"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "210467667566106B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0A3E3D73F20C0D94"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "368836884642E54B"
 				item: { count: 1, id: "mysticalagriculture:imperium_leggings" }
@@ -1641,19 +1313,14 @@
 		}
 		{
 			id: "163D535774FDDF85"
-			rewards: [
-				{
-					id: "7A97366044812ABE"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "07F54260BFE3EE7F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "178FF85887D41588"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "10410DECE3E1D1E9"
 				item: { count: 1, id: "mysticalagriculture:supremium_leggings" }
@@ -1664,19 +1331,14 @@
 		}
 		{
 			id: "1C3401D4A4DF1F95"
-			rewards: [
-				{
-					id: "318655A1D570EF6F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7E61E56C27668A37"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "347BD66150C1C1D5"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "316166CB9DBC6C4E"
 				item: { count: 1, id: "mysticalagriculture:awakened_supremium_leggings" }
@@ -1687,19 +1349,14 @@
 		}
 		{
 			id: "38C697F9F20552C5"
-			rewards: [
-				{
-					id: "7F430ACAEAB50BD9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "703303B87BE3361A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "54759EA6DBDB9459"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B8001A06C271BCE"
 				item: { count: 1, id: "minecraft:leather_boots" }
@@ -1710,19 +1367,14 @@
 		}
 		{
 			id: "61A53964C07A150F"
-			rewards: [
-				{
-					id: "72355F0958071CFB"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3DD74F800291C513"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "27252A895039E0D4"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4930855EA25095DE"
 				item: { count: 1, id: "minecraft:chainmail_boots" }
@@ -1733,19 +1385,14 @@
 		}
 		{
 			id: "033343D6C6B086F7"
-			rewards: [
-				{
-					id: "126891A4218A67E5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7AB7E33BAEA88C07"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "337D69341B8778CD"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "006EDDA3C7BB3EB8"
 				item: { count: 1, id: "minecraft:iron_boots" }
@@ -1756,19 +1403,14 @@
 		}
 		{
 			id: "04CFC736F3DBAC1D"
-			rewards: [
-				{
-					id: "4B94E147C065923E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "353D10F598C13679"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6AC422CF17BF315B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "58C7FBF2BEAFEDD1"
 				item: { count: 1, id: "minecraft:golden_boots" }
@@ -1779,19 +1421,14 @@
 		}
 		{
 			id: "08F1BF4A62BF0488"
-			rewards: [
-				{
-					id: "249695196E50C349"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7A59D5F21963876C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "394867176EFAFE47"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "03D65B5DA384EEFA"
 				item: { count: 1, id: "minecraft:diamond_boots" }
@@ -1802,19 +1439,14 @@
 		}
 		{
 			id: "1E279010CFFAC7CD"
-			rewards: [
-				{
-					id: "204B8406CD619C49"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "283A25E74CD84AE2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "320EB7BC6CD03306"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18CA81C4ADCFE1EE"
 				item: { count: 1, id: "minecraft:netherite_boots" }
@@ -1825,19 +1457,14 @@
 		}
 		{
 			id: "399D2C62D7AB6739"
-			rewards: [
-				{
-					id: "646C859EA8A02EBA"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0762B12CC239CBAF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "63B69CD71530D8B1"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6724FD1A79DA5CF0"
 				item: { count: 1, id: "mekanism:hazmat_boots" }
@@ -1848,19 +1475,14 @@
 		}
 		{
 			id: "7AE07F0A317C1356"
-			rewards: [
-				{
-					id: "68ACF78BD1CADB79"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "10ED284B2DD2C378"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "65B6626B53F6B935"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BFD37C57A051D30"
 				item: { count: 1, id: "mekanism:mekasuit_boots" }
@@ -1871,19 +1493,14 @@
 		}
 		{
 			id: "6B015B16A38D18F3"
-			rewards: [
-				{
-					id: "098E7EB330D6D605"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "364ACFD701612766"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6BB8E5BC8DA77312"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2DD7BBF7F5808C82"
 				item: { count: 1, id: "allthemodium:allthemodium_boots" }
@@ -1894,19 +1511,14 @@
 		}
 		{
 			id: "2AA633BF6D18974D"
-			rewards: [
-				{
-					id: "7A1716632F2204F9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2BBB175F1EEE1033"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0585A29FC37E99C4"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2AF1008DE73085AF"
 				item: { count: 1, id: "allthemodium:vibranium_boots" }
@@ -1917,19 +1529,14 @@
 		}
 		{
 			id: "36DF7679CBE38708"
-			rewards: [
-				{
-					id: "24DA03ADD019E844"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6DE48A8E564F5A2B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "32E1A76CC7D25011"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EBD5B0E8F9E4290"
 				item: { count: 1, id: "allthemodium:unobtainium_boots" }
@@ -1940,19 +1547,14 @@
 		}
 		{
 			id: "737806440A4F6A60"
-			rewards: [
-				{
-					id: "587270B280459CEC"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "43497E08D8445D3D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0FA7F8FB92697C3D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "03F56B9F09C35729"
 				item: { count: 1, id: "industrialupgrade:armour/ruby_boots" }
@@ -1963,19 +1565,14 @@
 		}
 		{
 			id: "02956FE2C393C4C7"
-			rewards: [
-				{
-					id: "3F0B2AB159E22175"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "09D285873E2C465D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4B31B13DC9C65A8E"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7AB569BED43DBF25"
 				item: { count: 1, id: "industrialupgrade:armour/topaz_boots" }
@@ -1986,19 +1583,14 @@
 		}
 		{
 			id: "04A57BE9F3D02D1C"
-			rewards: [
-				{
-					id: "1D6B80B1DBD285E9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "19B6E608C85F0576"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "191D0E26E0C1CC96"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C25B8FB0622980C"
 				item: { count: 1, id: "industrialupgrade:armour/sapphire_boots" }
@@ -2009,19 +1601,14 @@
 		}
 		{
 			id: "563DB4A4A27864EC"
-			rewards: [
-				{
-					id: "41A6B32BAC1D5A4C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "52B8E11320418FD0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1E3FD96CE797AD4B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "73D4EEC69D988DA0"
 				item: { count: 1, id: "industrialupgrade:armour/bronze_boots" }
@@ -2032,19 +1619,14 @@
 		}
 		{
 			id: "41A7E452ADD93E52"
-			rewards: [
-				{
-					id: "22F415C62B0F8DF7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3DF75744BA9C7583"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6D4FF3243E151ABA"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3481F608FA80973E"
 				item: { count: 1, id: "industrialupgrade:armour/rubber_boots" }
@@ -2055,19 +1637,14 @@
 		}
 		{
 			id: "49B84217EE10AD8B"
-			rewards: [
-				{
-					id: "0F8BF113C27BE059"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "11E672C21A766E42"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1FE9E05DA0E8678F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B324CFE938D2641"
 				item: { count: 1, id: "industrialupgrade:armour/volcano_rubber_boots" }
@@ -2078,19 +1655,14 @@
 		}
 		{
 			id: "09F7F843BB34E699"
-			rewards: [
-				{
-					id: "33AAF7A516140C40"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2D27B5BCE3F03539"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6666B87DE34FE4C4"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B22A29B7509D556"
 				item: { count: 1, id: "industrialupgrade:armour/hazmatboosts" }
@@ -2101,19 +1673,14 @@
 		}
 		{
 			id: "3DEFB6946EDFD33B"
-			rewards: [
-				{
-					id: "6C3AC81EED8AC68A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "258C8D747A6785CA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "20D9DE5518DB184A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B65D3848B87D0C6"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_boots" }
@@ -2124,19 +1691,14 @@
 		}
 		{
 			id: "1E82C3E4F8083BDD"
-			rewards: [
-				{
-					id: "717A234995781B08"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7C8CE5921F16F709"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3BF5CF80DA4344B9"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1D770C385DED2FF3"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_boots" }
@@ -2147,19 +1709,14 @@
 		}
 		{
 			id: "79AFD33BF448BD49"
-			rewards: [
-				{
-					id: "3CD2036D4FF18F8F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7B2208970C1D98BC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7F53D4C716E1FF98"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1AD1396A58EBE664"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_boots" }
@@ -2170,19 +1727,14 @@
 		}
 		{
 			id: "6AEEB555AF05005F"
-			rewards: [
-				{
-					id: "7B6EB4800E126C05"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "291E684C8D7AFF8A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "04FD87C08C0E717D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "60A37A4EFCDF94D3"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_boots" }
@@ -2193,19 +1745,14 @@
 		}
 		{
 			id: "094D1DD866BC63F6"
-			rewards: [
-				{
-					id: "4698B3CC2033B991"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "73577311648B7183"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "491E388D5A1B6A2B"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D553491BD4E7373"
 				item: { count: 1, id: "deeperdarker:warden_boots" }
@@ -2216,19 +1763,14 @@
 		}
 		{
 			id: "091B2BC86DC34539"
-			rewards: [
-				{
-					id: "11A492C6AE493BC3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1B3A928308093566"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7FEC5921539B2C43"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "72FA13EDB784EAFD"
 				item: { count: 1, id: "mysticalagriculture:inferium_boots" }
@@ -2239,19 +1781,14 @@
 		}
 		{
 			id: "168E9573895B87BC"
-			rewards: [
-				{
-					id: "6398E3606D421EAF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2D6EEDED94144ACB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6DE239C8F7A16B66"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1896A5A2867C3169"
 				item: { count: 1, id: "mysticalagriculture:tertium_boots" }
@@ -2262,19 +1799,14 @@
 		}
 		{
 			id: "10EDD16DF3BAF52C"
-			rewards: [
-				{
-					id: "700BBF7A6941A6A7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3ACA34EE36562D5F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "00FD29F5E183E958"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "056C01ECBF0D5021"
 				item: { count: 1, id: "mysticalagriculture:supremium_boots" }
@@ -2285,19 +1817,14 @@
 		}
 		{
 			id: "5C852CA86C4FA022"
-			rewards: [
-				{
-					id: "1449A630D84D2D4F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "40242873ACB3FFDE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "64001364170AD690"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "061439238742B9C2"
 				item: { count: 1, id: "mysticalagriculture:awakened_supremium_boots" }
@@ -2308,19 +1835,14 @@
 		}
 		{
 			id: "167B0789D6D70778"
-			rewards: [
-				{
-					id: "17DCD8B6E7790660"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "31A72D89674F3ECD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6D8C53890CCF386F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C4C9580F0C1BAAA"
 				item: { count: 1, id: "mysticalagriculture:prudentium_boots" }
@@ -2331,19 +1853,14 @@
 		}
 		{
 			id: "561145A7949A652C"
-			rewards: [
-				{
-					id: "46E7595A8F7E3E12"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1185F6ED057B5B03"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17B72B226D0BE957"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "798C05D0A050DA82"
 				item: { count: 1, id: "industrialupgrade:armour/hazmat_leggings" }
@@ -2354,19 +1871,14 @@
 		}
 		{
 			id: "0B4F868B43636B3A"
-			rewards: [
-				{
-					id: "784EE46630502292"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "38EB3FD01BB9A46B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "512CCEDA9BC66374"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5644BCBA43C7F507"
 				item: { count: 1, id: "industrialupgrade:armour/topaz_leggings" }
@@ -2377,19 +1889,14 @@
 		}
 		{
 			id: "4127186AE1104466"
-			rewards: [
-				{
-					id: "30001870A9AE00DC"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "70B4ABEAC9E0733B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "779B35536F8E2357"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6291CF4DE8B384DD"
 				item: { count: 1, id: "minecraft:leather_leggings" }
@@ -2400,19 +1907,14 @@
 		}
 		{
 			id: "46589408D7BAF4EC"
-			rewards: [
-				{
-					id: "0D532E5BE2A77C2B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "168F2673885A7F9B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3DB734A044E7FF8D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "409D2384FD8B3C33"
 				item: { count: 1, id: "minecraft:leather_chestplate" }
@@ -2423,19 +1925,14 @@
 		}
 		{
 			id: "2A1312A1562A7EE1"
-			rewards: [
-				{
-					id: "03D6C54C9CE6837B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "02570434C36515D7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "673B3EB98069195A"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E2159DD451ADA70"
 				item: { count: 1, id: "advanced_ae:quantum_leggings" }
@@ -2446,19 +1943,14 @@
 		}
 		{
 			id: "7F826FCD03D5B99E"
-			rewards: [
-				{
-					id: "225AFBBFC20B659B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "58478B9EED85BB83"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3B5E495703EDC625"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2728C10236044982"
 				item: { count: 1, id: "industrialupgrade:armour/hazmatchest" }
@@ -2469,19 +1961,14 @@
 		}
 		{
 			id: "7CE2A83153D071D3"
-			rewards: [
-				{
-					id: "7C1DF2890997407B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7C051AE553DCCFA0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "500C525194F8FDEF"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "067A07FA165130B8"
 				item: { count: 1, id: "allthemodium:unobtainium_helmet" }
@@ -2492,19 +1979,14 @@
 		}
 		{
 			id: "3FA7C0427CADB1C6"
-			rewards: [
-				{
-					id: "1B132CB3FC52008C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4DB687E44BA9B095"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "778C4DD1BDD90375"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "38F4780F78792BD4"
 				item: { count: 1, id: "allthemodium:unobtainium_leggings" }
@@ -2515,19 +1997,14 @@
 		}
 		{
 			id: "02F65C13B3E2AC0E"
-			rewards: [
-				{
-					id: "1EB3598CB75ED2D5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "00A1D1C3A7422FBA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "712A7B9EB68CDBD8"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "168E15C7877EC743"
 				item: { count: 1, id: "minecraft:chainmail_chestplate" }
@@ -2538,19 +2015,14 @@
 		}
 		{
 			id: "1A985D5E4DD7A2A8"
-			rewards: [
-				{
-					id: "382C1CC3D8AD8A00"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4C003C8B079A41B9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3C3D485E6F3F5AB1"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3627B8AC8273E079"
 				item: { count: 1, id: "industrialupgrade:armour/volcano_hazmat_chestplate" }
@@ -2561,19 +2033,14 @@
 		}
 		{
 			id: "0BA0D896B308D402"
-			rewards: [
-				{
-					id: "3F4FA6B06C2B7CC3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7274DCB9F14DAA6D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "40B63093A8B6163D"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3154F584B8055B3C"
 				item: { count: 1, id: "mysticalagriculture:imperium_boots" }
@@ -2584,19 +2051,14 @@
 		}
 		{
 			id: "0945C57A33B6BE25"
-			rewards: [
-				{
-					id: "05D92F15D2DB2455"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7F9CC84041664D0C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "18BD51E8F7FCDD68"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7059BC735942A3BF"
 				item: { count: 1, id: "industrialupgrade:armour/hazmat_chestplate" }
@@ -2607,19 +2069,14 @@
 		}
 		{
 			id: "073C20CBD69CE95E"
-			rewards: [
-				{
-					id: "0643792112437DB0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2CB9DFD3B0497ED5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "28DC58019EA696A4"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FAE5DC56DBCD511"
 				item: { count: 1, id: "mekanism:hazmat_mask" }
@@ -2630,19 +2087,14 @@
 		}
 		{
 			id: "75EAD9B8F367551D"
-			rewards: [
-				{
-					id: "3A0CE6B1B0B91ED0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "016EB97F3CB8981A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "640772A5B846356F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0261095F631D92F2"
 				item: { count: 1, id: "mekanism:hazmat_pants" }
@@ -2653,19 +2105,14 @@
 		}
 		{
 			id: "2251F8A63508E60F"
-			rewards: [
-				{
-					id: "0AC216FEB425F7EB"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "006C526B6FA12E91"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "041C3D87FEDF5378"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "779CDD8A84F418FC"
 				item: { count: 1, id: "industrialupgrade:armour/topaz_chestplate" }
@@ -2676,19 +2123,14 @@
 		}
 		{
 			id: "0952FCF31E1C3241"
-			rewards: [
-				{
-					id: "310112A949373AF6"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "217B4BA92A6455B1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "516A74AFE515B7D9"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F3FBFCA245FCE85"
 				item: { count: 1, id: "industrialupgrade:armour/ruby_chestplate" }
@@ -2699,19 +2141,14 @@
 		}
 		{
 			id: "3FF27F03CF97DF85"
-			rewards: [
-				{
-					id: "231496F9F3E3D92C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4B8A28A3FCF83414"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5D821754A2E3DC6C"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "288503A4F2DE8BCD"
 				item: { count: 1, id: "industrialupgrade:armour/sapphire_chestplate" }
@@ -2722,19 +2159,14 @@
 		}
 		{
 			id: "088B59BB13A8BF87"
-			rewards: [
-				{
-					id: "277E7DA1A7E6D6F8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6B8294A03EB3C0F7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "16145680575C3BC5"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3440A23DCA0390FB"
 				item: { count: 1, id: "minecraft:chainmail_helmet" }
@@ -2745,19 +2177,14 @@
 		}
 		{
 			id: "2A89FEED18B7ED10"
-			rewards: [
-				{
-					id: "278EC12FF3CAFB0F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4131FE609FD8B727"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2CFD66F4283C9538"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EA3E7B8412F56CA"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/quantum_chestplate" }
@@ -2768,19 +2195,14 @@
 		}
 		{
 			id: "1339BBF90A68C3CA"
-			rewards: [
-				{
-					id: "3E0DEF75E4778D98"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6744CFC4E01DA9B7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "65DDDCEE1EA7DBBC"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2104AC0432EBB9DD"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/spectral_chestplate" }
@@ -2791,19 +2213,14 @@
 		}
 		{
 			id: "1D2352CDEC05643E"
-			rewards: [
-				{
-					id: "69AC3DD772A8811A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5C25803667342348"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4A6E6D4D53DBDFB9"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E87C6F63E730D07"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_chestplate" }
@@ -2814,19 +2231,14 @@
 		}
 		{
 			id: "1931B22BF94C705B"
-			rewards: [
-				{
-					id: "324E03C6620A660D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "597246D4E95846D4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "540328FD93F8DBC1"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "67969D60E3809B0F"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/adv_nano_helmet" }
@@ -2837,19 +2249,14 @@
 		}
 		{
 			id: "463D6C9DB44D1390"
-			rewards: [
-				{
-					id: "462674E2D8F98AFF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7CFDEBF8B14E4FFE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2A4BDA50D70BB62F"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1A910DEC16CCCC53"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_chestplate" }
@@ -2860,19 +2267,14 @@
 		}
 		{
 			id: "7471A1C92038D143"
-			rewards: [
-				{
-					id: "2F846D75FAD1BC53"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "533AA172FAE333CE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2C3D3EC506AB56A8"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6197CCB7C5AB13D9"
 				item: { components: { "industrialupgrade:data": { ID_Item: 2147483647 }, "industrialupgrade:energy": 0.0d }, count: 1, id: "industrialupgrade:armour/nano_helmet" }
@@ -2883,19 +2285,14 @@
 		}
 		{
 			id: "0A87FFD122EE9748"
-			rewards: [
-				{
-					id: "022B6DA13CAEC19B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "61DBF03FE013E107"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "077C6CCAB6A70550"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6157035FD469D307"
 				item: { count: 1, id: "mekanism:mekasuit_pants" }
@@ -2906,19 +2303,14 @@
 		}
 		{
 			id: "4A2511E766872BE2"
-			rewards: [
-				{
-					id: "4B88A0C0704FA70D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "428CB7E7C204D0FB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "04DB466D35B9BAFC"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18BFE5ED331F0A45"
 				item: { count: 1, id: "mekanism:mekasuit_bodyarmor" }
@@ -2929,19 +2321,14 @@
 		}
 		{
 			id: "1B4AE6FBE2DC18C2"
-			rewards: [
-				{
-					id: "5949C6D50E07228A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7D6C218E6CC1F07E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7A33D01AAB9E6915"
-					table_id: 386237285788407338L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FC02A4C73C4B8EC"
 				item: { count: 1, id: "advanced_ae:quantum_boots" }
@@ -2952,6 +2339,14 @@
 		}
 		{
 			id: "342F6E486058B378"
+			rewards: [{
+				id: "550DE6AD04724DB5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "09E3734AFD0F6B10"
 				item: { count: 1, id: "avaritia:infinity_bow" }
@@ -2962,6 +2357,14 @@
 		}
 		{
 			id: "76D7F89E2FDACFD1"
+			rewards: [{
+				id: "7C624772C871EBE7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "596081A8CAC6F49E"
 				item: { count: 1, id: "avaritia:infinity_boots" }
@@ -2972,6 +2375,14 @@
 		}
 		{
 			id: "33F1265D67DD147A"
+			rewards: [{
+				id: "51C0721F297A8EF7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "58045E8A1AD4E1AB"
 				item: { count: 1, id: "avaritia:infinity_leggings" }
@@ -2982,6 +2393,14 @@
 		}
 		{
 			id: "43C226D4D6957022"
+			rewards: [{
+				id: "04074122F837FBDD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "25997E31325C88FE"
 				item: { count: 1, id: "avaritia:infinity_chestplate" }
@@ -2992,6 +2411,14 @@
 		}
 		{
 			id: "4110D5049F0D424C"
+			rewards: [{
+				id: "4547F1C108CE8041"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "72D55EE4DD9CC2B8"
 				item: { count: 1, id: "avaritia:infinity_helmet" }
@@ -3002,6 +2429,14 @@
 		}
 		{
 			id: "7823AF871A553C69"
+			rewards: [{
+				id: "13FC1A17CC8A80F6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5C09836C15902FE1"
 				item: { count: 1, id: "avaritia:infinity_hoe" }
@@ -3012,6 +2447,14 @@
 		}
 		{
 			id: "32E6CD4F236D1618"
+			rewards: [{
+				id: "510DD2D936C3721B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "633F504EE776876C"
 				item: { components: { "minecraft:enchantments": { levels: { "minecraft:fortune": 10 } } }, count: 1, id: "avaritia:infinity_pickaxe" }
@@ -3022,6 +2465,14 @@
 		}
 		{
 			id: "2DFBA7B31338A2D7"
+			rewards: [{
+				id: "41230FB5184566BF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "294F19A3A4C633C5"
 				item: { count: 1, id: "avaritia:infinity_sword" }
@@ -3032,6 +2483,14 @@
 		}
 		{
 			id: "64FC8672D914F8F2"
+			rewards: [{
+				id: "5DBE0416A00395C8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1449327E59B95A34"
 				item: { count: 1, id: "avaritia:infinity_axe" }
@@ -3042,6 +2501,14 @@
 		}
 		{
 			id: "5A9CDD29E624CC5A"
+			rewards: [{
+				id: "12359707BE81FCBE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "00FF58918E899124"
 				item: { count: 1, id: "avaritia:infinity_shovel" }

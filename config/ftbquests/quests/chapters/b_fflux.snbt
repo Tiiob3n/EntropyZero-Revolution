@@ -20,6 +20,14 @@
 	quests: [
 		{
 			id: "380A0A4D26CA7B9D"
+			rewards: [{
+				id: "0BCEA813D646638C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F8593E444F7C47B"
 				item: { count: 1, id: "fluxnetworks:flux_dust" }
@@ -31,6 +39,14 @@
 		{
 			dependencies: ["0A94CB78C8FD6118"]
 			id: "755F2CC1F38A405E"
+			rewards: [{
+				id: "1A837C7C1D169C2E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "27094BAD89EB1F9D"
 				item: { count: 1, id: "fluxnetworks:flux_core" }
@@ -42,6 +58,14 @@
 		{
 			dependencies: ["755F2CC1F38A405E"]
 			id: "5D17FD11CC54198A"
+			rewards: [{
+				id: "0941363AB76044BA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "69067F26163594E8"
 				item: { count: 1, id: "fluxnetworks:flux_controller" }
@@ -53,6 +77,14 @@
 		{
 			dependencies: ["5D17FD11CC54198A"]
 			id: "2469893806564D17"
+			rewards: [{
+				id: "3A068346D1982A64"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F6FE524B9201AB2"
 				item: { count: 1, id: "fluxnetworks:basic_flux_storage" }
@@ -64,6 +96,14 @@
 		{
 			dependencies: ["2469893806564D17"]
 			id: "44295A4059D3E271"
+			rewards: [{
+				id: "6505825BCBD775C3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4674E1E1D1E7D42C"
 				item: { count: 1, id: "fluxnetworks:herculean_flux_storage" }
@@ -75,6 +115,14 @@
 		{
 			dependencies: ["44295A4059D3E271"]
 			id: "3494FE7C140CA1F0"
+			rewards: [{
+				id: "18F4C5B92E7E8745"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "646664B64DF4CC98"
 				item: { count: 1, id: "fluxnetworks:gargantuan_flux_storage" }
@@ -86,6 +134,14 @@
 		{
 			dependencies: ["2469893806564D17"]
 			id: "5BF5A26918B13162"
+			rewards: [{
+				id: "4D4C940034749C4F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "6CEE3136AB77B4DF"
@@ -104,6 +160,14 @@
 		{
 			dependencies: ["380A0A4D26CA7B9D"]
 			id: "0A94CB78C8FD6118"
+			rewards: [{
+				id: "2462128B397C172F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F460BBEAC7B5B24"
 				item: { count: 1, id: "fluxnetworks:flux_block" }

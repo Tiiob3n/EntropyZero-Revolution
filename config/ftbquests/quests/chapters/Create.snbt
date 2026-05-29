@@ -451,6 +451,14 @@
 			dependencies: ["3F3600B6701641E0"]
 			id: "4F987C54768D8E3D"
 			min_width: 275
+			rewards: [{
+				id: "51F5945ADEEF5302"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4E430337F8180287"
@@ -469,6 +477,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "66855DBE37DB5CD1"
+			rewards: [{
+				id: "0000000000000002"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E578E73AAA6051B"
 				item: { count: 1, id: "create:shaft" }
@@ -480,6 +496,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "6DDD8661181840F1"
+			rewards: [{
+				id: "0000000000000003"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "42BD406C9E194F72"
 				item: { count: 1, id: "create:cardboard_package_12x12" }
@@ -491,11 +515,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "3F3600B6701641E0"
-			rewards: [{
-				id: "3B58A8A04E00B8C7"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "3B58A8A04E00B8C7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0000000000000004"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 32L
 				id: "547446940C42E3B4"
@@ -522,6 +556,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "0000000000000005"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "37D26E29D6F4A261"
@@ -534,11 +576,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "3B6674B3B91BD8B4"
-			rewards: [{
-				id: "0D05692D0190F4EE"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "0D05692D0190F4EE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0000000000000006"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A1AA2C1BD228C04"
 				item: { count: 1, id: "create:belt_connector" }
@@ -551,11 +603,21 @@
 			dependencies: ["55696F71CC09E588"]
 			icon_scale: 0.9d
 			id: "66A4DD110F0E66D1"
-			rewards: [{
-				id: "2F7FB6D3B0F5B3B8"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "2F7FB6D3B0F5B3B8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0000000000000007"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "62EA10E4B6F101E2"
 				item: { count: 1, id: "minecraft:copper_ingot" }
@@ -567,11 +629,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "78D8E2EB66607AAA"
-			rewards: [{
-				id: "4E05819B00A93C2B"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "4E05819B00A93C2B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0000000000000008"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5299AEA6D21C177E"
 				item: { count: 1, id: "create:polished_rose_quartz" }
@@ -583,6 +655,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "017309CDB87F2A1E"
+			rewards: [{
+				id: "0000000000000009"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "20CB770DEAEFFBD1"
 				item: { count: 1, id: "create:precision_mechanism" }
@@ -594,11 +674,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "7F4BD83F2D567FF0"
-			rewards: [{
-				id: "15E8BFEFE144332C"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "15E8BFEFE144332C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "000000000000000A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0EF12AD234E9374B"
 				item: { count: 1, id: "create:sturdy_sheet" }
@@ -611,6 +701,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "22488BFDDB85DB29"
+			rewards: [{
+				id: "000000000000000B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "458EA37E33C28CD6"
 				item: { count: 1, id: "create:fluid_pipe" }
@@ -623,6 +721,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "55DBF04C81688194"
+			rewards: [{
+				id: "000000000000000C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "790067DB0A090851"
 				item: { count: 1, id: "create:item_drain" }
@@ -635,6 +741,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "41183734EB2C28FF"
+			rewards: [{
+				id: "000000000000000D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "76A2FFB68F19287C"
 				item: { count: 1, id: "create:spout" }
@@ -647,6 +761,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "3723D86B327384DB"
+			rewards: [{
+				id: "000000000000000E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7547887AB46BB641"
 				item: { count: 1, id: "create:portable_fluid_interface" }
@@ -659,6 +781,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "73A48DA93F67805B"
+			rewards: [{
+				id: "000000000000000F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B6EB65F9A36CAB6"
 				item: { count: 1, id: "create:smart_fluid_pipe" }
@@ -671,6 +801,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "19A71430646BD65B"
+			rewards: [{
+				id: "0000000000000010"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1CC489345E31DE8E"
 				item: { count: 1, id: "create:mechanical_pump" }
@@ -683,6 +821,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "3F6730383CCC8BB0"
+			rewards: [{
+				id: "0000000000000011"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3AE3F6A2D3B9232E"
 				item: { count: 1, id: "create:basin" }
@@ -695,6 +841,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "6227304103E32C74"
+			rewards: [{
+				id: "0000000000000012"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0904AEE20CCAD32F"
 				item: { count: 1, id: "create:fluid_tank" }
@@ -707,6 +861,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "120AAA5FECD27573"
+			rewards: [{
+				id: "0000000000000013"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BABA713A487AB17"
 				item: { count: 1, id: "create:fluid_valve" }
@@ -719,6 +881,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "088E87F861406342"
+			rewards: [{
+				id: "0000000000000014"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "41BB2E016C103B8C"
 				item: { count: 1, id: "create:hose_pulley" }
@@ -731,6 +901,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "08DD0CB24FD0B193"
+			rewards: [{
+				id: "0000000000000015"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D5F1748D467DC8D"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:valve_handles))", "minecraft:custom_name": "\"Create: Valve Handles\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -743,6 +921,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "6BE74683BED141EF"
+			rewards: [{
+				id: "0000000000000016"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "04AA3D9C0837D8E0"
 				item: { count: 1, id: "create:copper_casing" }
@@ -755,6 +941,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "2697B8077174B870"
+			rewards: [{
+				id: "0000000000000017"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "16E01FEA937C291C"
@@ -774,6 +968,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "4DCA027828C2921C"
+			rewards: [{
+				id: "0000000000000018"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C071CC8A1BACFC0"
 				item: { components: { "create:banktank_air": 900 }, count: 1, id: "create:copper_backtank" }
@@ -785,6 +987,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "77968A26B3D90399"
+			rewards: [{
+				id: "0000000000000019"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6826B78CA97BAE33"
 				item: { count: 1, id: "create:wrench" }
@@ -796,6 +1006,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "26AC949F1C3C6214"
+			rewards: [{
+				id: "000000000000001A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0224AE2B408CD3E4"
 				item: { count: 1, id: "create:railway_casing" }
@@ -807,6 +1025,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "381C007F6EB3B389"
+			rewards: [{
+				id: "000000000000001B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E0D50D993026FD2"
 				item: { count: 1, id: "create:controls" }
@@ -818,6 +1044,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "328E672F6B43D93A"
+			rewards: [{
+				id: "000000000000001C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4438508F3544F3EB"
 				item: { count: 1, id: "create:track_station" }
@@ -829,6 +1063,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "286229410FA571B7"
+			rewards: [{
+				id: "000000000000001D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E8BF6F8C139670D"
 				item: { count: 1, id: "create:track_signal" }
@@ -840,6 +1082,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "49D4F55F8A20DB22"
+			rewards: [{
+				id: "000000000000001E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "140F487510C24AD5"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:seats))", "minecraft:custom_name": "\"Create Seats\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -851,6 +1101,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "0A67575BAF8596B0"
+			rewards: [{
+				id: "000000000000001F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "508AD2C42639AAA4"
 				item: { count: 1, id: "create:track" }
@@ -862,6 +1120,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "37C0F6CAEE15D410"
+			rewards: [{
+				id: "0000000000000020"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "08285EDBBE62BC6C"
 				item: { count: 1, id: "create:track_observer" }
@@ -873,6 +1139,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "72CBC6171104037F"
+			rewards: [{
+				id: "0000000000000021"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "619F1513C7F24025"
 				item: { count: 1, id: "create:train_door" }
@@ -884,6 +1158,14 @@
 		{
 			dependencies: ["7F4BD83F2D567FF0"]
 			id: "4554EE3CC1F80F7D"
+			rewards: [{
+				id: "0000000000000022"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AC3031F6EF0D8DF"
 				item: { count: 1, id: "create:schedule" }
@@ -896,6 +1178,14 @@
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "1FDE63D5EA5DA3CB"
 			min_width: 225
+			rewards: [{
+				id: "0000000000000023"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "25C4F77967CEBF9A"
 				item: { count: 1, id: "create:package_frogport" }
@@ -907,6 +1197,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "1C699E7F615D68A7"
+			rewards: [{
+				id: "0000000000000024"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5690A7C3DC61DC9F"
 				item: { count: 1, id: "create:stock_ticker" }
@@ -918,6 +1216,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "52575C93CD6DD5D5"
+			rewards: [{
+				id: "0000000000000025"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7ACE9AC8EAFDBCCA"
 				item: { count: 1, id: "create:packager" }
@@ -929,6 +1235,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "305EDA1DA23E9BDF"
+			rewards: [{
+				id: "0000000000000026"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6098CEDA56D791E2"
 				item: { count: 1, id: "create:repackager" }
@@ -940,6 +1254,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "55359056540E1A96"
+			rewards: [{
+				id: "0000000000000027"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "30B40A26B0EF193A"
 				item: { count: 1, id: "create:factory_gauge" }
@@ -951,6 +1273,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "578394EC869C10AB"
+			rewards: [{
+				id: "0000000000000028"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A394AF71CF9F68D"
 				item: { count: 1, id: "create:chain_conveyor" }
@@ -962,6 +1292,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "248CD41AE2A92573"
+			rewards: [{
+				id: "0000000000000029"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1D14A105012EEEDD"
 				item: { count: 1, id: "create:stock_link" }
@@ -973,11 +1311,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "038AAFBA1E0DEF7E"
-			rewards: [{
-				id: "713EB35A645378D0"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "713EB35A645378D0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "000000000000002A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1E4EA4CD015C3AE8"
 				item: { count: 1, id: "create:goggles" }
@@ -989,6 +1337,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "590D73FDE6335297"
+			rewards: [{
+				id: "000000000000002B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "349ABAC16827AA08"
@@ -1007,6 +1363,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "1F71E19AD3CFCABC"
+			rewards: [{
+				id: "000000000000002C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "359DAA89232ECA75"
 				item: { count: 1, id: "create:schematicannon" }
@@ -1018,6 +1382,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "32DC17E21BF26228"
+			rewards: [{
+				id: "000000000000002D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "016C4FB004A12623"
 				item: { count: 1, id: "create:schematic_table" }
@@ -1029,6 +1401,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "3254374A45D0D708"
+			rewards: [{
+				id: "000000000000002E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "664F487C64D046FE"
@@ -1047,6 +1427,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "3EFED58FAE46B366"
+			rewards: [{
+				id: "000000000000002F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "48B5FF4FA7D1A0EE"
 				item: { count: 1, id: "create:super_glue" }
@@ -1058,6 +1446,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "39716053AAD8ABF2"
+			rewards: [{
+				id: "0000000000000030"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "358B7C8CF2DAC93F"
 				item: { count: 1, id: "create:hand_crank" }
@@ -1069,6 +1465,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "6B022CC9A87E6329"
+			rewards: [{
+				id: "0000000000000031"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "124318D024FB87D1"
 				item: { count: 1, id: "create:mechanical_arm" }
@@ -1081,6 +1485,14 @@
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "4788E4092A488C9E"
 			min_width: 220
+			rewards: [{
+				id: "0000000000000032"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7C45FB015E375B6C"
 				item: { count: 1, id: "create:rotation_speed_controller" }
@@ -1092,6 +1504,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "2B482168EC0C6EB8"
+			rewards: [{
+				id: "0000000000000033"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "107C75290E3DA6FF"
@@ -1125,6 +1545,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "488424BE711AE0F1"
+			rewards: [{
+				id: "0000000000000034"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F1E74751F32360F"
 				item: { count: 1, id: "create:andesite_funnel" }
@@ -1136,6 +1564,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "4E3578FC24ACF39B"
+			rewards: [{
+				id: "0000000000000035"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "16E5BE87F2218B36"
 				item: { count: 1, id: "create:depot" }
@@ -1147,6 +1583,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "33C2042F320B2D34"
+			rewards: [{
+				id: "0000000000000036"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E8FB3D5FC93187C"
 				item: { count: 1, id: "create:chute" }
@@ -1158,6 +1602,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "4AAFD7E0D868844A"
+			rewards: [{
+				id: "0000000000000037"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "351BCA5BA85E0331"
 				item: { count: 1, id: "create:weighted_ejector" }
@@ -1169,6 +1621,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "754EC4FE62F454E8"
+			rewards: [{
+				id: "0000000000000038"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B36E65AB48F711D"
 				item: { count: 1, id: "create:item_vault" }
@@ -1180,6 +1640,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "0807F0094282C2D5"
+			rewards: [{
+				id: "0000000000000039"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "339D8E6872E87189"
 				item: { count: 1, id: "create:andesite_tunnel" }
@@ -1191,6 +1659,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "434D7EDCDD954B40"
+			rewards: [{
+				id: "000000000000003A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F2B9323C20A1D42"
 				item: { count: 1, id: "create:andesite_casing" }
@@ -1203,6 +1679,14 @@
 			dependencies: ["3F3600B6701641E0"]
 			id: "0541F90AD95B4B5E"
 			min_width: 250
+			rewards: [{
+				id: "000000000000003B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "65BC72DC14FBC67A"
 				item: { count: 1, id: "create:mechanical_press" }
@@ -1214,6 +1698,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "0888176AF1BEA68D"
+			rewards: [{
+				id: "000000000000003C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "061F83F5166B21DD"
 				item: { count: 1, id: "create:mechanical_mixer" }
@@ -1225,6 +1717,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "63756443B3FFDB48"
+			rewards: [{
+				id: "000000000000003D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5960344545924087"
 				item: { count: 1, id: "create:millstone" }
@@ -1236,6 +1736,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "61A7F8B1C6ECEEA5"
+			rewards: [{
+				id: "000000000000003E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7793D3A70BDBE509"
 				item: { count: 1, id: "create:encased_fan" }
@@ -1247,6 +1755,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "0442AA6067606DA8"
+			rewards: [{
+				id: "000000000000003F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4E3D771290B60323"
 				item: { count: 1, id: "create:crushing_wheel" }
@@ -1258,8 +1774,16 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "0EFB32C64C146682"
+			rewards: [{
+				id: "0000000000000040"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
-				id: "33F75D6A93531F96"
+				id: "6E111508091813B6"
 				item: { count: 1, id: "create:deployer" }
 				type: "item"
 			}]
@@ -1269,6 +1793,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "7938CF0A65011F0B"
+			rewards: [{
+				id: "0000000000000041"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1346FCBB82BC4D57"
 				item: { count: 1, id: "create:electron_tube" }
@@ -1281,6 +1813,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "1A6929801D08F2C5"
+			rewards: [{
+				id: "0000000000000042"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "30E3D33FF3545F77"
 				item: { count: 1, id: "create:steam_engine" }
@@ -1292,6 +1832,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "23988FD7E2EEF319"
+			rewards: [{
+				id: "0000000000000043"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B7ABE1D66381938"
 				item: { count: 1, id: "create:mechanical_crafter" }
@@ -1303,6 +1851,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "594BC97607EEE341"
+			rewards: [{
+				id: "0000000000000044"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C2E13A4C304551D"
 				item: { count: 1, id: "create:gearbox" }
@@ -1314,6 +1870,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "404A9FFCA3DF600D"
+			rewards: [{
+				id: "0000000000000045"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C66355511F6CB72"
 				item: { count: 1, id: "create:gearshift" }
@@ -1326,6 +1890,14 @@
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "5773319EE8B3D45C"
 			min_width: 225
+			rewards: [{
+				id: "0000000000000046"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "27B488E0B275A4BE"
 				item: { count: 1, id: "create:adjustable_chain_gearshift" }
@@ -1337,6 +1909,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "6AB303BEA478C0F3"
+			rewards: [{
+				id: "0000000000000047"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FD30CB75B38FA71"
 				item: { count: 1, id: "create:sequenced_gearshift" }
@@ -1348,6 +1928,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "0C53E42899D3D271"
+			rewards: [{
+				id: "0000000000000048"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5244D447487D1BE7"
 				item: { count: 1, id: "create:clutch" }
@@ -1360,6 +1948,14 @@
 			dependencies: ["3F3600B6701641E0"]
 			id: "0C18429AFD83973C"
 			min_width: 300
+			rewards: [{
+				id: "0000000000000049"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7CDDFBBA296031CC"
 				item: { count: 1, id: "create:encased_chain_drive" }
@@ -1371,6 +1967,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "5D852AA1930E1019"
+			rewards: [{
+				id: "000000000000004A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FAE9E00F6411987"
 				item: { count: 1, id: "create:blaze_burner" }
@@ -1382,6 +1986,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "6FD3C9B4EF558332"
+			rewards: [{
+				id: "000000000000004B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "43B666E6D27FD9C9"
 				item: { count: 1, id: "create:brass_casing" }
@@ -1393,6 +2005,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "6CF338A73F212B79"
+			rewards: [{
+				id: "000000000000004C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C2A5CFDD51D5E93"
 				item: { count: 1, id: "create:brass_funnel" }
@@ -1404,6 +2024,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "30FC83AF65C13591"
+			rewards: [{
+				id: "000000000000004D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "55A529D28AA69E9A"
 				item: { count: 1, id: "create:brass_tunnel" }
@@ -1415,6 +2043,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "3F0B58522B009779"
+			rewards: [{
+				id: "000000000000004E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "21C27F17DB9A6540"
 				item: { count: 1, id: "create:potato_cannon" }
@@ -1426,6 +2062,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "607FFC2B7A0F972A"
+			rewards: [{
+				id: "000000000000004F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "68A9032B30527424"
 				item: { count: 1, id: "create:mechanical_piston" }
@@ -1437,6 +2081,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "04C07CE4F7258BF5"
+			rewards: [{
+				id: "0000000000000050"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D786059E15D36D6"
 				item: { count: 1, id: "create:mechanical_bearing" }
@@ -1448,6 +2100,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "07821D28021BB440"
+			rewards: [{
+				id: "0000000000000051"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "07B82786238532DF"
 				item: { count: 1, id: "create:mechanical_drill" }
@@ -1459,6 +2119,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "29A942B4C3E9A502"
+			rewards: [{
+				id: "0000000000000052"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F142F1AE8FE6098"
 				item: { count: 1, id: "create:mechanical_saw" }
@@ -1471,6 +2139,14 @@
 			dependencies: ["3F3600B6701641E0"]
 			id: "6E3F0C072B55467B"
 			min_width: 240
+			rewards: [{
+				id: "0000000000000053"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "14E9C0531A0F8491"
 				item: { count: 1, id: "create:mechanical_harvester" }
@@ -1482,6 +2158,14 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "220163965130D8C7"
+			rewards: [{
+				id: "0000000000000054"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F62A1007EBB7FCE"
 				item: { count: 1, id: "create:mechanical_plough" }
@@ -1493,6 +2177,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "1FA90B3E33E0DFEE"
+			rewards: [{
+				id: "0000000000000055"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "02AF071EA5F1C803"
 				item: { count: 1, id: "create:mechanical_roller" }
@@ -1504,6 +2196,14 @@
 		{
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "6711E72048BBDB08"
+			rewards: [{
+				id: "0000000000000056"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D905184F58E0245"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:toolboxes))", "minecraft:custom_name": "\"Create: Toolbox\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1515,6 +2215,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "79288A7251986136"
+			rewards: [{
+				id: "0000000000000057"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E9A724B0EBB2F7C"
 				item: { count: 1, id: "create:cart_assembler" }
@@ -1526,6 +2234,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "619BC1F1094F4EFA"
+			rewards: [{
+				id: "0000000000000058"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "318B54A40F1B7452"
 				item: { count: 1, id: "create:controller_rail" }
@@ -1537,6 +2253,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "2976D5A533FDEE8F"
+			rewards: [{
+				id: "0000000000000059"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "030BDFBC36501EAA"
 				item: { count: 1, id: "create:piston_extension_pole" }
@@ -1548,6 +2272,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "1CACDF56CB395997"
+			rewards: [{
+				id: "000000000000005A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C76CD3576A231AB"
 				item: { count: 1, id: "create:extendo_grip" }
@@ -1559,6 +2291,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "38EF4E7FE82B62A6"
+			rewards: [{
+				id: "000000000000005B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "24A2D9C6DDA17474"
 				item: { count: 1, id: "create:clockwork_bearing" }
@@ -1570,6 +2310,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "3E1B0CBA0889C0AE"
+			rewards: [{
+				id: "000000000000005C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "151A360078E135CB"
@@ -1588,6 +2336,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "21B6DE76E735A196"
+			rewards: [{
+				id: "000000000000005D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "31A08E80F7ADEBDF"
 				item: { count: 1, id: "create:linear_chassis" }
@@ -1599,6 +2355,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "51649293068FE93D"
+			rewards: [{
+				id: "000000000000005E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "72BB090C668F2A2F"
 				item: { count: 1, id: "create:radial_chassis" }
@@ -1610,6 +2374,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "3594EFD40D059EA3"
+			rewards: [{
+				id: "000000000000005F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "426B36879A8AA156"
 				item: { count: 1, id: "create:nixie_tube" }
@@ -1621,6 +2393,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "497660DB9611C67C"
+			rewards: [{
+				id: "0000000000000060"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D3A9BBBA4067EA2"
 				item: { count: 1, id: "create:smart_chute" }
@@ -1632,6 +2412,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "45664AAC3ACCEF36"
+			rewards: [{
+				id: "0000000000000061"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "34BA35CFE3607771"
 				item: { count: 1, id: "create:content_observer" }
@@ -1644,6 +2432,14 @@
 			dependencies: ["66A4DD110F0E66D1"]
 			hide_dependency_lines: true
 			id: "238794C3DE2B79BA"
+			rewards: [{
+				id: "0000000000000062"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6495EB23EBE33556"
 				item: { count: 1, id: "create:nozzle" }
@@ -1655,6 +2451,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "53ECE17FBD95392C"
+			rewards: [{
+				id: "0000000000000063"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "1A0C6B49A942B1FA"
@@ -1674,6 +2478,14 @@
 			dependencies: ["3F3600B6701641E0"]
 			id: "55AEBE2068711237"
 			min_width: 260
+			rewards: [{
+				id: "0000000000000064"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "0A14264316E3CE11"
@@ -1693,6 +2505,14 @@
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "38DF71D9CB5045F2"
 			min_width: 250
+			rewards: [{
+				id: "0000000000000065"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "39F6F6EA8AE6C81D"
 				item: { count: 1, id: "create:flywheel" }
@@ -1705,6 +2525,14 @@
 			dependencies: ["038AAFBA1E0DEF7E"]
 			id: "264DA461C59E31C3"
 			min_width: 225
+			rewards: [{
+				id: "0000000000000066"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "313986BB897F4E61"
 				item: { count: 1, id: "create:blaze_cake" }
@@ -1716,6 +2544,14 @@
 		{
 			dependencies: ["3B6674B3B91BD8B4"]
 			id: "10391A74418CA104"
+			rewards: [{
+				id: "0000000000000067"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3963000F3550EEAC"
 				item: { count: 1, id: "create:rope_pulley" }
@@ -1727,6 +2563,14 @@
 		{
 			dependencies: ["51F5C6D60D719DC4"]
 			id: "231404F75545A149"
+			rewards: [{
+				id: "0000000000000068"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4575C4599A6AB76D"
 				item: { count: 1, id: "create:elevator_pulley" }
@@ -1738,6 +2582,14 @@
 		{
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "2A08F71925AE775E"
+			rewards: [{
+				id: "0000000000000069"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C7CCD299F90B107"
 				item: { count: 1, id: "create:display_board" }
@@ -1749,11 +2601,21 @@
 		{
 			dependencies: ["55696F71CC09E588"]
 			id: "5D5FC5420738FDE8"
-			rewards: [{
-				id: "39E4F62756EF8A72"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "39E4F62756EF8A72"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "000000000000006A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "46859373962ECC37"
 				item: { count: 1, id: "create:cardboard" }
@@ -1766,6 +2628,14 @@
 			dependencies: ["78D8E2EB66607AAA"]
 			id: "36F22AA68C1841F6"
 			min_width: 250
+			rewards: [{
+				id: "000000000000006B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4B2B082C7370E05D"
@@ -1789,6 +2659,14 @@
 		{
 			dependencies: ["5D5FC5420738FDE8"]
 			id: "047A5CFAEBBE7E4E"
+			rewards: [{
+				id: "000000000000006C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "64D51B82E2CEFA98"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:table_cloths))", "minecraft:custom_name": "\"Create: Table Cloths\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1806,14 +2684,24 @@
 			}
 			id: "55696F71CC09E588"
 			min_width: 380
-			rewards: [{
-				id: "0B336CEAF8B15552"
-				item: {
-					count: 1
-					id: "createdeco:gold_coin"
+			rewards: [
+				{
+					id: "0B336CEAF8B15552"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "000000000000006D"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			size: 3.0d
 			tasks: [
 				{

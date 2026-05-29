@@ -88,11 +88,10 @@
 		{
 			id: "63E4529AF8894018"
 			rewards: [{
-				count: 3
-				id: "4100927F60249CD2"
+				id: "1FE70E80718D1D67"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -111,11 +110,10 @@
 			icon_scale: 1.6d
 			id: "233C7CAA573D6045"
 			rewards: [{
-				count: 3
-				id: "6E463F41C3F9F434"
+				id: "1B967506B14F6FA6"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -133,11 +131,10 @@
 			icon_scale: 1.6d
 			id: "75FE0B514448865B"
 			rewards: [{
-				count: 3
-				id: "43E28DEED4445B5D"
+				id: "3434F0F69423CAE6"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -155,11 +152,10 @@
 			icon_scale: 1.6d
 			id: "6648BC7D14233006"
 			rewards: [{
-				count: 3
-				id: "1B18FA07F532A5B6"
+				id: "3EC3F00659662913"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -176,11 +172,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "20D4568857887D38"
 			rewards: [{
-				count: 3
-				id: "67B59A005496AF95"
+				id: "42F15605C000B892"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -196,11 +191,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "09E25B1CD6CABD5A"
 			rewards: [{
-				count: 3
-				id: "1A90A9FB7F039AE0"
+				id: "043EA8753B36995D"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -216,11 +210,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "1069244EB72F64CA"
 			rewards: [{
-				count: 3
-				id: "4A93A6C81F908D5F"
+				id: "39F7F1310EDF11B1"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -236,11 +229,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "4FA5192164E4A427"
 			rewards: [{
-				count: 3
-				id: "2DAF8FC58615592C"
+				id: "3184BAC87C170D64"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -256,11 +248,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "2447208F1DC74FFE"
 			rewards: [{
-				count: 3
-				id: "691B6EAFF4712617"
+				id: "1895FFF4F68FBCD2"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -276,11 +267,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "10672B5991E5FC34"
 			rewards: [{
-				count: 3
-				id: "6CEECD21ED98315E"
+				id: "75B75EB0825B135B"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -296,11 +286,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "309B6B8368E535A0"
 			rewards: [{
-				count: 3
-				id: "36F172F588DB8847"
+				id: "7FE5AFDD822A39EA"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -316,11 +305,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "4CC963F5AECF285A"
 			rewards: [{
-				count: 3
-				id: "35AAFCB0899E5587"
+				id: "28591E14ABDE7429"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -336,11 +324,10 @@
 			dependencies: ["75FE0B514448865B"]
 			id: "553C44F85E508DE3"
 			rewards: [{
-				count: 3
-				id: "54C3ABFCF1716CA5"
+				id: "67D84A557B2E0CB0"
 				item: {
 					count: 1
-					id: "modularrouters:blank_upgrade"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -356,11 +343,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "0CE236731DF15DFF"
 			rewards: [{
-				count: 3
-				id: "2EEBA8AC6795159F"
+				id: "10DE768F22825834"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -376,11 +362,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "76062D375E4CC8DD"
 			rewards: [{
-				count: 3
-				id: "57F328DE7702602B"
+				id: "28563F15FBE66BBB"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -396,11 +381,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "2DD5F0693780B10A"
 			rewards: [{
-				count: 3
-				id: "5A9D64240C49D62D"
+				id: "419C634CAC8E0851"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -416,11 +400,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "674F28BCA2E4A3C8"
 			rewards: [{
-				count: 3
-				id: "474C8D97713CAB94"
+				id: "58F3556A4D89F5F2"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -436,11 +419,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "177396B9C4F9B3E2"
 			rewards: [{
-				count: 3
-				id: "0494C547C8F4852A"
+				id: "1B40CCA9224ED55B"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -456,11 +438,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "5560F303C452E110"
 			rewards: [{
-				count: 3
-				id: "72A300745B1BAD82"
+				id: "3D757FF74132FA17"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -476,11 +457,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "1A806C1A54B26EB5"
 			rewards: [{
-				count: 3
-				id: "1AFD453B64517C1D"
+				id: "5D303582F55C4D41"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -496,11 +476,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "4EAFE7B240AF0A4D"
 			rewards: [{
-				count: 3
-				id: "0AA5D556A6981D2D"
+				id: "68D9937FE0743760"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -516,11 +495,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "3025081DA6D2B398"
 			rewards: [{
-				count: 3
-				id: "79EAE6180557E5A9"
+				id: "7C5B4D014C0051ED"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -539,11 +517,10 @@
 			]
 			id: "5FB29F3F4DF17765"
 			rewards: [{
-				count: 3
-				id: "1E374921446DDBC7"
+				id: "3B9DFFD258EEBCAF"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -559,11 +536,10 @@
 			dependencies: ["6648BC7D14233006"]
 			id: "6B747129A85AA768"
 			rewards: [{
-				count: 3
-				id: "44FB4D5F8088B6B0"
+				id: "33BDFB34E7088EF6"
 				item: {
 					count: 1
-					id: "modularrouters:augment_core"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -579,11 +555,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "71A1FD0772453B51"
 			rewards: [{
-				count: 3
-				id: "161A8E3E464D8E92"
+				id: "04381B2F8092F096"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -599,11 +574,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "53B58FC3958750E7"
 			rewards: [{
-				count: 3
-				id: "43B563A65E8D362C"
+				id: "7923072DBDE16A80"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -619,11 +593,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "01C5D8357D8B0D62"
 			rewards: [{
-				count: 3
-				id: "03A278F3604FAB61"
+				id: "438BAB1FD57FDFBF"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -642,11 +615,10 @@
 			]
 			id: "326C63F7DC713E71"
 			rewards: [{
-				count: 3
-				id: "4E04C738333A4846"
+				id: "409660B3F97A57E4"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -662,11 +634,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "7F8DEDD0A54D1E11"
 			rewards: [{
-				count: 3
-				id: "2A0049B7F81796AB"
+				id: "42B41072A03EDFE4"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -685,11 +656,10 @@
 			]
 			id: "2B60D123123A5E8E"
 			rewards: [{
-				count: 3
-				id: "180857D9ED9ABC22"
+				id: "405C11237075D6A7"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -705,11 +675,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "346B9339E3D66478"
 			rewards: [{
-				count: 3
-				id: "21B90CA08ACC8A4F"
+				id: "37DD36A9076E90B9"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -729,11 +698,10 @@
 			]
 			id: "40788326E791845D"
 			rewards: [{
-				count: 3
-				id: "41DB69BCD3E6419E"
+				id: "597310C70B029A46"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -749,11 +717,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "00E1F1279F97557B"
 			rewards: [{
-				count: 3
-				id: "5FE8CB5E9F5649EB"
+				id: "7407CD8BB28FF1BE"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -769,11 +736,10 @@
 			dependencies: ["7F8DEDD0A54D1E11"]
 			id: "3C54C36CE97A48DC"
 			rewards: [{
-				count: 3
-				id: "5757B94578F9920F"
+				id: "49B21229544408A3"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -789,11 +755,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "247DAE5B4E1AC7F1"
 			rewards: [{
-				count: 3
-				id: "1B695D87AA33273C"
+				id: "7FFD903E6A7CF9BD"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -809,11 +774,10 @@
 			dependencies: ["247DAE5B4E1AC7F1"]
 			id: "73D60868024FF907"
 			rewards: [{
-				count: 3
-				id: "189184BA4C1A13E7"
+				id: "24A1F3A13AD71DCB"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -829,11 +793,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "36DED7099E80ED51"
 			rewards: [{
-				count: 3
-				id: "088882B53F8B0CBB"
+				id: "5DA514682CA63617"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -849,11 +812,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "0DC8B68CDF945348"
 			rewards: [{
-				count: 3
-				id: "3F3C5DD0694B1E1A"
+				id: "2B5003E7BF00E2DD"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -869,11 +831,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "1AA81C41431FD145"
 			rewards: [{
-				count: 3
-				id: "2C14105CC4A4E01D"
+				id: "0170E421146555CC"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -889,11 +850,10 @@
 			dependencies: ["1AA81C41431FD145"]
 			id: "475E1B94A61B9EB0"
 			rewards: [{
-				count: 3
-				id: "3D86B1835F9D422F"
+				id: "4CD0D3414CD48A38"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -909,11 +869,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "6063F4B7BE4D394C"
 			rewards: [{
-				count: 3
-				id: "2B7F8E2761AE6D4D"
+				id: "09DE374FE41A4412"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -929,11 +888,10 @@
 			dependencies: ["6063F4B7BE4D394C"]
 			id: "38954551309F42A7"
 			rewards: [{
-				count: 3
-				id: "1C035E94B0139C57"
+				id: "5DEA1C8382046082"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -949,11 +907,10 @@
 			dependencies: ["38954551309F42A7"]
 			id: "2405663C033CBDF1"
 			rewards: [{
-				count: 3
-				id: "3E6116F9A969F345"
+				id: "0EF541E078B6D96C"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -969,11 +926,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "417B88FEB1B8F44E"
 			rewards: [{
-				count: 3
-				id: "647D161F1B234A44"
+				id: "56A7E22EBF6613FB"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -989,11 +945,10 @@
 			dependencies: ["233C7CAA573D6045"]
 			id: "185074907753AE77"
 			rewards: [{
-				count: 3
-				id: "21C32588D339B8FF"
+				id: "09A2B1C37BA7166D"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -1012,11 +967,10 @@
 			}
 			id: "71FDF8CD953E46FC"
 			rewards: [{
-				count: 3
-				id: "166D6D4C252D5E89"
+				id: "0F772444E18DD4C7"
 				item: {
 					count: 1
-					id: "modularrouters:blank_module"
+					id: "createdeco:gold_coin"
 				}
 				type: "item"
 			}]
@@ -1030,6 +984,14 @@
 		{
 			dependencies: ["233C7CAA573D6045"]
 			id: "143AE6889BDA9EF5"
+			rewards: [{
+				id: "7D2331E4ADBAE6BB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3057A10D6D3A75D2"
 				item: { count: 1, id: "modularrouters:bulk_item_filter" }
@@ -1041,6 +1003,14 @@
 		{
 			dependencies: ["143AE6889BDA9EF5"]
 			id: "4A03A671757B2EBF"
+			rewards: [{
+				id: "7C00E48DFCF8225D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "107FE3495FC5C0E7"
 				item: { count: 1, id: "modularrouters:inspection_filter" }
@@ -1052,6 +1022,14 @@
 		{
 			dependencies: ["143AE6889BDA9EF5"]
 			id: "6E5954C257726F86"
+			rewards: [{
+				id: "52CFF44104F5A04D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BBF911BE5066A17"
 				item: { count: 1, id: "modularrouters:mod_filter" }
@@ -1063,6 +1041,14 @@
 		{
 			dependencies: ["143AE6889BDA9EF5"]
 			id: "72A71E1D6D8996FD"
+			rewards: [{
+				id: "03D9748CC69BE20F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E646B9915327365"
 				item: { count: 1, id: "modularrouters:regex_filter" }
@@ -1074,6 +1060,14 @@
 		{
 			dependencies: ["143AE6889BDA9EF5"]
 			id: "37F2BE3C2BAF7C2D"
+			rewards: [{
+				id: "5B61131B6272CA3C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7264131AC34825C1"
 				item: { count: 1, id: "modularrouters:tag_filter" }
@@ -1085,6 +1079,14 @@
 		{
 			dependencies: ["63E4529AF8894018"]
 			id: "53A5F5E49EA8D5AF"
+			rewards: [{
+				id: "1A04B317B943167C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [
@@ -1110,6 +1112,14 @@
 		{
 			dependencies: ["63E4529AF8894018"]
 			id: "067AB3E4C4492F0D"
+			rewards: [{
+				id: "6160DD4F02353BE1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [
@@ -1130,6 +1140,14 @@
 		{
 			dependencies: ["63E4529AF8894018"]
 			id: "0D5691403AEC25A8"
+			rewards: [{
+				id: "68DB2F7F99D2B6D4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [
@@ -1151,6 +1169,14 @@
 			id: "2BB5769119BA2472"
 			invisible: true
 			optional: true
+			rewards: [{
+				id: "350184E702A2FD71"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "circle"
 			tasks: [
 				{

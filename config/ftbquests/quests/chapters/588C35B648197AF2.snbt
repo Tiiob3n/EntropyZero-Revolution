@@ -27,19 +27,14 @@
 	quests: [
 		{
 			id: "205599EB970B0735"
-			rewards: [
-				{
-					id: "49EAD9BBFF2BAEC1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "40447B7624DA5658"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "721515797CBFBCF4"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F9AC32B76CB636B"
 				item: { count: 1, id: "minecraft:mushroom_stew" }
@@ -50,19 +45,14 @@
 		}
 		{
 			id: "4192857FCBB4262E"
-			rewards: [
-				{
-					id: "5581DA4F901FFDE8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4A2E8398C0417D69"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0F3DC2DEE37B3268"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "50F4356F84079038"
 				item: { count: 1, id: "minecraft:beetroot_soup" }
@@ -73,19 +63,14 @@
 		}
 		{
 			id: "1B6963CBD95FAF2C"
-			rewards: [
-				{
-					id: "489DF3F960A93CF9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "71DD0ABC2B814F04"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3D8B4F9A4E36DB0A"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35930709E2D79908"
 				item: { count: 1, id: "minecraft:cooked_beef" }
@@ -96,19 +81,14 @@
 		}
 		{
 			id: "1BEC60F772DAD810"
-			rewards: [
-				{
-					id: "7FAC4AA82C5CBF01"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7AE12E8002CA0601"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6655A61CBEB5F1CF"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A73EAAFCE7D0DDB"
 				item: { count: 1, id: "minecraft:baked_potato" }
@@ -119,19 +99,14 @@
 		}
 		{
 			id: "60961E89D5997730"
-			rewards: [
-				{
-					id: "23EC0B3CFD6D0913"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4CEB51876EB96F31"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5283F96B65BC999C"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "09D43018B6C9968C"
 				item: { count: 1, id: "minecraft:cookie" }
@@ -142,19 +117,14 @@
 		}
 		{
 			id: "23E7A8193D6F69DF"
-			rewards: [
-				{
-					id: "7D5A12090EB8E71F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "69017E5E5E01FDFC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3224CB383FA7034A"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F0D8B8142303825"
 				item: { count: 1, id: "minecraft:cooked_mutton" }
@@ -165,19 +135,14 @@
 		}
 		{
 			id: "57A9DBF666602E0B"
-			rewards: [
-				{
-					id: "599D1D571AC82777"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "63B6DDAA308E6E3E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7F9F1276FFC69C43"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6ED1E46E839AAE8F"
 				item: { count: 1, id: "minecraft:cooked_porkchop" }
@@ -188,19 +153,14 @@
 		}
 		{
 			id: "594311DC8534A0B0"
-			rewards: [
-				{
-					id: "79C0F880D8A630CE"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "55B519E156BA32BA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4A42C94670DF48D4"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2456345DF1FCA078"
 				item: { count: 1, id: "minecraft:cooked_rabbit" }
@@ -211,19 +171,14 @@
 		}
 		{
 			id: "5AFF0ECE8C1BA8D5"
-			rewards: [
-				{
-					id: "0ABC539EAD5B5FA1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7D70D8322D68FE40"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3D4664BDFD5C0C16"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "34B08C05F334E755"
 				item: { count: 1, id: "minecraft:rabbit_stew" }
@@ -234,19 +189,14 @@
 		}
 		{
 			id: "717C79F35848BD52"
-			rewards: [
-				{
-					id: "7835439CD85D7E71"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1633C00B258450A2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2E3487242BDFE5D0"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5459D989734FCA8F"
 				item: { count: 1, id: "minecraft:glow_berries" }
@@ -257,19 +207,14 @@
 		}
 		{
 			id: "6207D4FBE5EE0A4B"
-			rewards: [
-				{
-					id: "4E6F05C67EEB8CCB"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "127042D2C611D506"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4AFD89E8C89C6022"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3DDDAB2E59820BD4"
 				item: { count: 1, id: "minecraft:sweet_berries" }
@@ -280,19 +225,14 @@
 		}
 		{
 			id: "07487095523EC6FB"
-			rewards: [
-				{
-					id: "6EA107FB36FB8779"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1B80FFBF1442E0FD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "720B9811E371A2F8"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "33D49D6E3ED952EE"
 				item: { count: 1, id: "allthemodium:ancient_soulberries" }
@@ -303,19 +243,14 @@
 		}
 		{
 			id: "48655A1128997DB5"
-			rewards: [
-				{
-					id: "0328FDD0CCBBDC68"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "183FC9CF65909FC6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "05F6C568F01ED68B"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57F30156E56A4F84"
 				item: { count: 1, id: "ars_nouveau:source_berry_pie" }
@@ -326,19 +261,14 @@
 		}
 		{
 			id: "777F7404AF4900E8"
-			rewards: [
-				{
-					id: "683BDB0FDFEAC97E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5F1647F640496536"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0307A6235143F515"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1659E4AF85C99D4E"
 				item: { count: 1, id: "ars_nouveau:source_berry_roll" }
@@ -349,19 +279,14 @@
 		}
 		{
 			id: "525005E712D5DCC1"
-			rewards: [
-				{
-					id: "2DFD64C65D1066FF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "563189115E2618DB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4C035C4B3BD7D1A9"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0BCB23B320F691CE"
 				item: { count: 1, id: "minecraft:cooked_chicken" }
@@ -372,19 +297,14 @@
 		}
 		{
 			id: "502788FB9157B8BB"
-			rewards: [
-				{
-					id: "04C41A6040111664"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0227382ECF89A7BF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "567B8FC5E4A36900"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "520E25294FB0F5F6"
 				item: { count: 1, id: "minecraft:cooked_cod" }
@@ -395,19 +315,14 @@
 		}
 		{
 			id: "1105D1B69A9FD560"
-			rewards: [
-				{
-					id: "221284650343B5B0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6FADEA301EEBC712"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "55710308DC7C1C9A"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "087234103A1AE202"
 				item: { count: 1, id: "minecraft:popped_chorus_fruit" }
@@ -418,19 +333,14 @@
 		}
 		{
 			id: "09545210BE1A8146"
-			rewards: [
-				{
-					id: "4A710BDB8D7DCEF0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1085193A299B0793"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0FE3F8438EA4B7ED"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "04C7385071E86A73"
 				item: { count: 1, id: "minecraft:bread" }
@@ -441,19 +351,14 @@
 		}
 		{
 			id: "17FEB6F285A70EBA"
-			rewards: [
-				{
-					id: "046913F2BF223348"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "06B9DC8B40516853"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "254E2E81EDB2F113"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "39AC07D540068CBA"
 				item: { count: 1, id: "minecraft:apple" }
@@ -464,19 +369,14 @@
 		}
 		{
 			id: "6972FE526AB97C91"
-			rewards: [
-				{
-					id: "0F6DF4ED3EDD99EE"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4F45E34278D400EE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6B0613C58CEBE1A7"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3AC9C984BE018106"
 				item: { count: 1, id: "mysticalagradditions:inferium_apple" }
@@ -487,19 +387,14 @@
 		}
 		{
 			id: "2A12805CD33A3171"
-			rewards: [
-				{
-					id: "336E195A8F7A9B03"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "34E57B9853761F60"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7204713574F796DC"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3445B4B54E7C69E8"
 				item: { count: 1, id: "mysticalagradditions:prudentium_apple" }
@@ -510,19 +405,14 @@
 		}
 		{
 			id: "5B6F56A8EA00A2AA"
-			rewards: [
-				{
-					id: "59540B55DF47E225"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "244510BC457F847D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "227E6B7586C029FE"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "556098CE2361B4B9"
 				item: { count: 1, id: "mysticalagradditions:imperium_apple" }
@@ -533,19 +423,14 @@
 		}
 		{
 			id: "238E392F31136943"
-			rewards: [
-				{
-					id: "3E5D597DA48E1B0A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2E3FD5102C491BB6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5E664061DB6AE28E"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A669F0D68A2A915"
 				item: { count: 1, id: "mysticalagradditions:supremium_apple" }
@@ -556,19 +441,14 @@
 		}
 		{
 			id: "149C792CF9A49101"
-			rewards: [
-				{
-					id: "6B1E12BF4CFBFB02"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4848639ADFD7B04B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "07EE958AAF31AEF8"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EF0E580586BCA01"
 				item: { count: 1, id: "mysticalagradditions:tertium_apple" }
@@ -579,19 +459,14 @@
 		}
 		{
 			id: "19A89F92829BAA23"
-			rewards: [
-				{
-					id: "053A8D78DC11CCF7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5E8FF6896B3B95F6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "54AA6320E377D6DD"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3001056321ECC247"
 				item: { count: 1, id: "minecraft:carrot" }
@@ -602,19 +477,14 @@
 		}
 		{
 			id: "75F1C1F6A5E16D77"
-			rewards: [
-				{
-					id: "3731ABC8A5ED3410"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "434E0647B77EB3F9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "19BB1D74DE123F58"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "193F480F452E12B3"
 				item: { count: 1, id: "minecraft:pumpkin_pie" }
@@ -625,19 +495,14 @@
 		}
 		{
 			id: "3CA034B10A9452D3"
-			rewards: [
-				{
-					id: "27844E8F78B30057"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "217FDAC36B0DE4FD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0324F70D83281A30"
-					table_id: 1429108436631581638L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "76CA7F349559769F"
 				item: { count: 1, id: "reliquary:glowing_bread" }

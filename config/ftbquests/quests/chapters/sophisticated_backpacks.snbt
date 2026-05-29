@@ -21,19 +21,14 @@
 		{
 			dependencies: ["4DB3077C6811E312"]
 			id: "08EF9423E01AE389"
-			rewards: [
-				{
-					id: "3B3D67D0DC825E79"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5D1C367ABE6C3D23"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "21D298ED95F3227E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "766B589709890BAE"
 				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
@@ -45,19 +40,14 @@
 		{
 			dependencies: ["08EF9423E01AE389"]
 			id: "628B802D6349EF4F"
-			rewards: [
-				{
-					id: "71F43CE1C90E228F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "436404D7FF525D3C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17A9281E290522FC"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3FB84C60508D22F4"
 				item: { count: 1, id: "sophisticatedbackpacks:copper_backpack" }
@@ -69,19 +59,14 @@
 		{
 			dependencies: ["628B802D6349EF4F"]
 			id: "7F0F865A0E424BE2"
-			rewards: [
-				{
-					id: "10A6FFB3783A6D83"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "474FBCDC67AD1445"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4F138B183DA0F6BF"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "08DAEC6F1C2EA3FE"
 				item: { count: 1, id: "sophisticatedbackpacks:iron_backpack" }
@@ -93,19 +78,14 @@
 		{
 			dependencies: ["7F0F865A0E424BE2"]
 			id: "0B1DB920B13F8C77"
-			rewards: [
-				{
-					id: "614608BDE13F1A2D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "714045612DA7E4D8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "15FAB89DB2E40D2E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "144A4F8F86C85C13"
 				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
@@ -117,19 +97,14 @@
 		{
 			dependencies: ["0B1DB920B13F8C77"]
 			id: "6D2D5BB68F403DA9"
-			rewards: [
-				{
-					id: "23CE18FA6020C142"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5918703D2E639133"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4B28FD44015C3214"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7DC4808ABEA59333"
 				item: { count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
@@ -141,19 +116,14 @@
 		{
 			dependencies: ["6D2D5BB68F403DA9"]
 			id: "187EA77D058D4DD3"
-			rewards: [
-				{
-					id: "11F084EB31099334"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2ECCAA34E33B1556"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "52C4908942481F5F"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "32E488E620897FE5"
 				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
@@ -165,19 +135,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "51D1358916DDEA1E"
-			rewards: [
-				{
-					id: "4BC44309D89A445A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "09C3D781FD0C94EF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "144A4D870D7D6E4B"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7259826722F9EBEF"
 				item: { count: 1, id: "sophisticatedbackpacks:pickup_upgrade" }
@@ -189,19 +154,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "65212C0519D5F43C"
-			rewards: [
-				{
-					id: "2994E4125E7DA962"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "39EC95CAE6603261"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "41F89C54384FD4C8"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3FDB1249DF0D0613"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_pickup_upgrade" }
@@ -213,19 +173,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0EC6263CDB77E085"
-			rewards: [
-				{
-					id: "7148BC959608A39F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0A56665789562889"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1B7607E09F83E7D3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "093A3D1C1D63BF0B"
 				item: { count: 1, id: "sophisticatedbackpacks:filter_upgrade" }
@@ -237,19 +192,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0E2E8F28CC27DEC2"
-			rewards: [
-				{
-					id: "2BF01599F956E993"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "415C6FDA776A4820"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0E0C0C5A7C30FA82"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "398E670E565155F2"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_filter_upgrade" }
@@ -261,19 +211,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "42FE6F625E11AB1C"
-			rewards: [
-				{
-					id: "0D79EAC74CD2D99D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2535B538A0EF6C4B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "79D70743B904B0E8"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "569789B6545C2280"
 				item: { count: 1, id: "sophisticatedbackpacks:magnet_upgrade" }
@@ -285,19 +230,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "2D14AA4367BCD4B4"
-			rewards: [
-				{
-					id: "7978FED49C21E7F5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0D05DFDDED3029DD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "00B0E0B6FE17A631"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7324179C6A1020F2"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_magnet_upgrade" }
@@ -309,19 +249,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "2BC46E2A3AB4F90B"
-			rewards: [
-				{
-					id: "60368B8EA75E5AB5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "36F8FD32B3F9001C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4FD0B63D015523BF"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "305F95C38AE14E0E"
 				item: { count: 1, id: "sophisticatedbackpacks:feeding_upgrade" }
@@ -333,19 +268,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "67DFD4A1439862E9"
-			rewards: [
-				{
-					id: "0E57396CF4A15B86"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2B991FC3E96E9389"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "23BDD2D9BF782289"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3078BA8B9F093F63"
 				item: { count: 1, id: "sophisticatedbackpacks:compacting_upgrade" }
@@ -357,19 +287,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "1C3990B0A8E56352"
-			rewards: [
-				{
-					id: "4BE2AD4B5E97A534"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "53375F3907093651"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "49530B1861A5E985"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "318A25B8186F7BD5"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_feeding_upgrade" }
@@ -381,19 +306,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0DD7F497736A9976"
-			rewards: [
-				{
-					id: "305AD4446037B96B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "234A2D2A62D1FEF0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "165433D0AAD0346A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "22CE05CAA1A05858"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_compacting_upgrade" }
@@ -405,19 +325,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0EF265F3AA3185E5"
-			rewards: [
-				{
-					id: "40ADE4217B469557"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2729D24E991D1D50"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0C8A1A9C61A51323"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2DD63E9865CE5CFB"
 				item: { count: 1, id: "sophisticatedbackpacks:void_upgrade" }
@@ -429,19 +344,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "5A39F8F50C8B3BE2"
-			rewards: [
-				{
-					id: "46308B951DF3B3F3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6CE16D62DA5F9A9E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "34C06F2AD3C740F6"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "68F81AE969E989D8"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_void_upgrade" }
@@ -453,19 +363,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "42557FF0C03A59AC"
-			rewards: [
-				{
-					id: "2839853E393E6BBD"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "28772D01CD708113"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "64D43795CC252D4B"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D32247BA4FF762A"
 				item: { count: 1, id: "sophisticatedbackpacks:restock_upgrade" }
@@ -477,19 +382,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "453AD8C63C7C7706"
-			rewards: [
-				{
-					id: "4B3AC6A45D42AAB6"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "48B8F6106B838CBA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "79DD8923EADDC72F"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1D05E08529B1AAEE"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_restock_upgrade" }
@@ -501,19 +401,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "56A247DCB4E6EF01"
-			rewards: [
-				{
-					id: "5F4991635231A75B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4F0F9D2C81C51D2F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4CEE990C9EF96C8A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EAD2D04517B3AF7"
 				item: { count: 1, id: "sophisticatedbackpacks:deposit_upgrade" }
@@ -525,19 +420,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "53CF4FE81D906DB0"
-			rewards: [
-				{
-					id: "547E7B96C0A46B56"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "29B05F0624389A30"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6F241702F3AD9A7E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5901CA1F47A11FD6"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_deposit_upgrade" }
@@ -549,19 +439,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "3519FF8922A0565B"
-			rewards: [
-				{
-					id: "61A94019BE844734"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "797DD30B31F99562"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "70BE7A540D9C1A20"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "605B0F47B036EC64"
 				item: { count: 1, id: "sophisticatedbackpacks:refill_upgrade" }
@@ -573,19 +458,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "06275C37F1D32819"
-			rewards: [
-				{
-					id: "51105C91CFF1B1AD"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1E389BCC62EFCC9C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "51C3B62D8D7A3DCD"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "73349FF39A35FBBB"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_refill_upgrade" }
@@ -597,19 +477,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "2AD8A19D76F1C214"
-			rewards: [
-				{
-					id: "0D75B372B3E4B896"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6C28849E971F1529"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0D4B5B3887DA708B"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1617E2388703C4F1"
 				item: { count: 1, id: "sophisticatedbackpacks:inception_upgrade" }
@@ -621,19 +496,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "60B47C999A9ECB4B"
-			rewards: [
-				{
-					id: "48D8EDEECD23C6A1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5A5FDB4D09942E01"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "02C689D0388568C1"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D5764034262308C"
 				item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" }
@@ -645,19 +515,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "7BE9D2AA1E978059"
-			rewards: [
-				{
-					id: "3EB5FF026AEB1134"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "40E98B9BA61A7757"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3403F2D5918E5703"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "03336B7121CBE674"
 				item: { count: 1, id: "sophisticatedbackpacks:smelting_upgrade" }
@@ -669,19 +534,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0395FAF904F0EAFC"
-			rewards: [
-				{
-					id: "5998429CAA103285"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "258A7665512B032C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "33F08DE39BDA8C99"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6013DC46305ABB83"
 				item: { count: 1, id: "sophisticatedbackpacks:auto_smelting_upgrade" }
@@ -693,19 +553,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "6025BE74B7F4E873"
-			rewards: [
-				{
-					id: "0D563DDBDA21AFE2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "45CAC825D6682B78"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3C619E2E9CA05E5D"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "10E630B54695B3DD"
 				item: { count: 1, id: "sophisticatedbackpacks:smoking_upgrade" }
@@ -717,19 +572,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "237FDFB070851CAA"
-			rewards: [
-				{
-					id: "63323F93E850E706"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "21B461C88A11BD0E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0B39BFC6DCDEB7E9"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "294603E60082FFEE"
 				item: { count: 1, id: "sophisticatedbackpacks:auto_smoking_upgrade" }
@@ -741,19 +591,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "76FE03F6F6D6D9DB"
-			rewards: [
-				{
-					id: "57C94A363BE7E539"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "266214DFEF9915C7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "70A13F5A09BF1A3F"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CC68D7A202E7212"
 				item: { count: 1, id: "sophisticatedbackpacks:blasting_upgrade" }
@@ -765,19 +610,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "342E8A4096162848"
-			rewards: [
-				{
-					id: "080895DF6AC742D0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6A71E407F43C0944"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "04B0102B4F0836B0"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "674EFFDE1B199BD8"
 				item: { count: 1, id: "sophisticatedbackpacks:auto_blasting_upgrade" }
@@ -789,19 +629,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "625B11C8B58A0F92"
-			rewards: [
-				{
-					id: "51CCCC9CDB1F0CA8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7D62522871C596C3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "250E8610B9BBBBE9"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CA9A5DE8B70C8EC"
 				item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
@@ -813,19 +648,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "18CC032C6DAFE3E8"
-			rewards: [
-				{
-					id: "74E1DA61DF373E3B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7157DC9F2B450BE5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "146EC4381C6252E6"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7DD70519451B66ED"
 				item: { count: 1, id: "sophisticatedbackpacks:stonecutter_upgrade" }
@@ -837,19 +667,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "723B88250AF9B6EF"
-			rewards: [
-				{
-					id: "1800EDE0B6658929"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "16ABCAD0D1EFC73D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1611F45D9FFC066A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "67BE9E2D747911E7"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_starter_tier" }
@@ -861,19 +686,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "59049EAE89DBA313"
-			rewards: [
-				{
-					id: "5E940894C2EC1EA2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "55871D7F4B9F523D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6CD610BCF374386A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "09B13361C4D56FB0"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_1" }
@@ -885,19 +705,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "35AA012B8D886F48"
-			rewards: [
-				{
-					id: "66B1C5D91164D7A0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "734F9BB45CD75CF0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "03B75F340761767B"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "19F5F275BA312A3E"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_2" }
@@ -909,19 +724,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "7A30C4FB61CEE2E1"
-			rewards: [
-				{
-					id: "174701C6C5A2893C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "096DCBB853C108D3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1789FC733CAA40F4"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5CFA81F118BFD2C8"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_3" }
@@ -933,19 +743,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "5FB992D5A606B2C1"
-			rewards: [
-				{
-					id: "57B66FF67295FC36"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0ED4F2BC48C9100F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5DE4288C5635CC49"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "79E4E745FB4463F3"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_4" }
@@ -957,19 +762,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "13A6A08F9AA4D32C"
-			rewards: [
-				{
-					id: "6DE366D4C3578098"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "101891F6AACA5619"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6D5114B0C924B54A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F0F74D1037EEE0D"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }
@@ -981,19 +781,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "382FBBF888A623BD"
-			rewards: [
-				{
-					id: "7F9E7474CABEB915"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "409FA992907ED950"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1EB81F780010315D"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "49DCABA3C61591CE"
 				item: { count: 1, id: "sophisticatedbackpacks:jukebox_upgrade" }
@@ -1005,19 +800,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "13685A5634339AB9"
-			rewards: [
-				{
-					id: "7D2BFE89CFBBCDF7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "46403FF5132048D7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "55DBDB8C6301DC38"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0652C30A52746C12"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_jukebox_upgrade" }
@@ -1029,19 +819,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "30BBBEEDFBC28909"
-			rewards: [
-				{
-					id: "0ED96E51E0ACB1EE"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "61C31272635E62B0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "571A40807D7187AF"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E683FF1B177F0E8"
 				item: { count: 1, id: "sophisticatedbackpacks:tool_swapper_upgrade" }
@@ -1053,19 +838,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0989F3D2C616AEA0"
-			rewards: [
-				{
-					id: "5E88DF20E1174EFF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "26C4EDA908AA4551"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "43DFD9B99A0BE47D"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B0E81E87ABDDDD3"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_tool_swapper_upgrade" }
@@ -1077,19 +857,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "1B14D320C2FBB8FF"
-			rewards: [
-				{
-					id: "02277F7A9FA497DD"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "228D5F858F71A3AC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0AF6E3E687F45D6E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6513F46200A6E0A5"
 				item: { count: 1, id: "sophisticatedbackpacks:tank_upgrade" }
@@ -1101,19 +876,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0A83DE5F8EAD8A49"
-			rewards: [
-				{
-					id: "57E9CD5FFD9C2958"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1A63685A3E931EEB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "19EAE33A5EA45A54"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4944E6332858294D"
 				item: { count: 1, id: "sophisticatedbackpacks:battery_upgrade" }
@@ -1125,19 +895,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "595CAB2E721B127E"
-			rewards: [
-				{
-					id: "6297D444D4947691"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "42D2B74D84C40339"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "76559AAF049E7370"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "17CFCE0AEA6A5515"
 				item: { count: 1, id: "sophisticatedbackpacks:pump_upgrade" }
@@ -1149,19 +914,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "49FDD242ADA46AE0"
-			rewards: [
-				{
-					id: "17FE7A3D20CCAD2D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0A990E9D4E7E88A1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1B01CF78352B99FC"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "39D1A880AED983FE"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_pump_upgrade" }
@@ -1173,19 +933,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "49FF4B89B588D00E"
-			rewards: [
-				{
-					id: "04AC049E7FCF20BF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "57DCAC09206D7A70"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "252834B6B3C04977"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F2B284BB5A22928"
 				item: { count: 1, id: "sophisticatedbackpacks:xp_pump_upgrade" }
@@ -1197,19 +952,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "5D7BE0716ED0C059"
-			rewards: [
-				{
-					id: "36AB195EF6D3EEEF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "290E9DF83F4216AF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2E8EF6DA4CEC36DD"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "092B33529FEF88B8"
 				item: { count: 1, id: "sophisticatedbackpacks:anvil_upgrade" }
@@ -1221,19 +971,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "4AE70675C6655E33"
-			rewards: [
-				{
-					id: "2314DE572E8230F5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "25F6AE2CB115C48A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "58956615D885C049"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "43A3D8A24686D1DE"
 				item: { count: 1, id: "sophisticatedbackpacks:smithing_upgrade" }
@@ -1245,19 +990,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "0CA80CBF737FA301"
-			rewards: [
-				{
-					id: "7DE9B678629CE33A"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "790D72D49C977826"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "42A4662351113264"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "71AFACD884420CD6"
 				item: { count: 1, id: "sophisticatedbackpacks:alchemy_upgrade" }
@@ -1269,19 +1009,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "387789C1AFD710C7"
-			rewards: [
-				{
-					id: "367FCA6293601FA7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "13932987D31A1F34"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4AD5D32854A0BFF5"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D3E7C8D328CA376"
 				item: { count: 1, id: "sophisticatedbackpacks:advanced_alchemy_upgrade" }
@@ -1293,19 +1028,14 @@
 		{
 			dependencies: ["7BC968BCC7EAC5D9"]
 			id: "7FA1CB132FBEE74D"
-			rewards: [
-				{
-					id: "5F36586BA360E0A1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5FD2D8D8F3B7660F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3EA9F2C9A1F6BF3F"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "63E9801A32E00BF9"
 				item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" }
@@ -1317,19 +1047,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "32B51FD2E697EADF"
-			rewards: [
-				{
-					id: "086EB7F667655204"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1E2FC927624E6D5E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5802464B44D5332E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "01D6BA1E96A6F408"
 				item: { count: 1, id: "sophisticatedstorage:pickup_upgrade" }
@@ -1341,19 +1066,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "129707EE5427FF2A"
-			rewards: [
-				{
-					id: "0BFBEFFE2F3E923C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "55475978F4F80FBF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7215277957D51360"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "387EEFBAE175BDE6"
 				item: { count: 1, id: "sophisticatedstorage:advanced_pickup_upgrade" }
@@ -1365,19 +1085,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "270903E328950B71"
-			rewards: [
-				{
-					id: "13DDB784F30EEF84"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5AACF115ED5A1D57"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2CC5DC7F43868C0A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2347A99601785F64"
 				item: { count: 1, id: "sophisticatedstorage:filter_upgrade" }
@@ -1389,19 +1104,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "252C08B4DCA3C249"
-			rewards: [
-				{
-					id: "0D43A4BB775434E8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2C096F9900692E6C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1E75F2E9FB90ACEF"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "736F686DCA6D7CAF"
 				item: { count: 1, id: "sophisticatedstorage:advanced_filter_upgrade" }
@@ -1413,19 +1123,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "5E4F7D2F6BCF5449"
-			rewards: [
-				{
-					id: "3A1E90CF36E74590"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6C24911F800342C1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2EED286939C55A9A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "740F741EDB945D5A"
 				item: { count: 1, id: "sophisticatedstorage:magnet_upgrade" }
@@ -1437,19 +1142,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "6F9729DFC3CE40DF"
-			rewards: [
-				{
-					id: "4BF05C28982845A5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7FCDABD74629C0BE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4A30EE4EE1B53B37"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "744C88302CC9FB59"
 				item: { count: 1, id: "sophisticatedstorage:advanced_magnet_upgrade" }
@@ -1461,19 +1161,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "5AD74820564D9610"
-			rewards: [
-				{
-					id: "6D67E74A0857388F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "229110AA35611672"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "179B720E4BE38CF0"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AAE5A867F36F8CD"
 				item: { count: 1, id: "sophisticatedstorage:feeding_upgrade" }
@@ -1485,19 +1180,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "1F15772C59B9F10B"
-			rewards: [
-				{
-					id: "017E7F867FB3035E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7728112B61A4984D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3232E282233C1084"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "29EF19174B786D52"
 				item: { count: 1, id: "sophisticatedstorage:advanced_feeding_upgrade" }
@@ -1509,19 +1199,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "1509860A23DD92F3"
-			rewards: [
-				{
-					id: "4E57AD9D8A303D1E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5B17120875CE9FAD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "39123B1D9F6233D7"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "088BB89EC0C7CBD9"
 				item: { count: 1, id: "sophisticatedstorage:compacting_upgrade" }
@@ -1533,19 +1218,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "65E3F8CFCE92D060"
-			rewards: [
-				{
-					id: "2975E89B442B4274"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "047E165DB3F0E687"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "338F276D75A2B0E3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D57105DC54EB38B"
 				item: { count: 1, id: "sophisticatedstorage:advanced_compacting_upgrade" }
@@ -1557,19 +1237,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "54B01365E87AEDE6"
-			rewards: [
-				{
-					id: "7BC9EEA620B1DF41"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "121E31A235476608"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17242C7CC9EEA730"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "63DF93074970199C"
 				item: { count: 1, id: "sophisticatedstorage:void_upgrade" }
@@ -1581,19 +1256,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "489AF2CD56DD37D8"
-			rewards: [
-				{
-					id: "296F9BC40E9CACB7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "59973DE97328BDF5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "385DBF5C60EE6187"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "36241F81AB048677"
 				item: { count: 1, id: "sophisticatedstorage:advanced_void_upgrade" }
@@ -1605,19 +1275,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "3AAD84E7CBD831D9"
-			rewards: [
-				{
-					id: "58E19A5616EBFA84"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7EC412489A04DD94"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "665B8C94D4C65E89"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "54D6EEE02D9C98E5"
 				item: { count: 1, id: "sophisticatedstorage:smelting_upgrade" }
@@ -1629,19 +1294,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "28E9556F59D97B83"
-			rewards: [
-				{
-					id: "198630FDD153A678"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2DD8E3BAB33617CA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "183C7802CB6D9065"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B10231A45B63985"
 				item: { count: 1, id: "sophisticatedstorage:auto_smelting_upgrade" }
@@ -1653,19 +1313,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "577AC82977F31CC2"
-			rewards: [
-				{
-					id: "13EE1E1066F44964"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5CB867429FA7B41C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5AB6B82ADE7A6CF3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D140C15F440CC40"
 				item: { count: 1, id: "sophisticatedstorage:smoking_upgrade" }
@@ -1677,19 +1332,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "03B986D1694660D0"
-			rewards: [
-				{
-					id: "27D7F035F248AC7C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3BFB4E2A9AACBFB5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "67DFD7F615FE8232"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "142A3E5EAF994DF5"
 				item: { count: 1, id: "sophisticatedstorage:auto_smoking_upgrade" }
@@ -1701,19 +1351,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "2946DCAA51C48A8A"
-			rewards: [
-				{
-					id: "1DF4362A2A3B23EF"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6F35A780C5DA0BB1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "22C4C4C04DBEF810"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "49F101372AD3BA6D"
 				item: { count: 1, id: "sophisticatedstorage:blasting_upgrade" }
@@ -1725,19 +1370,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "4CEFD876AECCF1C8"
-			rewards: [
-				{
-					id: "6CAE8621D83ADA14"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "374FE13C97435025"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3D72665B5EDCF56D"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "54E3AA5C9AD790C1"
 				item: { count: 1, id: "sophisticatedstorage:auto_blasting_upgrade" }
@@ -1749,19 +1389,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "543FAFE1AE29BD4A"
-			rewards: [
-				{
-					id: "7F2F9A73ACA298A3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "52A3FA2046968232"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "17FF079C9E02D62E"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18FC6A6CA3F21832"
 				item: { count: 1, id: "sophisticatedstorage:crafting_upgrade" }
@@ -1773,19 +1408,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "628383331C00FBD1"
-			rewards: [
-				{
-					id: "41EBA5E1C1C59E46"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5C6B46635C9DAD8E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "423A5F748F1C31A2"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FBE9C7FFF5DC86A"
 				item: { count: 1, id: "sophisticatedstorage:stonecutter_upgrade" }
@@ -1797,19 +1427,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "5435D5FFB483AC9B"
-			rewards: [
-				{
-					id: "2261C3BBEF249E9C"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1C22724EAFABE9FD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3C3083960EA9D921"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6ACD09BB81D2D027"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1" }
@@ -1821,19 +1446,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "2E7FC4A2975B9F2D"
-			rewards: [
-				{
-					id: "115C77B8C0CD0A2D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3FAC4305F96A23DA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "39DD9B83AC161C47"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "364380138A50C2B3"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1_plus" }
@@ -1845,19 +1465,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "6BE493C4CCBF59EC"
-			rewards: [
-				{
-					id: "142C46E9B98E61F1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4417C9A795D79EAE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "45187EB6BC6BDE32"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D0C52F3F03F37D3"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_2" }
@@ -1869,19 +1484,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "7DFB2CAEA5284E7B"
-			rewards: [
-				{
-					id: "540D11087F0ABB0F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0A492FCDFC7C693F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "77F5728E1CC35304"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "175679936DD0AD1F"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_3" }
@@ -1893,19 +1503,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "0F106DAF8A558829"
-			rewards: [
-				{
-					id: "3F978C992DFAFD8B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "48F7DC21F54C41A4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7A0A9CACA98119F8"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5DC108DC469F777F"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_4" }
@@ -1917,19 +1522,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "7E5D04B395A0C36C"
-			rewards: [
-				{
-					id: "3C7B311DF3D9B985"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3E2762D3AD49E41B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "02A8E4640ED0B211"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C730B8418BA0528"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_5" }
@@ -1941,19 +1541,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "07069340DBBFBBD4"
-			rewards: [
-				{
-					id: "3F4954A900BCE5B2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "31D2577FB5470EBE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "74AD8B73E5617AD9"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "46D798F4E120C3F5"
 				item: { count: 1, id: "sophisticatedstorage:stack_downgrade_tier_1" }
@@ -1965,19 +1560,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "4A167E709B1EB978"
-			rewards: [
-				{
-					id: "38F464C38AB8F062"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "076AC5D25B60BAE8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0137AA2A190824F3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "754851CC60842402"
 				item: { count: 1, id: "sophisticatedstorage:stack_downgrade_tier_2" }
@@ -1989,19 +1579,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "27025992586D2718"
-			rewards: [
-				{
-					id: "34DA445356D6A2E3"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "536A506E62FEB5DD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "54C8471F0E9CC067"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "13C208AE2F039E47"
 				item: { count: 1, id: "sophisticatedstorage:stack_downgrade_tier_3" }
@@ -2013,19 +1598,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "066478FDFCB15D8F"
-			rewards: [
-				{
-					id: "49B9C07CFAF9CE42"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7D10F8306EE22347"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5811584C7684EF8A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0DB33ED21473E0DD"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_omega_tier" }
@@ -2037,19 +1617,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "35DF7E611755A1FC"
-			rewards: [
-				{
-					id: "237B8B4981BC2A79"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "63424E8023152E70"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2F14205E6AFFDC35"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "79B1C6E457CD5F1B"
 				item: { count: 1, id: "sophisticatedstorage:jukebox_upgrade" }
@@ -2061,19 +1636,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "14ACA14F3398858D"
-			rewards: [
-				{
-					id: "3F920F95BD959631"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4F57BE60EC8E5662"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4F0385F955F04307"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "28631710E4965A29"
 				item: { count: 1, id: "sophisticatedstorage:advanced_jukebox_upgrade" }
@@ -2085,19 +1655,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "73406D6BDD36EE1B"
-			rewards: [
-				{
-					id: "4A19D363928756C1"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4B22416DB10B5207"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4D229216FAAB9B56"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35A14E977F46DB1C"
 				item: { count: 1, id: "sophisticatedstorage:compression_upgrade" }
@@ -2109,19 +1674,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "7770E9EA1F6313C5"
-			rewards: [
-				{
-					id: "0F940E3DE431572D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "5502399371D7898C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "09FBB0114B299EA5"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "26407436955D5145"
 				item: { count: 1, id: "sophisticatedstorage:hopper_upgrade" }
@@ -2133,19 +1693,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "1991D555631959F0"
-			rewards: [
-				{
-					id: "246242624FDB029F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "61A17A368921CEF2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "4878FBE0DD590D7A"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "46C89D1C7B2190D2"
 				item: { count: 1, id: "sophisticatedstorage:alchemy_upgrade" }
@@ -2157,19 +1712,14 @@
 		{
 			dependencies: ["1C71720643EBD7BE"]
 			id: "4AF7D07565510248"
-			rewards: [
-				{
-					id: "57EFC3B73FF117E4"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6A748276F356907B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "18B9AEEB235A31FB"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2950C6AF87780E11"
 				item: { count: 1, id: "sophisticatedstorage:advanced_alchemy_upgrade" }
@@ -2180,19 +1730,14 @@
 		}
 		{
 			id: "7A1F4413C53D22A4"
-			rewards: [
-				{
-					id: "60C30C0B51604707"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "091CBAF16D2841EE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "316581B190FF41BA"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3AF7B599FC249EAF"
 				item: { count: 1, id: "sophisticatedstorage:basic_tier_upgrade" }
@@ -2203,19 +1748,14 @@
 		}
 		{
 			id: "501A6D54FBB7FA16"
-			rewards: [
-				{
-					id: "75C0AD8376CDCE0E"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "63CDE55D2BDF0041"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "385B3BF773283D97"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "45902E1F600F886D"
 				item: { count: 1, id: "sophisticatedstorage:basic_to_copper_tier_upgrade" }
@@ -2226,19 +1766,14 @@
 		}
 		{
 			id: "3445CD3FA2EB74A4"
-			rewards: [
-				{
-					id: "5C63D8517D74FE23"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0506FB2C75AEBEA9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "587C468ED6145C39"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A6E2354C966EEFB"
 				item: { count: 1, id: "sophisticatedstorage:basic_to_iron_tier_upgrade" }
@@ -2249,19 +1784,14 @@
 		}
 		{
 			id: "5561C805F171A38F"
-			rewards: [
-				{
-					id: "6FE2115121E013F9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4ACE52CCF91E59D7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5DFBEEC9DA5473CA"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35DCD45BB7C57B0F"
 				item: { count: 1, id: "sophisticatedstorage:basic_to_gold_tier_upgrade" }
@@ -2272,19 +1802,14 @@
 		}
 		{
 			id: "500C23354B60F91E"
-			rewards: [
-				{
-					id: "54890865C2FFD4DA"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "57583DF3BF7446A8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "406AD7F4886BB91D"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "55A44C100375A1D9"
 				item: { count: 1, id: "sophisticatedstorage:basic_to_diamond_tier_upgrade" }
@@ -2295,19 +1820,14 @@
 		}
 		{
 			id: "0A8F1816C9363E93"
-			rewards: [
-				{
-					id: "2D9525AF297543D0"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "775F8D48861457AC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2AF3AD7226204439"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57EDA38F65B1B525"
 				item: { count: 1, id: "sophisticatedstorage:basic_to_netherite_tier_upgrade" }
@@ -2318,19 +1838,14 @@
 		}
 		{
 			id: "4DD9EB43FA590327"
-			rewards: [
-				{
-					id: "691ED516890971E8"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6A7B5E4FFE723B29"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "505010B384B4AE92"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A84F086BC658B59"
 				item: { count: 1, id: "sophisticatedstorage:copper_to_iron_tier_upgrade" }
@@ -2341,19 +1856,14 @@
 		}
 		{
 			id: "0DF71D220DFB5AC0"
-			rewards: [
-				{
-					id: "78B736EE47F37217"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4B7B4414FB087072"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1167F7B2DDF02982"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "53BD97EE39D1273D"
 				item: { count: 1, id: "sophisticatedstorage:copper_to_gold_tier_upgrade" }
@@ -2364,19 +1874,14 @@
 		}
 		{
 			id: "12BFA8303D5B6838"
-			rewards: [
-				{
-					id: "3E2AF99199CAB755"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "375378E75BFC1AC8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "412DE61CC8B0DD39"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "71F8D5FF186E49EC"
 				item: { count: 1, id: "sophisticatedstorage:copper_to_netherite_tier_upgrade" }
@@ -2387,19 +1892,14 @@
 		}
 		{
 			id: "48CEB0BA09FEB73D"
-			rewards: [
-				{
-					id: "4045DEB7ABBC756D"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "1F352E1DB9E62C0D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0F005C042464F6CE"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "518264289F5D4D62"
 				item: { count: 1, id: "sophisticatedstorage:copper_to_diamond_tier_upgrade" }
@@ -2410,19 +1910,14 @@
 		}
 		{
 			id: "6CE174B326BCE8AB"
-			rewards: [
-				{
-					id: "7FA51DA8328C50C9"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "37C64CAC78ED5089"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1D6649998F5AD266"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F8773A8C49EA29D"
 				item: { count: 1, id: "sophisticatedstorage:gold_to_netherite_tier_upgrade" }
@@ -2433,19 +1928,14 @@
 		}
 		{
 			id: "5AAA0939CF87DE0B"
-			rewards: [
-				{
-					id: "1037CAE49CA223F6"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2E3F826C173ABF7C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6749E7E4525D6A6B"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F645EA7C8E9FB31"
 				item: { count: 1, id: "sophisticatedstorage:diamond_to_netherite_tier_upgrade" }
@@ -2458,19 +1948,14 @@
 			dependencies: ["7BC968BCC7EAC5D9"]
 			hide_dependency_lines: false
 			id: "1C71720643EBD7BE"
-			rewards: [
-				{
-					id: "703C63DD0B6C43CB"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "3506B7A6513C16E4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "194275EBEC7F0346"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "350712E89C70D3AF"
 				item: { count: 1, id: "sophisticatedstorage:upgrade_base" }
@@ -2482,19 +1967,14 @@
 		{
 			dependencies: ["5FB992D5A606B2C1"]
 			id: "04BD86CB282198DA"
-			rewards: [
-				{
-					id: "3EEC744EE81F7E79"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7470545D5B391D55"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6CD57C3D56C1BFB5"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6142F1B9C0A3719A"
 				item: { count: 1, id: "backpack_allthemodium_upgrade:stack_upgrade_tier_5" }
@@ -2506,19 +1986,14 @@
 		{
 			dependencies: ["04BD86CB282198DA"]
 			id: "1509AA292D5369A3"
-			rewards: [
-				{
-					id: "3CA244CFAAE0E361"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "7BBF493845C46E5E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7A1D5A58A411D801"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4804D40163B35168"
 				item: { count: 1, id: "backpack_allthemodium_upgrade:stack_upgrade_tier_6" }
@@ -2530,19 +2005,14 @@
 		{
 			dependencies: ["1509AA292D5369A3"]
 			id: "6AE8C6667D4AE404"
-			rewards: [
-				{
-					id: "627FEFC8D6FEAF6B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "2AE9C425ECDBE1DC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "04E15FA02F4006A2"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "72778E7CBBE4DB7F"
 				item: { count: 1, id: "backpack_allthemodium_upgrade:stack_upgrade_tier_7" }
@@ -2554,19 +2024,14 @@
 		{
 			dependencies: ["7E5D04B395A0C36C"]
 			id: "0F6430E71CD55F7D"
-			rewards: [
-				{
-					id: "1253A3D62652E237"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "6D0F30F3BEC5BF48"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "68FB814306ED4772"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "621CE55278DE47CC"
 				item: { count: 1, id: "storage_allthemodium_upgrade:stack_upgrade_tier_6" }
@@ -2578,19 +2043,14 @@
 		{
 			dependencies: ["0F6430E71CD55F7D"]
 			id: "30E151C59275ECB7"
-			rewards: [
-				{
-					id: "55D6F2FE3A773F61"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "04BA2CBD73A5C053"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "72712032B7B9E344"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35BF9B69E7A5801C"
 				item: { count: 1, id: "storage_allthemodium_upgrade:stack_upgrade_tier_7" }
@@ -2602,19 +2062,14 @@
 		{
 			dependencies: ["30E151C59275ECB7"]
 			id: "377C146125FF5C72"
-			rewards: [
-				{
-					id: "77288EC9991F0088"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "27531DE22EF26EAA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6BBD15605C3B2BA3"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1330F66AD9034479"
 				item: { count: 1, id: "storage_allthemodium_upgrade:stack_upgrade_tier_8" }
@@ -2626,19 +2081,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "7782685D4898A400"
-			rewards: [
-				{
-					id: "5CA7495CB17438D2"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "13182CB9151768E2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2EE9FA0936FB9A62"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5CDADC10F4D073E6"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_downgrade_tier_1" }
@@ -2650,19 +2100,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "3B608737DB8D0FD3"
-			rewards: [
-				{
-					id: "62452BFE41334E0B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "309AB4FD60AE3290"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7D232B2683288136"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A6AA235469277C5"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_downgrade_tier_2" }
@@ -2674,19 +2119,14 @@
 		{
 			dependencies: ["7FA1CB132FBEE74D"]
 			id: "5ACEC1B4CF5CB847"
-			rewards: [
-				{
-					id: "33E40E5811EFAF71"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0F3C80191E93386E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "344176FAE27854EA"
-					table_id: 2203341854349991464L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "19442D72A1625E3B"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_downgrade_tier_3" }

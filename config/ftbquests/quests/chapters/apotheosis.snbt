@@ -40,6 +40,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "6C01D4B89EFCE185"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "2794101FAC730E0F"
@@ -63,6 +71,14 @@
 					id: "2A55E6B40CB3A882"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "1F54B46E2A3BC882"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -88,6 +104,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "5D9B4CE2F2FD63C1"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "375B3AEFF1CD2DC0"
@@ -111,6 +135,14 @@
 					id: "083EB6920DE1A861"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "2C1FB6920E8A513B"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -139,6 +171,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "7B20C5D62C645982"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "2C8FEF280D3377DA"
@@ -162,6 +202,14 @@
 					id: "3B040C054C6E1BDF"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "4A6BAC264C6E960D"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -187,6 +235,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "3B5B7BBCB8FC56DC"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "431F8DB60D391865"
@@ -210,6 +266,14 @@
 					id: "30840BE3692BAFC3"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "1C8A2382092BAFC3"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -235,6 +299,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "0F99DA9FE1ED6622"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "5C1BF6650FDD54EF"
@@ -258,6 +330,14 @@
 					id: "1A27F8FD6F14AEA1"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "3F0401A38F14AEA1"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -283,6 +363,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "513354240C445B13"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "47E67C3BEB65CD01"
@@ -307,6 +395,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "26C63E78B6C44342"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "03A55C4D11DDA5BF"
@@ -329,6 +425,14 @@
 					id: "0E6933452449B906"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "3AC2522F0449B906"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -354,6 +458,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "09C3C0199A6C3704"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "27642A3F738635F9"
@@ -377,6 +489,14 @@
 					id: "02E4AD5CC7CBB98D"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "46F946B0E7CBB98D"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -402,6 +522,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "080CD010691901E7"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "337D58170D2E3EF8"
@@ -425,6 +553,14 @@
 					id: "0A15E35A76DCAFC8"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "364849ABF6DCAFC8"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -450,6 +586,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "2493B8F72AC2317A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "35B6791BCB8E41BA"
@@ -473,6 +617,14 @@
 					id: "06DE96732B1813A4"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "1334407DA21813A4"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -498,6 +650,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "08DED54A179C6F3E"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "269DD9DAB3061FE3"
@@ -521,6 +681,14 @@
 					id: "75BB3494926885F9"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "29457CC7F26885F9"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -546,6 +714,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "015B7E314A9FBE45"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "499E91CA97F87952"
@@ -569,6 +745,14 @@
 					id: "244437AD92844889"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "08E4162F42844889"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -594,6 +778,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "2ACB69793F848103"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "364E746427F14084"
@@ -617,6 +809,14 @@
 					id: "04128FA984AAA8C9"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "39B651B7C4AAA8C9"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -642,6 +842,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "3B9477605CB79E8D"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "293F55D2B0696660"
@@ -665,6 +873,14 @@
 					id: "5C4DD41564F1BDC7"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "263CD249A4F1BDC7"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -690,6 +906,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "6A5BCD891EB22BBE"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "2BAC105C1375827B"
@@ -713,6 +937,14 @@
 					id: "251AF94966E0CE31"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "0982BAF996E0CE31"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -738,6 +970,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "1CF3C26E4E0F04C4"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "0E91260CA618A489"
@@ -760,6 +1000,14 @@
 					id: "22F00ECB98D2E5B7"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "61CFFB1698D2E5B7"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -785,6 +1033,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "3D8CBB5BC226D6BD"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "66665812B7E47F0B"
@@ -808,6 +1064,14 @@
 					id: "3EFC8A9D4FB05B6B"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "3370E2739FB05B6B"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -833,6 +1097,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "296396F21B8C7E13"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "38A4526E9969F67C"
@@ -856,6 +1128,14 @@
 					id: "4CDF1052893DCD74"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "0A1CAB27893DCD74"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -881,6 +1161,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "596FA00A8E19ECD3"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "17C13E784233AC18"
@@ -904,6 +1192,14 @@
 					id: "7837E8E830400284"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "5E54AFFCB0400284"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -929,6 +1225,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "6FF0E94274B31E08"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "6BC5BADB4E1B00BB"
@@ -953,6 +1257,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "0D34DFB9989924FF"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "32F03E6C0C78EE84"
@@ -975,6 +1287,14 @@
 					id: "39B08D34E5F946F4"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "295C6E43D5F946F4"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -1000,6 +1320,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "07713E3210C3A1DF"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "312966ACCEF9F510"
@@ -1023,6 +1351,14 @@
 					id: "5B94B5325D6ABAF5"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "61A47BBE5D6ABAF5"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -1048,6 +1384,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "0A88317B94D7BA0A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "1F916F17FA2208EE"
@@ -1071,6 +1415,14 @@
 					id: "53A82E8C5AADA4A8"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "26F84A591AADA4A8"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -1096,6 +1448,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "40D055B376A41A2A"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "4984E35AAF403C2E"
@@ -1119,6 +1479,14 @@
 					id: "59FE95D9A0B135CC"
 					table_id: 4132726333066816865L
 					type: "random"
+				}
+				{
+					id: "3276567830B135CC"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -1144,6 +1512,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "6DF34240E65E27F2"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "297C3F208FD19696"
@@ -1168,6 +1544,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "170B14BE2001BB80"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "2D58FBA98F0195DE"
@@ -1191,6 +1575,14 @@
 					table_id: 4132726333066816865L
 					type: "random"
 				}
+				{
+					id: "1618560E6230697F"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "241A0EF4406D6D82"
@@ -1202,11 +1594,21 @@
 		}
 		{
 			id: "14C807C3CBD39180"
-			rewards: [{
-				id: "645CE494E8C1BF35"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "645CE494E8C1BF35"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "445CE494E8C1BF35"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6223C71F1F9EE4C7"
 				type: "checkmark"
@@ -1216,11 +1618,21 @@
 		}
 		{
 			id: "3EE01A79258A2908"
-			rewards: [{
-				id: "566FC182E528AAD1"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "566FC182E528AAD1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "166FC182E528AAD1"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "696FEECD55C257D0"
 				type: "checkmark"

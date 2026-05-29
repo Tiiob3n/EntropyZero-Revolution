@@ -25,19 +25,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "7C20D33FB00007C3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "630B22B9815DEC86"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "611222F185F681A9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "66EE1FCCE89714C1"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18B1960DBA648489"
 				item: { count: 1, id: "powah:book" }
@@ -49,19 +44,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "0AA26D5C54DA96CB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6931CA3F6C2FF4AE"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "08F3C30EC5C6D4E8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "26FAE44BA2AA9C0E"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A6B32180B264D97"
 				item: { count: 1, id: "powah:wrench" }
@@ -72,19 +62,14 @@
 		}
 		{
 			id: "7E197C3871B499EE"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1358779E5EE0B44C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "720011A23017EEFB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4E373CDEF99B5132"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "13F673817966BAB1"
 				item: { count: 1, id: "powah:capacitor_basic_tiny" }
@@ -96,19 +81,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "62B8469F1D01CE8D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "79FEEDC09606DC41"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "08C377DD3F9A8C6C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "092F26898C8186C4"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6BBA2EB5C5FDF621"
 				item: { count: 1, id: "powah:capacitor_basic" }
@@ -120,19 +100,14 @@
 		{
 			dependencies: ["62B8469F1D01CE8D"]
 			id: "3F7C642251D8523F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "18403913A5185770"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "56EDBC8C9B1A27A6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1816F5AD7AB72B06"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F5C7D263BD011A5"
 				item: { count: 1, id: "powah:capacitor_basic_large" }
@@ -147,19 +122,14 @@
 				"3539847F586622D4"
 			]
 			id: "11F0160D5DEDF9F0"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6C614071EFFBEFF4"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "57278F5F244AF471"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "488DA3C59E2CC8E5"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "138B9D0300907179"
 				item: { count: 1, id: "powah:capacitor_hardened" }
@@ -171,19 +141,14 @@
 		{
 			dependencies: ["11ECB51231588BBD"]
 			id: "37F59F72A9CBE983"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5B4C7038AEC96958"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5FFC40B21A528534"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "65E41A9B701DB414"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "37879400C950F4C7"
 				item: { count: 1, id: "powah:capacitor_blazing" }
@@ -195,19 +160,14 @@
 		{
 			dependencies: ["2AE98947738B1025"]
 			id: "7C9497F781AE5E25"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "245FB2EA7ADBCBC6"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6949B38D1AE5AF38"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7F615D9C2611C464"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7584CEB88929BDB6"
 				item: { count: 1, id: "powah:capacitor_niotic" }
@@ -219,19 +179,14 @@
 		{
 			dependencies: ["4E238B757D984CD6"]
 			id: "1028F6344EA3B196"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6A2157A3C86C1997"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "013E92744DA9F5BC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "47AFD96D20CB92F9"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2630D3D8DD8F9A20"
 				item: { count: 1, id: "powah:capacitor_spirited" }
@@ -243,19 +198,14 @@
 		{
 			dependencies: ["4CFB90C15D781F18"]
 			id: "2811E41D3E54DBC7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "03D73DBAF543CC26"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "35356258A0EEB01E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "26DAD3F8BEA1EFB5"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B73643E87C1C8A6"
 				item: { count: 1, id: "powah:capacitor_nitro" }
@@ -267,19 +217,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "22354C030615B253"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "439D4365C49D454C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2DD9A0C8204136DF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7E5BFE7787B05D48"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0D5A30CC8F0DE167"
 				item: { count: 1, id: "powah:battery_starter" }
@@ -291,19 +236,14 @@
 		{
 			dependencies: ["22354C030615B253"]
 			id: "5D6BDEA761FE5E45"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0CC6AC3243C299B6"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "774C4F5630312558"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7EEB8E290B2D7F00"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "15B1F2641F8FF581"
 				item: { count: 1, id: "powah:battery_basic" }
@@ -315,19 +255,14 @@
 		{
 			dependencies: ["5D6BDEA761FE5E45"]
 			id: "079CFE91D550E61B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "330F6C489DA4953D"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "131A553C5D8D16F5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7438476A6901F50D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "68B724C1263163F9"
 				item: { count: 1, id: "powah:battery_hardened" }
@@ -339,19 +274,14 @@
 		{
 			dependencies: ["079CFE91D550E61B"]
 			id: "5F6B942717CF8654"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0B3E79A3148A33FB"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "04921E31A2AD5F41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5DC82FADC4A16668"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3AB2E4E5B72EA41B"
 				item: { count: 1, id: "powah:battery_blazing" }
@@ -363,19 +293,14 @@
 		{
 			dependencies: ["5F6B942717CF8654"]
 			id: "1D374B9ED01FE6B6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1BB14E073E791F4F"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "11A302115082C936"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "31EC05A8F9E9570F"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B8A4C0890E8B8F1"
 				item: { count: 1, id: "powah:battery_niotic" }
@@ -387,19 +312,14 @@
 		{
 			dependencies: ["1D374B9ED01FE6B6"]
 			id: "78F2BA1A9C7667E8"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "15ED1EC7CE694BC1"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2C5D85245C4A0AF1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "15E7DE3283537D84"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C1428C74C12CD11"
 				item: { count: 1, id: "powah:battery_spirited" }
@@ -411,19 +331,14 @@
 		{
 			dependencies: ["78F2BA1A9C7667E8"]
 			id: "2254093F2E4654DE"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3E33C8881B6D8C09"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "63E1AFD201835016"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "410F7B1D935EE763"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D96C6423A72A49B"
 				item: { count: 1, id: "powah:battery_nitro" }
@@ -435,19 +350,14 @@
 		{
 			dependencies: ["7E197C3871B499EE"]
 			id: "00B8935ABF9367C2"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "22A6D44A34AE1B3A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2CA7FF0467B52895"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "59BBCEE99B539C0A"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "299B9FFC5D8FD00D"
 				item: { count: 1, id: "powah:energy_cell_starter" }
@@ -459,19 +369,14 @@
 		{
 			dependencies: ["00B8935ABF9367C2"]
 			id: "2AD9E2D8F97A426B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0C538EE6698C3577"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "62269C7692379845"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5DAD5B09F3ED1493"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "59FE342356C0A610"
 				item: { count: 1, id: "powah:energy_cell_basic" }
@@ -483,19 +388,14 @@
 		{
 			dependencies: ["2AD9E2D8F97A426B"]
 			id: "267156E9F88CE755"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7A82423E7062810A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5388F9AFE529812D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "215B19AF560825AA"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "11EFDF5C74FF3881"
 				item: { count: 1, id: "powah:energy_cell_hardened" }
@@ -507,19 +407,14 @@
 		{
 			dependencies: ["267156E9F88CE755"]
 			id: "24AE804A0FCB1172"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5AE3494A7A4B1C6B"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "34697ECBA22F6751"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "53F30439B88B8C5D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "514B6B2C27CA4BD9"
 				item: { count: 1, id: "powah:energy_cell_blazing" }
@@ -531,19 +426,14 @@
 		{
 			dependencies: ["24AE804A0FCB1172"]
 			id: "0BE1C1A365ABA6EC"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "13AA46703303645F"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "665C11CB3C9F2B25"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7914EB0E25C871F3"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7CCE215C8E5238B1"
 				item: { count: 1, id: "powah:energy_cell_niotic" }
@@ -555,19 +445,14 @@
 		{
 			dependencies: ["0BE1C1A365ABA6EC"]
 			id: "3DCFF97B870D3761"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "172EF619DEA2DA66"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0B90CC6393F67D30"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0CCFC926E84BA29D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EE2E33EEB8CD772"
 				item: { count: 1, id: "powah:energy_cell_spirited" }
@@ -579,19 +464,14 @@
 		{
 			dependencies: ["3DCFF97B870D3761"]
 			id: "48543BA36A122305"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "66B5FEB031BF2C59"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6FE6DBB746617FC0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3FAEE3DB9D2564DB"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4CBA91FA9360FC11"
 				item: { count: 1, id: "powah:energy_cell_nitro" }
@@ -603,19 +483,14 @@
 		{
 			dependencies: ["785A639D7E259532"]
 			id: "22B4DFA05DDEBE34"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "391BF97362ADC610"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4D8D1515655D2936"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "583CCD03455EFB0F"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1BC620C1417C06A3"
 				item: { count: 1, id: "powah:ender_cell_starter" }
@@ -630,19 +505,14 @@
 				"785A639D7E259532"
 			]
 			id: "71A93328E69EED05"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5588DFC1F4BA25FE"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1C5B66A732BA5A99"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5ADDBB134B9A21F0"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D1D4E0319DBFDB2"
 				item: { count: 1, id: "powah:ender_cell_hardened" }
@@ -654,19 +524,14 @@
 		{
 			dependencies: ["11ECB51231588BBD"]
 			id: "7ED7BE9225B5469D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5D5AF9B410F0A67A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0AD3D333BAD4E5EC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "24C3512DC10C5F97"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2861BBF5EA32A55B"
 				item: { count: 1, id: "powah:ender_cell_blazing" }
@@ -678,19 +543,14 @@
 		{
 			dependencies: ["785A639D7E259532"]
 			id: "34F38310EF9619B3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "57901E1EE414205C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "26BBBE4830B9217D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "474BD70EEE1CB460"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7098A0CF63927236"
 				item: { count: 1, id: "powah:ender_cell_basic" }
@@ -702,19 +562,14 @@
 		{
 			dependencies: ["2AE98947738B1025"]
 			id: "165E5B8EB6AD5E68"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "176524BD93579227"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4952C4509AE892EB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "668B5F71B62DD6E6"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1AD9E653BD3FE9FF"
 				item: { count: 1, id: "powah:ender_cell_niotic" }
@@ -726,19 +581,14 @@
 		{
 			dependencies: ["4E238B757D984CD6"]
 			id: "446D88FC7B1DD68C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "618C241A125D37BA"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2992717304ACF149"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1BB93F349AA2E5A4"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "798F0FF1E88E4132"
 				item: { count: 1, id: "powah:ender_cell_spirited" }
@@ -750,19 +600,14 @@
 		{
 			dependencies: ["4CFB90C15D781F18"]
 			id: "165FDCF7E43572DC"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6064A9DF49A0DA9D"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "558E18D36CFB9969"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "69D6A5AA628BF591"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "731B88E879376057"
 				item: { count: 1, id: "powah:ender_cell_nitro" }
@@ -774,19 +619,14 @@
 		{
 			dependencies: ["7E197C3871B499EE"]
 			id: "7AE08B1CC453A969"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "63CF31FC17C2E448"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "73DC83FC4A8F8EB8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "328F773475305CE4"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "20143214A35C9E17"
 				item: { count: 1, id: "powah:energy_cable_starter" }
@@ -798,19 +638,14 @@
 		{
 			dependencies: ["7AE08B1CC453A969"]
 			id: "173BF0D794123D80"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6982BD50E187A49E"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3A23BD699160120C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "42ABB957E360ED10"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "14920A9835F705EB"
 				item: { count: 1, id: "powah:energy_cable_basic" }
@@ -822,19 +657,14 @@
 		{
 			dependencies: ["173BF0D794123D80"]
 			id: "73A85FAC589D871E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "285C3EE3F14D6CCF"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5BCDFFC3D3612A74"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7D41AC80C4B2CDF8"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "38BBDC6F944AEF92"
 				item: { count: 1, id: "powah:energy_cable_hardened" }
@@ -846,19 +676,14 @@
 		{
 			dependencies: ["73A85FAC589D871E"]
 			id: "01CB9667EB2D8F93"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "69AAEC3CC4CC9D79"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "24F9DA412599358A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "297472D99690212F"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "52DA4D444F663717"
 				item: { count: 1, id: "powah:energy_cable_blazing" }
@@ -870,19 +695,14 @@
 		{
 			dependencies: ["01CB9667EB2D8F93"]
 			id: "2AA6ACEFC6CBC4FF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "14F7EF942249A49D"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "26E69ACB80C1BE43"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1955232CD1AE6A7C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "094228F29B08D00F"
 				item: { count: 1, id: "powah:energy_cable_niotic" }
@@ -894,19 +714,14 @@
 		{
 			dependencies: ["2AA6ACEFC6CBC4FF"]
 			id: "78AE687291DCF26C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6A76AB1676C7CE4D"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5F3949A346CF28C9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6086B4077C2BBBF4"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "389FF4A845E3B42C"
 				item: { count: 1, id: "powah:energy_cable_spirited" }
@@ -918,19 +733,14 @@
 		{
 			dependencies: ["78AE687291DCF26C"]
 			id: "2A2F0D13E80E887E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "44AF117DF265B250"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "41D0645B1C1CAEF1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "518B6CD460511B20"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2477FBFE90C4308F"
 				item: { count: 1, id: "powah:energy_cable_nitro" }
@@ -942,19 +752,14 @@
 		{
 			dependencies: ["7AE08B1CC453A969"]
 			id: "66D3F6B6CCC60419"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "06681F36FABF98D8"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4842D12C9DE96B85"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "084185EE0276B71B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "059A2EB9919964CC"
 				item: { count: 1, id: "powah:ender_gate_starter" }
@@ -966,19 +771,14 @@
 		{
 			dependencies: ["173BF0D794123D80"]
 			id: "36309F4D07DAB41A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6D74FB35F86D7BC1"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3B7C6C49ED06E293"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3434A6AE29F7962C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5DEC8C9331730A9A"
 				item: { count: 1, id: "powah:ender_gate_basic" }
@@ -990,19 +790,14 @@
 		{
 			dependencies: ["73A85FAC589D871E"]
 			id: "46AD2CF898417E5A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6D9341E461C1A6BF"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4160E27D6690FB93"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "33EC4A36D21A5893"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "30D65E5D5275C441"
 				item: { count: 1, id: "powah:ender_gate_hardened" }
@@ -1014,19 +809,14 @@
 		{
 			dependencies: ["01CB9667EB2D8F93"]
 			id: "2B1A20363443D545"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "399C3F7E76B103E2"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2AA148F2604B3268"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7B8C8E744FE9711F"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "70E8C3BDD1BB2983"
 				item: { count: 1, id: "powah:ender_gate_blazing" }
@@ -1038,19 +828,14 @@
 		{
 			dependencies: ["2AA6ACEFC6CBC4FF"]
 			id: "1EB3A86F1EBB2B83"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2634F74F5FCE32E7"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "30D2D88E170692B1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5D0CDF5EEB30B5DB"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C81C65D7DB210CF"
 				item: { count: 1, id: "powah:ender_gate_niotic" }
@@ -1062,19 +847,14 @@
 		{
 			dependencies: ["78AE687291DCF26C"]
 			id: "26D7C12DB9F21E87"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3EBADE2833D2EEFA"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4172C122A2D07C9B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2A0D75714E18D8FE"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B1068683C4704FB"
 				item: { count: 1, id: "powah:ender_gate_spirited" }
@@ -1086,19 +866,14 @@
 		{
 			dependencies: ["2A2F0D13E80E887E"]
 			id: "188874FBE24EBCF6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3FCBA7BEA675FF4A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "60D07B76AD8C216F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6DA1C551631D84D6"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57DA793E62A79B12"
 				item: { count: 1, id: "powah:ender_gate_nitro" }
@@ -1109,19 +884,14 @@
 		}
 		{
 			id: "6716BE2907C95EC8"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6058C088A62C7B51"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5F965CDC60B3A330"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2FCB8C3EEAED68C7"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "16A22DB6367D6D94"
 				item: { count: 1, id: "powah:energizing_orb" }
@@ -1133,19 +903,14 @@
 		{
 			dependencies: ["7E197C3871B499EE"]
 			id: "328DC7D8590D990F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6C5B84CB002CB92B"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0DCA2F74AA284C20"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0AD5609FBE019E8E"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "13DD0E4F3548699B"
 				item: { count: 1, id: "powah:energizing_rod_starter" }
@@ -1157,19 +922,14 @@
 		{
 			dependencies: ["328DC7D8590D990F"]
 			id: "1123E110FA160DD3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4129339E795B0580"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5AFF27A40C5CD408"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "60D06A4D7B424263"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35E1933F0AE062D7"
 				item: { count: 1, id: "powah:energizing_rod_basic" }
@@ -1181,19 +941,14 @@
 		{
 			dependencies: ["1123E110FA160DD3"]
 			id: "21417406DF0062CA"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7A60869852954177"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6B15EB05B7929123"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5CF913055ABC36A2"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "23C193EE56B9CBA5"
 				item: { count: 1, id: "powah:energizing_rod_hardened" }
@@ -1205,19 +960,14 @@
 		{
 			dependencies: ["21417406DF0062CA"]
 			id: "32BD68E3E1C4917E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "71A411962981A95C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "7E28BBD069702953"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0490A13DCFE5D8AD"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "72EEEFE93AADB045"
 				item: { count: 1, id: "powah:energizing_rod_blazing" }
@@ -1229,19 +979,14 @@
 		{
 			dependencies: ["32BD68E3E1C4917E"]
 			id: "2D0A150C5ED3C6EF"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "261DAE7E14679BF5"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1EC8F3D9D7D052B3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "248792AF58902938"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "30441354A7565E21"
 				item: { count: 1, id: "powah:energizing_rod_niotic" }
@@ -1253,19 +998,14 @@
 		{
 			dependencies: ["2D0A150C5ED3C6EF"]
 			id: "2D9C4BAB5F48DDE3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5119E6748B1833E9"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0806CBFECE576077"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "103CBBB22EDA1D61"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5FC4F693E0C8B550"
 				item: { count: 1, id: "powah:energizing_rod_spirited" }
@@ -1277,19 +1017,14 @@
 		{
 			dependencies: ["2D9C4BAB5F48DDE3"]
 			id: "70EED1CB6EC7A675"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5C67B006EEFDFB2B"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0A771738E1501083"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "03AFF30DB98D4CFF"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A0752C10D61F307"
 				item: { count: 1, id: "powah:energizing_rod_nitro" }
@@ -1301,19 +1036,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "264D84B8E12FBFEC"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0DDCDA46E088EEF6"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "58DE8A8F6ED4150E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4F11091C07364132"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "314132F952E834E6"
 				item: { count: 1, id: "powah:furnator_starter" }
@@ -1325,19 +1055,14 @@
 		{
 			dependencies: ["264D84B8E12FBFEC"]
 			id: "7B752273D9C7AD0B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6D0A06442428A0C1"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6343E3CBB4208287"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "27BB31DC361120D5"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "35A85932C9BBA241"
 				item: { count: 1, id: "powah:furnator_basic" }
@@ -1349,19 +1074,14 @@
 		{
 			dependencies: ["7B752273D9C7AD0B"]
 			id: "701A6C4BB6ECEF16"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "23EED136204D888B"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "343FF61FD24AC582"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3FC158FC9A5C53EF"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "107EEE9DEEB06C6A"
 				item: { count: 1, id: "powah:furnator_hardened" }
@@ -1373,19 +1093,14 @@
 		{
 			dependencies: ["701A6C4BB6ECEF16"]
 			id: "65831EF71ED7952E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1CB6C8E71B13B4F1"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5148EF1EAC1D15D3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "149F9A38E4193F42"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2DB9BA712043F565"
 				item: { count: 1, id: "powah:furnator_blazing" }
@@ -1397,19 +1112,14 @@
 		{
 			dependencies: ["65831EF71ED7952E"]
 			id: "42E50F62EE720F47"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "07A44263C3C7E363"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "11231069510359DC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "31BD58400EDB37A6"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18AE706B9CB67981"
 				item: { count: 1, id: "powah:furnator_niotic" }
@@ -1421,19 +1131,14 @@
 		{
 			dependencies: ["42E50F62EE720F47"]
 			id: "580FCDDE4EA15198"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "14C6514BFDBEF9F6"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "48BBFF5BD2AE0169"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "137DCCF797C1EF28"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4383DA8A7A995059"
 				item: { count: 1, id: "powah:furnator_spirited" }
@@ -1445,19 +1150,14 @@
 		{
 			dependencies: ["580FCDDE4EA15198"]
 			id: "66D57D0319DEFEE0"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "14EA562E1A4E9A45"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6544692A61ACD4E0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3ACFDF9E5D65AF5E"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "73C94C42A62C9460"
 				item: { count: 1, id: "powah:furnator_nitro" }
@@ -1469,19 +1169,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "57B97F43305A59AD"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "240B25285ACE0BAD"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3337D111E987F444"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "40B96B5C240B84C0"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5385C2E1F93FB607"
 				item: { count: 1, id: "powah:magmator_starter" }
@@ -1493,19 +1188,14 @@
 		{
 			dependencies: ["57B97F43305A59AD"]
 			id: "24D9A2EBC9A23579"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2430355D8E6260C0"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "74797DFEBCACDF45"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "61BEE95D59835B99"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "54126D2A99FD0307"
 				item: { count: 1, id: "powah:magmator_basic" }
@@ -1517,19 +1207,14 @@
 		{
 			dependencies: ["24D9A2EBC9A23579"]
 			id: "52432B1E334B8449"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0A4448E1AD9BCEF9"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2EA942A66513CB8E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "24CA7187F8F102A7"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B093A2F94891C56"
 				item: { count: 1, id: "powah:magmator_hardened" }
@@ -1541,19 +1226,14 @@
 		{
 			dependencies: ["52432B1E334B8449"]
 			id: "21DB21AB97089382"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "00933A6A4EA047D5"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0149709FF38274BB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3185253997550D83"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "607EE464BEB931D8"
 				item: { count: 1, id: "powah:magmator_blazing" }
@@ -1565,19 +1245,14 @@
 		{
 			dependencies: ["21DB21AB97089382"]
 			id: "40012CFCA17B41CB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "42911553874BD512"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "743CD053124FDE33"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "01591F532BABC569"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "50F80395263EFB28"
 				item: { count: 1, id: "powah:magmator_niotic" }
@@ -1589,19 +1264,14 @@
 		{
 			dependencies: ["40012CFCA17B41CB"]
 			id: "4241A5E3D108DE36"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2D96F6EA2CFA35C0"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "64F9775060CD4A8C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5FACBD1686B2AEA7"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "28050A0BC5528BCB"
 				item: { count: 1, id: "powah:magmator_spirited" }
@@ -1613,19 +1283,14 @@
 		{
 			dependencies: ["4241A5E3D108DE36"]
 			id: "7D9712B635C79CF3"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4079A267424C1C7E"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "14D81A5F980066D6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6F75FF90262821DE"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "073E80211FBA0FDC"
 				item: { count: 1, id: "powah:magmator_nitro" }
@@ -1637,19 +1302,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "2F25AAE23F4D40FA"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0D9CF4F0B408F8F3"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1B792C0FC0870834"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4028BA8559562763"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7CB0BC35BE35C267"
 				item: { count: 1, id: "powah:solar_panel_starter" }
@@ -1661,19 +1321,14 @@
 		{
 			dependencies: ["2F25AAE23F4D40FA"]
 			id: "0C79BB94F7840D59"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2556FAB323AD5675"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "7B9769A40E44BBF4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "289822D9D159CD6C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2DAEFFB37920EF32"
 				item: { count: 1, id: "powah:solar_panel_basic" }
@@ -1685,19 +1340,14 @@
 		{
 			dependencies: ["0C79BB94F7840D59"]
 			id: "41B122109672B6E7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "41E2E93176FBB602"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "72F3D948B1FB2FC9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "69ABBB45C1DBBCBB"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1EBD46DED0377F80"
 				item: { count: 1, id: "powah:solar_panel_hardened" }
@@ -1709,19 +1359,14 @@
 		{
 			dependencies: ["41B122109672B6E7"]
 			id: "2FCE4949382E95EB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0625C6D9D5377050"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "435B0A5931A4C1BE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4304ABF3879852A6"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5679C57FF7AE50D4"
 				item: { count: 1, id: "powah:solar_panel_blazing" }
@@ -1733,19 +1378,14 @@
 		{
 			dependencies: ["2FCE4949382E95EB"]
 			id: "3620C600D3299907"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7E93EB067AA5D726"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5F1C97C584AD029C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "29490FD00BB4ABF9"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "15B0D49F1FC6F74C"
 				item: { count: 1, id: "powah:solar_panel_niotic" }
@@ -1757,19 +1397,14 @@
 		{
 			dependencies: ["3620C600D3299907"]
 			id: "69498103D387D5C8"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "41DC3F9A5E2EB062"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "60F2415CD91B3207"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5EB9FA68A1D36944"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "16AA4C73D02BAD40"
 				item: { count: 1, id: "powah:solar_panel_spirited" }
@@ -1781,19 +1416,14 @@
 		{
 			dependencies: ["69498103D387D5C8"]
 			id: "2F3F0C2059941604"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4C65F1804618C5DF"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "15866AB93FFA8203"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "497B24E2B5AC8205"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "62E89FA0EFD8161E"
 				item: { count: 1, id: "powah:solar_panel_nitro" }
@@ -1805,19 +1435,14 @@
 		{
 			dependencies: ["7E197C3871B499EE"]
 			id: "20C097068BF47C2C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6F75AC6786E32087"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "56BF3F79558146EF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "697A39075148CE59"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "635A4DD05696B31D"
 				item: { count: 1, id: "powah:reactor_starter" }
@@ -1829,19 +1454,14 @@
 		{
 			dependencies: ["20C097068BF47C2C"]
 			id: "3DBA2D21D5EE1B28"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "51B7A7E57C3192A6"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "4A1431756B95DB18"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3EBA75BAA2F8E216"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D8C312AF7DC3C55"
 				item: { count: 1, id: "powah:reactor_basic" }
@@ -1853,19 +1473,14 @@
 		{
 			dependencies: ["3DBA2D21D5EE1B28"]
 			id: "0DEB841B7D0CAFF0"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "6DBB0C6F7D21B48C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2A0469E18BF0D270"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7120D15005078CC3"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "465ABE9601CD9C86"
 				item: { count: 1, id: "powah:reactor_hardened" }
@@ -1877,19 +1492,14 @@
 		{
 			dependencies: ["0DEB841B7D0CAFF0"]
 			id: "46B1A72939F6D8EB"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7D0AF259915BF0FC"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "417DC69C089384FE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6F06704E55439D27"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "61886D531B291AF8"
 				item: { count: 1, id: "powah:reactor_blazing" }
@@ -1901,19 +1511,14 @@
 		{
 			dependencies: ["57FE5720A596249C"]
 			id: "690C8B1A66E0E707"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "436EE58C1C4FA86C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "312A7A7793E274A4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "284A5AA2CB8A1FF5"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1082ACD459512970"
 				item: { count: 1, id: "powah:reactor_spirited" }
@@ -1925,19 +1530,14 @@
 		{
 			dependencies: ["46B1A72939F6D8EB"]
 			id: "57FE5720A596249C"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "16684484F43D6DF0"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6E1FDF21F199E704"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "631C0C416F8E0192"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6CC2A7426B67C18D"
 				item: { count: 1, id: "powah:reactor_niotic" }
@@ -1949,19 +1549,14 @@
 		{
 			dependencies: ["690C8B1A66E0E707"]
 			id: "07F2EE64C9322E02"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "03F413D132D596E4"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "36552EE2CC4A0354"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5B5D1FE8A5ABCEFF"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "758466937FEC469B"
 				item: { count: 1, id: "powah:reactor_nitro" }
@@ -1973,19 +1568,14 @@
 		{
 			dependencies: ["7E197C3871B499EE"]
 			id: "48BB0644E221B7EC"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "377A3D015733BE45"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "793F36656F2E6100"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7FAA520F1E2B1606"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "44B5CACBA4533B0C"
 				item: { count: 1, id: "powah:player_transmitter_starter" }
@@ -1997,19 +1587,14 @@
 		{
 			dependencies: ["48BB0644E221B7EC"]
 			id: "7A712A92D0642075"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "557FC382D834C081"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "40261B92523C0F3E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "50A68884239B066C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "446BF5315BB3CC5C"
 				item: { count: 1, id: "powah:player_transmitter_basic" }
@@ -2021,19 +1606,14 @@
 		{
 			dependencies: ["7A712A92D0642075"]
 			id: "2E412799F63AE063"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3F720B3C211DC75E"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5CB6F9E90DC34DCC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "55D36522421D1571"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C3F60893FF5E075"
 				item: { count: 1, id: "powah:player_transmitter_hardened" }
@@ -2045,19 +1625,14 @@
 		{
 			dependencies: ["2E412799F63AE063"]
 			id: "1CF39DD40E933415"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2CBEB8092E6C0EC0"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0FD5E3765BB8C671"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "111C6E20010E8EC0"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "55FDC2D54DE4D466"
 				item: { count: 1, id: "powah:player_transmitter_blazing" }
@@ -2069,19 +1644,14 @@
 		{
 			dependencies: ["1CF39DD40E933415"]
 			id: "4DEFC570C2E29EE7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3CD6454EDB053750"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6CE7639E4E10B0A9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4B03DC9B04702F0C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6973B0D41C59D5A7"
 				item: { count: 1, id: "powah:player_transmitter_niotic" }
@@ -2093,19 +1663,14 @@
 		{
 			dependencies: ["4DEFC570C2E29EE7"]
 			id: "45D40954FE522F7A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7B1A64B685CC7AA7"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1FF8B85C49081905"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "44028130B9753B32"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "2046BFBB3CE5AF9C"
 				item: { count: 1, id: "powah:player_transmitter_spirited" }
@@ -2117,19 +1682,14 @@
 		{
 			dependencies: ["45D40954FE522F7A"]
 			id: "572D611A2FDDC8C6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1009B499BEAD2068"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "20C5D39DB4E1135A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2F0F6EAE6CC3CE98"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "668632E256D8BD5B"
 				item: { count: 1, id: "powah:player_transmitter_nitro" }
@@ -2141,19 +1701,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "194DAA7D3D93DF5B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5B24AE8E15B59DA3"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6BE17FA63DC7E330"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7F5EDDBE6E0042CA"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "75DFF051798BE850"
 				item: { count: 1, id: "powah:thermo_generator_starter" }
@@ -2165,19 +1720,14 @@
 		{
 			dependencies: ["194DAA7D3D93DF5B"]
 			id: "75008A9B6299D085"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2F05B5DF369C5099"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "37881866EF9A2EF0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "46316DD84FBC6377"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A078B44DE01956E"
 				item: { count: 1, id: "powah:thermo_generator_basic" }
@@ -2189,19 +1739,14 @@
 		{
 			dependencies: ["75008A9B6299D085"]
 			id: "7A65F03FF15B7687"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "34386D3629219D73"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1D6BDA16B54CC1CE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "783DF705893A2FB6"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4A8CEFE8091593A8"
 				item: { count: 1, id: "powah:thermo_generator_hardened" }
@@ -2213,19 +1758,14 @@
 		{
 			dependencies: ["7A65F03FF15B7687"]
 			id: "52C075DE1096405E"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5E0FB247400EB686"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "53BEC45722FB6EB7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "51CB0456B5ADE810"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "552EA1B7CD9D250E"
 				item: { count: 1, id: "powah:thermo_generator_blazing" }
@@ -2237,19 +1777,14 @@
 		{
 			dependencies: ["52C075DE1096405E"]
 			id: "092E94DEF2B4783F"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7498C17FDDD8B46A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "478A1F18C6305B2E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5DEA7CE24FF0ABFF"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "53953E247C342FA8"
 				item: { count: 1, id: "powah:thermo_generator_niotic" }
@@ -2261,19 +1796,14 @@
 		{
 			dependencies: ["47A45F49A9B8EECC"]
 			id: "1D420BAA41A23023"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7C034684DF04A886"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5DEDDA018C71A850"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "11660228DB24E864"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "05D4BBEB062BEBE7"
 				item: { count: 1, id: "powah:thermo_generator_nitro" }
@@ -2285,19 +1815,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "51E1CCD7DBB25227"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3A74C4777F82FDE1"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "6D837C17035CE8F8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "13DFF6AF51E04D28"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "746E2BC90218CC4A"
 				item: { count: 1, id: "powah:energy_hopper_starter" }
@@ -2309,19 +1834,14 @@
 		{
 			dependencies: ["0DE215D864760C98"]
 			id: "27172DA9110CFF58"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7A37793AF0D1AA38"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "73D66837DE16AB7B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "165A561D2EBFF217"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4946A26BD9AD5844"
 				item: { count: 1, id: "powah:energy_hopper_hardened" }
@@ -2333,19 +1853,14 @@
 		{
 			dependencies: ["51E1CCD7DBB25227"]
 			id: "0DE215D864760C98"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4714B0F1D73C4EF0"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "258C9E87B8FDB459"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1E8185BD9F22B638"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1CDECBDEAF63E4C9"
 				item: { count: 1, id: "powah:energy_hopper_basic" }
@@ -2357,19 +1872,14 @@
 		{
 			dependencies: ["27172DA9110CFF58"]
 			id: "7898EF6DECF43C23"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4FDBE0ABDDA09153"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3ACE8B9D4567620A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "6295FEBD9184CAD3"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "59FAE932EAD19E43"
 				item: { count: 1, id: "powah:energy_hopper_blazing" }
@@ -2381,19 +1891,14 @@
 		{
 			dependencies: ["7898EF6DECF43C23"]
 			id: "7922BFAFC7035A16"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1898E08BD9AC824C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5B575F06778B0C3F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "560D017D4C93DDCC"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4222CD98E9AF2183"
 				item: { count: 1, id: "powah:energy_hopper_niotic" }
@@ -2405,19 +1910,14 @@
 		{
 			dependencies: ["7922BFAFC7035A16"]
 			id: "313F6775BD647EC1"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4E86936DEDDC0B53"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3AC06B6A9A5068C4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "61263DE2A4362107"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "65810F60D7F124CE"
 				item: { count: 1, id: "powah:energy_hopper_spirited" }
@@ -2429,19 +1929,14 @@
 		{
 			dependencies: ["313F6775BD647EC1"]
 			id: "2F59078E4722817A"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "7747DF1471B23E3D"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1D7E18D8ABEA4C92"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0D5839F456C2E49B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7CEBB8233E7061D0"
 				item: { count: 1, id: "powah:energy_hopper_nitro" }
@@ -2453,19 +1948,14 @@
 		{
 			dependencies: ["4E03AA8A416607B2"]
 			id: "1DA68A428D9DBE91"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "530B5E48A431E138"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0E8E5C913496ACD6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "3A78A60F58CEA74C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7DD254DA82B2EC35"
 				item: { count: 1, id: "powah:energy_discharger_starter" }
@@ -2477,19 +1967,14 @@
 		{
 			dependencies: ["62B8469F1D01CE8D"]
 			id: "29ABF7CE3D0044B4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "64ADFB1A10DB1A95"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "70A28984B2128C81"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5CA21C7B1BE50100"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "43DC067F760F902D"
 				item: { count: 1, id: "powah:energy_discharger_basic" }
@@ -2501,19 +1986,14 @@
 		{
 			dependencies: ["11F0160D5DEDF9F0"]
 			id: "0CF8E1F33E030B6B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "0AC1F7E368776D7E"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "14F855069A688EA7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "177D4D81AC193827"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "450E58BFB06A65D3"
 				item: { count: 1, id: "powah:energy_discharger_hardened" }
@@ -2525,19 +2005,14 @@
 		{
 			dependencies: ["37F59F72A9CBE983"]
 			id: "1BEC42C2A7AAD40D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4EB3F373695CCA42"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "2D278026EC0DBC31"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "05E93826F0FFCD55"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "53E8982CC8142AC9"
 				item: { count: 1, id: "powah:energy_discharger_blazing" }
@@ -2549,19 +2024,14 @@
 		{
 			dependencies: ["7C9497F781AE5E25"]
 			id: "0D7C570C98D5DD8B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "01A056DE80B11D23"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1D5CC3669135093F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "1DBB65ED4C7E974B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F6D513D70091FD5"
 				item: { count: 1, id: "powah:energy_discharger_niotic" }
@@ -2573,19 +2043,14 @@
 		{
 			dependencies: ["1028F6344EA3B196"]
 			id: "62948357437B91F9"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "201EAB32F21E6179"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "1547B08BF31B855D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5F166E8EDE938B5B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "74A4F83437A48579"
 				item: { count: 1, id: "powah:energy_discharger_spirited" }
@@ -2597,19 +2062,14 @@
 		{
 			dependencies: ["2811E41D3E54DBC7"]
 			id: "68CA947F5F9186F6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2D2684865CAE166C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "264F1D0EF945FBA7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0A63F4124D0F9569"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "03C67A11E6E293E1"
 				item: { count: 1, id: "powah:energy_discharger_nitro" }
@@ -2621,19 +2081,14 @@
 		{
 			dependencies: ["6716BE2907C95EC8"]
 			id: "3539847F586622D4"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "1FCD47A53C5CA69A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "523653BEDBD67CA2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2E8DB32604054CED"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "61B6C202E0ECD924"
 				item: { count: 1, id: "powah:steel_energized" }
@@ -2645,19 +2100,14 @@
 		{
 			dependencies: ["6716BE2907C95EC8"]
 			id: "11ECB51231588BBD"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "59179390968AB463"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "5F504715B8B68203"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "54285729A04CD669"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "65C30DA4E7435C1D"
 				item: { count: 1, id: "powah:crystal_blazing" }
@@ -2669,19 +2119,14 @@
 		{
 			dependencies: ["6716BE2907C95EC8"]
 			id: "2AE98947738B1025"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "19ED44DAA765657C"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "375DDA1172437D0F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "47D5929076EDD73C"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1CEEC32ABABF27AA"
 				item: { count: 1, id: "powah:crystal_niotic" }
@@ -2693,19 +2138,14 @@
 		{
 			dependencies: ["6716BE2907C95EC8"]
 			id: "4E238B757D984CD6"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "20A34E62AA533DB9"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0E522D21D1DC921C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "0929AE4D9B36243B"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "641B5241B740D87C"
 				item: { count: 1, id: "powah:crystal_spirited" }
@@ -2717,19 +2157,14 @@
 		{
 			dependencies: ["6716BE2907C95EC8"]
 			id: "4CFB90C15D781F18"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "32FC22229EF4676E"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "0D8655B69354D976"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "618245B9D57A3997"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1A4AB957327D81E2"
 				item: { count: 1, id: "powah:crystal_nitro" }
@@ -2740,19 +2175,14 @@
 		}
 		{
 			id: "4E03AA8A416607B2"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "77652A4AD40FB8E2"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "3CD6ACE3589CE046"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "4C98E7406C10EC17"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "4B541C3A5090EC6E"
 				item: { count: 1, id: "powah:dielectric_paste" }
@@ -2763,19 +2193,14 @@
 		}
 		{
 			id: "785A639D7E259532"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "747361E10F120A6A"
-					table_id: 8776648882387615047L
-					type: "random"
+			rewards: [{
+				id: "06FF9FF384DB465C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "31DFA316668E8E5D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E88DE5A7592FE24"
 				item: { count: 1, id: "powah:ender_core" }
@@ -2787,19 +2212,14 @@
 		{
 			dependencies: ["092E94DEF2B4783F"]
 			id: "47A45F49A9B8EECC"
-			rewards: [
-				{
-					id: "14BB176C516EDDD5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "798FBB0239333EEA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "633277F53D659F5F"
-					table_id: 8776648882387615047L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6EA332A02F807749"
 				item: { count: 1, id: "powah:thermo_generator_spirited" }

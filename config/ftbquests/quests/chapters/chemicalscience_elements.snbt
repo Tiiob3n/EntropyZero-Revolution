@@ -958,6 +958,14 @@
 	quests: [
 		{
 			id: "728D0859233925D7"
+			rewards: [{
+				id: "7DB40A8FD55C4056"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "57D207DDB65CA7EC"
 				item: { count: 1, id: "chemicalscience:block_element_ac" }
@@ -968,6 +976,14 @@
 		}
 		{
 			id: "7584C805F75B2C18"
+			rewards: [{
+				id: "383004C2DB615248"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2D5828FFF62F3492"
 				item: { count: 1, id: "chemicalscience:block_element_ag" }
@@ -978,6 +994,14 @@
 		}
 		{
 			id: "107B45E0AFC34E66"
+			rewards: [{
+				id: "21E8ABC35414CDE6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "730268CBA2A55AE0"
 				item: { count: 1, id: "chemicalscience:block_element_al" }
@@ -988,6 +1012,14 @@
 		}
 		{
 			id: "45C7091A8F6BAD86"
+			rewards: [{
+				id: "437DD961743BB3CF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0F9014664732A83D"
 				item: { count: 1, id: "chemicalscience:block_element_am" }
@@ -998,6 +1030,14 @@
 		}
 		{
 			id: "0B8B6CCADC29F97A"
+			rewards: [{
+				id: "3438B851083045C4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4AE40BEA36DC5F7F"
 				item: { count: 1, id: "chemicalscience:block_element_ar" }
@@ -1008,6 +1048,14 @@
 		}
 		{
 			id: "5B9B1D794A8ECC79"
+			rewards: [{
+				id: "13C75922AEEF6E30"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4077DF7B7C373F3B"
 				item: { count: 1, id: "chemicalscience:block_element_as" }
@@ -1018,6 +1066,14 @@
 		}
 		{
 			id: "7088583605B16564"
+			rewards: [{
+				id: "1FE82851822D1E1B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "51324D8DD30A2ED7"
 				item: { count: 1, id: "chemicalscience:block_element_at" }
@@ -1028,6 +1084,14 @@
 		}
 		{
 			id: "02993D765AA73A4D"
+			rewards: [{
+				id: "6066F63A60C33583"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E2925A183F95E57"
 				item: { count: 1, id: "chemicalscience:block_element_au" }
@@ -1038,6 +1102,14 @@
 		}
 		{
 			id: "1E843358DE0A21BD"
+			rewards: [{
+				id: "7E0898829C86BE08"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "49D8137ACF12D047"
 				item: { count: 1, id: "chemicalscience:block_element_b" }
@@ -1048,6 +1120,14 @@
 		}
 		{
 			id: "289352C2F2F21DB2"
+			rewards: [{
+				id: "20567B03F5AD3F1E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "26ABB66D3C4A4550"
 				item: { count: 1, id: "chemicalscience:block_element_ba" }
@@ -1058,6 +1138,14 @@
 		}
 		{
 			id: "66696F4F143BD108"
+			rewards: [{
+				id: "67C9143D8769FEA0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "12CE8F43FE586E47"
 				item: { count: 1, id: "chemicalscience:block_element_be" }
@@ -1068,6 +1156,14 @@
 		}
 		{
 			id: "667F63E9AD25D838"
+			rewards: [{
+				id: "09635FDE8067E19E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "23805FBFFF088A0A"
 				item: { count: 1, id: "chemicalscience:block_element_bh" }
@@ -1078,6 +1174,14 @@
 		}
 		{
 			id: "3DC62AA051836193"
+			rewards: [{
+				id: "650A91D679BC699E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "48AD616D4E124B92"
 				item: { count: 1, id: "chemicalscience:block_element_bi" }
@@ -1088,6 +1192,14 @@
 		}
 		{
 			id: "02054D661180AE3F"
+			rewards: [{
+				id: "29BF0FA4CD2FC307"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4587E75324A490C7"
 				item: { count: 1, id: "chemicalscience:block_element_bk" }
@@ -1098,6 +1210,14 @@
 		}
 		{
 			id: "52FBEADCB84874E2"
+			rewards: [{
+				id: "0745FC90B7D65E38"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "385F8134B0E1586A"
 				item: { count: 1, id: "chemicalscience:block_element_br" }
@@ -1108,6 +1228,14 @@
 		}
 		{
 			id: "4BDF83DA83DB10FB"
+			rewards: [{
+				id: "05DDD804A5895165"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "45B585439338794C"
 				item: { count: 1, id: "chemicalscience:block_element_c" }
@@ -1118,6 +1246,14 @@
 		}
 		{
 			id: "5C7CA3B066AEB661"
+			rewards: [{
+				id: "1ED8FB3052AC222D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "182ADF66A16AFA3D"
 				item: { count: 1, id: "chemicalscience:block_element_ca" }
@@ -1128,6 +1264,14 @@
 		}
 		{
 			id: "44B7B600CC7E27EF"
+			rewards: [{
+				id: "7C2205C3818336B9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1926A6D2F53FC73F"
 				item: { count: 1, id: "chemicalscience:block_element_cd" }
@@ -1138,6 +1282,14 @@
 		}
 		{
 			id: "62B8219D44A35314"
+			rewards: [{
+				id: "3607C17A0627C973"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2EAB299A0B7F8EC5"
 				item: { count: 1, id: "chemicalscience:block_element_ce" }
@@ -1148,6 +1300,14 @@
 		}
 		{
 			id: "2B0DD2452F538EC3"
+			rewards: [{
+				id: "21E5FA68CB80978B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "377B389E4DB7A7E7"
 				item: { count: 1, id: "chemicalscience:block_element_cf" }
@@ -1158,6 +1318,14 @@
 		}
 		{
 			id: "15EAAEA78944C3B7"
+			rewards: [{
+				id: "701CFF26DB15DFA4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F4B1BE793F0E980"
 				item: { count: 1, id: "chemicalscience:block_element_cl" }
@@ -1168,6 +1336,14 @@
 		}
 		{
 			id: "504468333F63D550"
+			rewards: [{
+				id: "53F7608D4751136D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "55E9AACA70E07F93"
 				item: { count: 1, id: "chemicalscience:block_element_cm" }
@@ -1178,6 +1354,14 @@
 		}
 		{
 			id: "2D6AE78EAD13D6AB"
+			rewards: [{
+				id: "4EF34B58B9DE3B12"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "679D119FEEB63176"
 				item: { count: 1, id: "chemicalscience:block_element_cn" }
@@ -1188,6 +1372,14 @@
 		}
 		{
 			id: "0F48035361D71B41"
+			rewards: [{
+				id: "7532AFC1AFB0D7C4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5280AE4F33B18FDC"
 				item: { count: 1, id: "chemicalscience:block_element_co" }
@@ -1198,6 +1390,14 @@
 		}
 		{
 			id: "4D63C7DA9B4CA1D1"
+			rewards: [{
+				id: "7A287253C695A2D1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "276EC8BBC2123753"
 				item: { count: 1, id: "chemicalscience:block_element_cr" }
@@ -1208,6 +1408,14 @@
 		}
 		{
 			id: "78DDAEB73CC5F36C"
+			rewards: [{
+				id: "2C58573FCC4CB75E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E482414766E5970"
 				item: { count: 1, id: "chemicalscience:block_element_cs" }
@@ -1218,6 +1426,14 @@
 		}
 		{
 			id: "41716DD1B9F7B660"
+			rewards: [{
+				id: "458B2664533016E7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "40070A970531496A"
 				item: { count: 1, id: "chemicalscience:block_element_cu" }
@@ -1228,6 +1444,14 @@
 		}
 		{
 			id: "142A14032CD9F47A"
+			rewards: [{
+				id: "35427D7CE1C910A4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5325C1FC5B69453F"
 				item: { count: 1, id: "chemicalscience:block_element_db" }
@@ -1238,6 +1462,14 @@
 		}
 		{
 			id: "4DF39E6879EE05B4"
+			rewards: [{
+				id: "651645BACE3D49C8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4CC3D24BDEB5158F"
 				item: { count: 1, id: "chemicalscience:block_element_ds" }
@@ -1248,6 +1480,14 @@
 		}
 		{
 			id: "5862214C1F2B3190"
+			rewards: [{
+				id: "1A64A58023A0742E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4379D9346EFC31CF"
 				item: { count: 1, id: "chemicalscience:block_element_dy" }
@@ -1258,6 +1498,14 @@
 		}
 		{
 			id: "319C925952E7A70E"
+			rewards: [{
+				id: "5FD9EDDDE64EC83D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "160AF4085B1472D5"
 				item: { count: 1, id: "chemicalscience:block_element_er" }
@@ -1268,6 +1516,14 @@
 		}
 		{
 			id: "785004E89CD4251C"
+			rewards: [{
+				id: "0C3C509646F7EAFB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "450899C9E48EAC4F"
 				item: { count: 1, id: "chemicalscience:block_element_es" }
@@ -1278,6 +1534,14 @@
 		}
 		{
 			id: "731803CFFED434C3"
+			rewards: [{
+				id: "07F4E41F6F2710C8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "11780CBBD9EBE2D0"
 				item: { count: 1, id: "chemicalscience:block_element_eu" }
@@ -1288,6 +1552,14 @@
 		}
 		{
 			id: "6AE3CA0CBEC74BD5"
+			rewards: [{
+				id: "0D7411CF1BEBE1CC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "77053A9248923B64"
 				item: { count: 1, id: "chemicalscience:block_element_f" }
@@ -1298,6 +1570,14 @@
 		}
 		{
 			id: "6DFBDFEBC3543586"
+			rewards: [{
+				id: "1804C753B3EDBAB0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B229F845C0EDD2F"
 				item: { count: 1, id: "chemicalscience:block_element_fe" }
@@ -1308,6 +1588,14 @@
 		}
 		{
 			id: "204EFF1A85E4B7E6"
+			rewards: [{
+				id: "340A82E3AAAFE59A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4485725D128B665A"
 				item: { count: 1, id: "chemicalscience:block_element_fl" }
@@ -1318,6 +1606,14 @@
 		}
 		{
 			id: "131FEB49A36025EC"
+			rewards: [{
+				id: "1B23B6D93AC9F28E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5082A3F5CB59DA71"
 				item: { count: 1, id: "chemicalscience:block_element_fm" }
@@ -1328,6 +1624,14 @@
 		}
 		{
 			id: "2AAC1B13AD766B17"
+			rewards: [{
+				id: "1C6B7EC748DD18AA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "577E5B27A2513FDC"
 				item: { count: 1, id: "chemicalscience:block_element_fr" }
@@ -1338,6 +1642,14 @@
 		}
 		{
 			id: "3F6B844D954BC6DB"
+			rewards: [{
+				id: "17B9DC6FE69819D5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "413BE65B7B32DEA1"
 				item: { count: 1, id: "chemicalscience:block_element_ga" }
@@ -1348,6 +1660,14 @@
 		}
 		{
 			id: "188F576A5C4264DA"
+			rewards: [{
+				id: "3EF58B71B3C721F7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "290779AF94453F24"
 				item: { count: 1, id: "chemicalscience:block_element_gd" }
@@ -1358,6 +1678,14 @@
 		}
 		{
 			id: "0CE8174849269BA4"
+			rewards: [{
+				id: "2402D83BBFC3254E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "15A98B9EFF23C48D"
 				item: { count: 1, id: "chemicalscience:block_element_ge" }
@@ -1368,6 +1696,14 @@
 		}
 		{
 			id: "414C47465DE94D4A"
+			rewards: [{
+				id: "78DFCF1FDC079A9C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "18AAF0EE07FA7144"
 				item: { count: 1, id: "chemicalscience:block_element_h" }
@@ -1378,6 +1714,14 @@
 		}
 		{
 			id: "51976C5E37FBCDAE"
+			rewards: [{
+				id: "4AECE1C5C337F593"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "07EB83F12F3CCFDF"
 				item: { count: 1, id: "chemicalscience:block_element_he" }
@@ -1388,6 +1732,14 @@
 		}
 		{
 			id: "24E80259EDF02EB3"
+			rewards: [{
+				id: "1EAE689A0AAC27C4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "53E0CF26C4271B3C"
 				item: { count: 1, id: "chemicalscience:block_element_hf" }
@@ -1398,6 +1750,14 @@
 		}
 		{
 			id: "5024D289FC1C0EF8"
+			rewards: [{
+				id: "729FA5F480A8397A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0E3D10E01F935A00"
 				item: { count: 1, id: "chemicalscience:block_element_hg" }
@@ -1408,6 +1768,14 @@
 		}
 		{
 			id: "26EE21E3EDCD7E3F"
+			rewards: [{
+				id: "3B7D0D2D9D27F186"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "587903FC88B0B739"
 				item: { count: 1, id: "chemicalscience:block_element_ho" }
@@ -1418,6 +1786,14 @@
 		}
 		{
 			id: "737FD012D1494C06"
+			rewards: [{
+				id: "6E17C3B0D698F437"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "060C6FAEA38C8DEA"
 				item: { count: 1, id: "chemicalscience:block_element_hs" }
@@ -1428,6 +1804,14 @@
 		}
 		{
 			id: "473595AEC796EA0B"
+			rewards: [{
+				id: "4185C0805574FB14"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "78248E8970412774"
 				item: { count: 1, id: "chemicalscience:block_element_i" }
@@ -1438,6 +1822,14 @@
 		}
 		{
 			id: "0A9A331ABE6CA685"
+			rewards: [{
+				id: "76D49ADBA7D8ECD3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5DCD5E62C3A18F9D"
 				item: { count: 1, id: "chemicalscience:block_element_in" }
@@ -1448,6 +1840,14 @@
 		}
 		{
 			id: "0A62CBEABCE7248A"
+			rewards: [{
+				id: "448168508183D99D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D3B5F6F1BBC01B9"
 				item: { count: 1, id: "chemicalscience:block_element_ir" }
@@ -1458,6 +1858,14 @@
 		}
 		{
 			id: "042FFD0C5CE15CFE"
+			rewards: [{
+				id: "41E30B64477D1085"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F32B21A6E653A84"
 				item: { count: 1, id: "chemicalscience:block_element_k" }
@@ -1468,6 +1876,14 @@
 		}
 		{
 			id: "4A997DA7705A6922"
+			rewards: [{
+				id: "35220CA02E18788F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "26D584E7EDB65A41"
 				item: { count: 1, id: "chemicalscience:block_element_kr" }
@@ -1478,6 +1894,14 @@
 		}
 		{
 			id: "41D9899CB1C058E0"
+			rewards: [{
+				id: "3914F926B4012BFE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "52A38E0018BEB212"
 				item: { count: 1, id: "chemicalscience:block_element_la" }
@@ -1488,6 +1912,14 @@
 		}
 		{
 			id: "0491A41C3EED317E"
+			rewards: [{
+				id: "2F8F600A507E6AF9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "12B8B0ED4A8617B8"
 				item: { count: 1, id: "chemicalscience:block_element_li" }
@@ -1498,6 +1930,14 @@
 		}
 		{
 			id: "234CA80D2083F537"
+			rewards: [{
+				id: "24806C9E42EDDEF9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "328120A27C8FAAB0"
 				item: { count: 1, id: "chemicalscience:block_element_lr" }
@@ -1508,6 +1948,14 @@
 		}
 		{
 			id: "57032211EC1C5A22"
+			rewards: [{
+				id: "5079A567DFF89489"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6CE89240F629B241"
 				item: { count: 1, id: "chemicalscience:block_element_lu" }
@@ -1518,6 +1966,14 @@
 		}
 		{
 			id: "4D297C7EE6287ADB"
+			rewards: [{
+				id: "2F9E468365942C56"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FFD26EE190F4629"
 				item: { count: 1, id: "chemicalscience:block_element_lv" }
@@ -1528,6 +1984,14 @@
 		}
 		{
 			id: "3A7CC90B432E6ED2"
+			rewards: [{
+				id: "44A778400E4BE336"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0BAD9DA12C839895"
 				item: { count: 1, id: "chemicalscience:block_element_mc" }
@@ -1538,6 +2002,14 @@
 		}
 		{
 			id: "21B2447F8D513DA0"
+			rewards: [{
+				id: "41B864FF31AAEEC8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EB05B635C38BF20"
 				item: { count: 1, id: "chemicalscience:block_element_md" }
@@ -1548,6 +2020,14 @@
 		}
 		{
 			id: "32A7B9251DA464CD"
+			rewards: [{
+				id: "0A809587A020E148"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2AEDA71620D821C4"
 				item: { count: 1, id: "chemicalscience:block_element_mg" }
@@ -1558,6 +2038,14 @@
 		}
 		{
 			id: "35FF0C76A46C8BB2"
+			rewards: [{
+				id: "0D3730F3C41E8508"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4394D6CF2D3B0481"
 				item: { count: 1, id: "chemicalscience:block_element_mn" }
@@ -1568,6 +2056,14 @@
 		}
 		{
 			id: "5A082EB4B8755A6D"
+			rewards: [{
+				id: "044D9BC08BB51A86"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "762C29EEBB485647"
 				item: { count: 1, id: "chemicalscience:block_element_mo" }
@@ -1578,6 +2074,14 @@
 		}
 		{
 			id: "605688362AB2F378"
+			rewards: [{
+				id: "66666F9A07933816"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "08C4B2160C629F99"
 				item: { count: 1, id: "chemicalscience:block_element_mt" }
@@ -1588,6 +2092,14 @@
 		}
 		{
 			id: "152403D257135844"
+			rewards: [{
+				id: "5F3508C5EEDC1CE6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1FFCDCC7A8816A9B"
 				item: { count: 1, id: "chemicalscience:block_element_n" }
@@ -1598,6 +2110,14 @@
 		}
 		{
 			id: "38B8A18F934961DC"
+			rewards: [{
+				id: "1880BF36077FA7DE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "72649035FB318E49"
 				item: { count: 1, id: "chemicalscience:block_element_na" }
@@ -1608,6 +2128,14 @@
 		}
 		{
 			id: "68FC435C65C8FECD"
+			rewards: [{
+				id: "399C54BB944A78C8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "47579A055CBB9102"
 				item: { count: 1, id: "chemicalscience:block_element_nb" }
@@ -1618,6 +2146,14 @@
 		}
 		{
 			id: "1D4BCAC13ED08F45"
+			rewards: [{
+				id: "7CC208867052CFB1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3F49D4B4362CEF1F"
 				item: { count: 1, id: "chemicalscience:block_element_nd" }
@@ -1628,6 +2164,14 @@
 		}
 		{
 			id: "20DB71D70A0B8249"
+			rewards: [{
+				id: "208B2D2414D9E64A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7248075301C1A90A"
 				item: { count: 1, id: "chemicalscience:block_element_ne" }
@@ -1638,6 +2182,14 @@
 		}
 		{
 			id: "16A5EE60DABF70A8"
+			rewards: [{
+				id: "74AB3A6292E56D51"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A39643A7E4390DC"
 				item: { count: 1, id: "chemicalscience:block_element_nh" }
@@ -1648,6 +2200,14 @@
 		}
 		{
 			id: "07252AA76C587AA3"
+			rewards: [{
+				id: "72B410160A52B860"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "49FC4EB5738FA471"
 				item: { count: 1, id: "chemicalscience:block_element_ni" }
@@ -1658,6 +2218,14 @@
 		}
 		{
 			id: "60003010D00E5459"
+			rewards: [{
+				id: "18894FAC9AFED8D0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "58149C8A37D5E409"
 				item: { count: 1, id: "chemicalscience:block_element_no" }
@@ -1668,6 +2236,14 @@
 		}
 		{
 			id: "4F779F888B062CF4"
+			rewards: [{
+				id: "6AC37F0C34F530F1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3DB2F23E4A98540E"
 				item: { count: 1, id: "chemicalscience:block_element_np" }
@@ -1678,6 +2254,14 @@
 		}
 		{
 			id: "74EC2C72A513A36B"
+			rewards: [{
+				id: "413915A10E6C8432"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "76C9B396DA51151B"
 				item: { count: 1, id: "chemicalscience:block_element_o" }
@@ -1688,6 +2272,14 @@
 		}
 		{
 			id: "00AD8815E4438501"
+			rewards: [{
+				id: "56F40E0490E05673"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "414F9556DAE21EDB"
 				item: { count: 1, id: "chemicalscience:block_element_os" }
@@ -1698,6 +2290,14 @@
 		}
 		{
 			id: "13E45BD3CBAA6EF8"
+			rewards: [{
+				id: "0497702CC54226C3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0BAE812BAE57505A"
 				item: { count: 1, id: "chemicalscience:block_element_p" }
@@ -1708,6 +2308,14 @@
 		}
 		{
 			id: "0FA17EBA14724147"
+			rewards: [{
+				id: "2ED6211C88739A56"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C08E10BA457F681"
 				item: { count: 1, id: "chemicalscience:block_element_pa" }
@@ -1718,6 +2326,14 @@
 		}
 		{
 			id: "2535339E55365FB9"
+			rewards: [{
+				id: "2970056462FA856A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C962B1B34E38FD4"
 				item: { count: 1, id: "chemicalscience:block_element_pb" }
@@ -1728,6 +2344,14 @@
 		}
 		{
 			id: "373BDCE941A1BFB9"
+			rewards: [{
+				id: "4F29FA02DA22D3F2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7099B2B76E5F7BC8"
 				item: { count: 1, id: "chemicalscience:block_element_pd" }
@@ -1738,6 +2362,14 @@
 		}
 		{
 			id: "07771D3FCB895155"
+			rewards: [{
+				id: "5A8431378E4AF561"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "58BEA877FD0F610D"
 				item: { count: 1, id: "chemicalscience:block_element_pm" }
@@ -1748,6 +2380,14 @@
 		}
 		{
 			id: "5367E12D40AF20CA"
+			rewards: [{
+				id: "061F73594FEA3EFB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "14829DE8411A2C9F"
 				item: { count: 1, id: "chemicalscience:block_element_po" }
@@ -1758,6 +2398,14 @@
 		}
 		{
 			id: "728B3A103B7F5AE0"
+			rewards: [{
+				id: "65AC04DC3BDD33E3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "697B09030994758C"
 				item: { count: 1, id: "chemicalscience:block_element_pr" }
@@ -1768,6 +2416,14 @@
 		}
 		{
 			id: "73A5781CA152E760"
+			rewards: [{
+				id: "6E9425B25633E227"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "780E036CD649D182"
 				item: { count: 1, id: "chemicalscience:block_element_pt" }
@@ -1778,6 +2434,14 @@
 		}
 		{
 			id: "4D617B3B45C3A802"
+			rewards: [{
+				id: "61F2D860D8EF3972"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CFE4174888B6620"
 				item: { count: 1, id: "chemicalscience:block_element_pu" }
@@ -1788,6 +2452,14 @@
 		}
 		{
 			id: "5C01B0E1386010E6"
+			rewards: [{
+				id: "7D7FC329D25FE5BB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C520331EA1D3D07"
 				item: { count: 1, id: "chemicalscience:block_element_ra" }
@@ -1798,6 +2470,14 @@
 		}
 		{
 			id: "73DD0F056043F343"
+			rewards: [{
+				id: "3401D4E1568F39B9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4203B0F92D132F99"
 				item: { count: 1, id: "chemicalscience:block_element_rb" }
@@ -1808,6 +2488,14 @@
 		}
 		{
 			id: "35C2998D55C4FCB9"
+			rewards: [{
+				id: "5234A2B5FEF553FC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0023C831766EA0EA"
 				item: { count: 1, id: "chemicalscience:block_element_re" }
@@ -1818,6 +2506,14 @@
 		}
 		{
 			id: "1D128831D1DB216D"
+			rewards: [{
+				id: "14602D57C95E6B86"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A03B514AEF75BB4"
 				item: { count: 1, id: "chemicalscience:block_element_rf" }
@@ -1828,6 +2524,14 @@
 		}
 		{
 			id: "71A3EF47BFAF57A3"
+			rewards: [{
+				id: "383BFEF4B5B018D5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5BC9C1F2A068AEF9"
 				item: { count: 1, id: "chemicalscience:block_element_rg" }
@@ -1838,6 +2542,14 @@
 		}
 		{
 			id: "7E0C483177D46193"
+			rewards: [{
+				id: "325A834C5EA56B46"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A76923145765E7E"
 				item: { count: 1, id: "chemicalscience:block_element_rh" }
@@ -1848,6 +2560,14 @@
 		}
 		{
 			id: "70BF6268F5EA9582"
+			rewards: [{
+				id: "008FBFF04E2BBB81"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D133C0AB34FC3B3"
 				item: { count: 1, id: "chemicalscience:block_element_rn" }
@@ -1858,6 +2578,14 @@
 		}
 		{
 			id: "1A9B966587CEA54B"
+			rewards: [{
+				id: "36D8ABF77F8864C2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4ACEFCA0DAA4FAF4"
 				item: { count: 1, id: "chemicalscience:block_element_ru" }
@@ -1868,6 +2596,14 @@
 		}
 		{
 			id: "6DE41159D0EADE06"
+			rewards: [{
+				id: "62B15DF40661B717"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2AC5D2B17178E936"
 				item: { count: 1, id: "chemicalscience:block_element_s" }
@@ -1878,6 +2614,14 @@
 		}
 		{
 			id: "104053C175B245B3"
+			rewards: [{
+				id: "2794A33116137158"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "71FB4DC22B8666B7"
 				item: { count: 1, id: "chemicalscience:block_element_sb" }
@@ -1888,6 +2632,14 @@
 		}
 		{
 			id: "5B293BC24C4D351C"
+			rewards: [{
+				id: "00103FE06B917277"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E66B04B212DF64D"
 				item: { count: 1, id: "chemicalscience:block_element_sc" }
@@ -1898,6 +2650,14 @@
 		}
 		{
 			id: "16601433600B432C"
+			rewards: [{
+				id: "6CA4FEC883D9D20E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FCD591A1CDFC69C"
 				item: { count: 1, id: "chemicalscience:block_element_se" }
@@ -1908,6 +2668,14 @@
 		}
 		{
 			id: "7C692DDE7AC49BB9"
+			rewards: [{
+				id: "5AB57843969E0F41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1A209566D954FEA8"
 				item: { count: 1, id: "chemicalscience:block_element_sg" }
@@ -1918,6 +2686,14 @@
 		}
 		{
 			id: "45C045C652FAA406"
+			rewards: [{
+				id: "09A24B7A26276E32"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "341E40F949EA355F"
 				item: { count: 1, id: "chemicalscience:block_element_si" }
@@ -1928,6 +2704,14 @@
 		}
 		{
 			id: "024171F0F925AB01"
+			rewards: [{
+				id: "31B095BBC46E2B97"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "336126A70047A093"
 				item: { count: 1, id: "chemicalscience:block_element_sm" }
@@ -1938,6 +2722,14 @@
 		}
 		{
 			id: "48FB27DC075F3A06"
+			rewards: [{
+				id: "19A3F3BF18AA7ACA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "51465A22337C2BF7"
 				item: { count: 1, id: "chemicalscience:block_element_sn" }
@@ -1948,6 +2740,14 @@
 		}
 		{
 			id: "73A359F03D088213"
+			rewards: [{
+				id: "70CD31FB257CF8EB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1AE80148670D064D"
 				item: { count: 1, id: "chemicalscience:block_element_sr" }
@@ -1958,6 +2758,14 @@
 		}
 		{
 			id: "508C540EA6F05FB0"
+			rewards: [{
+				id: "2CF0D96B185A6774"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "110CE983CAA6549B"
 				item: { count: 1, id: "chemicalscience:block_element_ta" }
@@ -1968,6 +2776,14 @@
 		}
 		{
 			id: "678ECF40F302482A"
+			rewards: [{
+				id: "31AC4F1FE1896697"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "716657DF42B93D08"
 				item: { count: 1, id: "chemicalscience:block_element_tb" }
@@ -1978,6 +2794,14 @@
 		}
 		{
 			id: "18189D1812AFCDC8"
+			rewards: [{
+				id: "65D6D78A062A44B8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "379CA43EA2A82CD7"
 				item: { count: 1, id: "chemicalscience:block_element_tc" }
@@ -1988,6 +2812,14 @@
 		}
 		{
 			id: "091425619C54211D"
+			rewards: [{
+				id: "53930D0E693E1275"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "53E0BB6CD94901EC"
 				item: { count: 1, id: "chemicalscience:block_element_te" }
@@ -1998,6 +2830,14 @@
 		}
 		{
 			id: "1B1639D594CE956E"
+			rewards: [{
+				id: "7B15F971C6E94C4C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4852BCE1479318C0"
 				item: { count: 1, id: "chemicalscience:block_element_th" }
@@ -2008,6 +2848,14 @@
 		}
 		{
 			id: "487AADACE98CEF73"
+			rewards: [{
+				id: "23ADA69F6D13790F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D1AB73AA7F5CBAC"
 				item: { count: 1, id: "chemicalscience:block_element_ti" }
@@ -2018,6 +2866,14 @@
 		}
 		{
 			id: "1612BEED7780B329"
+			rewards: [{
+				id: "0A727DB74A3AB673"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "205FD4F6528525B7"
 				item: { count: 1, id: "chemicalscience:block_element_tl" }
@@ -2028,6 +2884,14 @@
 		}
 		{
 			id: "0167E927AF760226"
+			rewards: [{
+				id: "7E25808AE351389E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "50483C8EBCAA4E28"
 				item: { count: 1, id: "chemicalscience:block_element_tm" }
@@ -2038,6 +2902,14 @@
 		}
 		{
 			id: "5FCAE565F797F551"
+			rewards: [{
+				id: "6499D34BF16C63DC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "11906084946067EB"
 				item: { count: 1, id: "chemicalscience:block_element_ts" }
@@ -2048,6 +2920,14 @@
 		}
 		{
 			id: "0CE43C74CB5358AF"
+			rewards: [{
+				id: "4DE7F2C1D439648A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "54E72ACB6CC35E3C"
 				item: { count: 1, id: "chemicalscience:block_element_u" }
@@ -2058,6 +2938,14 @@
 		}
 		{
 			id: "61B57063B316CACF"
+			rewards: [{
+				id: "4EB815FB63B4C6BD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5292066F81FF782C"
 				item: { count: 1, id: "chemicalscience:block_element_v" }
@@ -2068,6 +2956,14 @@
 		}
 		{
 			id: "4B676670BD99D77A"
+			rewards: [{
+				id: "07E7542A0B56ACB7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A6E47675929747B"
 				item: { count: 1, id: "chemicalscience:block_element_w" }
@@ -2078,6 +2974,14 @@
 		}
 		{
 			id: "1712ECD378C79F4F"
+			rewards: [{
+				id: "672FBE24667C00EE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "38E7A396C5847FB7"
 				item: { count: 1, id: "chemicalscience:block_element_xe" }
@@ -2088,6 +2992,14 @@
 		}
 		{
 			id: "249F076A4EA32990"
+			rewards: [{
+				id: "7E5B0DD10247CF3C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "142EC29813F5E90F"
 				item: { count: 1, id: "chemicalscience:block_element_y" }
@@ -2098,6 +3010,14 @@
 		}
 		{
 			id: "270C9AC678887E13"
+			rewards: [{
+				id: "167A4C285472AFDD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "586EFF1365028926"
 				item: { count: 1, id: "chemicalscience:block_element_yb" }
@@ -2108,6 +3028,14 @@
 		}
 		{
 			id: "3344920AE5FD9FF2"
+			rewards: [{
+				id: "6A1A7D6806140A77"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3F02857E502EBA3B"
 				item: { count: 1, id: "chemicalscience:block_element_zn" }
@@ -2118,6 +3046,14 @@
 		}
 		{
 			id: "02B5F93DE466A6B0"
+			rewards: [{
+				id: "7D4B454FF3AC3A45"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "54386CFD03BC3A7F"
 				item: { count: 1, id: "chemicalscience:block_element_zr" }
@@ -2132,9 +3068,12 @@
 			}
 			id: "2D840427666690DE"
 			rewards: [{
-				id: "710DD141499F5AFD"
-				type: "xp"
-				xp: 50
+				id: "77794958AC55840C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5646908EEC896010"
@@ -2147,9 +3086,12 @@
 		{
 			id: "6EBFED47D8CB0107"
 			rewards: [{
-				id: "4E8CBD55BDF61B83"
-				type: "xp"
-				xp: 100
+				id: "4F11E92091EEC210"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2169,9 +3111,12 @@
 		{
 			id: "537F99C3ACB98407"
 			rewards: [{
-				id: "308B7AB47F15ADA0"
-				type: "xp"
-				xp: 100
+				id: "1A535107204F7C59"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2192,9 +3137,12 @@
 			dependencies: ["537F99C3ACB98407"]
 			id: "420F1D55A324D0A5"
 			rewards: [{
-				id: "6A6192453A1C77CE"
-				type: "xp"
-				xp: 200
+				id: "377C1A5DB5D86E04"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2214,9 +3162,12 @@
 		{
 			id: "278AC3B38FD46C3A"
 			rewards: [{
-				id: "2F1984470F76FB3B"
-				type: "xp"
-				xp: 100
+				id: "103B4C8726AD0CE2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2237,9 +3188,12 @@
 			dependencies: ["278AC3B38FD46C3A"]
 			id: "73E2813A33955266"
 			rewards: [{
-				id: "6C4B24A4A8F74D4D"
-				type: "xp"
-				xp: 150
+				id: "15BFF653536300BF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "155B337E084039BC"
@@ -2253,9 +3207,12 @@
 			dependencies: ["73E2813A33955266"]
 			id: "5AD8F358758F9271"
 			rewards: [{
-				id: "0E2E8429F2A9BD3D"
-				type: "xp"
-				xp: 250
+				id: "60D0012DAAAC6DE6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5A7B0DD0E69C6B38"
@@ -2269,9 +3226,12 @@
 			dependencies: ["60776F840FE7827D"]
 			id: "32322C3898AF4549"
 			rewards: [{
-				id: "1C0E0240CBF44532"
-				type: "xp"
-				xp: 350
+				id: "3C334EEF7071ACD2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6B265957169216AC"
@@ -2285,9 +3245,12 @@
 			dependencies: ["55C0F3D89AC130B5"]
 			id: "60776F840FE7827D"
 			rewards: [{
-				id: "44699E76DC82A831"
-				type: "xp"
-				xp: 200
+				id: "07F1817800C9DC28"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "17EECE269E6FFB50"
@@ -2300,9 +3263,12 @@
 		{
 			id: "55C0F3D89AC130B5"
 			rewards: [{
-				id: "0009965556838BB2"
-				type: "xp"
-				xp: 150
+				id: "0FA149EA1E953278"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2322,9 +3288,12 @@
 		{
 			id: "6D0238CB11134E93"
 			rewards: [{
-				id: "00B7440105B0BB86"
-				type: "xp"
-				xp: 200
+				id: "45A2A7D7DB96F72C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2345,9 +3314,12 @@
 			dependencies: ["6D0238CB11134E93"]
 			id: "20DA546B525A81CD"
 			rewards: [{
-				id: "5E68B65F38FBFA16"
-				type: "xp"
-				xp: 300
+				id: "302AB179AD3DACDF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2368,9 +3340,12 @@
 			dependencies: ["32322C3898AF4549"]
 			id: "41551E05B76330D8"
 			rewards: [{
-				id: "27075E83BE9CD140"
-				type: "xp"
-				xp: 600
+				id: "4E7B1A428F9DF2E1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2396,9 +3371,12 @@
 			dependencies: ["06080F1C5C90AEA1"]
 			id: "4F73698DCD641803"
 			rewards: [{
-				id: "664466AC8328A023"
-				type: "xp"
-				xp: 150
+				id: "5F1014E833A8333E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "123CF067BD955759"
@@ -2411,9 +3389,12 @@
 		{
 			id: "06080F1C5C90AEA1"
 			rewards: [{
-				id: "77CA4538647A4745"
-				type: "xp"
-				xp: 100
+				id: "22366EE5E4281ACD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2433,9 +3414,12 @@
 		{
 			id: "7DD737A3D410068E"
 			rewards: [{
-				id: "44AB48BD484CFB73"
-				type: "xp"
-				xp: 400
+				id: "6C80F2157582BDC0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "46C578BB015B8FA2"
@@ -2448,9 +3432,12 @@
 		{
 			id: "03D750924AA6AD4B"
 			rewards: [{
-				id: "40F5D3C7616EBD11"
-				type: "xp"
-				xp: 300
+				id: "56C499C006C6AC4F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2475,9 +3462,12 @@
 		{
 			id: "51FD640E27CF45E2"
 			rewards: [{
-				id: "39B81440DB83F799"
-				type: "xp"
-				xp: 400
+				id: "33FB2394C94DB924"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "062A00B4DDFA7A87"
@@ -2490,9 +3480,12 @@
 		{
 			id: "5004E34D18C39F48"
 			rewards: [{
-				id: "4ACAAA5349D6361A"
-				type: "xp"
-				xp: 250
+				id: "67292B650B310261"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2512,9 +3505,12 @@
 		{
 			id: "7ADF6BF61F2FDE18"
 			rewards: [{
-				id: "63C7F5930E412F04"
-				type: "xp"
-				xp: 400
+				id: "0B82C26DF6E73D1B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "32F600C528CA6B9C"
@@ -2527,9 +3523,12 @@
 		{
 			id: "2C639588EAAEBDED"
 			rewards: [{
-				id: "7832FCE376326142"
-				type: "xp"
-				xp: 300
+				id: "242D10D3A1F69422"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2549,9 +3548,12 @@
 		{
 			id: "72D15C4FE866B550"
 			rewards: [{
-				id: "47630304138E8BC8"
-				type: "xp"
-				xp: 500
+				id: "165A8DA143C41B09"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0DFAB34923451F05"
@@ -2564,9 +3566,12 @@
 		{
 			id: "1DC86C8EC2E4A411"
 			rewards: [{
-				id: "34BA189A0CC33B6B"
-				type: "xp"
-				xp: 700
+				id: "51073BB9718BCF97"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "17F03B27B17D9DB1"
@@ -2579,9 +3584,12 @@
 		{
 			id: "40885AC1B6588E60"
 			rewards: [{
-				id: "162F53A55B0AACF6"
-				type: "xp"
-				xp: 500
+				id: "33E71B4D6F4BA8D7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "62316B8717ABFFD5"
@@ -2594,9 +3602,12 @@
 		{
 			id: "6834A93F6A29F72C"
 			rewards: [{
-				id: "755AB2FA7D7D2B52"
-				type: "xp"
-				xp: 800
+				id: "33E95CA8F2CCEB6E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "556A39AC9348DD5F"
@@ -2609,9 +3620,12 @@
 		{
 			id: "6229D8F3D0048705"
 			rewards: [{
-				id: "6AF4D2D7C5B8498D"
-				type: "xp"
-				xp: 500
+				id: "15BABEE13C8AEE41"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "143C114473F8D3C8"
@@ -2623,21 +3637,14 @@
 		}
 		{
 			id: "4A5AA87DAA514E24"
-			rewards: [
-				{
-					id: "51E868B6D76D3ED4"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "1E777EF53D9609BB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "5A0985F0E1D47CA5"
-					item: {
-						count: 1
-						id: "chemicalscience:organicsolarpanel"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "22FC6AE1B23EF1A1"
 				item: { count: 1, id: "chemicalscience:organicsolarpanel" }
@@ -2649,9 +3656,12 @@
 		{
 			id: "055DB4BAACB038A7"
 			rewards: [{
-				id: "0F6D59AE20CFB8BA"
-				type: "xp"
-				xp: 400
+				id: "23336113B3885EB2"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2671,9 +3681,12 @@
 		{
 			id: "28E09B5595C6F216"
 			rewards: [{
-				id: "363FEEF604B54D80"
-				type: "xp"
-				xp: 400
+				id: "357A2EBE5D29255C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "36DEB51F859E70C3"
@@ -2686,9 +3699,12 @@
 		{
 			id: "3ED53A21D5E8D105"
 			rewards: [{
-				id: "3B5D5BE40E845CAB"
-				type: "xp"
-				xp: 500
+				id: "5A559C908101E7AB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [
 				{
@@ -2708,9 +3724,12 @@
 		{
 			id: "681C69F13176580A"
 			rewards: [{
-				id: "4F7945B2935F9A1A"
-				type: "xp"
-				xp: 400
+				id: "16AFF7EDC63E3B5F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3FCCBFAC8789DAE1"
@@ -2723,9 +3742,12 @@
 		{
 			id: "5FC93ADBB0CB2410"
 			rewards: [{
-				id: "0E76DDDB65635E9D"
-				type: "xp"
-				xp: 600
+				id: "5D8E46E5DD1D06F4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "17D3C62D8DC8A4C8"
@@ -2738,9 +3760,12 @@
 		{
 			id: "41A425BA1CDD1D8D"
 			rewards: [{
-				id: "03B57D9C27BEE18F"
-				type: "xp"
-				xp: 500
+				id: "2E18D2F1FFB4EDBF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3F9E772BA4BC53E6"

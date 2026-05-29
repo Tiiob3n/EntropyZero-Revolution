@@ -20,6 +20,14 @@
 	quests: [
 		{
 			id: "02EA5F44D1A26051"
+			rewards: [{
+				id: "75AEAA051E8F8A88"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F4248610B7A63BF"
 				item: { count: 1, id: "toms_storage:inventory_connector" }
@@ -30,6 +38,14 @@
 		}
 		{
 			id: "4D9CAC8CA58A9EE4"
+			rewards: [{
+				id: "540651BFF7813526"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F4D494F75CDD83E"
 				item: { count: 1, id: "toms_storage:storage_terminal" }
@@ -40,6 +56,14 @@
 		}
 		{
 			id: "4276C63E8F768417"
+			rewards: [{
+				id: "0609041E23BFE1DF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "06684895D5F030B0"
 				item: { count: 1, id: "toms_storage:crafting_terminal" }
@@ -50,6 +74,14 @@
 		}
 		{
 			id: "02F3A93A4E18501D"
+			rewards: [{
+				id: "77538264A764C7AE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "499E0E901C94F88A"
 				item: { count: 1, id: "toms_storage:inventory_cable" }
@@ -60,6 +92,14 @@
 		}
 		{
 			id: "25B032E313CA7C16"
+			rewards: [{
+				id: "5BDC536077643D4E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "02608A84BCF9850A"
 				item: { count: 1, id: "toms_storage:inventory_configurator" }
@@ -70,6 +110,14 @@
 		}
 		{
 			id: "7E49974BE4B11334"
+			rewards: [{
+				id: "29A62C530AC96711"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F98ED7A9108F2EE"
 				item: { count: 1, id: "toms_storage:inventory_interface" }
@@ -80,6 +128,14 @@
 		}
 		{
 			id: "238DA88D0BF6C947"
+			rewards: [{
+				id: "015A974DA865B688"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A762E2D4082567C"
 				item: { count: 1, id: "toms_storage:inventory_configurator" }
@@ -91,6 +147,14 @@
 		{
 			dependencies: ["4276C63E8F768417"]
 			id: "217C04E12BFD8EFD"
+			rewards: [{
+				id: "24C7E514017A859E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5C7C22BA305D4508"
 				item: { count: 1, id: "toms_storage:wireless_terminal" }
@@ -102,6 +166,14 @@
 		{
 			dependencies: ["217C04E12BFD8EFD"]
 			id: "4D305EFE72F20912"
+			rewards: [{
+				id: "5F508849D7539010"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "47AEF960630882A3"
 				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }

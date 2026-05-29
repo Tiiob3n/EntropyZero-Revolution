@@ -46,25 +46,15 @@
 	quests: [
 		{
 			id: "0581CEA8CC22EAEA"
-			rewards: [
-				{
-					id: "440CF9B5236A7FDB"
-					type: "xp_levels"
-					xp_levels: 250
+			rewards: [{
+				count: 10
+				id: "63C03A9E85E499CF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "405DD834AA9ABE37"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "2A115667CCC2252A"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			size: 1.0d
 			tasks: [{
 				id: "7331C9690FA0710D"
@@ -76,25 +66,14 @@
 		}
 		{
 			id: "0E5DEFC64CA2C689"
-			rewards: [
-				{
-					id: "4E9E5F8533C357C5"
-					type: "xp_levels"
-					xp_levels: 5
+			rewards: [{
+				id: "66EE9943B5B50191"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "204BD32CD5F47639"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "1FEC138D4EDD7453"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "53EDFF35A86A90E6"
 				item: { count: 1, id: "pocketstorage:psu_1" }
@@ -106,25 +85,14 @@
 		{
 			dependencies: ["0E5DEFC64CA2C689"]
 			id: "11E9375165104C86"
-			rewards: [
-				{
-					id: "5884222F5A110500"
-					type: "xp_levels"
-					xp_levels: 5
+			rewards: [{
+				id: "6108419FFFB62A37"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "0719755C2FC85BDB"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "784A971B6B100E48"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "636277109F43FD1F"
 				item: { count: 1, id: "pocketstorage:psu_2" }
@@ -136,25 +104,14 @@
 		{
 			dependencies: ["11E9375165104C86"]
 			id: "316E2663CF1E8FAE"
-			rewards: [
-				{
-					id: "69DB6B82F2BB174F"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "652913ACD0EE96EA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "22EE87478E135B55"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "720569E1E67032B8"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "19F7A337E97CDBF7"
 				item: { count: 1, id: "pocketstorage:psu_3" }
@@ -166,25 +123,14 @@
 		{
 			dependencies: ["316E2663CF1E8FAE"]
 			id: "4949A6336CADD8C8"
-			rewards: [
-				{
-					id: "536A58C876988787"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "4F0A4AD66DB16375"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5838C49B58612ABA"
-					table_id: 4282894719594653350L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "73795647641E1132"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5671BC84A733DCB9"
 				item: { count: 1, id: "pocketstorage:psu_4" }
@@ -195,25 +141,14 @@
 		}
 		{
 			id: "20485272D6C28AD0"
-			rewards: [
-				{
-					id: "7451AB332B29F75B"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "67E9F8A347E76B3D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6565ABB23564A907"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "0B7C08691801DA57"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "33B4C4527F4EE443"
 				item: { count: 1, id: "buildinggadgets2:gadget_building" }
@@ -224,25 +159,14 @@
 		}
 		{
 			id: "7A34A9D334EB48E8"
-			rewards: [
-				{
-					id: "6131F069841D7208"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "607FDB06DFAC4702"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "5E129DC0A4C20828"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3783FB2B609C35EC"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "228B19DDABCF7A28"
 				item: { count: 1, id: "buildinggadgets2:gadget_exchanging" }
@@ -253,25 +177,14 @@
 		}
 		{
 			id: "54FA0B55FF345250"
-			rewards: [
-				{
-					id: "6E56879E886D5933"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "26C53E8A3134868D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "207DF0EBFD8732E7"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "566ECEFFDE93129E"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6515B77F26DE2FF4"
 				item: { count: 1, id: "buildinggadgets2:gadget_copy_paste" }
@@ -282,25 +195,14 @@
 		}
 		{
 			id: "6D553FD1190804C0"
-			rewards: [
-				{
-					id: "79670ACD78CE79F7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "37C1D58F2BCEA107"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "1143236168199D30"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6408FB13BB53F15C"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B5974830B23BF54"
 				item: { components: { "buildinggadgets2:paste_replace_toggle": 1b }, count: 1, id: "buildinggadgets2:gadget_cut_paste" }
@@ -311,20 +213,14 @@
 		}
 		{
 			id: "6688FA867DE25CB5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "52AB634EA5991E6B"
-					table_id: 6630463358553561420L
-					type: "random"
+			rewards: [{
+				id: "374349F435653CF3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "70AAE280EC9EDCA6"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "18FE877A7B9F7DF2"
 				item: { count: 1, id: "buildinggadgets2:gadget_destruction" }
@@ -335,19 +231,14 @@
 		}
 		{
 			id: "7ACA5CAFE598F197"
-			rewards: [
-				{
-					id: "0EE33461A00EDB9E"
-					type: "xp_levels"
-					xp_levels: 5
+			rewards: [{
+				id: "221A911974AE418D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6E5E997383F0AF33"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "53ACE26B1A656F6A"
 				item: { count: 1, id: "simplemagnets:basicmagnet" }
@@ -359,25 +250,14 @@
 		{
 			dependencies: ["7ACA5CAFE598F197"]
 			id: "000A65AEC7E3DA98"
-			rewards: [
-				{
-					id: "7FE0B030B8DE1A34"
-					type: "xp_levels"
-					xp_levels: 10
+			rewards: [{
+				id: "60F274779D433D50"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "350CF5C491AFDB8B"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "4FD08A2697CCD442"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "39740C29C8A47607"
 				item: { count: 1, id: "simplemagnets:advancedmagnet" }
@@ -388,25 +268,14 @@
 		}
 		{
 			id: "4BB88685AB949225"
-			rewards: [
-				{
-					id: "033C61B21CBE3354"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "73BC49ADEA704809"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6E007A7B97A5B75F"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "3F1C8E72C556B0E2"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E65163EC87C9C62"
 				item: { count: 1, id: "trashcans:liquid_trash_can" }
@@ -422,25 +291,14 @@
 				"4BB88685AB949225"
 			]
 			id: "4199D209BCDEBA70"
-			rewards: [
-				{
-					id: "6540516E5D0A71A1"
-					type: "xp_levels"
-					xp_levels: 5
+			rewards: [{
+				id: "357F6C77E4F71233"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "16FB490805F63756"
-					table_id: 8196712779771189778L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "454A3E744208AB3A"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "445D729C1A9A7C0B"
 				item: { count: 1, id: "trashcans:ultimate_trash_can" }
@@ -451,25 +309,14 @@
 		}
 		{
 			id: "098E841F2D46EFEF"
-			rewards: [
-				{
-					id: "179CC1CFC6AF5028"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "08B893543F653F83"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "45CD3DD7A3D33EFF"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "1F1EDAA981AC187B"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B5D5F25E98CBB43"
 				item: { count: 1, id: "trashcans:item_trash_can" }
@@ -480,25 +327,14 @@
 		}
 		{
 			id: "06F9AFD5A624278C"
-			rewards: [
-				{
-					id: "57608886A6B449F7"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "55112438BE61B532"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "23A9FBE49723E0AC"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "485022E5949880E1"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D7C663B47B1A107"
 				item: { count: 1, id: "trashcans:energy_trash_can" }
@@ -509,25 +345,14 @@
 		}
 		{
 			id: "063512E2FD23CE20"
-			rewards: [
-				{
-					id: "479C5EA9C3A8174C"
-					type: "xp_levels"
-					xp_levels: 5
+			rewards: [{
+				id: "22EDDD4D6A8C5521"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "563720E17DEAC051"
-					table_id: 6630463358553561420L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "74FC73B8A228DAFE"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "30C97F05179FB009"
 				item: { count: 1, id: "naturescompass:naturescompass" }
@@ -538,19 +363,14 @@
 		}
 		{
 			id: "1B93AF57CC08E0FD"
-			rewards: [
-				{
-					id: "794F6C56718F6587"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "43347024CAF7F278"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "3ACE8C6F8A93E9A6"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D5DCB264F7FAAB6"
 				item: { count: 1, id: "explorerscompass:explorerscompass" }
@@ -561,19 +381,14 @@
 		}
 		{
 			id: "4B5DF94AC3786001"
-			rewards: [
-				{
-					id: "0238D84EE1CC0787"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "6193B51FCD448401"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "75F2D1F3F2A926B0"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EB8451454058253"
 				item: { count: 1, id: "factory_blocks:factory" }
@@ -584,25 +399,14 @@
 		}
 		{
 			id: "2F8CB1431E8D48D0"
-			rewards: [
-				{
-					id: "73D557BCA370F760"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "4420688ADCC1C2CD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6DABF07BAB62246A"
-					table_id: 2380100013034158480L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "462CC28824F3B40F"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6428E3A06300C711"
 				item: { count: 1, id: "chisel:chisel" }
@@ -613,19 +417,14 @@
 		}
 		{
 			id: "42D067E9FD3E28C2"
-			rewards: [
-				{
-					id: "17ED46C79C0A1B4E"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "76238B003D15C854"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "70CAD45608C00544"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "61D3DC845728CC0A"
@@ -653,25 +452,14 @@
 		}
 		{
 			id: "0BA52FFAB245C91D"
-			rewards: [
-				{
-					id: "5640E992E1C42B16"
-					type: "xp"
-					xp: 1000
+			rewards: [{
+				id: "439CB9B3D3F729B0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "13C6A91BB8D2CF9E"
-					table_id: 4912840295634041663L
-					type: "random"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "6EE579888C31F989"
-					table_id: 7498693527261400198L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "38A7BE7BE84ED997"

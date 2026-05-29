@@ -17,19 +17,14 @@
 	quests: [
 		{
 			id: "393802CA04EE6F50"
-			rewards: [
-				{
-					id: "5C5F8A3CE33EFF06"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "0B08E31A3378C781"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "6F93BC4B9A006108"
-					table_id: 841726989815818720L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "7773EF1334B47EFC"
 				item: { count: 1, id: "enderstorage:ender_pouch" }
@@ -40,19 +35,14 @@
 		}
 		{
 			id: "33521611AB209EAA"
-			rewards: [
-				{
-					id: "15A1BB997EBA2133"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "78B8A0A3144ECE58"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "2EF66A7DFA7DF1C5"
-					table_id: 841726989815818720L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "00DEBC65C79933FB"
 				item: { count: 1, id: "enderstorage:ender_tank" }
@@ -63,19 +53,14 @@
 		}
 		{
 			id: "28B4CBA64528FE61"
-			rewards: [
-				{
-					id: "5EBEC50FA9381EE5"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "73B12A15C88FDB5E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7500888AACFAE25A"
-					table_id: 841726989815818720L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "6DA7230B5EDCFB79"
 				item: { count: 1, id: "enderstorage:ender_chest" }
@@ -86,19 +71,14 @@
 		}
 		{
 			id: "15B82F7CB73AC018"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2626D02BFD28B49B"
-					table_id: 841726989815818720L
-					type: "random"
+			rewards: [{
+				id: "26B2C981576D1FC7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "2B4031361D602851"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "57ED716F37ACE428"
 				item: { count: 1, id: "enderbotanypots:ender_botany_pot" }
@@ -109,19 +89,14 @@
 		}
 		{
 			id: "46849F1B2399C52B"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4DCF3FA263530F80"
-					table_id: 841726989815818720L
-					type: "random"
+			rewards: [{
+				id: "5A644EAAAED30E0B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "10F24A4F22A738F2"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "04FD2AEDE40AFE78"
 				item: { count: 1, id: "enderbotanypots:elite_ender_botany_pot" }
@@ -132,19 +107,14 @@
 		}
 		{
 			id: "18436C10C034D1EE"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "02BFE676D4C4BDC6"
-					table_id: 841726989815818720L
-					type: "random"
+			rewards: [{
+				id: "7BF124617150FBB8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					id: "7D39F358889A442D"
-					type: "xp"
-					xp: 100
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "343B89002FEAE973"
 				item: { count: 1, id: "enderbotanypots:ultra_ender_botany_pot" }
@@ -155,19 +125,14 @@
 		}
 		{
 			id: "2C939876AC5A27EC"
-			rewards: [
-				{
-					id: "2FABFC9AE752E568"
-					type: "xp"
-					xp: 100
+			rewards: [{
+				id: "78C6B6D0F3AA66E7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "62121BADF6E36C65"
-					table_id: 841726989815818720L
-					type: "random"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "3FA980D05B873409"
 				item: { count: 1, id: "enderbotanypots:mega_ender_botany_pot" }

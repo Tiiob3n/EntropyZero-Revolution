@@ -123,9 +123,12 @@
 			dependencies: ["56480C71A2DDDD01"]
 			id: "727C3A2ACE241A33"
 			rewards: [{
-				id: "638924157CFF4668"
-				type: "xp"
-				xp: 100
+				id: "1AD055C701EA0382"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0902107CE12BBBE6"
@@ -138,9 +141,12 @@
 		{
 			id: "6D9CA50C9FDF3343"
 			rewards: [{
-				id: "581C6653BD5CF1E9"
-				type: "xp"
-				xp: 100
+				id: "4C1879F8871AAD69"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2BC0CF5BA30BCA8A"
@@ -154,9 +160,12 @@
 			dependencies: ["6D9CA50C9FDF3343"]
 			id: "56480C71A2DDDD01"
 			rewards: [{
-				id: "13ACDE94E1E7A00F"
-				type: "xp"
-				xp: 100
+				id: "286F0CDD0F7F16F0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "1FFD69E28651910A"
@@ -170,9 +179,12 @@
 			dependencies: ["06BF9FFED97DD01A"]
 			id: "4EBEC99EDC0031A8"
 			rewards: [{
-				id: "3E8E12FB7FF5AA96"
-				type: "xp"
-				xp: 100
+				id: "6F06CFC2BC6E8741"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2ECC0090D102ADAD"
@@ -186,9 +198,12 @@
 			dependencies: ["4EBEC99EDC0031A8"]
 			id: "1D7AA0A864E9B0BE"
 			rewards: [{
-				id: "50704F4973B7A27D"
-				type: "xp"
-				xp: 100
+				id: "684347C95D30DB02"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "21365AE516B1BDE8"
@@ -202,9 +217,12 @@
 			dependencies: ["1D7AA0A864E9B0BE"]
 			id: "0B021E0E90655139"
 			rewards: [{
-				id: "2E64C118396A9D04"
-				type: "xp"
-				xp: 100
+				id: "27C2A4BCEB71E42C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "00C63475B3AD817D"
@@ -218,9 +236,12 @@
 			dependencies: ["0B021E0E90655139"]
 			id: "4846D4E3C140E8E4"
 			rewards: [{
-				id: "64D74D1F7D4AF877"
-				type: "xp"
-				xp: 100
+				id: "4501F6E830CB3EA3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "132AE27AD18B3E99"
@@ -234,9 +255,12 @@
 			dependencies: ["0B021E0E90655139"]
 			id: "595E9D2DAB044F28"
 			rewards: [{
-				id: "17A4C4835B2735EA"
-				type: "xp"
-				xp: 100
+				id: "4E073747C8FD2E40"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "70FC5ADA38B66A39"
@@ -250,9 +274,12 @@
 			dependencies: ["56480C71A2DDDD01"]
 			id: "420A80854B55A674"
 			rewards: [{
-				id: "03581461DF8471EA"
-				type: "xp"
-				xp: 100
+				id: "6D2FF4F6510AF843"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "4F99D57FE5C6CA52"
@@ -266,9 +293,12 @@
 			dependencies: ["56480C71A2DDDD01"]
 			id: "03CED53E18C9D87E"
 			rewards: [{
-				id: "57AA43324B2A6416"
-				type: "xp"
-				xp: 100
+				id: "2B2173A151137F1D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3BED259B89689997"
@@ -282,9 +312,12 @@
 			dependencies: ["03CED53E18C9D87E"]
 			id: "183130EC91D24C79"
 			rewards: [{
-				id: "0838180143B44723"
-				type: "xp"
-				xp: 100
+				id: "2AD35357CBE90CBD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6EE7B0D2CB2FB566"
@@ -298,9 +331,12 @@
 			dependencies: ["03CED53E18C9D87E"]
 			id: "06BF9FFED97DD01A"
 			rewards: [{
-				id: "2B5DCF5DACB72C16"
-				type: "xp"
-				xp: 1000
+				id: "216A5CA17100973D"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "317E6775D7A60DC2"
@@ -314,9 +350,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4830F01FFB7CB970"
 			rewards: [{
-				id: "4C95A9ABADAEA479"
-				type: "xp"
-				xp: 1000
+				id: "4845578BA222C6D1"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5ED22E6EDCCD4F24"
@@ -330,9 +369,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "39C0CB52F511D9CB"
 			rewards: [{
-				id: "51F2FDBFFC5C087A"
-				type: "xp"
-				xp: 1000
+				id: "7B6DEB9EC56F66BF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "068D7041738CEE3D"
@@ -346,9 +388,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "07674D6557ABF61D"
 			rewards: [{
-				id: "2F471E27ABF6B261"
-				type: "xp"
-				xp: 1000
+				id: "3B590BDB68ADF8F9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "76F057FD1A8F5631"
@@ -362,9 +407,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "01EE8A2B3030EF76"
 			rewards: [{
-				id: "352748BF0379DE26"
-				type: "xp"
-				xp: 1000
+				id: "108A3C850E297A5C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2E0D2242A00C3520"
@@ -378,9 +426,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "678589B7A090B15D"
 			rewards: [{
-				id: "0E2534F4904C60F9"
-				type: "xp"
-				xp: 1000
+				id: "59827A6D5E083EBD"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "76A7E11914A85F87"
@@ -394,9 +445,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4EA4870275601C10"
 			rewards: [{
-				id: "73472739AD87CBD6"
-				type: "xp"
-				xp: 1000
+				id: "77B3EC0CFBEAB995"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "52E1D11BC898515A"
@@ -410,9 +464,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "381722626945899C"
 			rewards: [{
-				id: "18EECE058EF4992F"
-				type: "xp"
-				xp: 1000
+				id: "30E7CCCE866DF9CB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0D93AD2C16AEEA78"
@@ -426,9 +483,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "0CD852E6B30CC7EF"
 			rewards: [{
-				id: "62A0B3655BC91029"
-				type: "xp"
-				xp: 1000
+				id: "39F5B22FAD7115F4"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "35502D056339CA35"
@@ -442,9 +502,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "09AB134D736FD030"
 			rewards: [{
-				id: "0432450B26B8DC1D"
-				type: "xp"
-				xp: 1000
+				id: "695D574391CFBEF9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "00ED99B6105C9DE1"
@@ -458,9 +521,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "638B34FA78135933"
 			rewards: [{
-				id: "4E9DE2A3ED917A3A"
-				type: "xp"
-				xp: 1000
+				id: "6C974339661A648C"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "1071DF3394A78421"
@@ -474,9 +540,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "1A3ED13A32E97CC3"
 			rewards: [{
-				id: "060DDF89C6154BC9"
-				type: "xp"
-				xp: 1000
+				id: "3E7EF01497DE637B"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "14D2A4B5F97A0AB4"
@@ -490,9 +559,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "1667BAF165D33764"
 			rewards: [{
-				id: "5B823778254659CA"
-				type: "xp"
-				xp: 1000
+				id: "0F6CA3A01C033379"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "11A4BAED5925FB69"
@@ -506,9 +578,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "3E7D80FDFED27360"
 			rewards: [{
-				id: "2CE056DBD3DB4ECD"
-				type: "xp"
-				xp: 1000
+				id: "04E4AC76A59A5371"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "44DE63EDA921F58E"
@@ -522,9 +597,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "6F4C76FF8B24F98B"
 			rewards: [{
-				id: "1B76C4138F8E0FDF"
-				type: "xp"
-				xp: 1000
+				id: "79C85285249D8581"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "603F108FDE866FEA"
@@ -538,9 +616,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "098D2F129A31E399"
 			rewards: [{
-				id: "1DD4C4E26F375008"
-				type: "xp"
-				xp: 1000
+				id: "22C142E09FF1DC39"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3F50EDAC24DB2B70"
@@ -554,9 +635,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "698E3B36A45C17FF"
 			rewards: [{
-				id: "14D8B814406C71E9"
-				type: "xp"
-				xp: 1000
+				id: "14D0AA7D8384131E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "08326936A1F188F8"
@@ -570,9 +654,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "134EEE52DB9FA0D4"
 			rewards: [{
-				id: "67AF40C5BACB508D"
-				type: "xp"
-				xp: 1000
+				id: "2A600F91013F8A56"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2C7BAC1C74030E8F"
@@ -586,9 +673,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "5B2497CF2D91935A"
 			rewards: [{
-				id: "51C2EA19F8FD466C"
-				type: "xp"
-				xp: 1000
+				id: "6B74444E5DC1C4ED"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7E8CB19D851A496B"
@@ -602,9 +692,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "640CA4B8601EE8D9"
 			rewards: [{
-				id: "50D5F4FF1A5CAF29"
-				type: "xp"
-				xp: 1000
+				id: "64E4A317ACB41FAC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "249B56A6FF1A0967"
@@ -618,9 +711,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "224ECDE331CE692E"
 			rewards: [{
-				id: "31B768447F4E71D7"
-				type: "xp"
-				xp: 1000
+				id: "35B41A5CEAB585C3"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "67D5DCAF8832788D"
@@ -634,9 +730,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "5C80C41C08CF7889"
 			rewards: [{
-				id: "132C085C8914FB8C"
-				type: "xp"
-				xp: 1000
+				id: "166E00C724C7C82E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "37C96EBB0A63B027"
@@ -650,9 +749,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "3D74C3035DF4A6F8"
 			rewards: [{
-				id: "225B5FED4A824882"
-				type: "xp"
-				xp: 1000
+				id: "26FC883D805089CB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "1D66570B9D6AE233"
@@ -666,9 +768,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4DE9BB01A4704D5A"
 			rewards: [{
-				id: "7A4F7CA41077395B"
-				type: "xp"
-				xp: 1000
+				id: "6AEDC6AEDBA4DBFB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7642036430C149C2"
@@ -682,9 +787,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "0E8BBA51A55DB446"
 			rewards: [{
-				id: "2595C78740F8F350"
-				type: "xp"
-				xp: 1000
+				id: "402267C7D6242803"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7EA78D6EBC569381"
@@ -698,9 +806,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "6426FAE9480469A7"
 			rewards: [{
-				id: "0B88C987D9F1BB96"
-				type: "xp"
-				xp: 1000
+				id: "4183BEE82F1BC413"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "257798592FB45D8B"
@@ -714,9 +825,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "737EC218A5DCA330"
 			rewards: [{
-				id: "4D5AF9CBB07FCC9B"
-				type: "xp"
-				xp: 1000
+				id: "5CB8F7B52104291F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "497A0ACF15A2BFEF"
@@ -730,9 +844,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "37D16A3B73A0CC16"
 			rewards: [{
-				id: "747EBCDED60BF3C5"
-				type: "xp"
-				xp: 1000
+				id: "7F2E4AFCB99D3DAF"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "399ED22EA2EB865C"
@@ -746,9 +863,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "2F803D7CAF9FE9B8"
 			rewards: [{
-				id: "41A6FDFC44B57473"
-				type: "xp"
-				xp: 1000
+				id: "3F1FAD779A4149EC"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "26394976AC4BDB10"
@@ -762,9 +882,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "7BE75F97E14257B9"
 			rewards: [{
-				id: "1709A60468B3A189"
-				type: "xp"
-				xp: 1000
+				id: "6FEF8F2EC084401F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "769F625AA26F544A"
@@ -778,9 +901,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "57FB0A154D4E8080"
 			rewards: [{
-				id: "4F87FD7312742BC9"
-				type: "xp"
-				xp: 1000
+				id: "3BE2B355A62056DB"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "08A66E4E75E6BE7F"
@@ -794,9 +920,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "605CDF6B8933605A"
 			rewards: [{
-				id: "4B0AB01468EB41E4"
-				type: "xp"
-				xp: 1000
+				id: "5083F9332EDC75B5"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6232B470D0502599"
@@ -810,9 +939,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "627290690A270635"
 			rewards: [{
-				id: "7B19088925813918"
-				type: "xp"
-				xp: 1000
+				id: "130E10430CFD5C4A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "391D4E477819E7A4"
@@ -826,9 +958,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4D7E62CDA28D54AB"
 			rewards: [{
-				id: "01926B99F7BB4A58"
-				type: "xp"
-				xp: 1000
+				id: "2F218659E2396344"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "4BEA88E9B21352EB"
@@ -842,9 +977,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "022A93BC29B1DF10"
 			rewards: [{
-				id: "354EB1C6CE03109B"
-				type: "xp"
-				xp: 1000
+				id: "5AF0026E973A730F"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0B633D084DB59A54"
@@ -858,9 +996,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4AF6B1BA1CD91FC5"
 			rewards: [{
-				id: "2A340FEEA67FFAC5"
-				type: "xp"
-				xp: 1000
+				id: "5DEEB7FE910E60CE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "626C7D4BCE8F8233"
@@ -874,9 +1015,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "6585DD1FADB6BF4C"
 			rewards: [{
-				id: "6011BEE7AEAEB489"
-				type: "xp"
-				xp: 1000
+				id: "4C7DF98DD0A69A88"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "5F0EF1F7393E8C68"
@@ -890,9 +1034,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "108836B45806CEDC"
 			rewards: [{
-				id: "54871F7DE569324E"
-				type: "xp"
-				xp: 1000
+				id: "3098604BA2C557EA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "49564BFE5666F7F5"
@@ -906,9 +1053,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "3C5EB40F1B7CBA7C"
 			rewards: [{
-				id: "2B7E8A00DFAC6D3B"
-				type: "xp"
-				xp: 1000
+				id: "49763F1FA9168323"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0859A97708084F0D"
@@ -922,9 +1072,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "13B49786B5B44131"
 			rewards: [{
-				id: "675265DE07474CB6"
-				type: "xp"
-				xp: 1000
+				id: "7710A23A90F9653E"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "2A03369C9051B17E"
@@ -938,9 +1091,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "479689FBA47D4267"
 			rewards: [{
-				id: "1803DE701EE90E5F"
-				type: "xp"
-				xp: 1000
+				id: "37D70F698C75C4F8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "31927239659D6C0C"
@@ -954,9 +1110,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "29EE4C1153A1F2DA"
 			rewards: [{
-				id: "59E7D28F4F58DBC2"
-				type: "xp"
-				xp: 1000
+				id: "08FCF73BF40747A0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6BF41ED611B94C7A"
@@ -970,9 +1129,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "1A0294F1C9C3877D"
 			rewards: [{
-				id: "422786051956461E"
-				type: "xp"
-				xp: 1000
+				id: "71AA231711696F09"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "76347B757CB0BDBA"
@@ -986,9 +1148,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "7975F97CABF635A1"
 			rewards: [{
-				id: "56272C0073E63B68"
-				type: "xp"
-				xp: 1000
+				id: "77706291C8E698EE"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "35FF4B7936D61998"
@@ -1002,9 +1167,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "3BB7AECAAE68AED1"
 			rewards: [{
-				id: "29FD262B8F908343"
-				type: "xp"
-				xp: 1000
+				id: "116E4DDDDE9E13C6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6EE718467ECB21C2"
@@ -1018,9 +1186,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "24B941BBF8710654"
 			rewards: [{
-				id: "38508D292C5EBB64"
-				type: "xp"
-				xp: 1000
+				id: "5BBC411BE377F47A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "76C985016F1F2473"
@@ -1034,9 +1205,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "1FD9FFA40C7AE29A"
 			rewards: [{
-				id: "777B54C1DAA2F322"
-				type: "xp"
-				xp: 1000
+				id: "1BD8DF1D202328F8"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "541DF0370CDA4D8E"
@@ -1050,9 +1224,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "7155AD5B4FD8755F"
 			rewards: [{
-				id: "11D2574D8A9995D9"
-				type: "xp"
-				xp: 1000
+				id: "6A3D3B026B3FC847"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "6628F41DB76DEEB8"
@@ -1066,9 +1243,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "68FA8635CAC38E7B"
 			rewards: [{
-				id: "58AE621A5961CCD7"
-				type: "xp"
-				xp: 1000
+				id: "6FE8ECD185B0E1A6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "1E6511B824901A5E"
@@ -1082,9 +1262,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "1F932881FE71D7B8"
 			rewards: [{
-				id: "1CD5D0B8F1DC4F75"
-				type: "xp"
-				xp: 1000
+				id: "7791671AAB222ED6"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "7CC8312EC081C833"
@@ -1098,9 +1281,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "4DF386E8ED4C6E8D"
 			rewards: [{
-				id: "485B44DFA1FCEFD2"
-				type: "xp"
-				xp: 1000
+				id: "22135C5C1719F5F0"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0F5E90916542AAF5"
@@ -1114,9 +1300,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "449F728588753B93"
 			rewards: [{
-				id: "79549AFA322D78D0"
-				type: "xp"
-				xp: 1000
+				id: "644F53D2A4675C28"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "4D59975A01C71D70"
@@ -1130,9 +1319,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "5EC7BD3C1B6180D7"
 			rewards: [{
-				id: "7499DCC8314BCA38"
-				type: "xp"
-				xp: 1000
+				id: "228AAB20A778F986"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "3AB0723A0BDF6216"
@@ -1146,9 +1338,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "67DEBDE4466BC57E"
 			rewards: [{
-				id: "42935557250C6D52"
-				type: "xp"
-				xp: 1000
+				id: "40698BDE820691B9"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "26AD11C96F524189"
@@ -1162,9 +1357,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "478729BCA878F134"
 			rewards: [{
-				id: "09A443BEA4FF3F97"
-				type: "xp"
-				xp: 1000
+				id: "6BF8DE4178856C3A"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "4628D8BD9895D97D"
@@ -1178,9 +1376,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "0C45289C21D93E27"
 			rewards: [{
-				id: "00C8A86B1894483C"
-				type: "xp"
-				xp: 1000
+				id: "45AA3E1CB66523CA"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "73E6215629041126"
@@ -1194,9 +1395,12 @@
 			dependencies: ["183130EC91D24C79"]
 			id: "440CEA2759A64D36"
 			rewards: [{
-				id: "5D8C11C8ACE109EB"
-				type: "xp"
-				xp: 1000
+				id: "2536DDFDAF3F5FD7"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "43B5826DE249DACC"
@@ -1267,9 +1471,12 @@
 			]
 			id: "7399F4FA49AB097E"
 			rewards: [{
-				id: "60CE7C7FAFAFD2DB"
-				type: "xp"
-				xp: 5000
+				id: "798B0874B8D6F498"
+				item: {
+					count: 1
+					id: "createdeco:gold_coin"
+				}
+				type: "item"
 			}]
 			shape: "gear"
 			size: 2.0d

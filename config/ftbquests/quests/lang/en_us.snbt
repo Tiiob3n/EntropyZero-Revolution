@@ -439,6 +439,7 @@
 	quest.3379C838A77CD3AA.title: "Kill Cow"
 	quest.340B16D6705742CA.quest_desc: ["Check this once your ME system is managing your massive item logistics."]
 	quest.340B16D6705742CA.title: "Optimize Advanced AE2"
+	quest.380A31514F1D626C.title: "Raw Iridium"
 	quest.38791B4F2D25B7C8.title: "Yellow Fertilizer"
 	quest.3B21BF1F2B308C1C.title: "Energy Cube"
 	quest.3BEB403280D865BB.quest_desc: ["Check this once your rotational power factory is fully operational."]
@@ -524,6 +525,7 @@
 		"C'est l'une des étapes les plus importantes de la progression."
 	]
 	quest.4B39C51359404FB8.title: "Décomposeur de minerais"
+	quest.4CA67EBF952E840D.title: "Raw Tungsten"
 	quest.4CCA34202DDD18B6.title: "Green Fertilizer"
 	quest.4F73698DCD641803.quest_desc: [
 		"Smelt Manganese dust to get Manganese ingots."
@@ -541,6 +543,7 @@
 		"Always shield radioactive machines properly!"
 	]
 	quest.5004E34D18C39F48.title: "Radiation Shielding"
+	quest.50A6FF37A485FABB.title: "Raw Manganese"
 	quest.51FD640E27CF45E2.quest_desc: [
 		"The Fractionating Column separates liquid mixtures into their components."
 		"It is used to distill crude oil into usable fuel, and to separate chemical compounds."
@@ -560,6 +563,7 @@
 	quest.55C0F3D89AC130B5.title: "Mining: Wolframite"
 	quest.58418D97FF2842E9.title: "Kill Creeper"
 	quest.587C2E433584BC4B.title: "Kill Pig"
+	quest.5952BA32735EC2CA.title: "Raw Cobalt"
 	quest.59B7EC7E9AF53596.title: "Kill Enderman"
 	quest.5AD8F358758F9271.quest_desc: [
 		"The Magnesium-Aluminum alloy is the main structural material of Chemical Science."
@@ -611,12 +615,14 @@
 	quest.6229D8F3D0048705.title: "Organic Night Vision Goggles"
 	quest.625818E4F85C71D0.quest_desc: ["Check this once you have advanced through the industrial tech tree."]
 	quest.625818E4F85C71D0.title: "Exhaust Industrial Foregoing"
+	quest.62E15ACE2DEC6E48.title: "Raw Magnesium"
 	quest.62FEEA4A8B242875.quest_desc: [
 		"Le panneau solaire organique utilise des matériaux chimiques pour produire de l'énergie solaire bien plus efficacement."
 		"Il est fabriqué à partir de composants chimiques avancés."
 		"C'est l'une des meilleures sources d'énergie passive du mod."
 	]
 	quest.62FEEA4A8B242875.title: "Panneau solaire organique"
+	quest.64334D8AE66858B7.title: "Raw Titanium"
 	quest.654F57CBCAFD0EFA.title: "Kill Zombie"
 	quest.65D28D3E9BD965B6.quest_desc: ["Check this once your 5x ore processing or fusion reactor is running."]
 	quest.65D28D3E9BD965B6.title: "Automate Mekanism"
@@ -709,6 +715,7 @@
 		"Handle with care — it ignites everything in its path!"
 	]
 	quest.7DD737A3D410068E.title: "Flamethrower"
+	reward.0B88B7642925F432.title: "Raw titanium"
 	reward.21C8B5848C1F4889.title: "Cosmic Meatballs"
 	reward.285922850A5C2850.title: "Red fertilizer"
 	reward.2AABCD6806D65C33.title: "Cobblestone"
@@ -723,6 +730,7 @@
 	reward.553338A18D0D4C6E.title: "Creative Blaze Cake"
 	reward.5E73567774CAE7E7.title: "Vending Upgrade"
 	reward.64248425F766A80C.title: "Infinity Singularity"
+	reward.7214CC20C6228375.title: "Raw Cobalt"
 	reward_table.13D5368D26F073C6.title: "ok"
 	reward_table.1E93D7BE23481E28.title: "Reward_randoms"
 	reward_table.6810B60883EFCC86.title: "Artefacts"

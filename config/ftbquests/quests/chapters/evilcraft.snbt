@@ -46,11 +46,17 @@
 				"6F05E943B2D2066E"
 			]
 			id: "139A29DE177A8529"
-			rewards: [{
-				id: "2BA73528240343AC"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "2BA73528240343AC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "068A94006B1574A8"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "72F9C0E8809807B5"
@@ -66,11 +72,17 @@
 				"1F690CC7FA346848"
 			]
 			id: "070DEC990CEFC50B"
-			rewards: [{
-				id: "51CD2FA346D67AA6"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "51CD2FA346D67AA6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "10E65546B2360EFF"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "442E3BA75E695449"
@@ -83,11 +95,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "590C40D2F6291F67"
-			rewards: [{
-				id: "665839251A3925C3"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "665839251A3925C3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1D2A04021898AAB4"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "1371C6FEE29FA7E1"
@@ -100,11 +118,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "48480B5BC18D1951"
-			rewards: [{
-				id: "535DADD9CBED878F"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "535DADD9CBED878F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "63FD94D76C47E975"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0286ADD96E894B19"
@@ -117,11 +141,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "246F990080EFF246"
-			rewards: [{
-				id: "69C7FA7BE0005D26"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "69C7FA7BE0005D26"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "2ECBBA24C9FB1221"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0EFA8DC88F253C8E"
@@ -133,11 +163,17 @@
 		}
 		{
 			id: "0E8EEFFEEF419D58"
-			rewards: [{
-				id: "6D7998DBEC6A4CE9"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "6D7998DBEC6A4CE9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "450299A0445FCC25"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "74A7D51EE18EFB0A"
@@ -149,11 +185,17 @@
 		}
 		{
 			id: "6F05E943B2D2066E"
-			rewards: [{
-				id: "358817DAE8375A79"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "358817DAE8375A79"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "40C34EAFF563B135"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "4EFDE89119B8C8E0"
@@ -166,11 +208,17 @@
 		{
 			dependencies: ["1F690CC7FA346848"]
 			id: "1383AFC3E3599AB9"
-			rewards: [{
-				id: "29BBB29050AE6B2D"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "29BBB29050AE6B2D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "12368783FE62A04F"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3745F548AE94E9D6"
@@ -183,11 +231,17 @@
 		{
 			dependencies: ["1F690CC7FA346848"]
 			id: "3F9BBA9A14770808"
-			rewards: [{
-				id: "5C7A8DCBBA3DA824"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "5C7A8DCBBA3DA824"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "229BD4DED3ABB8DD"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5BC04F0E265D4DDA"
@@ -200,11 +254,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "1611F44E8166DF21"
-			rewards: [{
-				id: "3C642ECE8EB76328"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "3C642ECE8EB76328"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "32803FC7DD07EC00"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0574BBFC28C4D6A9"
@@ -217,11 +277,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "74C21C0F8A991820"
-			rewards: [{
-				id: "53ADB54AFBDA243B"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "53ADB54AFBDA243B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "702F83A5A23DDC33"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "1A44C28B6CF6ACC1"
@@ -234,11 +300,17 @@
 		{
 			dependencies: ["1F690CC7FA346848"]
 			id: "1C4DDA7025F1AAB1"
-			rewards: [{
-				id: "738A768C8CB55E67"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "738A768C8CB55E67"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "08FB969CC188A043"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "4FDE38B1CE3B0478"
@@ -254,11 +326,17 @@
 				"070DEC990CEFC50B"
 			]
 			id: "54B7B6486EFEAD4D"
-			rewards: [{
-				id: "308EFF8718F33018"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "308EFF8718F33018"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "28DE98CA46A1C7AC"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "2E75DA200463FF17"
@@ -271,11 +349,17 @@
 		{
 			dependencies: ["1611F44E8166DF21"]
 			id: "2B75692004EAD304"
-			rewards: [{
-				id: "79CD73F6B342B3E9"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "79CD73F6B342B3E9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "460A5BE219F64607"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5DDB4C66065A6D22"
@@ -288,11 +372,17 @@
 		{
 			dependencies: ["139A29DE177A8529"]
 			id: "12669F04383153C5"
-			rewards: [{
-				id: "1EF566BF9C7FAF38"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "1EF566BF9C7FAF38"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "707604A27A977461"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3D0373699C3A79BA"
@@ -304,11 +394,17 @@
 		}
 		{
 			id: "410108861AADFE61"
-			rewards: [{
-				id: "32BD83A0D46E4A07"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "32BD83A0D46E4A07"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "02C9A2559C8CADCF"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "2B259016CC3DEE99"
@@ -320,11 +416,17 @@
 		}
 		{
 			id: "1F690CC7FA346848"
-			rewards: [{
-				id: "3F6AACE56CC8B560"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "3F6AACE56CC8B560"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "35D1760B8F30E23D"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "109CFFC45E214D98"
@@ -337,11 +439,17 @@
 		{
 			dependencies: ["6F05E943B2D2066E"]
 			id: "1AA1D96D011DAFC1"
-			rewards: [{
-				id: "58726C9EEB7E2488"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "58726C9EEB7E2488"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "402DADF295BBE9E4"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "04B1DF520AC5B5A0"
