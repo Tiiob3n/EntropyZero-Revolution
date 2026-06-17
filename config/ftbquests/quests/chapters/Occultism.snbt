@@ -225,6 +225,7 @@
 						id: "occultism:spirit_fire"
 					}
 					id: "0020C1E77C424CB0"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "occultism:spirit_fire"

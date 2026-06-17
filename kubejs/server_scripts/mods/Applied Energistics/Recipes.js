@@ -101,16 +101,17 @@ ServerEvents.recipes(entropy => {
         { fluid:'minecraft:lava', count: 100}
     );
 
+    // Retirées et remplacées par Create Deploying
+    // universalPress('ae2:silicon', 'ae2:printed_silicon', 'printed_silicon')
+    // universalPress('ae2:certus_quartz_crystal', 'ae2:printed_calculation_processor', 'printed_calculation_processor')
+    // universalPress('minecraft:diamond', 'ae2:printed_engineering_processor', 'printed_engineering_processor')
+    // universalPress('minecraft:gold_ingot', 'ae2:printed_logic_processor', 'printed_logic_processor')
+    // universalPress('extendedae:entro_crystal', 'extendedae:concurrent_processor_print', 'concurrent_processor_print')
+    // universalPress('advanced_ae:quantum_alloy', 'advanced_ae:printed_quantum_processor', 'printed_quantum_processor')
 
-    universalPress('ae2:silicon', 'ae2:printed_silicon', 'printed_silicon')
-    universalPress('ae2:certus_quartz_crystal', 'ae2:printed_calculation_processor', 'printed_calculation_processor')
-    universalPress('minecraft:diamond', 'ae2:printed_engineering_processor', 'printed_engineering_processor')
-    universalPress('minecraft:gold_ingot', 'ae2:printed_logic_processor', 'printed_logic_processor')
     universalPress('megacells:sky_steel_ingot', 'megacells:printed_accumulation_processor', 'printed_accumulation_processor')
     universalPress('appflux:charged_redstone', 'appflux:printed_energy_processor', 'printed_energy_processor')
-    universalPress('extendedae:entro_crystal', 'extendedae:concurrent_processor_print', 'concurrent_processor_print')
     universalPress('minecraft:iron_block', 'kubejs:universal_press', 'universal_press_duplicate')
-    universalPress('advanced_ae:quantum_alloy', 'advanced_ae:printed_quantum_processor', 'printed_quantum_processor')
 
     const colors = [
         'white', 'yellow', 'orange', 'red', 'pink', 'magenta', 'purple', 'light_blue', 'cyan', 'blue', 'lime', 'green', 'brown', 'light_gray', 'gray', 'black'
@@ -126,7 +127,6 @@ ServerEvents.recipes(entropy => {
     entropy.shapeless(`4x ae2:fluix_covered_cable`, [`ae2:fluix_covered_dense_cable`]).id(`entropy:ae2/dense_to_normal`)
     entropy.shapeless(`4x ae2:fluix_smart_cable`, [`ae2:fluix_smart_dense_cable`]).id(`entropy:ae2/smart_dense_to_smart_normal`)
 
-    // duplicating universal press with the circuit slicer for when you used up all your presses
     createCrystalAssemblerRecipe(
         { item: 'extendedae:circuit_cutter'},
         [
@@ -138,7 +138,6 @@ ServerEvents.recipes(entropy => {
         'circuit_cutter_from_universal'
     );
 
-    // making more circuit slicers with the universal press as both have the same capabilities
     entropy.custom({
         "type": "extendedae:circuit_cutter",
         "input": {
