@@ -9,8 +9,8 @@
 **EntropyZero : Revolution** is a Minecraft modpack designed for players who love total freedom but still crave a massive late-game challenge. It features cutting-edge technology, ancient sorcery, heavily automated resource crops, and overhauled recipes that tie everything together.
 
 * **Type:** Kitchen-Sink / Expert End-Game
-* **Minecraft Version:** 1.20.1 *(Ajuste la version si besoin)*
-* **Launcher Target:** CurseForge / Modrinth
+* **Minecraft Version:** 1.21.1 
+* **Launcher Target:** CurseForge 
 
 ---
 
